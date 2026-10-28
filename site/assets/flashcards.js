@@ -4,6 +4,7 @@
   var BOXES = [0, 1, 3, 7, 16, 35]; // days until the next review, per box
   var DAY = 86400000;
   var state = { level: 'N5', kind: 'vocab', deck: [], queue: [], progress: {}, current: null, flipped: false, done: 0 };
+  var requestId = 0;
 
   function storageKey() { return 'openjlpt:fc:' + state.kind + ':' + state.level; }
   function loadProgress() {
@@ -11,6 +12,25 @@
   }
   function saveProgress() {
     try { localStorage.setItem(storageKey(), JSON.stringify(state.progress)); } catch (e) { /* private mode */ }
+  }
+  function saveSession() {
+    var ids = (state.current ? [state.current] : []).concat(state.queue).map(function (row) { return row[0]; });
+    try {
+      localStorage.setItem(storageKey() + ':session', JSON.stringify({ day: new Date().toDateString(), ids: ids, done: state.done, flipped: state.flipped }));
+    } catch (e) { /* private mode */ }
+  }
+  function restoreSession(rows) {
+    try {
+      var saved = JSON.parse(localStorage.getItem(storageKey() + ':session') || 'null');
+      if (!saved || saved.day !== new Date().toDateString() || !Array.isArray(saved.ids) || !Number.isInteger(saved.done) || saved.done < 0) return null;
+      var byId = new Map(rows.map(function (row) { return [row[0], row]; }));
+      var now = Date.now();
+      state.queue = saved.ids.filter(function (id) {
+        return byId.has(id) && (!state.progress[id] || state.progress[id].due <= now);
+      }).map(function (id) { return byId.get(id); });
+      state.done = saved.done;
+      return saved;
+    } catch (e) { return null; }
   }
   function esc(s) {
     return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; });
@@ -22,12 +42,26 @@
   function $(id) { return document.getElementById(id); }
 
   function start() {
+    var request = ++requestId;
+    try { localStorage.setItem('openjlpt:fc:selection', JSON.stringify({ level: state.level, kind: state.kind })); } catch (e) { /* private mode */ }
+    state.current = null;
+    state.flipped = false;
+    $('fc-card').classList.remove('flipped');
+    $('fc-front').textContent = '';
+    $('fc-back').textContent = '';
     $('fc-status').textContent = 'Loading…';
     fetch(OpenJLPT.root() + 'data/' + state.kind + '-' + state.level.toLowerCase() + '.json')
-      .then(function (r) { return r.json(); })
+      .then(function (r) { if (!r.ok) throw new Error('Could not load deck'); return r.json(); })
       .then(function (rows) {
+        if (request !== requestId) return;
         state.deck = rows;
         state.progress = loadProgress();
+        var saved = restoreSession(rows);
+        if (saved) {
+          next();
+          if (saved.flipped) flip();
+          return;
+        }
         var now = Date.now();
         var due = [], fresh = [];
         rows.forEach(function (row) {
@@ -39,6 +73,8 @@
         state.queue = due.concat(fresh.slice(0, Math.max(0, 20 - due.length)));
         state.done = 0;
         next();
+      }).catch(function () {
+        if (request === requestId) $('fc-status').textContent = 'Unable to load this deck. Select it again to retry.';
       });
   }
 
@@ -51,6 +87,9 @@
     for (var k in state.progress) if (state.progress[k].box >= 2) n++;
     return n;
   }
+  function studied() {
+    return state.deck.filter(function (row) { return !!state.progress[row[0]]; }).length;
+  }
 
   function next() {
     state.flipped = false;
@@ -58,8 +97,9 @@
     var total = state.done + state.queue.length;
     $('fc-bar').style.width = (total ? (state.done / total) * 100 : 100) + '%';
     $('fc-status').textContent = state.level + ' ' + ({ vocab: 'words', kanji: 'kanji', grammar: 'grammar' })[state.kind] + ' · ' +
-      state.queue.length + ' to review · ' + learned() + ' / ' + state.deck.length + ' learned';
+      state.queue.length + ' to review · ' + studied() + ' studied · ' + learned() + ' / ' + state.deck.length + ' learned';
     state.current = state.queue.shift() || null;
+    saveSession();
     var row = state.current;
     if (!row) {
       $('fc-front').innerHTML = '🎉';
@@ -94,6 +134,7 @@
     if (!state.current) return;
     state.flipped = !state.flipped;
     $('fc-card').classList.toggle('flipped', state.flipped);
+    saveSession();
   }
 
   function grade(knew) {
@@ -122,11 +163,18 @@
   }
 
   document.addEventListener('DOMContentLoaded', function () {
+    try {
+      var selection = JSON.parse(localStorage.getItem('openjlpt:fc:selection') || '{}');
+      if (/^N[1-5]$/.test(selection.level)) state.level = selection.level;
+      if (['vocab', 'kanji', 'grammar'].includes(selection.kind)) state.kind = selection.kind;
+    } catch (e) { /* use default deck */ }
     var hash = location.hash.slice(1).toUpperCase();
     if (/^N[1-5]$/.test(hash)) {
       state.level = hash;
-      $('fc-level').querySelectorAll('button').forEach(function (b) { b.setAttribute('aria-pressed', String(b.getAttribute('data-v') === hash)); });
     }
+    ['level', 'kind'].forEach(function (key) {
+      $('fc-' + key).querySelectorAll('button').forEach(function (b) { b.setAttribute('aria-pressed', String(b.getAttribute('data-v') === state[key])); });
+    });
     segment('fc-level', 'level');
     segment('fc-kind', 'kind');
     $('fc-card').addEventListener('click', flip);
@@ -134,7 +182,11 @@
     $('fc-again').addEventListener('click', function () { grade(false); });
     $('fc-good').addEventListener('click', function () { grade(true); });
     $('fc-reset').addEventListener('click', function () {
-      if (confirm('Reset progress for this deck?')) { state.progress = {}; saveProgress(); start(); }
+      if (confirm('Reset progress for this deck?')) {
+        state.progress = {}; saveProgress();
+        try { localStorage.removeItem(storageKey() + ':session'); } catch (e) { /* private mode */ }
+        start();
+      }
     });
     document.addEventListener('keydown', function (e) {
       if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;

@@ -597,6 +597,7 @@ function toolPages(): void {
 </div>
 <div class="fc-progress"><div id="fc-bar"></div></div>
 <p class="muted" id="fc-status">Loading…</p>
+<p class="muted">Studied counts cards you have rated; learned counts cards answered correctly at least twice since the last Again. Your current session resumes when you return to this deck today.</p>
 <div class="card fc-card" id="fc-card" tabindex="0" aria-live="polite"><div class="fc-front" lang="ja" id="fc-front"></div><div class="fc-back" id="fc-back"></div></div>
 <div class="btn-row" style="justify-content:center">
 <button class="btn" type="button" id="fc-again">✗ Again <span class="kbd">1</span></button>
