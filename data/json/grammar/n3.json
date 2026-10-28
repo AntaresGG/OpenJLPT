@@ -27,7 +27,41 @@
       "reason",
       "result"
     ],
-    "notes": "States a conclusion that follows naturally from known facts, often with a feeling of 'now I understand'. Often preceded by だから, それで or どうりで."
+    "notes": "States a conclusion that follows naturally from known facts, often with a feeling of 'now I understand'. Often preceded by だから, それで or どうりで.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "2b13b098f101dc091cf70c887b46c71f82d42a98eedab23797fa559e3f5a702d",
+      "meanings": [
+        "难怪",
+        "原来如此",
+        "也就是说"
+      ],
+      "formation": "动词普通形／い形容词普通形／な形容词词干＋な／名词＋という＋わけだ",
+      "explanation": "根据已知事实得出自然的结论，也可表示弄明白了原因。",
+      "notes": "常与だから、どうりで等呼应。",
+      "examples": [
+        {
+          "ja": "三年も中国に住んでいたんですか。だから中国語が上手なわけですね。",
+          "zh": "你在中国住过三年啊，难怪中文这么好。"
+        },
+        {
+          "ja": "窓が全部開いている。どうりで寒いわけだ。",
+          "zh": "窗户全开着，难怪这么冷。"
+        },
+        {
+          "ja": "この本は三百ページだから、一日に二十ページ読めば、十五日で読み終わるわけだ。",
+          "zh": "这本书有三百页，每天读二十页的话，也就是说十五天能读完。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#wake-da",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "8db2e8e42402c3b86983dbf66ffab1ca438600fb373055f5939a4466e01151fb"
+    }
   },
   {
     "id": "wake-de-wa-nai",
@@ -57,7 +91,40 @@
       "negation",
       "concession"
     ],
-    "notes": "A partial or soft denial of what the listener might assume. Often with いつも, 全部 or 必ずしも. Not the same as 〜わけがない, which flatly rules something out."
+    "notes": "A partial or soft denial of what the listener might assume. Often with いつも, 全部 or 必ずしも. Not the same as 〜わけがない, which flatly rules something out.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "92268ca4974f44fd077c1d0ec296b4989439d4c4aa3ed16746245c88dd3e9747",
+      "meanings": [
+        "并不是说",
+        "未必"
+      ],
+      "formation": "动词普通形／い形容词普通形／な形容词词干＋な／名词＋という＋わけではない",
+      "explanation": "否定对方可能产生的理解，常表示部分否定或委婉否定。",
+      "notes": "与表示强烈不可能的わけがない不同。",
+      "examples": [
+        {
+          "ja": "料理が嫌いなわけではないが、毎日作る時間がない。",
+          "zh": "并不是讨厌做饭，而是没有时间每天做。"
+        },
+        {
+          "ja": "値段が高ければおいしいというわけではない。",
+          "zh": "贵的东西未必好吃。"
+        },
+        {
+          "ja": "全然分からないわけではありませんが、もう少しゆっくり話していただけますか。",
+          "zh": "不是完全听不懂，能请您再说慢一点吗？"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#wake-de-wa-nai",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "cda96557ca718e5abb09cf4ccfb6d94b58f049d7e98a0e0e7b94b9ee2a7c7d51"
+    }
   },
   {
     "id": "wake-ga-nai",
@@ -88,7 +155,40 @@
       "conjecture",
       "emphasis"
     ],
-    "notes": "The speaker's strong conviction that something is impossible. Casual: 〜わけない. Close to 〜はずがない, but sounds more emotional and less based on reasoning."
+    "notes": "The speaker's strong conviction that something is impossible. Casual: 〜わけない. Close to 〜はずがない, but sounds more emotional and less based on reasoning.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "1c80c347056f4ae95cbe6f9d4f8553bb866364750d60f1c2a255f53bf9eefd4d",
+      "meanings": [
+        "不可能",
+        "绝不会"
+      ],
+      "formation": "动词普通形／い形容词普通形／な形容词词干＋な／名词＋の＋わけがない",
+      "explanation": "表示说话人坚信某事不可能发生或不成立。",
+      "notes": "口语也说わけない；语气往往较强。",
+      "examples": [
+        {
+          "ja": "こんなに練習したんだから、負けるわけがない。",
+          "zh": "练习了这么多，不可能输。"
+        },
+        {
+          "ja": "あんなにまじめな人が、約束を忘れるわけがありません。",
+          "zh": "那么认真的人不可能忘记约定。"
+        },
+        {
+          "ja": "一日で漢字を百個覚えるなんて、できるわけがないよ。",
+          "zh": "一天记住一百个汉字？那不可能做到啊。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#wake-ga-nai",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "fe63dfca90075053f8b296496d0ee5115b062cffa3b9a89120debb62e54e028e"
+    }
   },
   {
     "id": "wake-ni-wa-ikanai",
@@ -118,7 +218,40 @@
       "prohibition",
       "obligation"
     ],
-    "notes": "The action is physically possible but ruled out by duty, circumstances or common sense. 〜ないわけにはいかない means 'have to; can't avoid doing'."
+    "notes": "The action is physically possible but ruled out by duty, circumstances or common sense. 〜ないわけにはいかない means 'have to; can't avoid doing'.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "9c1d265d29c9458810ca0bf59581df890ba2929ec7128b8c98964cff9bbd3437",
+      "meanings": [
+        "不能",
+        "不能不"
+      ],
+      "formation": "动词辞书形／ない形＋わけにはいかない",
+      "explanation": "受责任、情理或处境限制，不能做某事；接ない形时表示不得不做。",
+      "notes": "并非表示身体上无法做到。",
+      "examples": [
+        {
+          "ja": "明日は大事な会議があるから、休むわけにはいかない。",
+          "zh": "明天有重要会议，所以不能休息。"
+        },
+        {
+          "ja": "友達に頼まれたことだから、断るわけにはいかなかった。",
+          "zh": "这是朋友拜托的事，所以我不好拒绝。"
+        },
+        {
+          "ja": "招待されたのだから、パーティーに行かないわけにはいかない。",
+          "zh": "既然受了邀请，就不能不去聚会。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#wake-ni-wa-ikanai",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "1694f8cab1f6c2f7c532930609b9f46016e2534f26ae8531c6e232f18e81dac2"
+    }
   },
   {
     "id": "mono-da",
@@ -149,7 +282,42 @@
       "advice",
       "tendency"
     ],
-    "notes": "Main uses: general truth or natural tendency, a social norm (should), a nostalgic past habit with 〜たものだ, and deep feeling (時間がたつのは早いものだ). Casual: 〜もんだ."
+    "notes": "Main uses: general truth or natural tendency, a social norm (should), a nostalgic past habit with 〜たものだ, and deep feeling (時間がたつのは早いものだ). Casual: 〜もんだ.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "caaf3bef434d9931bc18d67bcaa85db8a684c66f000888f6580a5118aa7b1e05",
+      "meanings": [
+        "本来就是",
+        "应该",
+        "过去常常",
+        "真是"
+      ],
+      "formation": "动词辞书形／た形／い形容词普通形／な形容词词干＋な＋ものだ",
+      "explanation": "表示一般规律、社会常识，也可用たものだ回忆过去习惯，或表达感慨。",
+      "notes": "口语可说もんだ；含义需结合上下文。",
+      "examples": [
+        {
+          "ja": "子どものころは、この川でよく泳いだものだ。",
+          "zh": "小时候，我经常在这条河里游泳。"
+        },
+        {
+          "ja": "新しい環境に慣れるには、時間がかかるものだ。",
+          "zh": "适应新环境自然需要时间。"
+        },
+        {
+          "ja": "目上の人には敬語を使うものだ。",
+          "zh": "对长辈或上级应该使用敬语。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#mono-da",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "6f211253261319deb0e6c644bb2da961308446ff6e37a0641ff2e873ccba3530"
+    }
   },
   {
     "id": "mono-de-wa-nai",
@@ -179,7 +347,40 @@
       "advice",
       "prohibition"
     ],
-    "notes": "Advice based on common sense or social norms, often from an older person. Casual: 〜もんじゃない. Sounds more like general wisdom than 〜べきではない."
+    "notes": "Advice based on common sense or social norms, often from an older person. Casual: 〜もんじゃない. Sounds more like general wisdom than 〜べきではない.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "304fcce31e42ae32e5149bdafdceb8ca9bf3531fd38f3dfd1b19658fd07531e9",
+      "meanings": [
+        "不应该",
+        "不该"
+      ],
+      "formation": "动词辞书形＋ものではない",
+      "explanation": "依据常识或社会规范劝告别人不应做某事。",
+      "notes": "口语可说ものじゃない或もんじゃない。",
+      "examples": [
+        {
+          "ja": "人の失敗を笑うものではない。",
+          "zh": "不应该嘲笑别人的失败。"
+        },
+        {
+          "ja": "出された食べ物を残すものじゃないよ。",
+          "zh": "端上来的食物不该剩下哦。"
+        },
+        {
+          "ja": "夜遅くに人の家に電話をかけるものではありません。",
+          "zh": "不应该深夜打电话到别人家。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#mono-de-wa-nai",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "a42af1ebfb980b84c7a5d563ab6bca8d9543c2db143ba06e487b28f8b4f3fa06"
+    }
   },
   {
     "id": "mono-mon",
@@ -209,7 +410,40 @@
       "reason",
       "casual"
     ],
-    "notes": "Sounds pouty or self-justifying; often begins with だって. もん is more colloquial. Used by children and among close friends; avoid at work."
+    "notes": "Sounds pouty or self-justifying; often begins with だって. もん is more colloquial. Used by children and among close friends; avoid at work.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "f4c9bfcab0f3cc07d8a27aeed4c38f1553b47a9b433f925c59c008e311ab08f3",
+      "meanings": [
+        "因为嘛",
+        "就是因为"
+      ],
+      "formation": "句子普通形＋もの／もん",
+      "explanation": "在句末解释理由或为自己辩解，带有随意、撒娇的语气。",
+      "notes": "常与だって搭配；もん更口语，正式场合应避免。",
+      "examples": [
+        {
+          "ja": "「どうして食べないの？」「だって、ピーマン嫌いなんだもん。」",
+          "zh": "“为什么不吃？”“因为我讨厌青椒嘛。”"
+        },
+        {
+          "ja": "一人で行けるよ。もう子どもじゃないもん。",
+          "zh": "我可以一个人去，已经不是小孩子了嘛。"
+        },
+        {
+          "ja": "ケーキ、全部食べちゃった。だって、すごくおいしかったんだもん。",
+          "zh": "我把蛋糕全吃了。因为实在太好吃了嘛。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#mono-mon",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "89d7866c3867dee69dd28721764aab11d4401b82ea3a93e25a3190ce3f57760f"
+    }
   },
   {
     "id": "mono-dakara-mono-de",
@@ -238,7 +472,40 @@
     "tags": [
       "reason"
     ],
-    "notes": "Explains or excuses something that wasn't fully under the speaker's control. The main clause can't be a command or request. もので is common in polite apologies."
+    "notes": "Explains or excuses something that wasn't fully under the speaker's control. The main clause can't be a command or request. もので is common in polite apologies.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "be81d89fb8c9e9bf388bcb25545f07e86cc84e78373d34e6a8544bb1f5b817bc",
+      "meanings": [
+        "因为",
+        "由于"
+      ],
+      "formation": "动词普通形／い形容词普通形／な形容词词干＋な／名词＋な＋ものだから／もので",
+      "explanation": "解释原因，常用于说明难以控制的情况或为自己的行为辩解。",
+      "notes": "もので常用于礼貌道歉；后项通常不接命令或请求。",
+      "examples": [
+        {
+          "ja": "道がすごく混んでいたものだから、約束の時間に間に合わなかった。",
+          "zh": "因为路上特别堵，所以没能赶上约定的时间。"
+        },
+        {
+          "ja": "すみません、急いでいたもので、書類を持ってくるのを忘れてしまいました。",
+          "zh": "对不起，因为当时很着急，忘记带文件了。"
+        },
+        {
+          "ja": "初めての海外旅行だったものだから、見るものすべてが珍しかった。",
+          "zh": "因为是第一次出国旅行，看到的一切都觉得新奇。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#mono-dakara-mono-de",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "b591b299b68be5f0f17825dd774377df1587dc3a051eb4f42ca6c0206772c8f6"
+    }
   },
   {
     "id": "koto-da",
@@ -267,7 +534,40 @@
     "tags": [
       "advice"
     ],
-    "notes": "Personal advice from someone in a position to give it (teacher, parent, senior). Not used toward superiors. Compare 〜ものだ, which appeals to general norms."
+    "notes": "Personal advice from someone in a position to give it (teacher, parent, senior). Not used toward superiors. Compare 〜ものだ, which appeals to general norms.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "e1cf90d5c10676f00ad6385c3deda1b5b845587be09c93c8892359963ed1dd43",
+      "meanings": [
+        "应该",
+        "最好"
+      ],
+      "formation": "动词辞书形／ない形＋ことだ",
+      "explanation": "针对某个目标或情况给出建议。",
+      "notes": "常用于有资格给建议的人对晚辈等说，不宜用于上司。",
+      "examples": [
+        {
+          "ja": "日本語が上手になりたいなら、毎日少しずつでも話すことだ。",
+          "zh": "如果想提高日语，应该每天说一点。"
+        },
+        {
+          "ja": "風邪を早く治したければ、無理をしないでゆっくり休むことです。",
+          "zh": "如果想早点治好感冒，最好不要勉强，好好休息。"
+        },
+        {
+          "ja": "人の話は最後までよく聞くことだ。",
+          "zh": "应该认真听完别人说的话。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#koto-da",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "7499deb12a564830685eee7a807c532f419312602f8d0db8181f21a7f6290ebe"
+    }
   },
   {
     "id": "koto-wa-nai",
@@ -298,7 +598,40 @@
       "negation",
       "advice"
     ],
-    "notes": "Reassures or advises that something is unnecessary. Don't confuse with 〜たことはない ('have never done')."
+    "notes": "Reassures or advises that something is unnecessary. Don't confuse with 〜たことはない ('have never done').",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "f1e4d6def96d940c9c151d624ac44cc68450a60badadff166a2ac85ee17a0cfb",
+      "meanings": [
+        "不必",
+        "没有必要"
+      ],
+      "formation": "动词辞书形＋ことはない",
+      "explanation": "表示某事没有必要，常用于安慰或劝告。",
+      "notes": "不要与表示从未经历的たことはない混淆。",
+      "examples": [
+        {
+          "ja": "簡単な手術ですから、そんなに心配することはありませんよ。",
+          "zh": "只是个简单的手术，不必那么担心。"
+        },
+        {
+          "ja": "駅までは歩いて五分だから、タクシーを使うことはない。",
+          "zh": "走到车站只要五分钟，没有必要坐出租车。"
+        },
+        {
+          "ja": "一回失敗したくらいで、あきらめることはないよ。",
+          "zh": "不必因为失败了一次就放弃。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#koto-wa-nai",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "f4fb584e024e2eaed88cdd3404b334c68954eb4c08582bcc9dcd3fe248e38d83"
+    }
   },
   {
     "id": "koto-ni-shite-iru",

@@ -1317,5 +1317,317 @@
         }
       ]
     }
+  },
+  {
+    "id": "c461dcc42b",
+    "word": "粗",
+    "reading": "あら",
+    "reason": "Both examples used the homophonous interjection, not the noun meaning flaw. Replace with original sentences.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1586730; checked downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "あら、アンジェラと呼んでください。",
+          "furigana": "あら、アンジェラと{呼|よ}んでください。",
+          "en": "Oh, please call me Angela.",
+          "tatoeba_id": 230079
+        },
+        {
+          "ja": "あら、かっこよく決めているわね。",
+          "furigana": "あら、かっこよく{決|き}めているわね。",
+          "en": "Wow, you're dressed to kill.",
+          "tatoeba_id": 230078
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "人の粗を探すのはやめよう。",
+          "en": "Let us stop looking for faults in others."
+        },
+        {
+          "ja": "この作品には粗が目立つ。",
+          "en": "The flaws in this work stand out."
+        }
+      ]
+    }
+  },
+  {
+    "id": "e8c795d3e8",
+    "word": "あっ",
+    "reading": "あっ",
+    "reason": "Add original examples for the interjection, which had no examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 2394370; checked downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "あっ、財布を忘れた。",
+          "en": "Oh, I forgot my wallet."
+        },
+        {
+          "ja": "あっ、ここにあった。",
+          "en": "Oh, here it is."
+        }
+      ]
+    }
+  },
+  {
+    "id": "94e6dfb59c",
+    "word": "現す",
+    "reading": "あらわす",
+    "reason": "Both examples used 表す for representing symbols rather than 現す for bringing into view. Replace with original sentences.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1263490; checked downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "＆のマークはａｎｄの文字を表す。",
+          "furigana": "＆のマークはａｎｄの{文字|もじ}を{表|あらわ}す。",
+          "en": "The sign \"&\" stands for \"and\".",
+          "tatoeba_id": 237581
+        },
+        {
+          "ja": "正規表現で空白はどのように表されるのでしょうか？",
+          "furigana": "{正規表現|せいきひょうげん}で{空白|くうはく}はどのように{表|あらわ}されるのでしょうか？",
+          "en": "How is whitespace represented in regular expressions?",
+          "tatoeba_id": 75956
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "雲の間から月が姿を現した。",
+          "en": "The moon appeared from between the clouds."
+        },
+        {
+          "ja": "彼は隠していた才能を現した。",
+          "en": "He revealed the talent he had kept hidden."
+        }
+      ]
+    }
+  },
+  {
+    "id": "3f1fbec85e",
+    "word": "あんまり",
+    "reading": "あんまり",
+    "reason": "Select the colloquial adverb あんまり; the original examples used あまり, including the distinct duration sense. Original examples replace them.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1584930; checked downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "not very",
+        "not much",
+        "remainder",
+        "rest"
+      ],
+      "examples": [
+        {
+          "ja": "この手の本はあまり読まない。",
+          "furigana": "この{手|て}の{本|ほん}はあまり{読|よ}まない。",
+          "en": "I don't read this kind of book much.",
+          "tatoeba_id": 221356
+        },
+        {
+          "ja": "１か月あまり名古屋に居たことがある。",
+          "en": "I lived for more than a month in Nagoya.",
+          "tatoeba_id": 4956
+        }
+      ]
+    },
+    "set": {
+      "meanings": [
+        "not very",
+        "not much",
+        "too much",
+        "excessively"
+      ],
+      "examples": [
+        {
+          "ja": "その映画はあんまり面白くなかった。",
+          "en": "That film was not very interesting."
+        },
+        {
+          "ja": "あんまり無理をしないでね。",
+          "en": "Do not push yourself too hard."
+        }
+      ]
+    }
+  },
+  {
+    "id": "85d0866116",
+    "word": "いえ",
+    "reading": "いえ",
+    "reason": "Add original examples for the response, which had no examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1583250; checked downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "いえ、まだ食べていません。",
+          "en": "No, I have not eaten yet."
+        },
+        {
+          "ja": "いえ、どういたしまして。",
+          "en": "No, you are welcome."
+        }
+      ]
+    }
+  },
+  {
+    "id": "b974c316fc",
+    "word": "いずれ",
+    "reading": "いずれ",
+    "reason": "JMdict includes the adverbial eventuality sense illustrated by both examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1566210; checked downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "where",
+        "which",
+        "who"
+      ],
+      "pos": [
+        "pn"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "which",
+        "where",
+        "who",
+        "sooner or later",
+        "eventually"
+      ],
+      "pos": [
+        "pn",
+        "adv"
+      ]
+    }
+  },
+  {
+    "id": "97600f5aa8",
+    "word": "抱く",
+    "reading": "いだく",
+    "reason": "Add original examples of holding and harbouring feelings; the entry had no examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1584090; checked downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "母は子どもを胸に抱いた。",
+          "en": "The mother held her child to her chest."
+        },
+        {
+          "ja": "彼は将来に大きな希望を抱いている。",
+          "en": "He has great hopes for the future."
+        }
+      ]
+    }
+  },
+  {
+    "id": "56d7bebebd",
+    "word": "市場",
+    "reading": "いちば",
+    "reason": "The reading いちば denotes a physical marketplace; the abstract economic market is normally しじょう.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1308300; checked downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "(the) market (as a concept)"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "marketplace",
+        "market"
+      ]
+    }
+  },
+  {
+    "id": "c84ab5b83d",
+    "word": "命",
+    "reading": "いのち",
+    "reason": "Command and decree are senses of the different reading めい, not いのち.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1531940; checked downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "command",
+        "decree",
+        "life",
+        "destiny"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "life",
+        "lifetime",
+        "destiny"
+      ]
+    }
+  },
+  {
+    "id": "0cbc5fcb97",
+    "word": "いち",
+    "reading": "いち",
+    "reason": "Replace the obscure proverb in the second example with an original, practical sentence showing 市 as a market; preserve the first example.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1308080; checked downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "市は月曜ごとに立つ。",
+          "furigana": "{市|いち}は{月曜|げつよう}ごとに{立|た}つ。",
+          "en": "The market is held every Monday.",
+          "tatoeba_id": 168369
+        },
+        {
+          "ja": "女３人と鵞鳥一羽で市ができる。",
+          "en": "Three women and a goose make a market.",
+          "tatoeba_id": 147363
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "市は月曜ごとに立つ。",
+          "furigana": "{市|いち}は{月曜|げつよう}ごとに{立|た}つ。",
+          "en": "The market is held every Monday.",
+          "tatoeba_id": 168369
+        },
+        {
+          "ja": "毎月、この広場で市が開かれます。",
+          "en": "A market is held in this square every month."
+        }
+      ]
+    }
   }
 ]

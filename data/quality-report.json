@@ -25,10 +25,10 @@
       "N3": {
         "total": 1659,
         "draft": 0,
-        "reviewed": 0,
-        "ai_reviewed": 0,
+        "reviewed": 100,
+        "ai_reviewed": 100,
         "stale": 0,
-        "translated_examples": 0
+        "translated_examples": 200
       },
       "N2": {
         "total": 1778,
@@ -67,10 +67,10 @@
       "N3": {
         "total": 101,
         "draft": 0,
-        "reviewed": 0,
-        "ai_reviewed": 0,
+        "reviewed": 10,
+        "ai_reviewed": 10,
         "stale": 0,
-        "translated_examples": 0
+        "translated_examples": 30
       },
       "N2": {
         "total": 123,
@@ -413,6 +413,86 @@
       "reason": "Replace a dictionary-ID token in furigana with the contextually reviewed kana reading; retain original sentence attribution.",
       "references": [
         "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "c461dcc42b",
+      "reason": "Both examples used the homophonous interjection, not the noun meaning flaw. Replace with original sentences.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1586730; checked downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "e8c795d3e8",
+      "reason": "Add original examples for the interjection, which had no examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 2394370; checked downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "94e6dfb59c",
+      "reason": "Both examples used 表す for representing symbols rather than 現す for bringing into view. Replace with original sentences.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1263490; checked downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "3f1fbec85e",
+      "reason": "Select the colloquial adverb あんまり; the original examples used あまり, including the distinct duration sense. Original examples replace them.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1584930; checked downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "85d0866116",
+      "reason": "Add original examples for the response, which had no examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1583250; checked downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "b974c316fc",
+      "reason": "JMdict includes the adverbial eventuality sense illustrated by both examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1566210; checked downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "97600f5aa8",
+      "reason": "Add original examples of holding and harbouring feelings; the entry had no examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1584090; checked downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "56d7bebebd",
+      "reason": "The reading いちば denotes a physical marketplace; the abstract economic market is normally しじょう.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1308300; checked downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "c84ab5b83d",
+      "reason": "Command and decree are senses of the different reading めい, not いのち.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1531940; checked downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "0cbc5fcb97",
+      "reason": "Replace the obscure proverb in the second example with an original, practical sentence showing 市 as a market; preserve the first example.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1308080; checked downloaded JMdict_e.gz on 2026-10-28"
       ]
     }
   ],

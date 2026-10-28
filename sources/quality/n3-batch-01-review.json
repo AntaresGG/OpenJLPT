@@ -1,0 +1,662 @@
+{
+  "date": "2026-10-28",
+  "reviewer": "Codex",
+  "review_method": "ai",
+  "model": "gpt-6.1-terra",
+  "scope": {
+    "level": "N3",
+    "selection": "First unlocalized entries in dataset order",
+    "vocab_ids": [
+      "c3b1f16454",
+      "d2ac37bee3",
+      "0cb7e80d4c",
+      "7d26b9a262",
+      "9452242b03",
+      "41df1c11e3",
+      "cab1bc201f",
+      "3c8f324542",
+      "15ffb31b53",
+      "cf63ac57d2",
+      "b36b0a71b9",
+      "03e5958da6",
+      "b32e523015",
+      "8ff67241d3",
+      "2d5b06d1fa",
+      "6312892cc5",
+      "6bec104564",
+      "5b9f9fdc86",
+      "9092a33de5",
+      "7d653ddf51",
+      "264ec34f18",
+      "a0ea038f9b",
+      "0c74b17f50",
+      "66c159592d",
+      "e8c795d3e8",
+      "c0dfcb262d",
+      "b22ceca000",
+      "bd36844c24",
+      "57c650defa",
+      "4f1b6b6e36",
+      "064aac92d9",
+      "8399cefa4f",
+      "c461dcc42b",
+      "6c564bf1bd",
+      "69209e023f",
+      "50edc9f158",
+      "94e6dfb59c",
+      "474e600ef2",
+      "de64f6eb4a",
+      "0ca5c40581",
+      "b7185fc1f0",
+      "61f7afccc0",
+      "13fdb782fe",
+      "f1869f9942",
+      "458adfb568",
+      "e9d213fb20",
+      "55bea4f5f3",
+      "1e8e1ca3dc",
+      "7a5bf31b8a",
+      "8f735b886b",
+      "3f1fbec85e",
+      "0adf15ff3f",
+      "52d4f9b548",
+      "85d0866116",
+      "a812d7a958",
+      "2c62d0aba0",
+      "5fef88ef1f",
+      "6e68ac9baf",
+      "107846b167",
+      "140d8ab306",
+      "811101e739",
+      "db4d84d6b0",
+      "0a23863840",
+      "9b83e5a1d0",
+      "adfd2f59c3",
+      "8822903a55",
+      "b5fcd0d05f",
+      "b974c316fc",
+      "c42fa0cf5f",
+      "4601135013",
+      "9620d69897",
+      "97600f5aa8",
+      "5d347b309a",
+      "9a12c4f4e9",
+      "c435f396e3",
+      "0cbc5fcb97",
+      "04d6c4bd44",
+      "ec2ddaa910",
+      "cfaaf0ad82",
+      "56d7bebebd",
+      "634490494f",
+      "42473b9a9e",
+      "f0b3458a80",
+      "fc1d99931b",
+      "e21a9f62b7",
+      "78ee271a60",
+      "9a184ecb80",
+      "10f3cfd7c0",
+      "8b9b33028c",
+      "b65151eaec",
+      "25664c20f9",
+      "ff86f2105c",
+      "3fec9b37a7",
+      "3485a5b479",
+      "f034b79d36",
+      "19f535bb08",
+      "c84ab5b83d",
+      "dc23b8e07b",
+      "fcdd7c0d87",
+      "da1e1e97a8"
+    ],
+    "grammar_ids": [
+      "wake-da",
+      "wake-de-wa-nai",
+      "wake-ga-nai",
+      "wake-ni-wa-ikanai",
+      "mono-da",
+      "mono-de-wa-nai",
+      "mono-mon",
+      "mono-dakara-mono-de",
+      "koto-da",
+      "koto-wa-nai"
+    ],
+    "vocab_count": 100,
+    "grammar_count": 10,
+    "vocab_example_count": 200,
+    "grammar_example_count": 30
+  },
+  "method": "Reviewed Japanese sentences and Chinese translations item by item, and inspected local JMdict entries by ent_seq for sense coverage. Authored and reviewed by the same AI; no independent human review.",
+  "source": "Downloaded JMdict_e.gz; https://www.edrdg.org/jmdict/j_jmdict.html",
+  "decisions": [
+    {
+      "id": "c461dcc42b",
+      "word": "粗",
+      "decision": "Both examples used the homophonous interjection, not the noun meaning flaw. Replace with original sentences."
+    },
+    {
+      "id": "e8c795d3e8",
+      "word": "あっ",
+      "decision": "Add original examples for the interjection, which had no examples."
+    },
+    {
+      "id": "94e6dfb59c",
+      "word": "現す",
+      "decision": "Both examples used 表す for representing symbols rather than 現す for bringing into view. Replace with original sentences."
+    },
+    {
+      "id": "3f1fbec85e",
+      "word": "あんまり",
+      "decision": "Select the colloquial adverb あんまり; the original examples used あまり, including the distinct duration sense. Original examples replace them."
+    },
+    {
+      "id": "85d0866116",
+      "word": "いえ",
+      "decision": "Add original examples for the response, which had no examples."
+    },
+    {
+      "id": "b974c316fc",
+      "word": "いずれ",
+      "decision": "JMdict includes the adverbial eventuality sense illustrated by both examples."
+    },
+    {
+      "id": "97600f5aa8",
+      "word": "抱く",
+      "decision": "Add original examples of holding and harbouring feelings; the entry had no examples."
+    },
+    {
+      "id": "56d7bebebd",
+      "word": "市場",
+      "decision": "The reading いちば denotes a physical marketplace; the abstract economic market is normally しじょう."
+    },
+    {
+      "id": "c84ab5b83d",
+      "word": "命",
+      "decision": "Command and decree are senses of the different reading めい, not いのち."
+    },
+    {
+      "id": "0cbc5fcb97",
+      "word": "いち",
+      "decision": "Replace the obscure proverb in the second example with an original, practical sentence showing 市 as a market; preserve the first example."
+    }
+  ],
+  "limitations": [
+    "JMdict was consulted from the local cached English dictionary, not a full corpus or a native-speaker review.",
+    "Examples added or replaced are original and carry no Tatoeba IDs.",
+    "Existing Chinese entries outside this batch were not reviewed in this batch."
+  ],
+  "follow_up_review": {
+    "reviewer": "Codex",
+    "review_method": "ai",
+    "date": "2026-10-28",
+    "decisions": [
+      {
+        "id": "8ff67241d3",
+        "decision": "Removed unsupported implication of a search in the example translation."
+      },
+      {
+        "id": "5b9f9fdc86",
+        "decision": "Distinguished dawn, the arrival of a new year, and the end of the rainy season."
+      },
+      {
+        "id": "mono-da",
+        "decision": "Translated 目上の人 as seniors or superiors."
+      },
+      {
+        "id": "19f535bb08",
+        "decision": "Explained the Homer saying and its figurative meaning; checked Cambridge Dictionary.",
+        "reference": "https://dictionary.cambridge.org/us/dictionary/english/even-homer-sometimes-nods"
+      },
+      {
+        "id": "0cbc5fcb97",
+        "decision": "Replaced an obscure proverb with an original market example; retained the first example."
+      }
+    ]
+  },
+  "dictionary_snapshot_sha256": "aacc8703771759ad302f01199db13e83043fdf8cabb2357df742e9e758e8aa8d",
+  "content_fingerprints": {
+    "vocab": {
+      "c3b1f16454": {
+        "source_hash": "b70b45150bbfee5cdf375ab8f5efaaef3b32581dee387e523eaba2c9aa8fda71",
+        "review_hash": "3d6df1c2b7a893ed71ebd41f7fd42f2c0c93f4cce29f5c73db57609de0e4a71f"
+      },
+      "d2ac37bee3": {
+        "source_hash": "b1387364a0ba7725eb5af1c67209220e3b923f9ae0262cf491f8c35b83329c00",
+        "review_hash": "6a12e18a461482c242e47403165863f08a134c4bd4a2f7a7f69a10acd403e419"
+      },
+      "0cb7e80d4c": {
+        "source_hash": "6e6b642031b3e2b9589e884cd2857f3e4f4c7b454c785678e49829cb0cc8789d",
+        "review_hash": "83d59b459055968b586cdf52f1f007f66c4780ce43387a0ea300c8680b64133a"
+      },
+      "7d26b9a262": {
+        "source_hash": "4bb40fff15813cd4048381c333b0b75fba1da4eb4612011498a23757e4cf8564",
+        "review_hash": "323cc22215d262cebb7fc9a52b35111b4ccdb16c19dbf0561cb46faa9972f2c5"
+      },
+      "9452242b03": {
+        "source_hash": "d37941b456c207cc04a10e2d0126350988d5a7f40697ec44b43570871c9bb6e7",
+        "review_hash": "202080db496bfa46de3607114eb626097ede7ea392fc8763de2e3293c69e8761"
+      },
+      "41df1c11e3": {
+        "source_hash": "efd5c9aab36d8d6d8af9a3be8f01fc18af3ac0fb48870209b7ae489234284ff9",
+        "review_hash": "76b60257382a9b1fcc3b2edab6fa9e7a5dffa12f23e406a0573259bde4da21e8"
+      },
+      "cab1bc201f": {
+        "source_hash": "b32b5c550c560f8f5b441d3201c29afa8f49f573b8db71aec9ead8f2ec302878",
+        "review_hash": "92494dac9670f3d74e3f4b5619700168ca064d331af8cb4826405df51293855c"
+      },
+      "3c8f324542": {
+        "source_hash": "5d8416dbab4411dd418cec03d0bda11fc3856830586a09af0025664c647c770b",
+        "review_hash": "fd742252da95ef5f49bb40c5913a85f306dacc879e647d671f578d2c8eeab68c"
+      },
+      "15ffb31b53": {
+        "source_hash": "9c60ffe7887ac9d5515324ae6dd320478628fe97abb7bc703d4a036c8f87d1a5",
+        "review_hash": "cb520f702153f62fab185146a1076c21b700ac6aa03acc71948ec01cbb5474b5"
+      },
+      "cf63ac57d2": {
+        "source_hash": "8bd047730b3a53905e70e4762548f033e371284a73e5ea144320f4a2f74edb2f",
+        "review_hash": "b991cba1a6082fbd1a79e3922d746b54907b6960d1957f7fd047b1e084162c81"
+      },
+      "b36b0a71b9": {
+        "source_hash": "53bb9a10597ec2013c2cba90be171d3ce9ce54c0274a9c47f7f368d01394caf7",
+        "review_hash": "9ef0057b8330313a460a077de9758098a72dc003479d3588c6704be64b9a8b8d"
+      },
+      "03e5958da6": {
+        "source_hash": "7e1718333420c1574c0a6232d7374921a00567eb624747d4e957507de04021ed",
+        "review_hash": "a16d2ebfc7b270280aa586b72358a107c8bff89699f421b4404a4c4943e9297d"
+      },
+      "b32e523015": {
+        "source_hash": "7c69192b12e234b7e5453574f8692b57791a9debde5c250a6dbc5bf0416ac75f",
+        "review_hash": "d4a1f3a518a4fe3464af131e58e8efbbe6ae6b55bc70c10143001d58e5504c76"
+      },
+      "8ff67241d3": {
+        "source_hash": "11fe0d72c0aba907286530273caa8686856073c359180086fc6e6d57e113b22d",
+        "review_hash": "343e34bc83b4a1054cd0faafdef8eb3bf497611b4173d36794c0e7b0df390783"
+      },
+      "2d5b06d1fa": {
+        "source_hash": "85b36046017d0580182bb6dbc26d7cf644015ceb652671a0a031417f6ff66ba8",
+        "review_hash": "16be01c6d226a3bf529ba6f15e57b3799b4d9138d3d4e8052bc370692d3e71ba"
+      },
+      "6312892cc5": {
+        "source_hash": "d22065414d66e52e6c911cd4cd3b8d5031f7da5ee0f8cdb75c7e3617dc0a59ee",
+        "review_hash": "d06d5e4b9dc397a528c304eaf784f0e4e55fe4ec073abd2d047c7e3f1f29a065"
+      },
+      "6bec104564": {
+        "source_hash": "2f1c9f6bc4f31e542b45bce459db43d1b9bf2bb05bec0204aa372c5f5435f5ea",
+        "review_hash": "25f6da5ab49d870f85f8e8c2f1d05b61760e3af7a210187f6e2f839272756dc8"
+      },
+      "5b9f9fdc86": {
+        "source_hash": "234ddf12ac24d3945c1f589852b7a2e10fc2527fcb5ddbac8d21068e3cbcc5ae",
+        "review_hash": "e7db328dd7703f61b9581abe4b912eaf95852c2d40ed44bf62ec330d9929eb6e"
+      },
+      "9092a33de5": {
+        "source_hash": "58c0b63d3d592a72d2d09510aeb40cd6411ba6c16f3323b52e5b49b8e1f95ef0",
+        "review_hash": "d1db4f5800ea8b9825b6f31efa58da5ccfda24c0323e999b7ccf790453ec8341"
+      },
+      "7d653ddf51": {
+        "source_hash": "6f949673e8c41d3f3bb048bc7cb2c8f4e67db75d497d6ec6b7a0147d741fd5a6",
+        "review_hash": "76c3dbb415673823013c49e35a32f2b1a00fca415ed61f8b8717378e880d5479"
+      },
+      "264ec34f18": {
+        "source_hash": "1a35340632b35ceb20a1ae9e88ab9ad56b071fedd24170d858195489effd429f",
+        "review_hash": "be6bfc80c7b16d35caed90c33423bc47ed35c75eae66398b2243eb2c69063739"
+      },
+      "a0ea038f9b": {
+        "source_hash": "d089339c07c85d9da1f5029fee211c1f9b47c1be4e87a12a64756f1f1f2a2b67",
+        "review_hash": "8d3e061b30aac099653b86fcad7424861ad36ddaf99f6f8d7faa40f0a65f6486"
+      },
+      "0c74b17f50": {
+        "source_hash": "1b0f65e470abbe288359be295c5770a147f86d6120b36c31c5fce6617f24fd2e",
+        "review_hash": "282f48c4020c1ee0af5e57d1ed67d410ccb69333cd311f0a72a8da4b0b717715"
+      },
+      "66c159592d": {
+        "source_hash": "114bc3d0949159293970a1b8a7b288311b2102dcc35dcbff4be815c3654b7c24",
+        "review_hash": "ac452722d4de7bfe46e7adc47dbbba36d56db24730b8f70104910766dd8b2398"
+      },
+      "e8c795d3e8": {
+        "source_hash": "3b303bbd08f5910b3ec46db38288b65c486cee4783aa05293cd63e80ea4fb4de",
+        "review_hash": "3ac8a8a5ae8e6ef8b68310ba0207925827e36022d037b359882e8ee60844e7ba"
+      },
+      "c0dfcb262d": {
+        "source_hash": "c36345acd812f22791aaa7bdfce14c9271d5f99876e97d8bc49284c72b7dcb12",
+        "review_hash": "d304a55eaea1e70f2c8582ca3a87d706a646ebce0c2ae0fdbf005cc2beff750f"
+      },
+      "b22ceca000": {
+        "source_hash": "0523be6e76d5955e0db5b2a1875ee17b88433954f1bfd662fabdfed64d7ba8e7",
+        "review_hash": "7c556edad423b819cbef73078f9fd0c2aa5ec90d286fa99978cba5591bf45363"
+      },
+      "bd36844c24": {
+        "source_hash": "653fc6f3b4aa0b6f6fd47032aa65bb19dae205532a5b6b8ce19278f5284b26df",
+        "review_hash": "e8311d9cfb70f1bb18d748069c888f86d88da7f8463b90c19d4e3bf0967ea0b4"
+      },
+      "57c650defa": {
+        "source_hash": "05ccbb01659dc6f5d83645d8f31aac351d267e1e7b46e71b5a9760b9272327b8",
+        "review_hash": "cb8af6d8593f333dbdb8ee938a76b2fe34047741d2836952363b7352617ceb49"
+      },
+      "4f1b6b6e36": {
+        "source_hash": "e416283291e6160634e50b4b0027d6f96110d541c64836f080e0929954e8a149",
+        "review_hash": "435e463d8609bce326db79d48c69518a77d8c41c37183e92f2bfc0ac142e3b66"
+      },
+      "064aac92d9": {
+        "source_hash": "3d99e81d30792c47890f0424b2022456382c794d476dba5245875d1129060c5d",
+        "review_hash": "31e9ba76fe0ce8d68bc1fb85d8d47a8e4001c54b2fc699a1d9d445c0b9eefd3e"
+      },
+      "8399cefa4f": {
+        "source_hash": "93a6d0cdc0c93e172e14b29f763fa46b18560ea4d0e1f64b45f7e9696e3ae3f7",
+        "review_hash": "7c0e6a20a2dcd2ae078daa18dec09a1e857d9f712687be0ce467fba6c110b9d6"
+      },
+      "c461dcc42b": {
+        "source_hash": "d40a8d0e451ff89dd2d76821cacb7a58ef412966eb840bb78a2cc2dc018f4f79",
+        "review_hash": "a456663fc33bca1648be02789ae71018a923f792cb2666e2d2c2b47c5f8e8a1f"
+      },
+      "6c564bf1bd": {
+        "source_hash": "619805571c3a8f38e4de487c582273e2c1fbb0f97e0d92dcbd9f5af42a410438",
+        "review_hash": "eefdd4aabe949399a4e3f8cf192cdbeb328db26c02566bf868c5b365eb0e0216"
+      },
+      "69209e023f": {
+        "source_hash": "d71f0f7aa0ee975dc3f8698d2ec29ba23eeadc7cd9f1c7a8d7eca7fab3dfdbe0",
+        "review_hash": "6e345ea6e6bf824290097a2098bf0465114493a130d0743b1e5841b90cf204d7"
+      },
+      "50edc9f158": {
+        "source_hash": "7b90ff1d3419170c4c7c2682268d9f0328de4448895d30f6f41c6caeffd362bf",
+        "review_hash": "35bf25792909b6aede612ceb283dffde50392e1d3ef24af76bfe753ca16cf25b"
+      },
+      "94e6dfb59c": {
+        "source_hash": "ceaa9e4306086682b16f54311a437f0aaf4c2ea8fe8c8ea2bbe5f702d3b7385d",
+        "review_hash": "1b9c31be2b4b00c853f07c0312713b3475edd28729936dc522d26a18aebc031e"
+      },
+      "474e600ef2": {
+        "source_hash": "ec18037cc09fe7d8341b647fb9b930b5a18604471159112bb76cfbeed929da6b",
+        "review_hash": "067efd54d1838f3304674780e426d34616291f68355b2ba7b0e492e720b2a649"
+      },
+      "de64f6eb4a": {
+        "source_hash": "49ddcf25c83991f3425f2ef0ab52fd58cba41ece6e9d8b7d9a1b99db26cec237",
+        "review_hash": "854cb429c36d22c98be8ad84d19948b831227415d11f6c1bd808e52a9f4c21aa"
+      },
+      "0ca5c40581": {
+        "source_hash": "1c8c80822bc246eab97a8daeaf875f73197488508e5c336ac6fab81fd09ab4f6",
+        "review_hash": "a736bf8cc52addbe7193afa1165270eef53a0f823e30fc5fb290350213c78fc3"
+      },
+      "b7185fc1f0": {
+        "source_hash": "0d00a64b2cd0a863d30bfacbec1d65dffd5efca533bc922d990ea6e2e1c243db",
+        "review_hash": "48e8ae99aa89c5a448514264d9882a15cfe1da4ba866bbb99b4fba2c0f8e8f82"
+      },
+      "61f7afccc0": {
+        "source_hash": "af8a422298137195d75af0db5312834e32025c2f1ff3264ab7517ecf5903ce91",
+        "review_hash": "b5c91b486faa1b526eedd9e01beae5367efeced338f9ed2a402e34681c91a3f7"
+      },
+      "13fdb782fe": {
+        "source_hash": "8792654ea05b617f06dd6e22943bf879f652b9b4d702ee5f8b1738de83b8b9d2",
+        "review_hash": "3a245fa0fddfd0aa8978aa2988cf0f972e11ea6ed58be2339dfc56f93216f104"
+      },
+      "f1869f9942": {
+        "source_hash": "a77448f746b13222e2e560d8bcd4ecead7f39badac8a5bbd7fe1ee9f75427873",
+        "review_hash": "25614cd72768af761c362c64f6df7e4fd3e1341f0b416b00f410a3524a477226"
+      },
+      "458adfb568": {
+        "source_hash": "d1bf1450ff5859c0da8ff747747c06e081264e8182a32fc6f27f64e697ad64b1",
+        "review_hash": "78fbfb3445a28fca0a46e96652a9b95dd122419b099f482f6616f58270893b70"
+      },
+      "e9d213fb20": {
+        "source_hash": "ebfdb18d36bc38144aa36e23a0c55d3a9c157d85c723c2f2808ac480db93169f",
+        "review_hash": "7e7970e7c85a818dd891a4024f2924557cab82ed254440077e2e43106baf33c1"
+      },
+      "55bea4f5f3": {
+        "source_hash": "2611887b356cc7e328a23591bf5a892b6b8277461867d0f370b73457ee61832e",
+        "review_hash": "04ac5849d420b91806b45c1964cf115273936938012286e1782568c9d4bc7928"
+      },
+      "1e8e1ca3dc": {
+        "source_hash": "1302ac823e1d4dccdd7ae9fa26baa0bd6c9b1d31291e617f4761759c0581a704",
+        "review_hash": "b26ca513a126abeb0d3fbe6be14b671702daf1b162dcc2dd8f35a9d87fe038a8"
+      },
+      "7a5bf31b8a": {
+        "source_hash": "7123e46696ee501ca48a414d0defccf105d118ca317457fa0180280216afa2b1",
+        "review_hash": "6d8df9e80f70c90a386cc94c7d25348bf768ecedd982780b23bd4aa05d6b3de4"
+      },
+      "8f735b886b": {
+        "source_hash": "932ea90ed2bf5af6b163c4e264d211e2def293a40fade5efc27758503b93fe23",
+        "review_hash": "1f676c53b920a53b1f687ea0fac0a7a57bb23bb9db6bd85d9bca3fb5e41b83a9"
+      },
+      "3f1fbec85e": {
+        "source_hash": "7af03b6e85539e29c86f7e582abc5203a2d851dec7e325746601db5c580d440f",
+        "review_hash": "5f61bdf0705c86e7f6d1c97bfa4180199608624e89c94aa61a594b7f2c875e53"
+      },
+      "0adf15ff3f": {
+        "source_hash": "e6fae3d4927b803239cc99e78704d8a5b0de281cf7e5b065bdffbb5b5542c6f0",
+        "review_hash": "b1f87b59e2aabdf91783d7afe69179814964cea144bf30effade289a7ef95897"
+      },
+      "52d4f9b548": {
+        "source_hash": "c62f93e10ee48c38d35ea6a7547c37396c5980415fdbc94d0675c98c155a71dc",
+        "review_hash": "e419bafc2cf8f832275c027deb74a205682fed1a3637e0286eefb3607c4c2263"
+      },
+      "85d0866116": {
+        "source_hash": "ac4d8b2c7621cf2b4727a325fbbafe2ed0087c9c17630d8b493395a41dd5060c",
+        "review_hash": "5ab5a431cbe2241bdf6c424760d3a6a8d13787e2d34d705d63fc4e76cb37deca"
+      },
+      "a812d7a958": {
+        "source_hash": "486a9b90003e56546e659e39b8adc56d8fb23609183171b9e469f78a80da5019",
+        "review_hash": "7460590eaa92613bb8ccd200929e4a28d91620f1bc6c443b1a1b4081aef1b661"
+      },
+      "2c62d0aba0": {
+        "source_hash": "1a05da2c01a0e07edeea7ff77d8c6e46fe03c0368c7bc29bb0e5680e3e27e411",
+        "review_hash": "4f60307d9184ecea4775072cb56b39eb1589ecdf295ee3f19360076f32939e4a"
+      },
+      "5fef88ef1f": {
+        "source_hash": "56e37578a3e199eca065cf2008f90a7129b95aa1a0c2b551ae6ff2eefa78d450",
+        "review_hash": "92b4e881c898238252e9b64da16f02de824856b939e563cc020ba12cd7cf3397"
+      },
+      "6e68ac9baf": {
+        "source_hash": "8f56c4a5a37ac111f68c823887c3b3efd757aef61d3b71f58a37d16d593c37ca",
+        "review_hash": "9b9e4892f1b0837e3c997b9df93d7b15a860ceb37298138501e8687c4e2337c5"
+      },
+      "107846b167": {
+        "source_hash": "11802a295944824a6bda2015200cf67c2e14ef7ea363e2232d31ec4dc9476b36",
+        "review_hash": "574537d9f9c89649532eef71d46cf6dd25057d3e7d5ba3157b26b983b3207287"
+      },
+      "140d8ab306": {
+        "source_hash": "4aa1f610420a3b10e760a7b3e527f54ffc9233b742ce0d95fde93d08ebc7b0ac",
+        "review_hash": "5565a6a213d0ebe357e6d46cd6a5f6a400897518e2db58eb41aee8f8c2b32ea3"
+      },
+      "811101e739": {
+        "source_hash": "ddbf2489097ee9eab9a614846d37bed95483c67ef3bd83ffc99acc9a95a5fb3b",
+        "review_hash": "07198f7961831adf6bc046ff32cc32b14cada91a41e256b5d62b7899ecf7880b"
+      },
+      "db4d84d6b0": {
+        "source_hash": "4d0afdbea1e05b22de4a9eac50a455e06265e4970b6d5bfeabd3e75fe5372b63",
+        "review_hash": "6f746250d028a01947259d7494c83544a4676c49dff8c9c2186281b156da7753"
+      },
+      "0a23863840": {
+        "source_hash": "37b016538318479939a0cd1ab29a96512abcea3e1fbbcf055fdef242d9a002ac",
+        "review_hash": "23add017cca2cc596c461d502a571527edb9cac33766d355915a111d910769be"
+      },
+      "9b83e5a1d0": {
+        "source_hash": "9bd2893fbf775435a3652c1637db26af6d90ec97b04843d567e85c3c8fbd4bf8",
+        "review_hash": "772d179e645b90bfb924f0d6df36e3dddb7ac9823903b1c7b1cc0d22297ed6ff"
+      },
+      "adfd2f59c3": {
+        "source_hash": "c68a2caf2a972d47a4b9bd268e0ee533fe1eaaf0cabd28b4ea21e17ea46430da",
+        "review_hash": "42556a5f2d68c50d512fe11fc6866c7069cc96233fb555e3da6f9c62d24c910e"
+      },
+      "8822903a55": {
+        "source_hash": "9b7d072d3fbeba643c71c7f6ecc5784d57a0e72e95ade0eae7dfc31bdbb4255c",
+        "review_hash": "1c462dc7b93850bf82184785e0cd101c7ba2343e093960289925376938ac070a"
+      },
+      "b5fcd0d05f": {
+        "source_hash": "51f42a229df940af07e964e3aa1cd6e523471f0a63f5c1dc937dd68c28e23429",
+        "review_hash": "4118b6eb639a34ca3d5a2dfcd03e3b8b096a4b7eb61df1e9af935c4c17c09c97"
+      },
+      "b974c316fc": {
+        "source_hash": "c99661cd76853f05c0e2506b8d95cf72e0190ea6b63cd3eafabe11df50205cd1",
+        "review_hash": "fa50bf240833b3c8f954a21312c81a223539e0518d0adeaab17c830ae8c89dff"
+      },
+      "c42fa0cf5f": {
+        "source_hash": "6b0abf6da6ea99f7ed2366324e6514bc5ba57b8c8ac80b5a06dec7350d1a36e1",
+        "review_hash": "f500d23377b623076f4f96da0b29ee4bbe52580d65530cbf9ba451ee72575ffb"
+      },
+      "4601135013": {
+        "source_hash": "3014b63a80567aacba211baee2f64cc3192d1969f28a521d33ada33212762a92",
+        "review_hash": "76cb1c1d31d548f53210704f62b8d69c8ecd089ba313fa6e64a6b67f1aa40118"
+      },
+      "9620d69897": {
+        "source_hash": "052b71e5db527193305eb1eaaaac0d60fc944b16d5be1dba8acc477eda1d51b6",
+        "review_hash": "f57bacb7eac4ede95710e170943cb7d6502c04fffc4c1d5976522a59625ffcfc"
+      },
+      "97600f5aa8": {
+        "source_hash": "2a1769d3e76a90d18729f893712f68818cd2cc81e8e37bc6aa80ca25d5e29aed",
+        "review_hash": "60ec2d38687adc3cdefa7b4eb55891facce62396dce1cea9433b5ed1c60e688f"
+      },
+      "5d347b309a": {
+        "source_hash": "1cf5a821a4431fb4762a53a79a3f8c85c263acca858fe9d8c4f394ce95899ce2",
+        "review_hash": "adcb3a59d5d146c534029d247a2cd8325d633f5983e2f9afc9f45aa3a56e78fa"
+      },
+      "9a12c4f4e9": {
+        "source_hash": "d49067aa1de33d2bbbc2b403bd32ce3a69b462f01d4db008cb1095240d111987",
+        "review_hash": "7f4b9a90b33201f63e4c4e9fb20fdff106a267ef7a919a5830d9bc45df861096"
+      },
+      "c435f396e3": {
+        "source_hash": "c8cdc8086770152a19a7e6c1596cd1dc204789e5328745326d278cb405335801",
+        "review_hash": "ec925beb59493fdaf99a7c7fccc49fb6024611cc1e7e9c2a88380f51bae3defb"
+      },
+      "0cbc5fcb97": {
+        "source_hash": "ad2ffad6c7bca8a915c4626677b2521259540da8abfe72c9f046ec2dc08685e4",
+        "review_hash": "a7c38778b1499ef3c209f8e1373dcacf668f224eb1a9e5514139faaf3bf20609"
+      },
+      "04d6c4bd44": {
+        "source_hash": "cd79d52d67510bb80fa42c3e4fa9d23471f2012ea12bbcd3cefad8b735e1b7e3",
+        "review_hash": "f6fada25c9fe30c96cbba2b95d09167eade0c162414eb2a7ab46d9887a98e42d"
+      },
+      "ec2ddaa910": {
+        "source_hash": "5309e05910e745bfcc5b57524caca66987780ec98a92c7de9b831f31140ada76",
+        "review_hash": "e5e772cd4c8195796d1e2ef5653f4db2d159251b44f02de7336b3d1697866a71"
+      },
+      "cfaaf0ad82": {
+        "source_hash": "63f4f257f6d77c91149b53d1b992459a3a9a2636b9f1d0737d7b10d721d75555",
+        "review_hash": "3c5ef31d9326e8fc19f9f6ba97d66557c48ff435633499816d3fbbff8856a3ad"
+      },
+      "56d7bebebd": {
+        "source_hash": "0e544c4442692d5bd55d257fdc998f0f5f1830bf0ff7ca5a7ae089bb92555e61",
+        "review_hash": "da7a7df0d9a60617f5ea4bb37ae57af007f2bd68a07befa5916b1505c74570f5"
+      },
+      "634490494f": {
+        "source_hash": "da46412799c004cf436f7d9d589ea4aa1c46048a8d873b971da8d2f3363cc8b1",
+        "review_hash": "fc04f21f5c140e5ffba11eb2c6eb2f1c4d8c40f6357978e057f7fd83ed290868"
+      },
+      "42473b9a9e": {
+        "source_hash": "d6e96f546c8f42eb4c4e4a43bb86cfc4c59fa044bc66d717b2a154bb3855b534",
+        "review_hash": "3d3d3b3c28151a7ecc07d590d2ab5c844872ef94f5edb2b3921f8fff7f12cf93"
+      },
+      "f0b3458a80": {
+        "source_hash": "c4bd754ee1a6f3c4b5932572544c62cc3c4e955e1bd4d9d83e8adf4c06744c06",
+        "review_hash": "b20b7a7310f78659c143261215b11612982891e39eef1f8c81f73ab38557bdd0"
+      },
+      "fc1d99931b": {
+        "source_hash": "d8d9709454044afa74222e28fe782103ddd05c3352a5c382e475787ae39c26e8",
+        "review_hash": "6a88de738c477f3d2d97017af0d7f861d11e0947c68fdedfa1bc4cff5bdf33e0"
+      },
+      "e21a9f62b7": {
+        "source_hash": "2d1e731dc194ad0c11d424db7e3b14c6269273f23e05af048a61f5775155e81f",
+        "review_hash": "544ddd5ad7e47df6d495f8e102cc7df737389cb4732c085c266e375cf8854b71"
+      },
+      "78ee271a60": {
+        "source_hash": "e92cbbcc0f202a061d68b297cabff96c7b2255b0f65a45c34d0fc9f0f43259a3",
+        "review_hash": "b95b0b330aea61ac9ee5e10e77887584c02f041cc85171bbec62a18ccbfb17cf"
+      },
+      "9a184ecb80": {
+        "source_hash": "4671eb0d076bb2c423c6f7f7d9a5648d8330713c2f66152c7220b07f37e9f533",
+        "review_hash": "f05b0eb138d5d3e0fbf6c2e3f3e1dcfc60dba8e5cab995c0a185126afff372d7"
+      },
+      "10f3cfd7c0": {
+        "source_hash": "5bf30b8db9cb64d0342b0fda46e03781bb3f04361a379baa10d092a002c56474",
+        "review_hash": "169dcc20c8ff3751e24ab8f83989dc20a2428872dd02f71b4116e8ce4ba3939e"
+      },
+      "8b9b33028c": {
+        "source_hash": "b051a46badb408106c3a6064a63ec5e0024ecf2f09cc8e7ec077e12a21fc7c61",
+        "review_hash": "5c5b465ed7bd618a71ed4edb991ebbe595c24cfe0617b0897ad1891855968c80"
+      },
+      "b65151eaec": {
+        "source_hash": "9b529860c7b0a0e5e41b4a25091535a882985db59df18b5d130005e6d793810f",
+        "review_hash": "c4222c74bf6513d2e832e27136c77f4e4468779e8dd92405b690dc0ce551d994"
+      },
+      "25664c20f9": {
+        "source_hash": "1afa8533f206fce9a720f96efbed60be3f94e8e21c45d18731ba5a00585b1ff7",
+        "review_hash": "646e82ab6fd72de750fec36953b35388b4f821dc84f72444d067fd7fc9ef7816"
+      },
+      "ff86f2105c": {
+        "source_hash": "2ab0e1821746c322b74164047315c1b515cdb99b53e0361547861964b40107b3",
+        "review_hash": "1d5ba96d6b902c57c90f790418ee761a433a65391d0aa7ed5bf279111001ec11"
+      },
+      "3fec9b37a7": {
+        "source_hash": "01e101850badf37e71c62239e8a786e6217d6ee60c666955c1d898cd472b254a",
+        "review_hash": "c7b205299a2498b4d6e8a304b7c2c83ba478f81dd8a48410ca22c10ba3b05dc8"
+      },
+      "3485a5b479": {
+        "source_hash": "05f80f7ca1f0d9fb72c85e88ab890f1bf2632fc3bac1e02474cfd862f7b52d54",
+        "review_hash": "4cf0f0a2611ae4b608e1419945710dd738d4d1265cccccf6d15de9e59baca74d"
+      },
+      "f034b79d36": {
+        "source_hash": "312a286d4a251940f89e546a1c188c49447d848b203a81cc735159828ade1e05",
+        "review_hash": "2176fe7dc0dfc16a0dd88785b014652cace1f26b4db1cca2263b974b456c2863"
+      },
+      "19f535bb08": {
+        "source_hash": "3b68841a86bd3c975a59329e7343a1a27960d813d8d5cb4c42ad21a1efde60fd",
+        "review_hash": "f206d06d277594d3bdc8e7b5bc52f305e9ce321f74514600b01dba1e39d08a99"
+      },
+      "c84ab5b83d": {
+        "source_hash": "6b321c363015ae03023148d8b909aeb1b4fd025f86ea56755d72c3a43ae29ee1",
+        "review_hash": "4c5014354f71fe24e06f6db9473a09c1251d034d7d7bbb0f90e5d2b7699eec14"
+      },
+      "dc23b8e07b": {
+        "source_hash": "d72013ee2a134cd4195d536730c66b0dad984d3332b3e5d16101d89ea37e4554",
+        "review_hash": "b899a05e264fa4a5e9d6c3e9761cdd460024a0448849ae06005dbaa89ead2ddc"
+      },
+      "fcdd7c0d87": {
+        "source_hash": "4572f22939deb3e2cda20c1b374641283864b1351200b15e2ce6b9a195f237a7",
+        "review_hash": "8ae554df6d699a3b5334652746aaa2a016853f165336e77570053215b6e802b1"
+      },
+      "da1e1e97a8": {
+        "source_hash": "df8eb1298ca0b189c56b222606265381145fba5ad8807edbaa622f0542da0173",
+        "review_hash": "c18f43be2bc8dece12dd2cc50eb7907d940f3bc68b9b260bc6e71ff53416ae6c"
+      }
+    },
+    "grammar": {
+      "wake-da": {
+        "source_hash": "2b13b098f101dc091cf70c887b46c71f82d42a98eedab23797fa559e3f5a702d",
+        "review_hash": "8db2e8e42402c3b86983dbf66ffab1ca438600fb373055f5939a4466e01151fb"
+      },
+      "wake-de-wa-nai": {
+        "source_hash": "92268ca4974f44fd077c1d0ec296b4989439d4c4aa3ed16746245c88dd3e9747",
+        "review_hash": "cda96557ca718e5abb09cf4ccfb6d94b58f049d7e98a0e0e7b94b9ee2a7c7d51"
+      },
+      "wake-ga-nai": {
+        "source_hash": "1c80c347056f4ae95cbe6f9d4f8553bb866364750d60f1c2a255f53bf9eefd4d",
+        "review_hash": "fe63dfca90075053f8b296496d0ee5115b062cffa3b9a89120debb62e54e028e"
+      },
+      "wake-ni-wa-ikanai": {
+        "source_hash": "9c1d265d29c9458810ca0bf59581df890ba2929ec7128b8c98964cff9bbd3437",
+        "review_hash": "1694f8cab1f6c2f7c532930609b9f46016e2534f26ae8531c6e232f18e81dac2"
+      },
+      "mono-da": {
+        "source_hash": "caaf3bef434d9931bc18d67bcaa85db8a684c66f000888f6580a5118aa7b1e05",
+        "review_hash": "6f211253261319deb0e6c644bb2da961308446ff6e37a0641ff2e873ccba3530"
+      },
+      "mono-de-wa-nai": {
+        "source_hash": "304fcce31e42ae32e5149bdafdceb8ca9bf3531fd38f3dfd1b19658fd07531e9",
+        "review_hash": "a42af1ebfb980b84c7a5d563ab6bca8d9543c2db143ba06e487b28f8b4f3fa06"
+      },
+      "mono-mon": {
+        "source_hash": "f4c9bfcab0f3cc07d8a27aeed4c38f1553b47a9b433f925c59c008e311ab08f3",
+        "review_hash": "89d7866c3867dee69dd28721764aab11d4401b82ea3a93e25a3190ce3f57760f"
+      },
+      "mono-dakara-mono-de": {
+        "source_hash": "be81d89fb8c9e9bf388bcb25545f07e86cc84e78373d34e6a8544bb1f5b817bc",
+        "review_hash": "b591b299b68be5f0f17825dd774377df1587dc3a051eb4f42ca6c0206772c8f6"
+      },
+      "koto-da": {
+        "source_hash": "e1cf90d5c10676f00ad6385c3deda1b5b845587be09c93c8892359963ed1dd43",
+        "review_hash": "7499deb12a564830685eee7a807c532f419312602f8d0db8181f21a7f6290ebe"
+      },
+      "koto-wa-nai": {
+        "source_hash": "f1e4d6def96d940c9c151d624ac44cc68450a60badadff166a2ac85ee17a0cfb",
+        "review_hash": "f4fb584e024e2eaed88cdd3404b334c68954eb4c08582bcc9dcd3fe248e38d83"
+      }
+    }
+  }
+}
