@@ -17,11 +17,12 @@ const LEVEL_NAMES_EN: Record<string, string> = { N5: 'Beginner', N4: 'Elementary
 
 function blocks(meta: MetaCounts, lang: 'en' | 'ja'): Record<string, string> {
   const { vocab, kanji, grammar } = meta.counts;
-  const pct = `${Math.round((100 * meta.vocab_with_examples) / vocab.total)}%`;
+  const pct = meta.vocab_with_examples === vocab.total ? '100%'
+    : `${Math.min(99.9, Math.round((1000 * meta.vocab_with_examples) / vocab.total) / 10)}%`;
   const levels = LEVELS.map(({ level }) => level);
   if (lang === 'en') {
     return {
-      line: `${n(vocab.total)} words · ${n(kanji.total)} kanji · ${n(grammar.total)} grammar points · example sentences with furigana for ${pct} of words`,
+      line: `${n(vocab.total)} words · ${n(kanji.total)} kanji · ${n(grammar.total)} grammar points · example sentences for ${pct} of words`,
       examples: pct,
       table: [
         '| Level | Words | Kanji | Grammar | |',
@@ -32,7 +33,7 @@ function blocks(meta: MetaCounts, lang: 'en' | 'ja'): Record<string, string> {
     };
   }
   return {
-    line: `語彙 ${n(vocab.total)} 語 · 漢字 ${n(kanji.total)} 字 · 文法 ${n(grammar.total)} 項目 · 語彙の ${pct} にふりがなつき例文`,
+    line: `語彙 ${n(vocab.total)} 語 · 漢字 ${n(kanji.total)} 字 · 文法 ${n(grammar.total)} 項目 · 語彙の ${pct} に例文`,
     examples: pct,
     table: [
       '| レベル | 語彙 | 漢字 | 文法 |',

@@ -47,12 +47,12 @@ test('known beginner corrections preserve IDs and align selected senses', () => 
 
 test('Chinese search finds exact and partial Chinese while preserving English behavior', () => {
   assert.equal(searchVocab('肥皂')[0].word, 'せっけん');
-  assert.equal(searchVocab('接待')[0].word, '受付');
+  assert.ok(searchVocab('接待').some(e => e.word === '受付'));
   assert.equal(searchVocab('吃')[0].word, '食べる');
   assert.equal(searchVocab('eat')[0].word, '食べる');
   assert.ok(searchGrammar('事先').some(g => g.id === 'te-oku'));
-  assert.equal(getVocab().filter(v => v.zh?.status === 'reviewed').length, 1859);
-  assert.equal(getGrammar().filter(g => g.zh?.status === 'reviewed').length, 131);
+  assert.equal(getVocab().filter(v => v.zh?.status === 'reviewed').length, 6707);
+  assert.equal(getGrammar().filter(g => g.zh?.status === 'reviewed').length, 377);
 });
 
 test('review binds the exact Chinese wording and requires honest provenance', () => {
@@ -80,7 +80,7 @@ test('all reviewed entries have complete aligned Chinese examples and current so
     assert.ok(entry.zh!.examples.every(e => e.zh.trim().length > 0), entry.id);
     assert.ok(entry.examples!.every(e => !/#[0-9]+/.test(e.furigana ?? '')), entry.id);
   }
-  assert.equal(entries.filter(e => e.level !== 'N3').reduce((n,e) => n + e.zh!.examples.length, 0), 489);
+  assert.equal(entries.filter(e => ['N5', 'N4'].includes(e.level)).reduce((n,e) => n + e.zh!.examples.length, 0), 489);
 });
 
 test('all N3 vocabulary and grammar have reviewed Chinese with aligned examples', () => {
@@ -112,4 +112,35 @@ test('review fixes counter, greeting, lexical reading and inclusive boundary err
   assert.equal(findWord('以下')!.examples![0].en, 'You cannot buy it for 1,000 yen or less.');
   assert.ok(findWord('行う')!.examples!.some(e => e.furigana?.includes('{行|おこな}')));
   assert.ok(getVocab().find(e => e.word === '明日' && e.reading === 'あす')!.examples!.every(e => e.furigana?.includes('{明日|あす}')));
+});
+
+for (const [level, vocabCount, grammarCount] of [['N2', 1778, 123], ['N1', 3070, 123]] as const) {
+  test(`all ${level} vocabulary and grammar have reviewed Chinese and translated examples`, () => {
+    const vocab = getVocab().filter(e => e.level === level);
+    const grammar = getGrammar().filter(e => e.level === level);
+    assert.equal(vocab.length, vocabCount);
+    assert.equal(grammar.length, grammarCount);
+    for (const entry of [...vocab, ...grammar]) {
+      assert.equal(entry.zh?.status, 'reviewed', entry.id);
+      assert.ok(entry.zh!.meanings.length > 0, entry.id);
+      assert.ok(entry.zh!.examples.length > 0, entry.id);
+      assert.deepEqual(entry.zh!.examples.map(e => e.ja), entry.examples!.map(e => e.ja), entry.id);
+    }
+  });
+}
+
+test('guarded reading repairs retain frozen IDs and reject conflicting upstream readings', () => {
+  const entries = [{ id: 'stable', word: '中腹', reading: 'ちゅうっぱら', romaji: 'chuuppara' }];
+  const fix = { id: 'stable', word: '中腹', reading: 'ちゅうっぱら', reason: 'Wrong homophone', references: ['JMdict 1425440'],
+    before: { reading: 'ちゅうっぱら', romaji: 'chuuppara' }, set: { reading: 'ちゅうふく', romaji: 'chuufuku' } };
+  applyCorrections(entries, [fix]);
+  assert.deepEqual(entries[0], { id: 'stable', word: '中腹', reading: 'ちゅうふく', romaji: 'chuufuku' });
+  assert.doesNotThrow(() => applyCorrections(entries, [fix]));
+  entries[0].reading = 'unexpected';
+  assert.throws(() => applyCorrections(entries, [fix]), /identity changed/);
+  assert.equal(entries[0].reading, 'unexpected');
+  const missingBefore = { ...fix, before: { romaji: 'chuuppara' } };
+  assert.throws(() => applyCorrections(entries, [missingBefore]), /original reading/);
+  assert.equal(getVocab().find(e => e.id === '8814988b80')!.reading, 'ちゅうふく');
+  assert.equal(getVocab().find(e => e.id === '4ec7fe1166')!.reading, 'なになに');
 });

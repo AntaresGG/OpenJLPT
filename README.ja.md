@@ -6,7 +6,7 @@
 
 **JLPT（日本語能力試験）N5〜N1 の学習用リストにある語彙・漢字・文法を、JMdict で検証して整えた無料のオープンデータ**
 
-<!-- counts:line -->語彙 7,811 語 · 漢字 2,383 字 · 文法 526 項目 · 語彙の 93% にふりがなつき例文<!-- /counts:line --><br>
+<!-- counts:line -->語彙 7,811 語 · 漢字 2,383 字 · 文法 526 項目 · 語彙の 99.8% に例文<!-- /counts:line --><br>
 **JSON**・**CSV**・**SQLite**・**Anki デッキ**・**Yomitan** 辞書、**npm** / **PyPI** パッケージで提供しています。
 
 [![CI](https://github.com/evanclan/OpenJLPT/actions/workflows/ci.yml/badge.svg)](https://github.com/evanclan/OpenJLPT/actions/workflows/ci.yml)
@@ -32,7 +32,7 @@
 
 - ✅ **学習リストを一通り**: 定番の学習用リストにある N5〜N1 の語彙・漢字と、文法 526 項目を収録しています。
 - ✅ **クリーン**: 全語彙を [JMdict](https://www.edrdg.org/jmdict/j_jmdict.html) の見出しと照合し（99.7%）、品詞と辞書 ID を付けました。元データにあった読みの誤りや文字化けなど、数百件を修正しています。
-- ✅ **本物の例文**: 語彙の <!-- counts:examples -->93%<!-- /counts:examples --> に [Tatoeba](https://tatoeba.org) の例文を付けています。辞書形で照合するので、「読む」で「読んでいる」を含む文も見つかります。例文の約 8 割には、すべての漢字にふりがなが付いています。
+- ✅ **例文**: 語彙の <!-- counts:examples -->99.8%<!-- /counts:examples --> に例文があります。[Tatoeba](https://tatoeba.org) の出典付き例文に加え、この fork で作成・確認した例文を収録しています。新作例文には Tatoeba ID を付けず、ふりがなは利用可能な場合に保持しています。
 - ✅ **文法 526 項目**: 意味・接続・例文 2〜3 文・類似表現との違いを、オリジナルの文章で解説しています。
 - ✅ **すぐ使える**: JSON、CSV、SQLite（全文検索つき）、Anki、Yomitan、npm、PyPI、CLI、CDN に対応しています。
 - ✅ **安定 ID**: 各項目に更新後も変わらない `id` を付けています。学習アプリの進捗管理にそのまま使えます。

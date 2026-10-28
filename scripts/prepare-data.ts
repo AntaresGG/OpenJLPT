@@ -3,11 +3,12 @@
  * Corrections are guarded; translations survive rebuilds and expire on source edits.
  */
 import { join } from 'node:path';
-import { readFileSync } from 'node:fs';
+import { readFileSync, writeFileSync } from 'node:fs';
 import Ajv from 'ajv';
 import { ROOT, DATA_DIR, LEVELS, writeJson, writeCsv } from './lib/util.ts';
 import { applyCorrections, type EntryCorrection } from './lib/corrections.ts';
 import { attachChinese, sourceHash, validateReview, type Chinese } from './lib/localization.ts';
+import { README_FILES, readReadme, withCounts } from './lib/readme-counts.ts';
 
 const read = (p: string) => JSON.parse(readFileSync(join(ROOT, p), 'utf8'));
 const check = process.argv.includes('--check');
@@ -64,5 +65,11 @@ if (!check) for (const [path, rows] of output) {
 if (!check && meta.vocab_with_examples !== withExamples) {
   meta.vocab_with_examples = withExamples;
   writeJson(join(ROOT, metaPath), meta);
+}
+// Reflect added examples without changing the upstream snapshot provenance.
+if (!check) for (const [file, lang] of README_FILES) {
+  const current = readReadme(file);
+  const next = withCounts(current, meta, lang);
+  if (next !== current) writeFileSync(join(ROOT, file), next, 'utf8');
 }
 console.log(check ? 'Corrections and Chinese outputs are current.' : 'Applied corrections and Chinese overlays.');

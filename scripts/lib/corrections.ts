@@ -15,11 +15,17 @@ export function applyCorrections(entries: any[], corrections: EntryCorrection[])
     if (ids.has(fix.id)) throw new Error('Duplicate correction: ' + fix.id);
     ids.add(fix.id);
     const entry = entries.find(e => e.id === fix.id);
-    if (!entry || entry.word !== fix.word || entry.reading !== fix.reading)
+    // A corrected reading keeps the frozen ID and must carry its original value.
+    if ('reading' in fix.set && (fix.before.reading !== fix.reading ||
+        typeof fix.set.reading !== 'string' || !fix.set.reading.trim() ||
+        typeof fix.set.romaji !== 'string' || !fix.set.romaji.trim()))
+      throw new Error('Reading correction needs original reading and corrected romaji: ' + fix.id);
+    if (!entry || entry.word !== fix.word ||
+        (entry.reading !== fix.reading && entry.reading !== fix.set.reading))
       throw new Error('Correction identity changed: ' + fix.id);
     if (!fix.reason || !fix.references.length) throw new Error('Correction needs evidence: ' + fix.id);
     for (const [key, value] of Object.entries(fix.set)) {
-      if (['id', 'word', 'reading', 'level', 'zh'].includes(key))
+      if (['id', 'word', 'level', 'zh'].includes(key))
         throw new Error('Identity changes require a migration: ' + key);
       const actual = JSON.stringify(entry[key]);
       if (actual !== JSON.stringify(fix.before[key]) && actual !== JSON.stringify(value))

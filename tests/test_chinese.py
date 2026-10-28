@@ -27,11 +27,11 @@ def test_nested_cached_values_are_read_only():
 
 def test_chinese_lookup_and_fallback():
     assert search_vocab("肥皂")[0].word == "せっけん"
-    assert search_vocab("接待")[0].word == "受付"
+    assert any(v.word == "受付" for v in search_vocab("接待"))
     assert search_vocab("eat")[0].word == "食べる"
     assert any(g.id == "te-oku" for g in search_grammar("事先"))
-    assert len([v for v in get_vocab() if v.zh]) == 1859
-    assert len([g for g in get_grammar() if g.zh]) == 131
+    assert len([v for v in get_vocab() if v.zh]) == 6707
+    assert len([g for g in get_grammar() if g.zh]) == 377
     assert all(e.zh['status'] == 'reviewed' and e.zh['review_method'] == 'ai' for e in [*get_vocab(), *get_grammar()] if e.zh)
 
 

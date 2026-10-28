@@ -4,11 +4,11 @@
 
 # OpenJLPT
 
-Chinese fork: see [中文试点说明](README.zh-CN.md) for draft coverage, corrections and deployment.
+Chinese fork: see [中文改进说明](README.zh-CN.md) for reviewed coverage, corrections and deployment.
 
 **The JLPT N5–N1 word, kanji and grammar lists: cleaned, cross-checked against JMdict, and free to use.**
 
-<!-- counts:line -->7,811 words · 2,383 kanji · 526 grammar points · example sentences with furigana for 93% of words<!-- /counts:line -->
+<!-- counts:line -->7,811 words · 2,383 kanji · 526 grammar points · example sentences for 99.8% of words<!-- /counts:line -->
 
 [![CI](https://github.com/evanclan/OpenJLPT/actions/workflows/ci.yml/badge.svg)](https://github.com/evanclan/OpenJLPT/actions/workflows/ci.yml)
 [![npm](https://img.shields.io/npm/v/openjlpt?color=cb3837&label=npm)](https://www.npmjs.com/package/openjlpt)
@@ -40,9 +40,9 @@ example sentences, and unclear licensing. OpenJLPT fixes the data and makes it e
 - **Verified against JMdict.** 99.7% of words are linked to their dictionary entry, which adds part
   of speech and a JMdict ID and catches wrong readings. [Hundreds of source errors are fixed](#how-the-data-is-built),
   each backed by a unit test.
-- **Real example sentences, with furigana.** Tatoeba sentences for <!-- counts:examples -->93%<!-- /counts:examples --> of words are matched by
-  *dictionary form*, so 読む finds 読んでいる. Short, checked sentences come first, and about four in
-  five carry readings over every kanji.
+- **Example sentences.** Coverage: <!-- counts:examples -->99.8%<!-- /counts:examples --> of words.
+  The fork combines attributed Tatoeba sentences with original examples added during review.
+  Original examples do not reuse Tatoeba IDs; furigana is retained where available.
 - **526 grammar points.** Original, reviewed explanations with formation rules, 2–3 examples each,
   and notes on easily confused patterns.
 - **Ready for your stack.** JSON, CSV, SQLite with full-text search, Anki, Yomitan, npm, PyPI, a CLI,
