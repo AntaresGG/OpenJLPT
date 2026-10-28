@@ -45,7 +45,7 @@ npm run build:site 会生成静态网站；通过 SITE_URL 指定正式域名。
 uv run --no-project --with genanki python scripts/build_exports.py _site/downloads
 ```
 
-CI 构建可追溯到提交的静态产物，包含网页、数据和下载包。VPS 仅需提供静态文件；此阶段未部署到 VPS。正式部署前确认域名、已有 Web 服务和资源负载，并重新生成匹配域名的产物。
+部署目标已改为 LAN 内的 Mac mini，不再使用 VPS。PC 提交并推送至 GitHub，Mac 拉取同一提交；PC/CI 构建可追溯的静态产物，包含网页、数据和下载包，Mac 通过 Caddy 托管。操作与登录后自启动说明见 [Mac mini 部署文档](docs/DEPLOY-MACOS.md)。SITE_URL 必须使用实际局域网访问地址重新构建。
 
 GitHub 定时更新需要开启允许 Actions 创建 PR 的仓库设置。fork 已保持默认只读 token 权限；更新 workflow 单独请求写入权限。更新失败时保留数据产物供排查。
 

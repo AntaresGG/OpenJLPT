@@ -12,9 +12,9 @@
 
 已创建 AntaresGG/OpenJLPT，分支 feat/chinese-quality-pilot。CI 增加中文源输出检查、导出测试和静态产物上传。仓库已允许 Actions 创建 PR，并保持默认 token 只读；完整上游自动刷新尚待实际运行验证。
 
-## Task 4 VPS 部署
+## Task 4 Mac mini 局域网部署
 
-采用 PC/CI 构建、VPS 静态托管。等待部署域名与登录配置；内容审校方式已获授权，尚未部署。
+按所有者最新决定取消 VPS 部署，改为 LAN 内 Mac mini 静态托管。PC 提交推送到 GitHub，Mac 拉取同一提交；PC/CI 构建站点与下载包，Mac 使用 Caddy 与用户级 launchd 托管。部署说明见 DEPLOY-MACOS.md；主机地址仅保留在本地部署配置。
 
 ## 下一批
 
