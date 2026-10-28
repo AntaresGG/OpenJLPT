@@ -7,7 +7,7 @@ import { readFileSync } from 'node:fs';
 import Ajv from 'ajv';
 import { ROOT, DATA_DIR, LEVELS, writeJson, writeCsv } from './lib/util.ts';
 import { applyCorrections, type EntryCorrection } from './lib/corrections.ts';
-import { attachChinese, sourceHash, type Chinese } from './lib/localization.ts';
+import { attachChinese, sourceHash, validateReview, type Chinese } from './lib/localization.ts';
 
 const read = (p: string) => JSON.parse(readFileSync(join(ROOT, p), 'utf8'));
 const check = process.argv.includes('--check');
@@ -22,7 +22,7 @@ for (const kind of ['vocab', 'grammar']) {
   for (const [id, translation] of Object.entries(translations)) {
     if (!ids.has(id)) throw new Error('Orphan Chinese entry: ' + id);
     if (!validate(translation)) throw new Error(id + ': ' + ajv.errorsText(validate.errors));
-    if (translation.status === 'reviewed' && !translation.reviewer?.trim()) throw new Error('Missing reviewer: ' + id);
+    validateReview(translation);
     const source = all.find(e => e.id === id);
     if (translation.source_hash === sourceHash(source)) {
       for (const ex of translation.examples)
@@ -36,6 +36,12 @@ for (const kind of ['vocab', 'grammar']) {
     output.set(path, rows);
   }
 }
+// Overlay corrections can add examples; preserve upstream snapshot provenance.
+const metaPath = 'data/json/meta.json';
+const meta = read(metaPath);
+const withExamples = [...output].filter(([path]) => path.includes('/vocab/'))
+  .flatMap(([, rows]) => rows).filter(e => e.examples?.length).length;
+if (check && meta.vocab_with_examples !== withExamples) throw new Error('Generated output is stale: ' + metaPath);
 // Validate everything before writing any output.
 if (!check) for (const [path, rows] of output) {
   writeJson(join(ROOT, path), rows);
@@ -54,5 +60,9 @@ if (!check) for (const [path, rows] of output) {
     if (key === 'status_zh') return e.zh?.status ?? '';
     return Array.isArray(e[key]) ? e[key].join('; ') : e[key] ?? '';
   })));
+}
+if (!check && meta.vocab_with_examples !== withExamples) {
+  meta.vocab_with_examples = withExamples;
+  writeJson(join(ROOT, metaPath), meta);
 }
 console.log(check ? 'Corrections and Chinese outputs are current.' : 'Applied corrections and Chinese overlays.');

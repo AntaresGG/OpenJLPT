@@ -216,7 +216,7 @@ ${p.path === 'index.html' ? '' : `<form class="hsearch" action="${root}index.htm
 <a class="gh-btn" href="${REPO}" rel="noopener">${GITHUB_ICON}<span>Star on GitHub</span></a>
 </div></header>
 <main><div class="wrap">
-<p class="note" lang="zh-CN">中文试点版：部分词条提供中文释义与讲解。标为“初稿”的内容尚未经人工审校，未覆盖的条目保留英文。</p>
+<p class="note" lang="zh-CN">中文试点版：部分词条提供中文释义与讲解。“正式稿 · AI 审校”表示已由 Codex 审校，未经过独立人工复核；未覆盖的条目保留英文。</p>
 ${p.body}
 </div></main>
 <footer class="site-footer"><div class="wrap">
@@ -274,7 +274,10 @@ const examplesHeading = (examples: Example[] | undefined) =>
   }</div>`;
 
 const usableChinese = (entry: { zh?: Chinese }) => entry.zh?.status !== 'stale' ? entry.zh : undefined;
-const chineseLabel = (entry: { zh?: Chinese }) => usableChinese(entry)?.status === 'reviewed' ? '中文已审核' : '中文初稿';
+const chineseLabel = (entry: { zh?: Chinese }) => {
+  const zh = usableChinese(entry);
+  return zh?.status === 'reviewed' ? (zh.review_method === 'ai' ? '正式稿 · AI 审校' : '中文已审核') : '中文初稿';
+};
 const bilingual = (entry: { zh?: Chinese }, english: string) => {
   const zh = usableChinese(entry);
   return zh ? zh.meanings.join('；') + '（' + chineseLabel(entry) + '） / ' + english : english;

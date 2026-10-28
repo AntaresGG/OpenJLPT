@@ -1,0 +1,1822 @@
+{
+  "reviewer": "Codex",
+  "method": "ai",
+  "reviewed_at": "2026-10-28",
+  "authorization": "User explicitly authorized Codex-reviewed drafts to be treated as final on 2026-10-28.",
+  "scope": "All 200 existing vocabulary and 20 grammar drafts; all vocabulary example translations; 10 additional N5/N4 grammar entries.",
+  "limitations": "Same AI authored and reviewed the Chinese. Not independent human review, not a full-dataset semantic accuracy estimate. Dictionary evidence establishes Japanese-English senses, not independent Chinese translations. New Japanese examples are authored illustrations, not observed facts.",
+  "dictionary_snapshot_sha256": "aacc8703771759ad302f01199db13e83043fdf8cabb2357df742e9e758e8aa8d",
+  "dictionary_source": "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz",
+  "entries": [
+    {
+      "kind": "vocab",
+      "id": "ada066edfd",
+      "source_hash": "b726f2873d06ab538e9aac5625dac1f8d5e0128f24d72d8413cb6b2d6fa8b887",
+      "review_hash": "9e4eb135ae78d8d2fb9ba7110b908ec226a0b68537d3c454b7aebad9f89e85df",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1198180
+    },
+    {
+      "kind": "vocab",
+      "id": "ebec658463",
+      "source_hash": "ddff5df976acf5bcf29b0ca15fc3027359b10ad28bcc7fcc8eac0234801da2d6",
+      "review_hash": "52c1a3176ea38bb61cdcf5986f68bc1e0b3a9609f14e18560e8971cab378e793",
+      "decision": "Include the conventional green-traffic-light sense shown in the examples.",
+      "jmdict_id": 1381380
+    },
+    {
+      "kind": "vocab",
+      "id": "51a671ec17",
+      "source_hash": "ad45cac006359be49bcc64ff0221ee7522d88cc10670615a25c817ae644a9834",
+      "review_hash": "9dd032ddabbfea08f5e8ea2bdd3bd3a4a285e48987247fa9f16d35eb9e1976aa",
+      "decision": "Include figurative inexperience, explicitly illustrated by the existing example.",
+      "jmdict_id": 1381390
+    },
+    {
+      "kind": "vocab",
+      "id": "2dacb910b2",
+      "source_hash": "e4b4ac13a0e596956e55500213d3254a53c90f76c5f3919b0d893d659d9e3b4a",
+      "review_hash": "5d80c9bab49aa12ce27366fb571a21f197eed4eb09e3357a4db9c5b16786974f",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 2013900
+    },
+    {
+      "kind": "vocab",
+      "id": "44ba38cf8b",
+      "source_hash": "83c25dd09eb9ea1994bdc6fbf6b920f7a6efd234c0d9b7625233aa8482f9f3e6",
+      "review_hash": "f8d8fa0467ab804572373c59994f9a3901d8b73d1ee958393aead3fa614d5221",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1383240
+    },
+    {
+      "kind": "vocab",
+      "id": "91987ae840",
+      "source_hash": "1e3c166d8bf34256c5230c302980d581d8d1aa866c1b780d000097eaf8d07db0",
+      "review_hash": "cf3559905449f82f3dabd79778e9394f72549c225894781bb458b8cf160ed998",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1532350
+    },
+    {
+      "kind": "vocab",
+      "id": "8dc7006bda",
+      "source_hash": "f2e1d8e60428a5d599506d7add5ddaa413ba950719078bfdc185f69369d2ef7c",
+      "review_hash": "272b87b6698a5d99616d763807549e05ef0a02d5e94be52707fc36668f013190",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1332650
+    },
+    {
+      "kind": "vocab",
+      "id": "fc3bc1e6f1",
+      "source_hash": "318aaec68eac7e53fc2493d27ef4a9763d19b25cbc2fedb198caa1b0a4fee2f7",
+      "review_hash": "7a4e76c431895c2a8c6c592e25c4c9a1c697a675efe88f9c80b7047a752baa29",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1586270
+    },
+    {
+      "kind": "vocab",
+      "id": "321963ed35",
+      "source_hash": "68d7fc4ed4483632a7ec695a6878f59571d0cad47e23ec20c62d5f712203f5c8",
+      "review_hash": "3e4867702f8a13bce4a922952c7a332f48e9d04878707686a6ec4c97821ab04c",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1202450
+    },
+    {
+      "kind": "vocab",
+      "id": "9661cbac61",
+      "source_hash": "a9f927ed74e7492718776434112578c74a1ed12c6ef4e93d85d013b5d39679e3",
+      "review_hash": "145d08845ce3641b1e410e13a87e2c50cfb370ee5ca30185a0c445daa5766368",
+      "decision": "Both examples illustrate raising or increasing, missing from the original gloss.",
+      "jmdict_id": 1352320
+    },
+    {
+      "kind": "vocab",
+      "id": "d46ae79a26",
+      "source_hash": "64b10c6ae593a534f53ed33584c8b6661d405820e3df34bb83969c5373f467f4",
+      "review_hash": "abac03f2ef625ae3347b9dc2738929d8557cf3afdb19715e71310053992db753",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1428280
+    },
+    {
+      "kind": "vocab",
+      "id": "98bc6f72ae",
+      "source_hash": "dd89d097340e0c40de8157bbb16524d479c5da79a321c0bb3951077ccc934fce",
+      "review_hash": "338f5427759071fd5e88e6292171daf34e941af799e197c22b767b90a5b6a7f6",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1586330
+    },
+    {
+      "kind": "vocab",
+      "id": "b3b4041c52",
+      "source_hash": "e293c423f6afa3dcb726c82a6f65454f295e41b17249fe5559d7267d1f8e3268",
+      "review_hash": "a9ab7cb2e8ff59c07dd93ffeb5759d1464348f3155e8febe3d2479a1dfb413bd",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1584640
+    },
+    {
+      "kind": "vocab",
+      "id": "27df3d5802",
+      "source_hash": "86eba020a65a8cf4c89f1048ff254255a85d3db014e33fad0f5705b612f5f663",
+      "review_hash": "6c205874f47f721091af9e511c3bf46cdcfc1e5df992fd392b988498b0359b74",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1404630
+    },
+    {
+      "kind": "vocab",
+      "id": "115ec83476",
+      "source_hash": "e2880dd80e43fec0af67958afa47503b00f007a1e071d614f0d5d179de0963f2",
+      "review_hash": "662c3846677285a27ed4c8c70899412a96c8b7aaa27cd6a9a54765e1d944e3ab",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1584660
+    },
+    {
+      "kind": "vocab",
+      "id": "bee501faf0",
+      "source_hash": "27b217dd6a8372f31c058ac417be6d139b3108181311c6afc5822a1790b99365",
+      "review_hash": "bd55a123588ba0673f879c2238245239932aac46045a6ac71d7cf2d328aa3753",
+      "decision": "Replace an anatomical euphemism with an original spatial example.",
+      "jmdict_id": 1000320
+    },
+    {
+      "kind": "vocab",
+      "id": "2d55571300",
+      "source_hash": "8746578366f495fda0aa2eed825aa7bfeec9db756421e9429f449c36eb2126ac",
+      "review_hash": "316cfda6b8047dc5c77ba74bff169830f2fd7413959ff51aacabad6fa26db5fc",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1542160
+    },
+    {
+      "kind": "vocab",
+      "id": "f665c2128a",
+      "source_hash": "8975c6115af10c30f178f88f0d8fd6101a754477277708feaacc641a9991cd66",
+      "review_hash": "0ed34211c2efb5ccdafbadc5025018cda82060a568d06734843968edb6ff3766",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1586420
+    },
+    {
+      "kind": "vocab",
+      "id": "b62cb9ce4c",
+      "source_hash": "225d3c5b5c0016654a81446efabee50b94b040b02e08f65f281f3bcc0c7cfa75",
+      "review_hash": "6d5c9d30c7b74247e85fcf8f924c25a145ab7a71392eec74af17122817ba6cc4",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1582310
+    },
+    {
+      "kind": "vocab",
+      "id": "8ae27e3b51",
+      "source_hash": "a4f961ab081e3f9dcc4ff5bd3934d9841b183ae33ae8cd9abfc2a2f4bbb6adb3",
+      "review_hash": "e945c450e459279012c71b30cdcb039324a274fac113f3f76e4213a8da3bf735",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1361490
+    },
+    {
+      "kind": "vocab",
+      "id": "34e6f7d220",
+      "source_hash": "d25bbe742631ca4fcc05a455bcc114a375740dc77a95648dee6d2a39ff2e5377",
+      "review_hash": "6ecc1d1e8b7e7be87f140a791592e489f749433b8d892e46e0a6d8a9d5b8700f",
+      "decision": "Use an original example of the actual headword rather than its casual variant.",
+      "jmdict_id": 1483185
+    },
+    {
+      "kind": "vocab",
+      "id": "9949d87445",
+      "source_hash": "ff2440a92dd8ea5b935b03af9b59a73b3cceb706ad936744b7c0e93dfd321a87",
+      "review_hash": "262b7711ce291e40fabd412c63d65d867a710f39204fa520ca4d6b737a194c2c",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1275320
+    },
+    {
+      "kind": "vocab",
+      "id": "7b4aecdf7b",
+      "source_hash": "575ff37c17247e3210518c22c94cc3a33acc945049dcd8b929caf2e6ae1c1ea3",
+      "review_hash": "c01b5b831e578eb6bd8fe6d7f04cef29942204ee8449b9a9193f5ede60b54476",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1343460
+    },
+    {
+      "kind": "vocab",
+      "id": "a379d413fd",
+      "source_hash": "9a97cd650b02a4686ed93e52a4ed88de927686c5e8cef5edd0541d3b6e23eeb0",
+      "review_hash": "5b5da7690f1ec6bc180c48cc95b6bfc72ee4df14947f941c7ff3918a618a2a1e",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1467720
+    },
+    {
+      "kind": "vocab",
+      "id": "60dd63379e",
+      "source_hash": "6c190715f0270c5f374f75e3b9e5cc13fc120f8b47d7a01cef2d640841530db2",
+      "review_hash": "beb7f45d64d5315cad822672dc43e526ae3222c86e721cfe91e59e646c107a2e",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1483185
+    },
+    {
+      "kind": "vocab",
+      "id": "4f134c9b38",
+      "source_hash": "db217877e3e151129fdb0d4886535b795bf3f50b42b197e3c72618d603df7a0b",
+      "review_hash": "c4c6e759619626ea2f81c1dcbb3972ab82dbdf61c4d3e94aee91d5f75a1411df",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1269320
+    },
+    {
+      "kind": "vocab",
+      "id": "afdf384f68",
+      "source_hash": "2c78da7e50c67dbad4ea8d5e99295fdbf41265d5794279e18286fb608639ff40",
+      "review_hash": "4bc0b71b5a7d318b06def000edc10f10502e16a42f57d2b6f649ddde2114ec91",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1223615
+    },
+    {
+      "kind": "vocab",
+      "id": "4aab699864",
+      "source_hash": "a4c36b82928d9bef6900af80869b6c46df9e2a587012848f24a4ba9d490b2c5b",
+      "review_hash": "d7039577027fce3ab6c846596f0b8097c52ad74d24861dd9632586252cac847f",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1249900
+    },
+    {
+      "kind": "vocab",
+      "id": "8bfeb208b4",
+      "source_hash": "61fcdd02d5a782e649dfc186db9a7e4250d04882fb5d99cbe798555988d7301e",
+      "review_hash": "5eeb2f5818e99c5abf18b476c0dba6ecc19016e08f9383e067e47ac1e7c308a6",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1307630
+    },
+    {
+      "kind": "vocab",
+      "id": "ac4706068b",
+      "source_hash": "457428a1fdbfe133faf6deaf92898118714ff54278a16d7438d29619696548cb",
+      "review_hash": "362f5c6e206129407f61562e96357e7605615dd23b05dd2381ee943d97c576de",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1000420
+    },
+    {
+      "kind": "vocab",
+      "id": "0cf05b3a0d",
+      "source_hash": "a2a2a1cc5601e65f1a299fa3648fe0742807b3aba4428328bc91e512752dc1b8",
+      "review_hash": "05a4063195d07cc2e1b5228aede91699720463aa9916bbd11343c242d7ded628",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1017760
+    },
+    {
+      "kind": "vocab",
+      "id": "a5aceb6426",
+      "source_hash": "86b7a2812ddb8e87dbe65307dcd77ff97408647b147843a59942c781fdc86386",
+      "review_hash": "7f18dd1d90a64ca89d8770da4d20cc664caa82f729b3725ef1737055e2d3a93d",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1547450
+    },
+    {
+      "kind": "vocab",
+      "id": "0509cb3b27",
+      "source_hash": "d748e3a932550ed0108fafc5af64066f68b8a338ee8799bdf16a32e32f587e70",
+      "review_hash": "7fe9611eb4a6963efdbbc435ec282335a501e74bf609fef76370e6cd0e8b28ac",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1218380
+    },
+    {
+      "kind": "vocab",
+      "id": "4afffe5811",
+      "source_hash": "9c651b1ee63f388f170c2609325ba7ea23295b3cb4258821fbe891a5804e35d8",
+      "review_hash": "118fc60b08dc2c0db1ec2181029202d03a446775e21578fb224dd2df5119418a",
+      "decision": "The first example uses leniency rather than sweetness.",
+      "jmdict_id": 1213400
+    },
+    {
+      "kind": "vocab",
+      "id": "eac90e8e98",
+      "source_hash": "1f76535f5d32941b66fe1c4d0e4fbc8bfecbc6f7befa3809d2a92b05ce7fe607",
+      "review_hash": "0450bfa24751dff60e98044d74a0df844767992dafb3fad160dc82386c64be3d",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1584930
+    },
+    {
+      "kind": "vocab",
+      "id": "5d72771a3c",
+      "source_hash": "317c8b5e45c9bd3756ffd2168adf723a5cf0b822306f6dfed4d161cde43d92d2",
+      "review_hash": "0b1b1156d09b52e555562705ed38a36c9497c879ed1ebc338a38c091a456a011",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1153520
+    },
+    {
+      "kind": "vocab",
+      "id": "277a58c9df",
+      "source_hash": "e5eeb4af76ffad6cba553924c7f1a8c554161a285f9a862df62d0dccf32be309",
+      "review_hash": "1c1e37494379e69302e1039c2a14b6fd67d012940867e8a144f1bd4f3015a6a5",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1171900
+    },
+    {
+      "kind": "vocab",
+      "id": "f8fa96946f",
+      "source_hash": "0b2a627c427f4e792562b9c8a4f9b3450e019ff142ea35822296f05be59b3d74",
+      "review_hash": "2cfbcef6f57122947d12a92a40960a0373a43088b4ce106defbf8b520a7aaef5",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1390930
+    },
+    {
+      "kind": "vocab",
+      "id": "93461820fe",
+      "source_hash": "7a572755edde8b6ff5749dc38800d735e9fa62eea9dcbe9a89fb15e2b5c328a9",
+      "review_hash": "6d47d43d21a7b8d5dccbc832685fef945bc5e3a761d82a1875e8191044823ddb",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1586820
+    },
+    {
+      "kind": "vocab",
+      "id": "ac08788418",
+      "source_hash": "a732b5a13d988e7c74fd45b7dc44a64b96ee729c4058e98aefdc294e9fe418ba",
+      "review_hash": "92245d5ef7b8cfc674cffa026d4ddc3ae6f7950db475ab53b37416c96f8798c7",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1296400
+    },
+    {
+      "kind": "vocab",
+      "id": "55f3080ce4",
+      "source_hash": "782e4db5916be25aa0cd96773af4a18236b9cc5929892ed4b44ff993af9d573e",
+      "review_hash": "94ae3aee907b5b7e3f9372c83bf4f7cd6f20c1dd6154c7162baa75ff22e17df6",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1514320
+    },
+    {
+      "kind": "vocab",
+      "id": "d727a76b22",
+      "source_hash": "70cba002332dabf3ff1c4ed73f01e021be9a37093cd3f1b8f33a0d31577389ac",
+      "review_hash": "14eb56a782f1940034173c08c9d30c8c4da1fd7ae4904d3c8cdd02e8c2d0e45f",
+      "decision": "Supply original examples for the demonstrative, without borrowed sentence attribution.",
+      "jmdict_id": 1000580
+    },
+    {
+      "kind": "vocab",
+      "id": "e37a087c0f",
+      "source_hash": "a54edf79b5d10a04c542b2ad8643e4a7d39cc1d8b1cb9658c8138c2afc389e45",
+      "review_hash": "8ae5040156595064470d1048c449d3651afd4b445814ae1876dbbf9746de2b54",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 2820690
+    },
+    {
+      "kind": "vocab",
+      "id": "6d4596ae46",
+      "source_hash": "f5ea01906ec70e81588247185bab005ffc87c1007250d096dcf4dc7876bc94de",
+      "review_hash": "c5c2053fdd94ec070d4ce4f5cb0bded5fa40b57e3fc365823c8e9fb10fbf6f12",
+      "decision": "Supply original negative-answer examples.",
+      "jmdict_id": 1583250
+    },
+    {
+      "kind": "vocab",
+      "id": "ae0cc00f94",
+      "source_hash": "c1a7828f86d527ac85a3554de31f23385256171b3120c64dc9cd68ded7782460",
+      "review_hash": "1511c3406284d4202affcf4365f7ae0adfc3ea9d16c0c376e14c1ed603ba844b",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1587040
+    },
+    {
+      "kind": "vocab",
+      "id": "9f074820b1",
+      "source_hash": "d3f9a43298f9dbbb56d8e79a577c0b1c8d904449f8d234c75785910524e4918b",
+      "review_hash": "1d638ca1289abdee5eebbf09612acc7279607eaab65d08171c1cc918eb357717",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1191730
+    },
+    {
+      "kind": "vocab",
+      "id": "a3f296ad9a",
+      "source_hash": "d58a8fef91d28fb8094375e5a0a1d84abc5bc1fe6e28d8a104716ba905b75e6a",
+      "review_hash": "1a921b45716f102adf1cfaff65df9f5614aa6c31bc9811aa9509dbc55f24675c",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 2845606
+    },
+    {
+      "kind": "vocab",
+      "id": "66e4692df7",
+      "source_hash": "e0197717cf9be2c45f8f7d664a641aa808a5cba48c3b6bd0dfd45daa99c8dbb3",
+      "review_hash": "8b23b0ae3b154500bd2a9abd6f3143a253f9e8edcfe1fbeb2d07e0ad79111e75",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1578850
+    },
+    {
+      "kind": "vocab",
+      "id": "026ae57b50",
+      "source_hash": "e14c038283adf1cf020f2d93ed13f594092d1ed760988eeb02fbab410534190f",
+      "review_hash": "8cf85b45ad221049726f88ccd6c91d97bb50ab85f6028c8d3d1610049bd59973",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1219960
+    },
+    {
+      "kind": "vocab",
+      "id": "4fc98c6938",
+      "source_hash": "ff65a65e0107f422a0d4df7dc719fccd13b51da49cef39321ce7b15612c3ea8d",
+      "review_hash": "298721137c319f41bb0efc74fca6bdb983124c1a519a37d55f6dec147c06be11",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1219980
+    },
+    {
+      "kind": "vocab",
+      "id": "43c874a6c8",
+      "source_hash": "83f1905b90b920247008e78b6517f414a7c6b9f374249f5330c7289e8f144b41",
+      "review_hash": "b95f6d0d9a2474b7b2166ce7654ed32be8fd96ff191f656e8da3852043463191",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1421700
+    },
+    {
+      "kind": "vocab",
+      "id": "ca76162587",
+      "source_hash": "b3da5b3af55c6f3b7b69cf9c40aeac91b927c25e179bb347c8dcaaa1374ae399",
+      "review_hash": "1c42eb4f9cdb4460832ec7138aa1671ef4ab7b8e474c74bb1175cab2ae56bdca",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1159980
+    },
+    {
+      "kind": "vocab",
+      "id": "d305fa14a8",
+      "source_hash": "b54fc7727592a677a8dae6c373287fc6ce8322f3a0753acfb4f507a9200b57f6",
+      "review_hash": "3bdc63efa8b658e47521b1326a3561192b6d7f92603b4d8c1e8c977d47002559",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1157070
+    },
+    {
+      "kind": "vocab",
+      "id": "cd1bcc2b1b",
+      "source_hash": "9b775af64c9387eb4782778ee3aae5736e7e4797c5c82cc958d1dbe22d0e7c38",
+      "review_hash": "62992a5e255defc510ce2978972acb554e095bd1d3d56f188e3247c4f4877d15",
+      "decision": "Remove irritated, which does not express the intended busy/occupied sense.",
+      "jmdict_id": 1519290
+    },
+    {
+      "kind": "vocab",
+      "id": "4dae367794",
+      "source_hash": "ec9452206406fddbc39753aeee5a7d386cdba6bfc9b018a971f01fa694872f76",
+      "review_hash": "94bceda3f474bad932ea37020ba2e4f384b2c5c00d92ca216b073ea14bbb5453",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1432680
+    },
+    {
+      "kind": "vocab",
+      "id": "eac7a22620",
+      "source_hash": "64e26bf80655ad3ce3fb6b1cd4268d8c4b8d9f644541571929c39349fc239baf",
+      "review_hash": "26b678cbb767e2b670c122dd14bbd6c7d715ca0e2120b0aaf83989a1a1b59d5d",
+      "decision": "The meal greeting was illustrated by payment/drinking uses of itadaku. Replace with original greeting examples.",
+      "jmdict_id": 1410800
+    },
+    {
+      "kind": "vocab",
+      "id": "9d8f862791",
+      "source_hash": "5b42db12b878c2200a614fe0e644a3f4d49303e938da7158df004e9eae9b58f3",
+      "review_hash": "3fea0bf1fd484a14d12fc35c3c3a6f99599ea4ed1d7f92d413233167653abab5",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1160790
+    },
+    {
+      "kind": "vocab",
+      "id": "1cfccd0cdd",
+      "source_hash": "a746c694b70e428b7f38206583d3403b4a1cfaecc808bd5d3e3b20ac49f48c8f",
+      "review_hash": "dc5f669d19fe751ceb783dd9bd158bef0e876ac8666bbfbbed8e48164b91dbcc",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1576260
+    },
+    {
+      "kind": "vocab",
+      "id": "cb96f363df",
+      "source_hash": "ddecad609a9cbb815531193ed240532ba37fbff783e7e62c978793ab3882f2dc",
+      "review_hash": "e4beea932f22d4f8195fc0dc8d44c35c3776b4652b886308c30a29ac1f48bc61",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1165970
+    },
+    {
+      "kind": "vocab",
+      "id": "fac6fc0838",
+      "source_hash": "74af1a4a225a31814e961cb9597dc504708692324be97cacec6cab8cd8257d3d",
+      "review_hash": "61b19171f1ada1e8094cbe6a001bc87ba5efaa55ed0284b0e6ee61acef8a62fb",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1188760
+    },
+    {
+      "kind": "vocab",
+      "id": "2a7c4baf86",
+      "source_hash": "20866b462340cf9977728485d476c078b03edc16de1fd852cb3c97ba7eb9ddc2",
+      "review_hash": "ee180479be5cd00e19a0b75da5a6f0689b6d7aa4347f4504cfeafa4d5a827f3f",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1268570
+    },
+    {
+      "kind": "vocab",
+      "id": "2dc7289c82",
+      "source_hash": "24ee5e30b828dfb33ac236342ebc7ccf6f9b78d72ba5004ddba360ab461dc04b",
+      "review_hash": "a8dc99e3af7b57726ea94d82f61246ab6de20d2b3415b62c279c5211f94bbcd7",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1163400
+    },
+    {
+      "kind": "vocab",
+      "id": "9ac35c3990",
+      "source_hash": "03508ffdd17449e5648ecbfbae46226000dba3395c5dea13946797d69c0b9992",
+      "review_hash": "7b2a16fcff5d0c6dc59f69264307c44e7d4845d384a31e0d24da4883f1f76a62",
+      "decision": "The original matched the proper noun Itsuki, not the counter itsutsu. Original replacement.",
+      "jmdict_id": 1268070
+    },
+    {
+      "kind": "vocab",
+      "id": "dea2a1df8b",
+      "source_hash": "6390dd15a8f766952c1400a3b775373456704d13c8c9e43772074ba39e247ed4",
+      "review_hash": "b62b4e6740679387c2c2860abd6a6f4ea760d39156c843d6ff657e5703edfc7c",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1188890
+    },
+    {
+      "kind": "vocab",
+      "id": "0df89f5010",
+      "source_hash": "6555408f17af4dd45f677ecd2fcae53a05e40125331376a234599b5d97f7cddc",
+      "review_hash": "e8f9d6c3366ea2d139197f7c7f0faa7526d2d6c5f8b551f595d0e6aeebee294d",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1258330
+    },
+    {
+      "kind": "vocab",
+      "id": "ce75c75644",
+      "source_hash": "899e713b8d622c41ab649c0ea9557c92586383d5521e9c93b59fb1444fec8113",
+      "review_hash": "d3d6c8a33eaceceda9be1ea61982fda2e36d5806e649311703ff3fea7cc2f698",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1288850
+    },
+    {
+      "kind": "vocab",
+      "id": "cb29ccdd2a",
+      "source_hash": "826e4269e90c4d9d7f8e0eaf7838dbd88c4351440cbe20996e3ca1063439e6bc",
+      "review_hash": "8c66baab00318b8c530ca6e162f148f0d5357a20986db5344052fcc23e6763c7",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1156800
+    },
+    {
+      "kind": "vocab",
+      "id": "12047d019b",
+      "source_hash": "ba227a673868dec14d541d552a9794ded4db26d24b69c38a4f8b4893c41a8f99",
+      "review_hash": "565a8f5131ec75a069d9f27e0ad9f4110ee8bcdde0c9fe1d4c44629935f17114",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1524590
+    },
+    {
+      "kind": "vocab",
+      "id": "eda751e069",
+      "source_hash": "a2cf132eb5385be1cff6d6f6de6a1c549b1dd5c497cc6665792304c2e2e1cad0",
+      "review_hash": "fe93871d70f61a45f49158841da80af55f3e0bf6f3f685628bae414a087fc8fd",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1587610
+    },
+    {
+      "kind": "vocab",
+      "id": "1ff0529d03",
+      "source_hash": "6a19fc3cf567880794604810b4a2b7273a693c8f0fe6fcb85efeaf888cd0f53b",
+      "review_hash": "91bd3dc48765164787550e2b1f8d209459f99c6774acfb195a38c05ed99f955d",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1582820
+    },
+    {
+      "kind": "vocab",
+      "id": "9438889173",
+      "source_hash": "fcf17323d165282b3a5e2df65878d40d6407690f9c7cf0831f61905134984406",
+      "review_hash": "fb7d76668c78181299e3a838d2aa7eda94c525fb5d17533d8d6e5627264e6119",
+      "decision": "Replace auxiliary iru with an original animate-existence example.",
+      "jmdict_id": 1577980
+    },
+    {
+      "kind": "vocab",
+      "id": "7a84208708",
+      "source_hash": "99228e1f67e7c0c52fc12b6b83e09cd6b44f17935aa6f0a4d11c09fa136f979f",
+      "review_hash": "1a10cf4f7a382528349d7f36338d27701a5601795683cb053b384e15f4ed6b34",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1546640
+    },
+    {
+      "kind": "vocab",
+      "id": "6d824d5110",
+      "source_hash": "ce1db23e17713daeea93d5ec322e06fccf442799c5f4d734d1c498f262f06263",
+      "review_hash": "26c37711dbb1bc5f16764633ef968e8b51171816fd6b7cee63c4b8e99d8e58f2",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1465610
+    },
+    {
+      "kind": "vocab",
+      "id": "523266ea6f",
+      "source_hash": "29efcc7ba7197b4c582da2497b9e3f422de84c9ed05097925b27d9681af16ad5",
+      "review_hash": "78a7a20479f94455fd8279d482828029d54ae28bc7aa555e49c6b0b79f7db32b",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1357600
+    },
+    {
+      "kind": "vocab",
+      "id": "f74dd1ee9a",
+      "source_hash": "68ac319f1573ca41da633f763d01d5f6de74702d599d46d09c67f4306a70234c",
+      "review_hash": "32db4b3f6a42579a9b34b78905d819c37cf80efc6eb099ff801311153849cf6a",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1587850
+    },
+    {
+      "kind": "vocab",
+      "id": "08a3ed212d",
+      "source_hash": "63be583cef653408f16278bd458b1d7393e45ccafe1ed456eafeba3ca052f142",
+      "review_hash": "687409452f12e4b5bb1e6b3257afc5e094e117c5965c08fd850dcdaeb2afd6f9",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1352130
+    },
+    {
+      "kind": "vocab",
+      "id": "93bdc81dd9",
+      "source_hash": "c6524dd79a5edc90d1074ab4fc7d3751c746efa4a88d95beed09cd0d0fa26b07",
+      "review_hash": "866a5def4a9e8f1936afffd1272098f86e401825955422bdedb1e11fce4373fd",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1269410
+    },
+    {
+      "kind": "vocab",
+      "id": "d2b2316e45",
+      "source_hash": "7fb3fa72b4246c77ec03cc84f0e3743b5b09201b8b391edb271b6fbdb232aa36",
+      "review_hash": "5a72c294ddb474d90dae8c1d79d9f48a10331dfe4809549f786d456d27d0e1c0",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1475480
+    },
+    {
+      "kind": "vocab",
+      "id": "036f4180a2",
+      "source_hash": "eabc4e200b4e76d58f44e9a0570df943ca17aeaa9da21cb21305ef55cb937317",
+      "review_hash": "8e07bdbb290515a3654e42cab2e45551415ff234e7cd02d24060305057de87c0",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1193180
+    },
+    {
+      "kind": "vocab",
+      "id": "3464318c23",
+      "source_hash": "085c996ac5da3cf595b14c61e312a333a0820a6943e140cb4bfc7087df02d85b",
+      "review_hash": "6da79f6b8008885da2c8d1a44281e1d0875901617c180325f367a97c67d4fd82",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1588120
+    },
+    {
+      "kind": "vocab",
+      "id": "63bc7722fa",
+      "source_hash": "580aaf5ad1f46d45221e940008388e2062be5bb2dce6d0a5dd1a237343e9eed0",
+      "review_hash": "bfe036fecbe5aabe2e8fc46e5622df1c9554c74dcda146a8e6d1ace2af003b4e",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1378690
+    },
+    {
+      "kind": "vocab",
+      "id": "06ac21dc7d",
+      "source_hash": "716e9a27a70763690d2651af9410cdf9a4766ebe942ea05d83a9b3d6aab10980",
+      "review_hash": "909b5a585f611de89d2756f1c1325b58a2b5ac8bdd896cc5e60c8243e67d691d",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1201190
+    },
+    {
+      "kind": "vocab",
+      "id": "f7e1da43df",
+      "source_hash": "fd370f732ab97a701d362c5860e794a8a1e93950c4b5b2bf64ebc9cfc8974bd8",
+      "review_hash": "69298584da4d7664228258276e8ed724c5ed5a00f66bd59c4121f6d70c80f9c7",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1473950
+    },
+    {
+      "kind": "vocab",
+      "id": "7ecfe0d248",
+      "source_hash": "04e4547002ce01e9a3fa0d1864c719b00dc9de9c6c30d2fc782b878ba998a488",
+      "review_hash": "5ef96d6cf0fb991f12840e6ea663553f72ac431e623244ff467bc5f8d1445dfc",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1481920
+    },
+    {
+      "kind": "vocab",
+      "id": "1ef8a05bf3",
+      "source_hash": "3a6efb4e88c3c1a10f952534cfc6f47fef2eb87a1db9f654ecf739188498f29e",
+      "review_hash": "31ae4eff8b678c43f30d68b6bee499beb5970d833aba1e8dbbdbcee3555d9f61",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1580340
+    },
+    {
+      "kind": "vocab",
+      "id": "5bb390da0b",
+      "source_hash": "8783d3dc57bdd6a5a82be5f96ea8937a76baf618f52d9d00b467870ec43ade34",
+      "review_hash": "8bbaef422aa48fc6a9c31d7cb670a9978dd8c1aed1f277ab9af868881571c32a",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1202270
+    },
+    {
+      "kind": "vocab",
+      "id": "92b1621231",
+      "source_hash": "e94d42ae96cb58e822940992155cb43da6e73f49d9c2a6af5b5f7f7b8a627bea",
+      "review_hash": "63b68d1f5318b7a5399abcccedb8f3e2b343f78719eb61b2eda208b712040b20",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1173720
+    },
+    {
+      "kind": "vocab",
+      "id": "8a88cfbcb8",
+      "source_hash": "81c710f521662f8c9b6fe24ccfbc5f97aa69553711611800799f18a6407463f3",
+      "review_hash": "434bf7cf6ebb1f9e5889bec0052e7eb5085fce29ed0b6548c82fbc8fd6125e14",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1173750
+    },
+    {
+      "kind": "vocab",
+      "id": "16adc7bd03",
+      "source_hash": "6fe6aef7a8d42a9bc6517d40ec6d09f68d4b9f2d9214ac9973c1329cb8d3bc60",
+      "review_hash": "fc84d68e33243149d41cae18b0c5b0238d6a5c65a019410752a7c73b2c93b87e",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1174420
+    },
+    {
+      "kind": "vocab",
+      "id": "8ac60a4060",
+      "source_hash": "aec6d8b97f5d1fa400d57b2674e62df30413427bc83ea5f8bd1380674e60e9cd",
+      "review_hash": "ee7968792ee553eec11dc45413a8cd488990349b0f6e4ff9ce4e224d632b769e",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1001140
+    },
+    {
+      "kind": "vocab",
+      "id": "d5f359c20b",
+      "source_hash": "aa3cfd6435c6d2d68d2586d162371b48bb2608e1cf345692bf093f0b2f5270cf",
+      "review_hash": "1cdde99ec960e5f3c8d819332f1abe650d5ee83b9c1fd5847d817c47969090d0",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1175140
+    },
+    {
+      "kind": "vocab",
+      "id": "eb1695baf6",
+      "source_hash": "5c919b2b3496f43f5e7aa38d70bf0781843b622e2c2ac87e5a7c39ec9488fb6c",
+      "review_hash": "b578508f132811c222c2c6b574ce5c1f71e22588e1d2464e159b29b7f7162b22",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1030630
+    },
+    {
+      "kind": "vocab",
+      "id": "381da4d060",
+      "source_hash": "204e36e28accf6d0b903f6a62681f7e5d98fc48068b13595f9ab8f77fb1b1820",
+      "review_hash": "bf1c5d3b0719c521772539965c73e08bc525a27a1eb5c11052dcdc1fa5be8c49",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1178590
+    },
+    {
+      "kind": "vocab",
+      "id": "7f02ae8fa1",
+      "source_hash": "0989d2c2b98cb2d234c26e7f72c8604ad7ae862b3f6983c176a1edfa1d542265",
+      "review_hash": "897dfb2ffd9334dbdd60e580e665cd58121ffe18185029460460c9e4395aaf59",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1486650
+    },
+    {
+      "kind": "vocab",
+      "id": "60813fffd1",
+      "source_hash": "5c22c1d534583b60d0a3f90f8003a4cd63b4c93afadfa7eb00d404b9844982a5",
+      "review_hash": "1f10b228c0fb297372bf028d2e0a4abd6e794a432e1c004f3878d21fc94cb760",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1407460
+    },
+    {
+      "kind": "vocab",
+      "id": "8fa5a63fc7",
+      "source_hash": "7bd7609890b78c9b9209e65dda763a5a8c94f00696392a940353890d27da0dd1",
+      "review_hash": "3d47266632f7a26928a105ba10dc2be09902f8030fb2a6bad64fc5731d4a29ca",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1588880
+    },
+    {
+      "kind": "vocab",
+      "id": "3a2de0afca",
+      "source_hash": "71ecd9f35e4c57940f47b3595490f81b6da5ab9dc87399d2fe06353e025cbffe",
+      "review_hash": "6a0ace2e9391e009a679402b2d4048475031023c082ad25604a5ac591a16df09",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1412890
+    },
+    {
+      "kind": "vocab",
+      "id": "b48d0c99d4",
+      "source_hash": "45ced342c3569f971de260af9c8c624d124b2de9b1938b84a0a3bd911e7d43e4",
+      "review_hash": "4d4cf98c5ef26a097dd8f9a99c3c283bbfa50114bb078486026e6177e1d6baed",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1382590
+    },
+    {
+      "kind": "vocab",
+      "id": "222ae96df7",
+      "source_hash": "5f2183f86791a3e14f2957272dc920758c849c288cf6f746f436109063ec13e9",
+      "review_hash": "4a57e927288f875c51bc20b4b7793c90804361efd6a9271fd5eaa777ed6bab04",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1307320
+    },
+    {
+      "kind": "vocab",
+      "id": "86f67e2dc3",
+      "source_hash": "387b3f1653e27cc38bb8cdd5dd5c8c7188514b03c75d9f6129eed480662d3d64",
+      "review_hash": "2e1310f5c3638c7b28a234bae5ec04197ecc00b6d60ebfab6f15c062ccad1e77",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1358280
+    },
+    {
+      "kind": "vocab",
+      "id": "4fff6d0441",
+      "source_hash": "294abea9e902006dd440d7117c13ee5986b8ad7a4a8a5921c9935d881973916e",
+      "review_hash": "e6b1f0c9875a8c132f3ad606d04c881063b85615e7063bdde3c698462a3d1f02",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 2394370
+    },
+    {
+      "kind": "vocab",
+      "id": "6a4011f27f",
+      "source_hash": "b53e26b5edc220c675d844aeb4c70c6a236cbc13ba0baeae26a853a38293fd15",
+      "review_hash": "3a4e4b26ac286f1ccfae5871978f9e33acbf0e9d15b8c4a5c11238c9c313a133",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 2085080
+    },
+    {
+      "kind": "vocab",
+      "id": "c3c3ac9f48",
+      "source_hash": "71874ba413da750ff05beeeb487eb690ec798d8ce46da933ef2b4f20faa9125b",
+      "review_hash": "fee7332aad37dca5475fafb5831e5671a3006e050c1ffe92ca350dd75cf98b9a",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1151120
+    },
+    {
+      "kind": "vocab",
+      "id": "d1a343e501",
+      "source_hash": "aca1c7430fa4cd5ef9ffb0146926f4d8a5589862564c8bd628ef3d0c4978d9b6",
+      "review_hash": "b5fa4e89f2d3b6194f8e95d8e6a84cb0e368deccef4d146ec5f8b51f5a5885ba",
+      "decision": "Cover interpersonal relations and among students in the existing examples.",
+      "jmdict_id": 1215230
+    },
+    {
+      "kind": "vocab",
+      "id": "54e1f7a772",
+      "source_hash": "d86c431d9048f33da5aa439b112bb4023d38e33f3263fdc3547d72708f8cd943",
+      "review_hash": "8c1eb3fc354056bb190dc69fd13344a56c8c9d7cc6696993e7ee7d4de20fb702",
+      "decision": "Replace a dictionary-ID token in furigana with the contextually reviewed kana reading; retain original sentence attribution.",
+      "jmdict_id": 1284430
+    },
+    {
+      "kind": "vocab",
+      "id": "2a6a55be8d",
+      "source_hash": "07bf7f29f5c4815e8160eacd656fbfa36431570f264a05ba7fb1a76287b85986",
+      "review_hash": "1dad080125067e2569b155e599b307732047541d69212f300923c55cc3f6b753",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1383260
+    },
+    {
+      "kind": "vocab",
+      "id": "4a3152836b",
+      "source_hash": "22e3734500a4ea6ef657070333799e4e1b517be8a6389be90c093bdeb5ece22c",
+      "review_hash": "220738c326758e103392932117c943b81c74ee8af4c8fb13d0d013ea52626e97",
+      "decision": "Replace dead-battery and rain-stopping senses with original examples of the selected rise/ascend senses.",
+      "jmdict_id": 1352290
+    },
+    {
+      "kind": "vocab",
+      "id": "e877021bf4",
+      "source_hash": "5cf50acbee71c5b15b442591a20bf98a91da722c08cd00bdae0c42c4c5581a4c",
+      "review_hash": "d2efc02e3075a9548c670cbaa5a222c5324bd022dbec5755b52eab07c478f346",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1383310
+    },
+    {
+      "kind": "vocab",
+      "id": "91f0d5ac9e",
+      "source_hash": "e15df26821d98a3ccd7147289ec1b2e904735b5728953857ac3f9f5f4ec6c5af",
+      "review_hash": "b793f4cd11749821097886b7d427b0c7dade811efd8444f4d292d44cfc5492c2",
+      "decision": "Include availability of time, as illustrated by the existing example.",
+      "jmdict_id": 1586270
+    },
+    {
+      "kind": "vocab",
+      "id": "628b6b8e9d",
+      "source_hash": "20d0f4a5e1bb140126435bd00cdf431ced3f5d68ba31c54c53270b76c4ab4e54",
+      "review_hash": "788184fcc8c4e3510b5e2e129b5fa427613eb26374e6a1e0ec84c04b28a8a8b4",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1015220
+    },
+    {
+      "kind": "vocab",
+      "id": "f935952fed",
+      "source_hash": "66dac44fa55ee39e07649d1f2755c8ab1e37d650d41d2e09c991922852786000",
+      "review_hash": "78d818e56b8b1e8eac8893eb3128d6596c9e3f92f3386bb17395304895a6669d",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1390800
+    },
+    {
+      "kind": "vocab",
+      "id": "590fa58ca9",
+      "source_hash": "c536cfd5167d90d3f2d914d2e554fed229e54d2a080db25950f377889be2d0e1",
+      "review_hash": "a8157077e71442fac3cc34298ba23da57197e0c02b0535241626f06b9aad53dc",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1526960
+    },
+    {
+      "kind": "vocab",
+      "id": "97bdb63259",
+      "source_hash": "02ac57eb005c6df0d5b079992ea80af6179bd74fbd284de1deaa18e1647a8334",
+      "review_hash": "d284cdc41b53a6b55836e836deb1c2c4844a67037c68e5ef0810f39f416a16bf",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1015840
+    },
+    {
+      "kind": "vocab",
+      "id": "4c3461199c",
+      "source_hash": "b047fe122aa420f70a587221c9504e55b08cf470f32a6c47a2bdc4d7d5f18d0d",
+      "review_hash": "9e17b8c6a7e3f86da74e5990c9e65345a1f1eeda18aca6cead0b9b2b615cde78",
+      "decision": "The selected reading is asu, not ashita. Use original sentences with explicit matching readings.",
+      "jmdict_id": 1584660
+    },
+    {
+      "kind": "vocab",
+      "id": "7fe5e36942",
+      "source_hash": "42b7dd5cfda2e191d2281959d7e952dff2fa56985f743c51389a2fa5b231d1c5",
+      "review_hash": "0a1cbaa16354c347a2b1416634eedf6cfad8934389c61e40b3cb225c337948f9",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1542070
+    },
+    {
+      "kind": "vocab",
+      "id": "8c98c01eff",
+      "source_hash": "68c75c538d94c754010df05caa9e3014a2fdefdc59a76adf7844081e8a97ecc9",
+      "review_hash": "8958b900c80e0d15957e051703e34ea705aee23e11ad0aff9e3b0056ee969d73",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1333550
+    },
+    {
+      "kind": "vocab",
+      "id": "b00801af22",
+      "source_hash": "5967a620dc9aa6cfd042a13fae31b1289c172db275b584fb07eba451631fa109",
+      "review_hash": "c3c76667d9a953e15e85b141e4433cd6f680e2a0524513c3e60150fde274bdfe",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1333560
+    },
+    {
+      "kind": "vocab",
+      "id": "c1fb180c70",
+      "source_hash": "3226780f3173f616b7c730e0418fcf49d249a2b345be47916ca6dfafa980253c",
+      "review_hash": "54ac95982ea66c7eca12793f79b776ff7449bc7bbd9d60537e3c011e898d18d1",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1017330
+    },
+    {
+      "kind": "vocab",
+      "id": "0fa879c73d",
+      "source_hash": "ad966b5685c5dac5a40cf454702222e27835d5ad67371358f9b018629374ccf8",
+      "review_hash": "9c6cabadf8953889b80023a40bfffdb4128035d86f6ef89d75e93416c5a4bc74",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1929050
+    },
+    {
+      "kind": "vocab",
+      "id": "b921645383",
+      "source_hash": "14eccdc02f73279f56b325f2ac0572a9f80f69e9960b2cf309cc44b17aba23c4",
+      "review_hash": "b3c84aefec9cf7b4fddee11fc082f65fff1b86da356de4d3246d4784c019162a",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1149830
+    },
+    {
+      "kind": "vocab",
+      "id": "1056f23586",
+      "source_hash": "939a3c65f6776655f2e2da16cf46b5644adee58dec7d151cf4a5ebf0b3ee2788",
+      "review_hash": "8268c696af544a9357325cd341b200deae79788b0b06c183ef4ed25bea406929",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1323010
+    },
+    {
+      "kind": "vocab",
+      "id": "ab0767b2f7",
+      "source_hash": "0476c553d3f2619db1601ce700b6e07de8333d946d3bd4e3c67dea8ce165d9c1",
+      "review_hash": "d43c96bdbb0e14580c21b18b8ccfe8d2e181535d4eb00e8fb5a07a5ab44e474f",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1019280
+    },
+    {
+      "kind": "vocab",
+      "id": "88d4196563",
+      "source_hash": "057a3a2d8d8f362160ec5a0dde6e7ed2696355674af7c718f6989f10b0c0da6e",
+      "review_hash": "0273423f31292bd28db85066b5cc8fa7ca027234a728196d30dcd75a18877aac",
+      "decision": "Supply original part-time-work examples.",
+      "jmdict_id": 1019420
+    },
+    {
+      "kind": "vocab",
+      "id": "d06643e4e1",
+      "source_hash": "25167463221d86e61891bec2f5796d93f621ff1dc3693529deda93be3a636152",
+      "review_hash": "1293bd890590b0d042abbe70294ddc4d0826111bbf707ddb2807240398278393",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1153890
+    },
+    {
+      "kind": "vocab",
+      "id": "160a8399af",
+      "source_hash": "aa6e57fef5de10f9c6d5425885bba5377a0c1244edb2e6526c18cdda56ead2fc",
+      "review_hash": "766ee17dcf0bcf876710f93a6cfcc5656de38b25f335d06addd724c914e715e5",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1153930
+    },
+    {
+      "kind": "vocab",
+      "id": "367da027cb",
+      "source_hash": "6e9cff5134680c1867437545201a2daa7f3810108a18c17571d6adc8b92a051d",
+      "review_hash": "eb82e9c0858e16c4e69e0a7baaff78e9414bf62bb4a574053b21558fef943733",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1000590
+    },
+    {
+      "kind": "vocab",
+      "id": "52a79a5d69",
+      "source_hash": "e6d1a534191999d116b1fe21bb4567304096be9fa4859ac6ca51cd00f6adfc2f",
+      "review_hash": "9960afe21162818b3667ac738d419bccc4e602760bbac7f5344fb41684c7938d",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1154860
+    },
+    {
+      "kind": "vocab",
+      "id": "629362dbfc",
+      "source_hash": "d73b629a247f736fd43305d1798ab4abff52435330c4750922d1a1c8262a294e",
+      "review_hash": "a48e947b6e5e00531fd81725e96771332b199ac9411007b73d0bc9c0ea1d4d8c",
+      "decision": "Numerical ika includes the stated boundary; correct gloss and English translation.",
+      "jmdict_id": 1155060
+    },
+    {
+      "kind": "vocab",
+      "id": "da4198f39c",
+      "source_hash": "598281cd67a798c141d06d27481f7819af068712a5315f9e391bbbb4bed646ca",
+      "review_hash": "d97ca2bfd0e25572f471461b097ec7e69e7157fe1a83f8c99653bb2db7be7b68",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1155090
+    },
+    {
+      "kind": "vocab",
+      "id": "20044dd689",
+      "source_hash": "7c06b5060638540e4734d034e44cd8ecd3bbae3caaf7df93c8576acfda15bc5a",
+      "review_hash": "f077933c617004f7f9c509244fad2000f675c4d3390c47937edcb1dd084ed1f4",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1159810
+    },
+    {
+      "kind": "vocab",
+      "id": "db01fd59d7",
+      "source_hash": "73fad96a7f6b379a27cf9308b1552684383dbb20262c66d1268286b4df480417",
+      "review_hash": "fa082c7c34f54a173ab0c9b48db4522b584b5efb46ad465167309fb7dd2b0b9e",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1378520
+    },
+    {
+      "kind": "vocab",
+      "id": "ba5a03baf1",
+      "source_hash": "12c9e004cde8b6b82642f1a7353e7a8248c7c0170204647fbeaa4cf05a9a0e07",
+      "review_hash": "cb6297ad59f0857de0fb33ed0a9fc3369f2a97e1a060540ec3c23b5e9bb19daf",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1156530
+    },
+    {
+      "kind": "vocab",
+      "id": "372ce69caf",
+      "source_hash": "e169774ec30d68855ac88b8c3b1a0e307dd04f10ce90d60e165a71874c843fde",
+      "review_hash": "99e4fdb4625858a0d7200b001ad1660a57052a9fc9c457190e520393079a6a68",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1382440
+    },
+    {
+      "kind": "vocab",
+      "id": "770aa71095",
+      "source_hash": "c29eb87bd55acef3135c103b99377995feefe1297fd9d65bacd2dba1ac4f9c5c",
+      "review_hash": "6fb3777e6becbf3d719e3360c945083f80aeea4c08cc31858c80e979f864155c",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1195140
+    },
+    {
+      "kind": "vocab",
+      "id": "13ab63d79a",
+      "source_hash": "3a1fb23e1ade0144385b5f373e09a34bd86d73958fdbdfe8356f8dff4dbe7a68",
+      "review_hash": "eb77bd47e66d658bdc134081d7c134bfdd5ad9f9909e8b619b03f562a2600d2f",
+      "decision": "Numerical ijou includes the boundary; retain beyond for the degree example.",
+      "jmdict_id": 1155120
+    },
+    {
+      "kind": "vocab",
+      "id": "05b5de61ab",
+      "source_hash": "0aa130e96b677b90d13cf367ebf79404994ff932de6d2e4315600d72de868709",
+      "review_hash": "8f75aae5a4a48caffc41b46dc846e276d3e7a5ddffaac7ed06db2d14cc3f139f",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1228650
+    },
+    {
+      "kind": "vocab",
+      "id": "6dbf756da1",
+      "source_hash": "da06905f3880e1f09d12891f3c09f9598983b1ff96e1a91a35c3c58edb6afe14",
+      "review_hash": "272ad9932e5a588c179fea1b7e0cc559f09624f604a1916dd0677d324139de78",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1421900
+    },
+    {
+      "kind": "vocab",
+      "id": "47cc7185d5",
+      "source_hash": "425bfc70506a05813ed9ab859d1be193e5ff5ffea504db51f78b00f6325042e5",
+      "review_hash": "0915919e906e5df1fe9e5052f7f48909b7c19cae34130ef08dee704c22006206",
+      "decision": "Illustrate lexical humble receiving/eating rather than only auxiliary te-itadaku.",
+      "jmdict_id": 1587290
+    },
+    {
+      "kind": "vocab",
+      "id": "bf82bb12d2",
+      "source_hash": "e7281b29fa64ce8888ee2ff0f7fb2ec0e350ab89d47426dab3e0d1e55ba19d7f",
+      "review_hash": "c0745903b3e70b11224b5f634ffae1adf83b979632a0777c4f9551791c0c0470",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1576250
+    },
+    {
+      "kind": "vocab",
+      "id": "cf69ef2274",
+      "source_hash": "1df9a7c1580e863f73515984c392cca422c51c7d4c90f420b46e611147c1be05",
+      "review_hash": "724a58ee3f1a75d76ffb452fc8aff171b6c816fc18677ee49849f63af7c72842",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1164010
+    },
+    {
+      "kind": "vocab",
+      "id": "95f7288e1b",
+      "source_hash": "d008aa7a27cda65421c8f075037afab141ce5a54506084c20025c990b5198bca",
+      "review_hash": "b2aef5657c54cb5ad5ecc3579f2f7cc09c17817b6800f89c8a29caac2eac2136",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1165670
+    },
+    {
+      "kind": "vocab",
+      "id": "3de1fe452d",
+      "source_hash": "78e3dd7865b906c3a467d560d601d57f6334a40510c921a72667c980336aaf17",
+      "review_hash": "74458d2035ec0fa0c03cda0c61ac445903d6482a82844460ba86cdd1b98eda7c",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1311450
+    },
+    {
+      "kind": "vocab",
+      "id": "556e3e0d99",
+      "source_hash": "787b6fc1c7cd87ea5e1af22187e4505e674a582ecc39e0abadd4f96eb6e70685",
+      "review_hash": "4d697719d1b46e4ebd18177994bf5b18d6d46f061c827fd908ad8cd68ac73b4c",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1155180
+    },
+    {
+      "kind": "vocab",
+      "id": "11d4a3118b",
+      "source_hash": "a88b5ab6ecfaf0a2eb2f6d8c6710b5b7fe350a2bc3dc329b07770542d12d438f",
+      "review_hash": "c6fee29b7c4802d5734fa4e5c1b324e9dce8120e5e935802e0a01b44a78745a8",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1442750
+    },
+    {
+      "kind": "vocab",
+      "id": "877a39a99f",
+      "source_hash": "95e084b71e3c46a104241f0249c70059359720140ee8d0aa14444f748aae1435",
+      "review_hash": "ca127205904a9227b5d37b0bb2d37a5129b4db5fdd195a99eee8e2a5cfba6400",
+      "decision": "Replace a dictionary-ID token in furigana with the contextually reviewed kana reading; retain original sentence attribution.",
+      "jmdict_id": 1222770
+    },
+    {
+      "kind": "vocab",
+      "id": "bc25dff617",
+      "source_hash": "2ca7759eab511e9f2d14fa123de70e57d9d1a9344bd186ddee64097043e4e7db",
+      "review_hash": "6f77828432f577cce303be0222f33ca24b478cbb63a3bf6b159768d0c983c5c7",
+      "decision": "Supply original honorific existence/coming examples.",
+      "jmdict_id": 1000940
+    },
+    {
+      "kind": "vocab",
+      "id": "833af5347e",
+      "source_hash": "a520866e7d6c1c943bdf00e8905d9d6f656804ce86b7216c60cfad0b3a082ca0",
+      "review_hash": "3ceca7e48d410ba2299e0d1ec48c682eeefca345b7429a3c785094f3ed224d69",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1357250
+    },
+    {
+      "kind": "vocab",
+      "id": "bf69a1d9f2",
+      "source_hash": "b42467293b073acdabbdca4543e2a42950288074d841dcd1e48345f88b83bec4",
+      "review_hash": "05f26bf4dd97bdeddf529c359c517896aea02e94ddd6e5a368b57d19924b2c7e",
+      "decision": "The first example is humble asking, not visiting.",
+      "jmdict_id": 1305700
+    },
+    {
+      "kind": "vocab",
+      "id": "4bdd43130b",
+      "source_hash": "2854db78d266cb8981a3a5ddc8bf99adc284d1a879462bb6e183b5d5bcfcdeee",
+      "review_hash": "48bd7353c2f4a7e7e9f0832177958b68c149139be2dd227eb55b65e49ed2595b",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1588060
+    },
+    {
+      "kind": "vocab",
+      "id": "20989c0cb5",
+      "source_hash": "3af2051c6f3788f120758521752935666b0259a9079a6c8132fac50e39c287f8",
+      "review_hash": "98df1c614aee7e03c6451bae5a4239bc20f9ecac04f87d71f142b4d9235164a7",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1329590
+    },
+    {
+      "kind": "vocab",
+      "id": "e54d4fef93",
+      "source_hash": "2f328fdae43d7e0e4ed007eb9a82bc4f0f72d9602a4028933f624357e28acae3",
+      "review_hash": "e15cd124a23958e490f9ed61e5a1486b2fb4eda24deb5e3a9a58e6bbe02b7b25",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1451210
+    },
+    {
+      "kind": "vocab",
+      "id": "da1a2f9721",
+      "source_hash": "2d668b5b25662ed1066f803b75494f1abadb012de376c828edf9d7736d9c615a",
+      "review_hash": "8c95e8744ec318965311cb5c0dd2ed3c5dd805a43e4d5eee7af96b92c3729242",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1172400
+    },
+    {
+      "kind": "vocab",
+      "id": "76d4bcd098",
+      "source_hash": "2b8603a93d5909f56a1706a88ebd53af610aa3579434a7098cad5fab9395fd9e",
+      "review_hash": "25584f2c0d0458710f621c3d6c7be4e94d2e1998d0916c6f6deaa1d22804713a",
+      "decision": "Both examples mismatch the temporal uchi sense; one uses naka, the other home. Replace with original temporal examples.",
+      "jmdict_id": 1457730
+    },
+    {
+      "kind": "vocab",
+      "id": "e6f3a7d91a",
+      "source_hash": "8dfcfada905644b954a8be311c019158bdb47cdb883fe717e9ab0c5cb8695bb8",
+      "review_hash": "c681b310a1e51f74fe3637bc8dbdeb1d8029d983585ca4a1b6de59c9e05011e1",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1408810
+    },
+    {
+      "kind": "vocab",
+      "id": "0dd54894db",
+      "source_hash": "39c6920efbe34a18fb0404916a3f0f2de7dc51816160fa956fcc8b5c1d7cb782",
+      "review_hash": "d0b68088dad1a8473320d91167c8c0e25fe6fe457d61b9f5b70cea32311cbfce",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1486360
+    },
+    {
+      "kind": "vocab",
+      "id": "69589e0288",
+      "source_hash": "af4d841ab6f944c81ee8951aad0e93dd688fccef221695239af53bb05294a6fd",
+      "review_hash": "90cfcdf334cee40a2b98c4148e950d816a9f80341c1db4263846d40b52647277",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1588320
+    },
+    {
+      "kind": "vocab",
+      "id": "c7362b5e02",
+      "source_hash": "1d2e3aab5fe9797f38d3494595759b4dd98868d5a46b25da27e919cb450156e5",
+      "review_hash": "d84bc4eb8b9518ef0e388f1c066b164addc3d492c28f138bb5cdf9e528e53deb",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1158210
+    },
+    {
+      "kind": "vocab",
+      "id": "78d94c404b",
+      "source_hash": "3a8b21ec47f9bded81cc3dc80f56b0e2af6fa51cdacd7672f5397a1542761bdf",
+      "review_hash": "cfcc5bf3691883d342572bf228a1c5db43b889a63bb8616c6c9adce854e8dcf2",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1562850
+    },
+    {
+      "kind": "vocab",
+      "id": "6d3b3fe0a4",
+      "source_hash": "da0bae26cc4e3dfc2519a69d7f38e1a4748b163f72752096e686d34ffbabd460",
+      "review_hash": "ad01276bebe1a7b4569f2bd92ad2923f1068c052a623b1494d5b7dee768d89a4",
+      "decision": "Existing examples mean skillful and a good offer, not delicious.",
+      "jmdict_id": 1310460
+    },
+    {
+      "kind": "vocab",
+      "id": "1b5a6286d6",
+      "source_hash": "f564e01f1a85f969beb2b3203758a0c10afbe533efbfc0baf4dd970a3ae225ad",
+      "review_hash": "16f3791e8d12a63334a2938693772aabbba1ade657ac61b7e29f3a331239f399",
+      "decision": "Use an original physical-reverse-side example for the selected sense.",
+      "jmdict_id": 1550190
+    },
+    {
+      "kind": "vocab",
+      "id": "11222e25b5",
+      "source_hash": "9171bf7f333521f1907fb91a77863c946284276a07a4e54b669c2dccbe7e2874",
+      "review_hash": "56f89da9c35f437b706d8bb03e2cf7f5cb3d0a8515d50b3dbbeab2689c8f6a9f",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1588550
+    },
+    {
+      "kind": "vocab",
+      "id": "c67a9658b1",
+      "source_hash": "3b2eade956724aeee2b2b40ed885fbc894d20397fc82ae93b2723e02ea8dbb19",
+      "review_hash": "8b6293ea9add933e0f26f47c9c82c390ee201e1a62edcf473721ba923fa4ca51",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1219510
+    },
+    {
+      "kind": "vocab",
+      "id": "533b248802",
+      "source_hash": "e05e8882ea1a3d860f1037115b80a8c911282f15753a6a93e9c45919a6c73970",
+      "review_hash": "5f8ed7e58980b2894d7f4d91c0aef4f0537807c2cf810ee2ab8bcea519882149",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1001090
+    },
+    {
+      "kind": "vocab",
+      "id": "44f33984fb",
+      "source_hash": "729df30ad5006159a9188b46bf93990f16f8f5cc8e72ac0606c4e408cc01922a",
+      "review_hash": "6678f5a765e052401ef42820dfae5546d038f16db229b43dbfff1c890a9f028e",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1172830
+    },
+    {
+      "kind": "vocab",
+      "id": "9f6e25d5e2",
+      "source_hash": "113f0a8a9ab522a55c25710a231b3f7d9bb0f28e98d660eeb2cfbef240a48673",
+      "review_hash": "406bc356cfc89b81e8330b4a8b359bec56de7f15dcbe2e85d37acff599ee8175",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1172870
+    },
+    {
+      "kind": "vocab",
+      "id": "47487b1e85",
+      "source_hash": "e6e42241495d46b9057875352edd854edcc802f8d9fbec0f0b3f6793e7d3256c",
+      "review_hash": "e397c0ac3045fd55fb26510376916910ead4e6a62e2a3434c9fc48822c91f034",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1172910
+    },
+    {
+      "kind": "vocab",
+      "id": "3139c14254",
+      "source_hash": "08471231d36fd3be6f5f4ed21fe93094c889212ef95b033fb51d0f35953866d6",
+      "review_hash": "41dd8c5d0d1a3f77493207eac9b75c16859c5d743686fde08e16427ec8bd4adc",
+      "decision": "Replace a location-dependent instruction with an original neutral escalator example.",
+      "jmdict_id": 1028580
+    },
+    {
+      "kind": "vocab",
+      "id": "bb01cb559f",
+      "source_hash": "a72c2109f56bcbabb305dcbee175e6309dce677a7e14a86d421cf2e3d3def413",
+      "review_hash": "b530b8e3a12d5c0442a9fb800332bc07636b433893c908d3d7a1e8e915c7f11a",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1310530
+    },
+    {
+      "kind": "vocab",
+      "id": "60c9784974",
+      "source_hash": "7d8dc843039c5a9b8b1e368cffc99faeb2b55f8eb27d000261ded1c100904cc3",
+      "review_hash": "c69f7decbd2a58d7da03514470c04e823037bd1915c97004b17a42a37db9cbcd",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1588730
+    },
+    {
+      "kind": "vocab",
+      "id": "5ceed9165d",
+      "source_hash": "2b2861ff742e6447c41a12f62443ca69422e180e5a359346190cd34fd14b7371",
+      "review_hash": "ecdbb287359692cfcbf57c0ca284ec32295c738da31cdacfec18351a02b1e730",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1178450
+    },
+    {
+      "kind": "vocab",
+      "id": "53c76e5c6e",
+      "source_hash": "c959dc24c7a3e1319da44b4f78d935236eb7822fb57822565408e63c751050de",
+      "review_hash": "302bdb7836652be4c9ffa799936236a80f84d2b7ad5e9ce3559a4900a03c6550",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1001180
+    },
+    {
+      "kind": "vocab",
+      "id": "12e7bd036b",
+      "source_hash": "3bebe7353db470cc334f0a3b78ec71fc5b67f491db0796e8cee77f6b893472dd",
+      "review_hash": "bfa8474b3fb1832a4d2bbafc4648e81a5aed9633fb78ae19ce31b1cf7aa6ecc2",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1612770
+    },
+    {
+      "kind": "vocab",
+      "id": "5c63f36f44",
+      "source_hash": "e64d4fe8350bffadd12c5809ab5dbef5c33082a37ed7c6d562c92b7e36110667",
+      "review_hash": "f24b68d1474972a995b163bc7c138595b753abac8ebaaf4167ca5d44d3d6c547",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1032030
+    },
+    {
+      "kind": "vocab",
+      "id": "e5e5899ce2",
+      "source_hash": "8ccd5b4cfc9d8100ca9d409f43b31a5a1e4b633dcdf3f79c5a8afcdaa9db6745",
+      "review_hash": "fec2c2786f5ae255d4871a305dfff764b2e8a6c654e6347b2c4f92f63fcdd388",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1001640
+    },
+    {
+      "kind": "vocab",
+      "id": "4d2128cddd",
+      "source_hash": "25ef432eaa51d0d0f28f0fc7c75659160487eba8e5d0f9892498da53fd91ac4b",
+      "review_hash": "8affb10d1b7edf7d86099f5422d0db4f3c316134415d55dd6ef3f2615cf7e3b6",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1190860
+    },
+    {
+      "kind": "vocab",
+      "id": "a58874b751",
+      "source_hash": "56afcf441ffbe2016542c498a50d97fdfd900a1daa1b74505d1802eafe6081bf",
+      "review_hash": "219c547112032bba9dee171ab99f6ed076f6aef8672ea108305956c099496401",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 2429350
+    },
+    {
+      "kind": "vocab",
+      "id": "4cfa8f43e2",
+      "source_hash": "4e527ddd70104d40fd377a12dc790d99106b7a4d9fc19c015073bc92f0a6ecd9",
+      "review_hash": "0dc909c97d13b1cd78ec719519522b3a0345ca94c341cb1ceaef1d6b95d8171d",
+      "decision": "Replace incidental factual claims and malformed furigana with original illustrative sentences, not real-world statistics.",
+      "jmdict_id": 1182620
+    },
+    {
+      "kind": "vocab",
+      "id": "1065d7145c",
+      "source_hash": "4052329a3b5279e8bc3ebe2c97572a31ebc8aed9efd46815be8c9b304ade5d86",
+      "review_hash": "4b35f684b882cb8d575f8bc6f4ac88746ce1d3ee5c631fc9ce6d835d6b474c11",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1182710
+    },
+    {
+      "kind": "vocab",
+      "id": "ba001e2f36",
+      "source_hash": "815acd13c296479ccfb07dfba25363bae3c5ce5c86999493e4d675da23a23e51",
+      "review_hash": "e0f73e4a8343271c57d7db882a6b2722b7141c2c167cacfc502b1fa2f43f621a",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1589030
+    },
+    {
+      "kind": "vocab",
+      "id": "af1dae5588",
+      "source_hash": "e16d7a500de28ca5eba7183ca1be91b520d1797ab6adbc972f05ce65daf4c633",
+      "review_hash": "7029757d6a68caf400c42d67684d9221fbb46a0fce38c2be5626386f769ac504",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1402730
+    },
+    {
+      "kind": "vocab",
+      "id": "ae8ce3986c",
+      "source_hash": "f1e49bce60c997fd1d6479b94edb84cf04a3e54396b71d6a95d749acbe50c009",
+      "review_hash": "18d4f1fdede4e359c5f5c3832b4f9410a7a817c491bd37c53f180c9fd33c870d",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1589040
+    },
+    {
+      "kind": "vocab",
+      "id": "99de4451f7",
+      "source_hash": "38655200871c77b820e16c9a69a94f5c38d656558860d37b6e2f7fca68ec837e",
+      "review_hash": "5976daa611067dae9db578f0994ab0e2a694c6f688d75a5ebb11c2b3347a5426",
+      "decision": "The first example raises the body, while the second wakes someone.",
+      "jmdict_id": 1223660
+    },
+    {
+      "kind": "vocab",
+      "id": "2139fab218",
+      "source_hash": "a2f37362885c906014ac42325102242f9e7d9b02d20464af5a2428b8719a9a93",
+      "review_hash": "e33bbcee2e7b8621cd8f01b4a6eab15670e3a50cd8a0ac2b40f82a7de61cb08c",
+      "decision": "Original example disambiguates okonau from the mistaken iku example and reading.",
+      "jmdict_id": 1589060
+    },
+    {
+      "kind": "vocab",
+      "id": "2e0f32c097",
+      "source_hash": "dfbf31dde8c352392bc73f68fa51d7edf3c3bf0c955507f47c16f03b0dd5e8f0",
+      "review_hash": "205ba1eca2908eea92a3e899b37ec74d16f33230b229743d63880c9e7cd1d103",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1445690
+    },
+    {
+      "kind": "vocab",
+      "id": "3787755f33",
+      "source_hash": "7979f68ad6015f1ffbd87eb685f6351e8994990e4166e04f9fc6910814be0ab0",
+      "review_hash": "fcec2484343ff03f168906cc57cabf5a8eb5c0698a1b18fceefb664a27a4bb9a",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1589110
+    },
+    {
+      "kind": "vocab",
+      "id": "1f5a7d8e07",
+      "source_hash": "d68eca99eda69a4bcf104cead3af55c25af5b6610ed2c5827af0cbdd8716fae1",
+      "review_hash": "236a346da3eb63486bbb9914d32a5805b74122704e1c4782d080c1fbc1901342",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1002170
+    },
+    {
+      "kind": "vocab",
+      "id": "6693b4e9f7",
+      "source_hash": "2af4360d588babcca7e467721fc9c18c2e87f4552897da2356331f9a97a156df",
+      "review_hash": "a6ecb4df8de2f2acb23a1a6be0603ddf24acd8d7b6bdd40b9b83b0d8a3683f73",
+      "decision": "Otaku respectfully refers to an organization as well as a home; the second example concerns a store.",
+      "jmdict_id": 1002400
+    },
+    {
+      "kind": "vocab",
+      "id": "981ee66f59",
+      "source_hash": "7b643a29df23a4836bb1b828986931a788bac46a60393c7497ceb95b0552b04d",
+      "review_hash": "018760d133c08307b28fd95e79dd849ee433cda7524129655ae17caea15690be",
+      "decision": "Use original physical-falling examples consistent with the selected beginner sense.",
+      "jmdict_id": 1548550
+    },
+    {
+      "kind": "vocab",
+      "id": "050024e2d9",
+      "source_hash": "53adf27a46b916f0cab056a1471f1c8b15b9cd07802568c0f5077ff3c78f1401",
+      "review_hash": "1a9606224d632832b5e5812f91ccef0692288b093e913bea8a1f529d8bd1badd",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1238840
+    },
+    {
+      "kind": "vocab",
+      "id": "b8630e0875",
+      "source_hash": "bfffcc12f6bd53ffce8c63a99906a9cae4896319d603266859b135d9f206d109",
+      "review_hash": "a4b3daf65cce2613c624d83a9e0301af762fe8fcaf29d6b374b2ca0a63db06e7",
+      "decision": "Replace a dictionary-ID token in furigana with the contextually reviewed kana reading; retain original sentence attribution.",
+      "jmdict_id": 1496480
+    },
+    {
+      "kind": "vocab",
+      "id": "f2c38f9517",
+      "source_hash": "46ec1b9a5e3d2dc3063456bfbf5574fef8fd4b95e72d9d2eb281a1e61e65f66b",
+      "review_hash": "0784926703f0003017757dc159a8c38d55d9ce5c8e49210faab521c4503e7931",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1270550
+    },
+    {
+      "kind": "vocab",
+      "id": "c6815e7618",
+      "source_hash": "cab996ec13356f4bee162f6e15db91b2048f9ab2bc041f032c591c06fce767a4",
+      "review_hash": "ef05b1604c8497ffe9c000f7b3495a580f906043d46b13a0459cd10d5c9f634d",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1576900
+    },
+    {
+      "kind": "vocab",
+      "id": "f786333cf9",
+      "source_hash": "871aa039cb33fe8c438940cb359370da90e840527eac5f8abb98cdf30f129630",
+      "review_hash": "4f695c1e5c71b705b6db6e75807fbc1941c5a0c15d23b51ef0d5fd5d49f3ee87",
+      "decision": "Use an original example of dropping/losing rather than removing a name from a list.",
+      "jmdict_id": 1589260
+    },
+    {
+      "kind": "vocab",
+      "id": "8c636a46f4",
+      "source_hash": "187511dcb68dddb774b5a589efbba5caafa24d6a9743120a6614a9fb198415fa",
+      "review_hash": "74e3f1f01d9064a25a1ff4062ca3c88672b1e899d3a9996ce1554a4b574afad6",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1546880
+    },
+    {
+      "kind": "vocab",
+      "id": "3280103eb8",
+      "source_hash": "60f7dac6b5e710875b894c5dbc99eb90b8fb1f6370a7c2791f7116696bcf9b6e",
+      "review_hash": "b32c44810c3bf70bce82fb76fd2d5884274cd0bce466a46827e680b469a74695",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1538440
+    },
+    {
+      "kind": "vocab",
+      "id": "6d69734463",
+      "source_hash": "15c9e82e984362bd2759d816d0eab9ffe88a11cf689a7e9c54abf7f5f9553311",
+      "review_hash": "3c5484103bde5711c9cf2c79963a50ff0d370f43d60d48b9e449d73df7cfa83c",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1238680
+    },
+    {
+      "kind": "vocab",
+      "id": "68ff489ea4",
+      "source_hash": "5fa058b50345af1c260e76b2b5285f568f6f602a8af3d0c6b879f329bc2105b8",
+      "review_hash": "6933c9115305a188e0d50fd3d63b5f04a6af93eca476965e45fe41048c454de6",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1604135
+    },
+    {
+      "kind": "vocab",
+      "id": "eb615955c8",
+      "source_hash": "321dac9006f9c828f8187198cef5a46514a1134527e0101330cd41e513257064",
+      "review_hash": "fc6f187c6c19900046b2a1ed463556542fd5d08ec584c655feb8ece31f6c3dfb",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1001870
+    },
+    {
+      "kind": "vocab",
+      "id": "554ab81272",
+      "source_hash": "57b65166bd62a3696b0ecdafca82fba559f8a160b08ad29de5ef8367bd6db92f",
+      "review_hash": "4720e7a7f7df182797d51062ff4f241ebb8a10e93daf577d0e819645aca68007",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 2137720
+    },
+    {
+      "kind": "vocab",
+      "id": "aa663833e4",
+      "source_hash": "b8d96da16731f7d08162f5c1d98664949e5c3c1cfefe6bd81a117af199d8c027",
+      "review_hash": "1179a0debe2b5d5b8c0693c893cc1ce820026ab8ef8088607b2519418f3b3a74",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff.",
+      "jmdict_id": 1401210
+    },
+    {
+      "kind": "grammar",
+      "id": "wa",
+      "source_hash": "3176e50529d6bda7707f7a4b5a7963c699a1d9b8d96440156d6a0a474c9e3958",
+      "review_hash": "72bbc3bf2f9fe44829a08bf4cb80c8979284f3fc4fdcb4640f3b1a0678ce8db1",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    },
+    {
+      "kind": "grammar",
+      "id": "ga-subject",
+      "source_hash": "6fd39578a6caa28da48534dec9128ebf021b902198d26f46d18fcf4d14c5cf1b",
+      "review_hash": "189fdb9f704573c6514c8475f8a281cdcaa61dd1c48c7dfa9d6c7cc72fbbbdad",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    },
+    {
+      "kind": "grammar",
+      "id": "o",
+      "source_hash": "bcab0dc2551d165d900894c81347803e39905b3ae3738bcc121fbb50685275d3",
+      "review_hash": "a23e09f2689ca473204a9bc294ac0a46bae9ea37fd223f17ec410e79a7313ac3",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    },
+    {
+      "kind": "grammar",
+      "id": "ni-time",
+      "source_hash": "22dd5f3fdd4c81678bbdf62540b849d03ef4b05f91333099b9f7341d1f60f4d0",
+      "review_hash": "d7c368dae1c3b2ad72297cf751b4095890cedaf517c2f4a72f0cb2990a5610ae",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    },
+    {
+      "kind": "grammar",
+      "id": "ni-destination",
+      "source_hash": "06b0e934d16e9c9e52e9ffda249d50fbf756858b063f5dd06c36e56de92d65ad",
+      "review_hash": "ca339cc0398099c8277b44b3527b6b8a099e6e462bbc8ddda4c852488992e4e3",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    },
+    {
+      "kind": "grammar",
+      "id": "ni-location",
+      "source_hash": "4296c668739177e8285b1bfd77ea3227a9e8f273d80a260662844fb0a80a5266",
+      "review_hash": "3235d9edaeb73fd4f395b8e997438074f73964d80c2d4979fb4870b5ab7f77cf",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    },
+    {
+      "kind": "grammar",
+      "id": "ni-indirect-object",
+      "source_hash": "a0723afaedf42490a1df2a08abe29bed55e50cb91023bc575fe1b0a03afbb011",
+      "review_hash": "263f69cecc380162b217075f4e4214a7cf78a6c912d93a2cc57d2b152d59c4fc",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    },
+    {
+      "kind": "grammar",
+      "id": "ni-frequency",
+      "source_hash": "6805e7472ffc06a0a5b3745e4e4a6be8e3f33717ffef241416ebfb90cba5d212",
+      "review_hash": "ec4ae3b92fa4183f39f3c62bb8bfee2466d054648908eab3382316437a209a3f",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    },
+    {
+      "kind": "grammar",
+      "id": "e",
+      "source_hash": "d6a7e432e198c51f68b930ffe6265fb65cbb0747634145275eed8891fdad59b0",
+      "review_hash": "7dd33a4eded929e32b61a96f1ffe6c056a6604d762932d078b5cbc1cff4f0b27",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    },
+    {
+      "kind": "grammar",
+      "id": "de-place",
+      "source_hash": "0a7f0a4c3639fd8d6a46200bc90903d64ea139b13be6fff69fb9c9d2c73c7c9f",
+      "review_hash": "ffac0336285db73bf30a09df1f04b53012bd58b5d8cfec4e7ca2d32fca8d9669",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    },
+    {
+      "kind": "grammar",
+      "id": "ageru-kureru-morau",
+      "source_hash": "37fc6ae3038a18c36d93616dc845e9bbba1a141063af4a7debab57ee04e3b22a",
+      "review_hash": "0fcf41043a6d61c1116a39ec70bac2e1306765af6e903551c177fd3467aa4f4f",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    },
+    {
+      "kind": "grammar",
+      "id": "te-ageru",
+      "source_hash": "4a3e646b4bc0e0437258e7da79d12c1ed51cb3dfde65cea35de8e2bddcd48064",
+      "review_hash": "69c668e3fd1a3e9cf95182001093d618b3f21801081a8082f335e6e5f733d083",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    },
+    {
+      "kind": "grammar",
+      "id": "te-kureru",
+      "source_hash": "8f23f4cf953c6158a3224725d7c105abe528787f7f72e4c65dceb7abba88865e",
+      "review_hash": "8db5b945abd8b9d187b32a71de2e59cb04effa566656b13a7e577fff38ca45b2",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    },
+    {
+      "kind": "grammar",
+      "id": "te-morau",
+      "source_hash": "b479421519422cb48cc3d45a4500c6a20982bd99acf35c87cda671735910f46e",
+      "review_hash": "5e19efea2b9cfd41098fe2804d731efc6432876eb789df0fc8bdd336ce1b7a56",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    },
+    {
+      "kind": "grammar",
+      "id": "te-kudasaru-te-itadaku",
+      "source_hash": "89d89ca998bb47ae57f16df9541ee2a21d4768bb70b34b9d44f5f3f368a05c9f",
+      "review_hash": "df2d2800b662ee41b9c142fbd2946d334467e7da4d24ff5581d18ea981ffe658",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    },
+    {
+      "kind": "grammar",
+      "id": "te-iku",
+      "source_hash": "fe0c03368d6080fe520658f7df7c3a99eab3cfe2a874860fa5b8aa500d64a5cc",
+      "review_hash": "0d0cc91ad73b8239b071a492d20fab723d760c71870d4092d7674cd70677d002",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    },
+    {
+      "kind": "grammar",
+      "id": "te-kuru",
+      "source_hash": "5d74555bfcf1f44d5ffe474ae9282266e467084290c7e979fe82b93d81048611",
+      "review_hash": "7f3aceff00c2ca920167d9787a9029bd151c5fe0a39b52dda925c06f69df5ede",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    },
+    {
+      "kind": "grammar",
+      "id": "te-shimau-chau",
+      "source_hash": "437f82543fd9db20a39d22276d8d6de11750fcf10874fc2f09e85cb84c0e4884",
+      "review_hash": "86354e9bab9a70f5451490068d0b90b9a8e2306156db8cd170912e6273376604",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    },
+    {
+      "kind": "grammar",
+      "id": "te-oku",
+      "source_hash": "9fb49e2ad1e1f01b80a6aca0f0fe897129bc5a0d706e6233f674857852ace10d",
+      "review_hash": "adef931b3ed83bef364f7d3f37a2793ba16aca21a3b0e62f91c7db2f7638bfe8",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    },
+    {
+      "kind": "grammar",
+      "id": "te-miru",
+      "source_hash": "649942fec9e65f6d38afc3278953eb914961bbeb31da05bf4a0d5b262cd5f222",
+      "review_hash": "222d37b9186d6c0a8372cdd8b956b4b59d961498a3c14f919b45c9e259a8e0cc",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    },
+    {
+      "kind": "grammar",
+      "id": "de-means",
+      "source_hash": "15e4d1b692358e28da1f70a7384cf6e11f27fc4ff202c315d5642015a87199a3",
+      "review_hash": "af03a83bd504e722f6d7269610876ff3ef0d952daa0bc024f2f3d5ae9bddb4b8",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    },
+    {
+      "kind": "grammar",
+      "id": "to-and",
+      "source_hash": "61aba31711fa09fdfaad6bcf045bad56279ba19961b8cd6f788a7f8d8e5eb410",
+      "review_hash": "0f67c7c11dd89cd29345fbe9055d25dea67694442b7355bd938de8cebf266930",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    },
+    {
+      "kind": "grammar",
+      "id": "to-with",
+      "source_hash": "287d4fa3fc13ba76a8caf34fe03200613767ddfeaeb37d999a2d27ccb7e934ce",
+      "review_hash": "37034cfa2f94b506d7b67e17492cf12b1584ec14e4e67d7c9e2ee53fe5dec0cd",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    },
+    {
+      "kind": "grammar",
+      "id": "ya",
+      "source_hash": "300c2ebea83cb83cd6b9087fc182f125f606e37c20e089fabd12f9832c4aab70",
+      "review_hash": "d4abc1defa9f2dac9d19bde63368f8c4759bc107643e4469cb1df5f56e866cd0",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    },
+    {
+      "kind": "grammar",
+      "id": "ka-or",
+      "source_hash": "c3ddd36ca270d70b9b6c5c3a1a661bd6b01870c9df9c9882bb9aa0665fce8aea",
+      "review_hash": "2493716cc0b764c3bdd7a52c31af4465968529f154dcbf1cc962f25b2796bca2",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    },
+    {
+      "kind": "grammar",
+      "id": "te-aru",
+      "source_hash": "efdf24e7e6f693064ab614783615fcded5474b9ee10e5adae6cb08466e461dcd",
+      "review_hash": "8c17a2ddc337efe80ba8b5c9ef58e78fc4d200d6b5cbe96fd643f803941b6543",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    },
+    {
+      "kind": "grammar",
+      "id": "toki",
+      "source_hash": "363cf2525e7bf22a0c0d23e3458046ae9d8b8a1547ec0179ab5791fcef2277a2",
+      "review_hash": "dfcce00901c1883abfc3d7c80923c6e88e4f047e2fc37f7d12b896cf7a617ea3",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    },
+    {
+      "kind": "grammar",
+      "id": "aida-aida-ni",
+      "source_hash": "3334aab0b9e602b049fdf17f37ea681efdfc749e37c1d1f4ef5e4637033de957",
+      "review_hash": "d64475beb8a64800902dcdaf31f0d4bdef26a7138c27105c3272089d45335aad",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    },
+    {
+      "kind": "grammar",
+      "id": "sou-da-appearance",
+      "source_hash": "92aad9e99e3e468052b85a3639fe9691a437f00f5388b8ef6240ed3bb27b18a8",
+      "review_hash": "90db0b860fadd1aa6df55e2d0f8ddc867455b025746764eaccd6b018f734a142",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    },
+    {
+      "kind": "grammar",
+      "id": "sou-da-hearsay",
+      "source_hash": "130525b4118230e950d2132d7b590813bb258d5e4b69f8c5e8bd642a12d25e41",
+      "review_hash": "aa9fcb191e7ca52a3586a12663ca2b8dfa0fdcd10dec0fdc9ff487a9ee18250a",
+      "decision": "Reviewed selected meanings, Japanese sentence alignment and Chinese wording; accepted with any changes recorded in the Git diff."
+    }
+  ]
+}

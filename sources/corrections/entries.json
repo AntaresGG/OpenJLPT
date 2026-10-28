@@ -180,5 +180,1142 @@
         "discussion"
       ]
     }
+  },
+  {
+    "id": "ebec658463",
+    "word": "青",
+    "reading": "あお",
+    "reason": "Include the conventional green-traffic-light sense shown in the examples.",
+    "references": [
+      "JMdict entry 1381380",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "meanings": [
+        "blue"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "blue",
+        "green (e.g. a traffic light)"
+      ]
+    }
+  },
+  {
+    "id": "51a671ec17",
+    "word": "青い",
+    "reading": "あおい",
+    "reason": "Include figurative inexperience, explicitly illustrated by the existing example.",
+    "references": [
+      "JMdict entry 1381390",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "meanings": [
+        "blue"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "blue",
+        "green",
+        "inexperienced"
+      ]
+    }
+  },
+  {
+    "id": "9661cbac61",
+    "word": "上げる",
+    "reading": "あげる",
+    "reason": "Both examples illustrate raising or increasing, missing from the original gloss.",
+    "references": [
+      "JMdict entry 1352320",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "meanings": [
+        "to give"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "to raise",
+        "to increase",
+        "to give"
+      ]
+    }
+  },
+  {
+    "id": "bee501faf0",
+    "word": "あそこ",
+    "reading": "あそこ",
+    "reason": "Replace an anatomical euphemism with an original spatial example.",
+    "references": [
+      "JMdict entry 1000320",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "先生、アソコがかゆいんです。",
+          "furigana": "{先生|せんせい}、アソコがかゆいんです。",
+          "en": "Doctor, I've got an itch in my crotch.",
+          "tatoeba_id": 2733322
+        },
+        {
+          "ja": "あそこのスポーツカーを見なさい。",
+          "furigana": "あそこのスポーツカーを{見|み}なさい。",
+          "en": "Look at the sports car over there.",
+          "tatoeba_id": 234395
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "学校はあそこです。",
+          "en": "The school is over there.",
+          "furigana": "{学校|がっこう}はあそこです。"
+        },
+        {
+          "ja": "あそこのスポーツカーを見なさい。",
+          "furigana": "あそこのスポーツカーを{見|み}なさい。",
+          "en": "Look at the sports car over there.",
+          "tatoeba_id": 234395
+        }
+      ]
+    }
+  },
+  {
+    "id": "34e6f7d220",
+    "word": "あちら",
+    "reading": "あちら",
+    "reason": "Use an original example of the actual headword rather than its casual variant.",
+    "references": [
+      "JMdict entry 1483185",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "こっちの本はあっちの本よりやさしい。",
+          "furigana": "こっちの{本|ほん}はあっちの{本|ほん}よりやさしい。",
+          "en": "These books are easier than those books.",
+          "tatoeba_id": 217779
+        },
+        {
+          "ja": "あちらに着いたら手紙をください。",
+          "furigana": "あちらに{着|つ}いたら{手紙|てがみ}をください。",
+          "en": "Please write to me when you get there.",
+          "tatoeba_id": 234350
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "出口はあちらです。",
+          "en": "The exit is over there.",
+          "furigana": "{出口|でぐち}はあちらです。"
+        },
+        {
+          "ja": "あちらに着いたら手紙をください。",
+          "furigana": "あちらに{着|つ}いたら{手紙|てがみ}をください。",
+          "en": "Please write to me when you get there.",
+          "tatoeba_id": 234350
+        }
+      ]
+    }
+  },
+  {
+    "id": "4afffe5811",
+    "word": "甘い",
+    "reading": "あまい",
+    "reason": "The first example uses leniency rather than sweetness.",
+    "references": [
+      "JMdict entry 1213400",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "meanings": [
+        "sweet"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "sweet",
+        "lenient",
+        "soft on"
+      ]
+    }
+  },
+  {
+    "id": "d727a76b22",
+    "word": "あれ",
+    "reading": "あれ",
+    "reason": "Supply original examples for the demonstrative, without borrowed sentence attribution.",
+    "references": [
+      "JMdict entry 1000580",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "あれは何ですか。",
+          "en": "What is that over there?",
+          "furigana": "あれは{何|なん}ですか。"
+        },
+        {
+          "ja": "あれは私のかばんです。",
+          "en": "That over there is my bag.",
+          "furigana": "あれは{私|わたし}のかばんです。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6d4596ae46",
+    "word": "いいえ",
+    "reading": "いいえ",
+    "reason": "Supply original negative-answer examples.",
+    "references": [
+      "JMdict entry 1583250",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "「学生ですか。」「いいえ、会社員です。」",
+          "en": "Are you a student? No, I am a company employee.",
+          "furigana": "「{学生|がくせい}ですか。」「いいえ、{会社員|かいしゃいん}です。」"
+        },
+        {
+          "ja": "「これはあなたの本ですか。」「いいえ、違います。」",
+          "en": "Is this your book? No, it is not.",
+          "furigana": "「これはあなたの{本|ほん}ですか。」「いいえ、{違|ちが}います。」"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cd1bcc2b1b",
+    "word": "忙しい",
+    "reading": "いそがしい",
+    "reason": "Remove irritated, which does not express the intended busy/occupied sense.",
+    "references": [
+      "JMdict entry 1519290",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "meanings": [
+        "busy",
+        "irritated"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "busy",
+        "occupied"
+      ]
+    }
+  },
+  {
+    "id": "eac7a22620",
+    "word": "いただきます",
+    "reading": "いただきます",
+    "reason": "The meal greeting was illustrated by payment/drinking uses of itadaku. Replace with original greeting examples.",
+    "references": [
+      "JMdict entry 1410800",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "８ドル５０セントいただきます。",
+          "en": "$8.50, please.",
+          "tatoeba_id": 234953
+        },
+        {
+          "ja": "ワインをいただきます。",
+          "en": "We'd like to have some wine.",
+          "tatoeba_id": 192061
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "食べる前に「いただきます」と言います。",
+          "en": "Before eating, we say itadakimasu.",
+          "furigana": "{食|た}べる{前|まえ}に「いただきます」と{言|い}います。"
+        },
+        {
+          "ja": "みんなで「いただきます」と言って、食事を始めました。",
+          "en": "We all said itadakimasu and began the meal.",
+          "furigana": "みんなで「いただきます」と{言|い}って、{食事|しょくじ}を{始|はじ}めました。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9ac35c3990",
+    "word": "五つ",
+    "reading": "いつつ",
+    "reason": "The original matched the proper noun Itsuki, not the counter itsutsu. Original replacement.",
+    "references": [
+      "JMdict entry 1268070",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "この箱にはリンゴが五つ入っている。",
+          "furigana": "この{箱|はこ}にはリンゴが{五|いつ}つ{入|はい}っている。",
+          "en": "This box contains five apples.",
+          "tatoeba_id": 220200
+        },
+        {
+          "ja": "レストランやパブは五つ木通りにたくさんあります。",
+          "furigana": "レストランやパブは{五|いつ}つ{木|き}{通|どお}りにたくさんあります。",
+          "en": "Many restaurants and pubs are on Itsutsugi Street.",
+          "tatoeba_id": 192345
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "この箱にはリンゴが五つ入っている。",
+          "furigana": "この{箱|はこ}にはリンゴが{五|いつ}つ{入|はい}っている。",
+          "en": "This box contains five apples.",
+          "tatoeba_id": 220200
+        },
+        {
+          "ja": "卵を五つ買いました。",
+          "en": "I bought five eggs.",
+          "furigana": "{卵|たまご}を{五|いつ}つ{買|か}いました。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9438889173",
+    "word": "いる",
+    "reading": "いる",
+    "reason": "Replace auxiliary iru with an original animate-existence example.",
+    "references": [
+      "JMdict entry 1577980",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "すっかり食べ終わってはいない。",
+          "furigana": "すっかり{食|た}べ{終|お}わってはいない。",
+          "en": "I haven't quite finished eating.",
+          "tatoeba_id": 214668
+        },
+        {
+          "ja": "あんないい男そうそういないぞ！！",
+          "furigana": "あんないい{男|おとこ}そうそういないぞ！！",
+          "en": "There aren't many blokes that nice!",
+          "tatoeba_id": 75577
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "庭に猫がいます。",
+          "en": "There is a cat in the garden.",
+          "furigana": "{庭|にわ}に{猫|ねこ}がいます。"
+        },
+        {
+          "ja": "あんないい男そうそういないぞ！！",
+          "furigana": "あんないい{男|おとこ}そうそういないぞ！！",
+          "en": "There aren't many blokes that nice!",
+          "tatoeba_id": 75577
+        }
+      ]
+    }
+  },
+  {
+    "id": "d1a343e501",
+    "word": "間",
+    "reading": "あいだ",
+    "reason": "Cover interpersonal relations and among students in the existing examples.",
+    "references": [
+      "JMdict entry 1215230",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "meanings": [
+        "a space"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "space between",
+        "interval",
+        "among"
+      ]
+    }
+  },
+  {
+    "id": "4a3152836b",
+    "word": "上がる",
+    "reading": "あがる",
+    "reason": "Replace dead-battery and rain-stopping senses with original examples of the selected rise/ascend senses.",
+    "references": [
+      "JMdict entry 1352290",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "車のバッテリーが上がってるよ。",
+          "furigana": "{車|くるま}のバッテリーが{上|あ}がってるよ。",
+          "en": "The car battery is dead.",
+          "tatoeba_id": 149063
+        },
+        {
+          "ja": "やがて雨は上がると思う。",
+          "furigana": "やがて{雨|あめ}は{上|あ}がると{思|おも}う。",
+          "en": "I hope it will clear up soon.",
+          "tatoeba_id": 193129
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "気温が上がりました。",
+          "en": "The temperature rose.",
+          "furigana": "{気温|きおん}が{上|あ}がりました。"
+        },
+        {
+          "ja": "階段を上がってください。",
+          "en": "Please go up the stairs.",
+          "furigana": "{階段|かいだん}を{上|あ}がってください。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "91f0d5ac9e",
+    "word": "空く",
+    "reading": "あく",
+    "reason": "Include availability of time, as illustrated by the existing example.",
+    "references": [
+      "JMdict entry 1586270",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "meanings": [
+        "to open",
+        "to become empty"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "to become vacant",
+        "to become available"
+      ]
+    }
+  },
+  {
+    "id": "4c3461199c",
+    "word": "明日",
+    "reading": "あす",
+    "reason": "The selected reading is asu, not ashita. Use original sentences with explicit matching readings.",
+    "references": [
+      "JMdict entry 1584660",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "あしたは一日中ひまです。",
+          "furigana": "あしたは{一日中|いちにちじゅう}ひまです。",
+          "en": "I'll be free all day tomorrow.",
+          "tatoeba_id": 234469
+        },
+        {
+          "ja": "明日は雨天ではなかろうかと思う。",
+          "en": "I'm afraid it will be rainy tomorrow.",
+          "tatoeba_id": 80447
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "明日は会議があります。",
+          "en": "There is a meeting tomorrow.",
+          "furigana": "{明日|あす}は{会議|かいぎ}があります。"
+        },
+        {
+          "ja": "明日、お電話します。",
+          "en": "I will call you tomorrow.",
+          "furigana": "{明日|あす}、お{電話|でんわ}します。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "88d4196563",
+    "word": "アルバイト",
+    "reading": "アルバイト",
+    "reason": "Supply original part-time-work examples.",
+    "references": [
+      "JMdict entry 1019420",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "コンビニでアルバイトをしています。",
+          "en": "I work part-time at a convenience store."
+        },
+        {
+          "ja": "週末はアルバイトがあります。",
+          "en": "I have part-time work on weekends.",
+          "furigana": "{週末|しゅうまつ}はアルバイトがあります。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "629362dbfc",
+    "word": "以下",
+    "reading": "いか",
+    "reason": "Numerical ika includes the stated boundary; correct gloss and English translation.",
+    "references": [
+      "JMdict entry 1155060",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "meanings": [
+        "less than"
+      ],
+      "examples": [
+        {
+          "ja": "それは千円以下では買えません。",
+          "furigana": "それは{千円|せんえん}{以下|いか}では{買|か}えません。",
+          "en": "You can't buy it under 1,000 yen.",
+          "tatoeba_id": 205034
+        },
+        {
+          "ja": "以下の通り注文いたします。",
+          "furigana": "{以下|いか}の{通|とお}り{注文|ちゅうもん}いたします。",
+          "en": "I would like to place an order for the following.",
+          "tatoeba_id": 191220
+        }
+      ]
+    },
+    "set": {
+      "meanings": [
+        "not more than",
+        "the following"
+      ],
+      "examples": [
+        {
+          "ja": "それは千円以下では買えません。",
+          "furigana": "それは{千円|せんえん}{以下|いか}では{買|か}えません。",
+          "en": "You cannot buy it for 1,000 yen or less.",
+          "tatoeba_id": 205034
+        },
+        {
+          "ja": "以下の通り注文いたします。",
+          "furigana": "{以下|いか}の{通|とお}り{注文|ちゅうもん}いたします。",
+          "en": "I would like to place an order for the following.",
+          "tatoeba_id": 191220
+        }
+      ]
+    }
+  },
+  {
+    "id": "13ab63d79a",
+    "word": "以上",
+    "reading": "いじょう",
+    "reason": "Numerical ijou includes the boundary; retain beyond for the degree example.",
+    "references": [
+      "JMdict entry 1155120",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "meanings": [
+        "more than",
+        "this is all"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "not less than",
+        "beyond",
+        "that is all"
+      ]
+    }
+  },
+  {
+    "id": "47cc7185d5",
+    "word": "いただく",
+    "reading": "いただく",
+    "reason": "Illustrate lexical humble receiving/eating rather than only auxiliary te-itadaku.",
+    "references": [
+      "JMdict entry 1587290",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "meanings": [
+        "(humble) to receive"
+      ],
+      "examples": [
+        {
+          "ja": "九時に来ていただきたいのですが。",
+          "furigana": "{九時|くじ}に{来|き}ていただきたいのですが。",
+          "en": "I'd like you to come at nine.",
+          "tatoeba_id": 179544
+        },
+        {
+          "ja": "とても親切にしていただきました。",
+          "furigana": "とても{親切|しんせつ}にしていただきました。",
+          "en": "You've been very good to me.",
+          "tatoeba_id": 200584
+        }
+      ]
+    },
+    "set": {
+      "meanings": [
+        "to receive (humble)",
+        "to eat or drink (humble)"
+      ],
+      "examples": [
+        {
+          "ja": "先生から本をいただきました。",
+          "en": "I received a book from my teacher.",
+          "furigana": "{先生|せんせい}から{本|ほん}をいただきました。"
+        },
+        {
+          "ja": "お茶をいただきます。",
+          "en": "I will have some tea.",
+          "furigana": "お{茶|ちゃ}をいただきます。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bc25dff617",
+    "word": "いらっしゃる",
+    "reading": "いらっしゃる",
+    "reason": "Supply original honorific existence/coming examples.",
+    "references": [
+      "JMdict entry 1000940",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "先生は教室にいらっしゃいます。",
+          "en": "The teacher is in the classroom.",
+          "furigana": "{先生|せんせい}は{教室|きょうしつ}にいらっしゃいます。"
+        },
+        {
+          "ja": "明日、何時にいらっしゃいますか。",
+          "en": "What time will you come tomorrow?",
+          "furigana": "{明日|あした}、{何時|なんじ}にいらっしゃいますか。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bf69a1d9f2",
+    "word": "うかがう",
+    "reading": "うかがう",
+    "reason": "The first example is humble asking, not visiting.",
+    "references": [
+      "JMdict entry 1305700",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "meanings": [
+        "to visit"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "to visit (humble)",
+        "to ask (humble)",
+        "to hear (humble)"
+      ]
+    }
+  },
+  {
+    "id": "76d4bcd098",
+    "word": "うち",
+    "reading": "うち",
+    "reason": "Both examples mismatch the temporal uchi sense; one uses naka, the other home. Replace with original temporal examples.",
+    "references": [
+      "JMdict entry 1457730",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "教会は私の家とあなたの家の中にあります。",
+          "en": "The church is between my house and yours.",
+          "tatoeba_id": 180221
+        },
+        {
+          "ja": "来週はうちへいらしゃいませんか。",
+          "furigana": "{来週|らいしゅう}はうちへいらしゃいませんか。",
+          "en": "Won't you come and see me next week?",
+          "tatoeba_id": 78640
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "今日のうちに宿題を終わらせます。",
+          "en": "I will finish my homework before today is over.",
+          "furigana": "{今日|きょう}のうちに{宿題|しゅくだい}を{終|お}わらせます。"
+        },
+        {
+          "ja": "若いうちにいろいろな国を訪ねたいです。",
+          "en": "I want to visit various countries while I am young.",
+          "furigana": "{若|わか}いうちにいろいろな{国|くに}を{訪|たず}ねたいです。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6d3b3fe0a4",
+    "word": "うまい",
+    "reading": "うまい",
+    "reason": "Existing examples mean skillful and a good offer, not delicious.",
+    "references": [
+      "JMdict entry 1310460",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "meanings": [
+        "delicious"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "skillful",
+        "delicious",
+        "good (e.g. an offer)"
+      ]
+    }
+  },
+  {
+    "id": "1b5a6286d6",
+    "word": "裏",
+    "reading": "うら",
+    "reason": "Use an original physical-reverse-side example for the selected sense.",
+    "references": [
+      "JMdict entry 1550190",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "靴の裏にガムがこびりついちゃった。",
+          "furigana": "{靴|くつ}の{裏|うら}にガムがこびりついちゃった。",
+          "en": "There's gum stuck to the bottom of my shoe.",
+          "tatoeba_id": 75059
+        },
+        {
+          "ja": "裏から手を回してくれるよ。",
+          "furigana": "{裏|うら}から{手|て}を{回|まわ}してくれるよ。",
+          "en": "He can pull strings for you.",
+          "tatoeba_id": 78346
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "靴の裏にガムがこびりついちゃった。",
+          "furigana": "{靴|くつ}の{裏|うら}にガムがこびりついちゃった。",
+          "en": "There's gum stuck to the bottom of my shoe.",
+          "tatoeba_id": 75059
+        },
+        {
+          "ja": "紙の裏に名前を書いてください。",
+          "en": "Please write your name on the back of the paper.",
+          "furigana": "{紙|かみ}の{裏|うら}に{名前|なまえ}を{書|か}いてください。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4cfa8f43e2",
+    "word": "億",
+    "reading": "おく",
+    "reason": "Replace incidental factual claims and malformed furigana with original illustrative sentences, not real-world statistics.",
+    "references": [
+      "JMdict entry 1182620",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "１０億人の人たちが英語を話しています。",
+          "en": "One billion people speak English.",
+          "tatoeba_id": 236071
+        },
+        {
+          "ja": "地球はおよそ５０億年前に生まれた。",
+          "furigana": "{地球|ちきゅう}はおよそ５０{億|おく}{年|ねん}{前|#1392580}に{生|う}まれた。",
+          "en": "The earth came into existence about five thousand million years ago.",
+          "tatoeba_id": 126975
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "この建物は一億円で建てられました。",
+          "en": "This building was built for one hundred million yen.",
+          "furigana": "この{建物|たてもの}は{一億|いちおく}{円|えん}で{建|た}てられました。"
+        },
+        {
+          "ja": "この町の予算は二億円です。",
+          "en": "This town has a budget of two hundred million yen.",
+          "furigana": "この{町|まち}の{予算|よさん}は{二億|におく}{円|えん}です。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "99de4451f7",
+    "word": "起す",
+    "reading": "おこす",
+    "reason": "The first example raises the body, while the second wakes someone.",
+    "references": [
+      "JMdict entry 1223660",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "meanings": [
+        "to wake"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "to wake someone",
+        "to raise (the body)"
+      ]
+    }
+  },
+  {
+    "id": "2139fab218",
+    "word": "行う",
+    "reading": "おこなう",
+    "reason": "Original example disambiguates okonau from the mistaken iku example and reading.",
+    "references": [
+      "JMdict entry 1589060",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "いう事と行う事はまったく別だ。",
+          "furigana": "いう{事|こと}と{行|おこな}う{事|こと}はまったく{別|べつ}だ。",
+          "en": "To say is one thing, and to do quite another.",
+          "tatoeba_id": 229318
+        },
+        {
+          "ja": "彼女はやむえず一人で行った。",
+          "furigana": "{彼女|かのじょ}はやむえず{一人|ひとり}で{行|おこな}った。",
+          "en": "She reluctantly went by herself.",
+          "tatoeba_id": 91333
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "いう事と行う事はまったく別だ。",
+          "furigana": "いう{事|こと}と{行|おこな}う{事|こと}はまったく{別|べつ}だ。",
+          "en": "To say is one thing, and to do quite another.",
+          "tatoeba_id": 229318
+        },
+        {
+          "ja": "会議は明日行います。",
+          "en": "We will hold the meeting tomorrow.",
+          "furigana": "{会議|かいぎ}は{明日|あした}{行|おこな}います。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6693b4e9f7",
+    "word": "お宅",
+    "reading": "おたく",
+    "reason": "Otaku respectfully refers to an organization as well as a home; the second example concerns a store.",
+    "references": [
+      "JMdict entry 1002400",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "meanings": [
+        "(polite) your house"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "your home (polite)",
+        "your organization (polite)"
+      ]
+    }
+  },
+  {
+    "id": "981ee66f59",
+    "word": "落ちる",
+    "reading": "おちる",
+    "reason": "Use original physical-falling examples consistent with the selected beginner sense.",
+    "references": [
+      "JMdict entry 1548550",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "勉強しないと試験に落ちるよ。",
+          "furigana": "{勉強|べんきょう}しないと{試験|しけん}に{落|お}ちるよ。",
+          "en": "If you don't study, you will fail the exam.",
+          "tatoeba_id": 83323
+        },
+        {
+          "ja": "サーバーが落ちていた。",
+          "furigana": "サーバーが{落|お}ちていた。",
+          "en": "The server was down.",
+          "tatoeba_id": 2298216
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "リンゴが木から落ちました。",
+          "en": "An apple fell from the tree.",
+          "furigana": "リンゴが{木|き}から{落|お}ちました。"
+        },
+        {
+          "ja": "ポケットから財布が落ちた。",
+          "en": "My wallet fell out of my pocket.",
+          "furigana": "ポケットから{財布|さいふ}が{落|お}ちた。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f786333cf9",
+    "word": "落す",
+    "reading": "おとす",
+    "reason": "Use an original example of dropping/losing rather than removing a name from a list.",
+    "references": [
+      "JMdict entry 1589260",
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "リストから私の名を落とさないで下さい。",
+          "en": "Don't take my name off your list.",
+          "tatoeba_id": 192534
+        },
+        {
+          "ja": "そのコップを落すな。",
+          "en": "Don't drop that cup.",
+          "tatoeba_id": 213202
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "駅で財布を落としました。",
+          "en": "I dropped my wallet at the station.",
+          "furigana": "{駅|えき}で{財布|さいふ}を{落|お}としました。"
+        },
+        {
+          "ja": "そのコップを落すな。",
+          "en": "Don't drop that cup.",
+          "tatoeba_id": 213202
+        }
+      ]
+    }
+  },
+  {
+    "id": "3139c14254",
+    "word": "エスカレーター",
+    "reading": "エスカレーター",
+    "reason": "Replace a location-dependent instruction with an original neutral escalator example.",
+    "references": [
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "上りのエスカレーターはどこですか？",
+          "en": "Where's the up-escalator?",
+          "tatoeba_id": 146274
+        },
+        {
+          "ja": "急いでいない人はエスカレーターの右側に立ちなさい。",
+          "furigana": "{急|いそ}いでいない{人|ひと}はエスカレーターの{右側|みぎがわ}に{立|た}ちなさい。",
+          "en": "People who are not in a hurry stand on the right side of the escalator.",
+          "tatoeba_id": 182599
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "上りのエスカレーターはどこですか？",
+          "en": "Where's the up-escalator?",
+          "tatoeba_id": 146274
+        },
+        {
+          "ja": "エスカレーターで二階へ行きます。",
+          "en": "I go to the second floor by escalator.",
+          "furigana": "エスカレーターで{二階|にかい}へ{行|い}きます。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "54e1f7a772",
+    "word": "合う",
+    "reading": "あう",
+    "reason": "Replace a dictionary-ID token in furigana with the contextually reviewed kana reading; retain original sentence attribution.",
+    "references": [
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "このチョッキは前が合わない。",
+          "furigana": "このチョッキは{前|#1392580}が{合|あ}わない。",
+          "en": "This waistcoat won't meet at the front.",
+          "tatoeba_id": 223559
+        },
+        {
+          "ja": "この白いコートはあなたによく合うでしょう。",
+          "furigana": "この{白|しろ}いコートはあなたによく{合|あ}うでしょう。",
+          "en": "This white coat will look very nice on you.",
+          "tatoeba_id": 220206
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "このチョッキは前が合わない。",
+          "furigana": "このチョッキは{前|まえ}が{合|あ}わない。",
+          "en": "This waistcoat won't meet at the front.",
+          "tatoeba_id": 223559
+        },
+        {
+          "ja": "この白いコートはあなたによく合うでしょう。",
+          "furigana": "この{白|しろ}いコートはあなたによく{合|あ}うでしょう。",
+          "en": "This white coat will look very nice on you.",
+          "tatoeba_id": 220206
+        }
+      ]
+    }
+  },
+  {
+    "id": "877a39a99f",
+    "word": "祈る",
+    "reading": "いのる",
+    "reason": "Replace a dictionary-ID token in furigana with the contextually reviewed kana reading; retain original sentence attribution.",
+    "references": [
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "早くよくなられるように祈っています。",
+          "furigana": "{早|はや}くよくなられるように{祈|いの}っています。",
+          "en": "I hope you'll get well soon.",
+          "tatoeba_id": 140573
+        },
+        {
+          "ja": "雨が正午前にはやむよう祈っていたのですが。",
+          "furigana": "{雨|あめ}が{正午|しょうご}{前|#1392580}にはやむよう{祈|いの}っていたのですが。",
+          "en": "We had hoped that the rain would stop before noon.",
+          "tatoeba_id": 189672
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "早くよくなられるように祈っています。",
+          "furigana": "{早|はや}くよくなられるように{祈|いの}っています。",
+          "en": "I hope you'll get well soon.",
+          "tatoeba_id": 140573
+        },
+        {
+          "ja": "雨が正午前にはやむよう祈っていたのですが。",
+          "furigana": "{雨|あめ}が{正午|しょうご}{前|まえ}にはやむよう{祈|いの}っていたのですが。",
+          "en": "We had hoped that the rain would stop before noon.",
+          "tatoeba_id": 189672
+        }
+      ]
+    }
+  },
+  {
+    "id": "b8630e0875",
+    "word": "夫",
+    "reading": "おっと",
+    "reason": "Replace a dictionary-ID token in furigana with the contextually reviewed kana reading; retain original sentence attribution.",
+    "references": [
+      "sources/quality/review-2026-10-28.json"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "妻は夫より長生きするものだ。",
+          "furigana": "{妻|#1294330}は{夫|おっと}より{長生|ながい}きするものだ。",
+          "en": "Wives usually outlive husbands.",
+          "tatoeba_id": 170330
+        },
+        {
+          "ja": "夫はいつもベッドで本を読むんです。",
+          "furigana": "{夫|おっと}はいつもベッドで{本|ほん}を{読|よ}むんです。",
+          "en": "My husband is always reading in bed.",
+          "tatoeba_id": 84999
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "妻は夫より長生きするものだ。",
+          "furigana": "{妻|つま}は{夫|おっと}より{長生|ながい}きするものだ。",
+          "en": "Wives usually outlive husbands.",
+          "tatoeba_id": 170330
+        },
+        {
+          "ja": "夫はいつもベッドで本を読むんです。",
+          "furigana": "{夫|おっと}はいつもベッドで{本|ほん}を{読|よ}むんです。",
+          "en": "My husband is always reading in bed.",
+          "tatoeba_id": 84999
+        }
+      ]
+    }
   }
 ]

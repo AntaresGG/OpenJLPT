@@ -28,17 +28,30 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "b726f2873d06ab538e9aac5625dac1f8d5e0128f24d72d8413cb6b2d6fa8b887",
       "meanings": [
         "见面",
         "遇见"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "もうスミスさんに会われましたね。",
+          "zh": "您已经见过史密斯先生了吧。"
+        },
+        {
+          "ja": "じゃあパーティーで会いましょう。",
+          "zh": "那就在聚会上见吧。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/ada066edfd",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "9e4eb135ae78d8d2fb9ba7110b908ec226a0b68537d3c454b7aebad9f89e85df"
     }
   },
   {
@@ -47,7 +60,8 @@
     "reading": "あお",
     "romaji": "ao",
     "meanings": [
-      "blue"
+      "blue",
+      "green (e.g. a traffic light)"
     ],
     "level": "N5",
     "pos": [
@@ -69,16 +83,30 @@
       }
     ],
     "zh": {
-      "status": "draft",
-      "source_hash": "859c0332c9488fdc2c9dc2a9cf890f84e55e6618e13700f727daae0245c5a013",
+      "status": "reviewed",
+      "source_hash": "ddff5df976acf5bcf29b0ca15fc3027359b10ad28bcc7fcc8eac0234801da2d6",
       "meanings": [
-        "蓝色"
+        "蓝色",
+        "绿色（如交通信号灯）"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "信号が青に変わったわよ。",
+          "zh": "信号灯变绿了哦。"
+        },
+        {
+          "ja": "夏の通学服は白と青のチェックです。",
+          "zh": "夏季校服是蓝白格子的。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/ebec658463",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "52c1a3176ea38bb61cdcf5986f68bc1e0b3a9609f14e18560e8971cab378e793"
     }
   },
   {
@@ -87,7 +115,9 @@
     "reading": "あおい",
     "romaji": "aoi",
     "meanings": [
-      "blue"
+      "blue",
+      "green",
+      "inexperienced"
     ],
     "level": "N5",
     "pos": [
@@ -109,16 +139,32 @@
       }
     ],
     "zh": {
-      "status": "draft",
-      "source_hash": "9b7c02f20296f36ebe2c97caaeab393b6c4300edfd645172dac672add1e71583",
+      "status": "reviewed",
+      "source_hash": "ad45cac006359be49bcc64ff0221ee7522d88cc10670615a25c817ae644a9834",
       "meanings": [
-        "蓝色的"
+        "蓝色的",
+        "绿色的",
+        "不成熟的、经验不足的"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "お前はまだ「青い」な。",
+          "zh": "你还嫩着呢。"
+        },
+        {
+          "ja": "なぜ空が青いか知っているか。",
+          "zh": "你知道天空为什么是蓝色的吗？"
+        }
+      ],
       "references": [
         "upstream vocab/n5/51a671ec17",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "notes": "用于人时可比喻年轻、不成熟或缺乏经验；不是说肤色蓝。",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "9dd032ddabbfea08f5e8ea2bdd3bd3a4a285e48987247fa9f16d35eb9e1976aa"
     }
   },
   {
@@ -150,16 +196,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "e4b4ac13a0e596956e55500213d3254a53c90f76c5f3919b0d893d659d9e3b4a",
       "meanings": [
         "红色"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "赤インクで書いてはいけない。",
+          "zh": "不要用红墨水写。"
+        },
+        {
+          "ja": "その家は赤レンガづくりです。",
+          "zh": "那栋房子是用红砖砌的。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/2dacb910b2",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "5d80c9bab49aa12ce27366fb571a21f197eed4eb09e3357a4db9c5b16786974f"
     }
   },
   {
@@ -190,16 +249,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "83c25dd09eb9ea1994bdc6fbf6b920f7a6efd234c0d9b7625233aa8482f9f3e6",
       "meanings": [
         "红色的"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "彼女は赤いスカートをはいていた。",
+          "zh": "她穿着一条红裙子。"
+        },
+        {
+          "ja": "赤いものもあれば白いのもある。",
+          "zh": "有红色的，也有白色的。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/44ba38cf8b",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "f8d8fa0467ab804572373c59994f9a3901d8b73d1ee958393aead3fa614d5221"
     }
   },
   {
@@ -230,17 +302,30 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "1e3c166d8bf34256c5230c302980d581d8d1aa866c1b780d000097eaf8d07db0",
       "meanings": [
         "明亮的",
         "开朗的"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "外はだんだん明るくなっていく。",
+          "zh": "外面渐渐亮起来了。"
+        },
+        {
+          "ja": "ダイヤは明るく光った。",
+          "zh": "钻石闪着明亮的光。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/91987ae840",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "cf3559905449f82f3dabd79778e9394f72549c225894781bb458b8cf160ed998"
     }
   },
   {
@@ -272,16 +357,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "f2e1d8e60428a5d599506d7add5ddaa413ba950719078bfdc185f69369d2ef7c",
       "meanings": [
         "秋天"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "秋はもうすぐそこまで来ている。",
+          "zh": "秋天马上就要到了。"
+        },
+        {
+          "ja": "さわやかな秋となりました。",
+          "zh": "清爽的秋天来临了。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/8dc7006bda",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "272b87b6698a5d99616d763807549e05ef0a02d5e94be52707fc36668f013190"
     }
   },
   {
@@ -314,17 +412,30 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "318aaec68eac7e53fc2493d27ef4a9763d19b25cbc2fedb198caa1b0a4fee2f7",
       "meanings": [
         "开",
         "打开（自动词）"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "ぐいと押すとドアは開いた。",
+          "zh": "用力一推，门就开了。"
+        },
+        {
+          "ja": "ドアはどうしても開かなかった。",
+          "zh": "门怎么也打不开。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/fc3bc1e6f1",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "7a4e76c431895c2a8c6c592e25c4c9a1c697a675efe88f9c80b7047a752baa29"
     }
   },
   {
@@ -356,16 +467,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "68d7fc4ed4483632a7ec695a6878f59571d0cad47e23ec20c62d5f712203f5c8",
       "meanings": [
         "打开（他动词）"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "ドアはジムによって開けられます。",
+          "zh": "门由吉姆来开。"
+        },
+        {
+          "ja": "だれかこのドアを開けてください。",
+          "zh": "请谁来开一下这扇门。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/321963ed35",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "3e4867702f8a13bce4a922952c7a332f48e9d04878707686a6ec4c97821ab04c"
     }
   },
   {
@@ -374,6 +498,8 @@
     "reading": "あげる",
     "romaji": "ageru",
     "meanings": [
+      "to raise",
+      "to increase",
       "to give"
     ],
     "level": "N5",
@@ -400,17 +526,32 @@
       }
     ],
     "zh": {
-      "status": "draft",
-      "source_hash": "a94661f19f331f7156c124f87b09cae83344d8e97c8545e98724c63d4074fda7",
+      "status": "reviewed",
+      "source_hash": "a9f927ed74e7492718776434112578c74a1ed12c6ef4e93d85d013b5d39679e3",
       "meanings": [
-        "给",
+        "举起",
+        "提高",
         "给予"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "左手を上げなさい。",
+          "zh": "把左手举起来。"
+        },
+        {
+          "ja": "彼はスピードを上げた。",
+          "zh": "他加快了速度。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/9661cbac61",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "notes": "举手、提高速度都用上げる；表示给予时常写作あげる。",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "145d08845ce3641b1e410e13a87e2c50cfb370ee5ca30185a0c445daa5766368"
     }
   },
   {
@@ -442,16 +583,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "64b10c6ae593a534f53ed33584c8b6661d405820e3df34bb83969c5373f467f4",
       "meanings": [
         "早晨"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "朝のラッシュは今がピークだ。",
+          "zh": "早高峰现在正是最拥挤的时候。"
+        },
+        {
+          "ja": "ジョージは朝にたくさんのチーズを食べた。",
+          "zh": "乔治早上吃了很多奶酪。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/d46ae79a26",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "abac03f2ef625ae3347b9dc2738929d8557cf3afdb19715e71310053992db753"
     }
   },
   {
@@ -484,16 +638,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "dd89d097340e0c40de8157bbb16524d479c5da79a321c0bb3951077ccc934fce",
       "meanings": [
         "早饭"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "朝ごはんにはなにがよろしいですか。",
+          "zh": "您早餐想吃点什么？"
+        },
+        {
+          "ja": "朝ご飯に何を食べますか。",
+          "zh": "你早餐吃什么？"
+        }
+      ],
       "references": [
         "upstream vocab/n5/98bc6f72ae",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "338f5427759071fd5e88e6292171daf34e941af799e197c22b767b90a5b6a7f6"
     }
   },
   {
@@ -528,16 +695,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "e293c423f6afa3dcb726c82a6f65454f295e41b17249fe5559d7267d1f8e3268",
       "meanings": [
         "后天"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "あさって彼にここへ来てもらうつもりです。",
+          "zh": "我打算请他后天到这里来。"
+        },
+        {
+          "ja": "あさって、時間がありませんか。",
+          "zh": "后天你有空吗？"
+        }
+      ],
       "references": [
         "upstream vocab/n5/b3b4041c52",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "a9ab7cb2e8ff59c07dd93ffeb5759d1464348f3155e8febe3d2479a1dfb413bd"
     }
   },
   {
@@ -569,17 +749,30 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "86eba020a65a8cf4c89f1048ff254255a85d3db014e33fad0f5705b612f5f663",
       "meanings": [
         "脚",
         "腿"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "また足がしびれた。",
+          "zh": "脚又麻了。"
+        },
+        {
+          "ja": "ヘビを見て足がすくんでしまった。",
+          "zh": "看到蛇，我吓得腿都动不了了。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/27df3d5802",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "6c205874f47f721091af9e511c3bf46cdcfc1e5df992fd392b988498b0359b74"
     }
   },
   {
@@ -613,16 +806,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "e2880dd80e43fec0af67958afa47503b00f007a1e071d614f0d5d179de0963f2",
       "meanings": [
         "明天"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "あしたは一日中ひまです。",
+          "zh": "我明天一整天都有空。"
+        },
+        {
+          "ja": "明日はピクニックに行くつもりだ。",
+          "zh": "我打算明天去野餐。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/115ec83476",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "662c3846677285a27ed4c8c70899412a96c8b7aaa27cd6a9a54765e1d944e3ab"
     }
   },
   {
@@ -643,10 +849,9 @@
     ],
     "examples": [
       {
-        "ja": "先生、アソコがかゆいんです。",
-        "furigana": "{先生|せんせい}、アソコがかゆいんです。",
-        "en": "Doctor, I've got an itch in my crotch.",
-        "tatoeba_id": 2733322
+        "ja": "学校はあそこです。",
+        "en": "The school is over there.",
+        "furigana": "{学校|がっこう}はあそこです。"
       },
       {
         "ja": "あそこのスポーツカーを見なさい。",
@@ -656,16 +861,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
-      "source_hash": "6a878b7924164a7ea80d18069e23103d6786a75831c396af80307d23d84be3b7",
+      "status": "reviewed",
+      "source_hash": "27b217dd6a8372f31c058ac417be6d139b3108181311c6afc5822a1790b99365",
       "meanings": [
         "那里（离双方都较远）"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "学校はあそこです。",
+          "zh": "学校在那边。"
+        },
+        {
+          "ja": "あそこのスポーツカーを見なさい。",
+          "zh": "看看那边的跑车。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/bee501faf0",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "bd55a123588ba0673f879c2238245239932aac46045a6ac71d7cf2d328aa3753"
     }
   },
   {
@@ -698,17 +916,30 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "8746578366f495fda0aa2eed825aa7bfeec9db756421e9429f449c36eb2126ac",
       "meanings": [
         "玩",
         "游玩"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "ビルはよく一人でおもちゃで遊ぶ。",
+          "zh": "比尔经常独自玩玩具。"
+        },
+        {
+          "ja": "けっしてここで遊んではいけない。",
+          "zh": "绝对不可以在这里玩。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/2d55571300",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "316cfda6b8047dc5c77ba74bff169830f2fd7413959ff51aacabad6fa26db5fc"
     }
   },
   {
@@ -739,16 +970,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "8975c6115af10c30f178f88f0d8fd6101a754477277708feaacc641a9991cd66",
       "meanings": [
         "暖和的"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "だんだん暖かくなります。",
+          "zh": "天气会渐渐暖和起来。"
+        },
+        {
+          "ja": "日毎にだんだん暖かくなっている。",
+          "zh": "天气一天比一天暖和了。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/f665c2128a",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "0ed34211c2efb5ccdafbadc5025018cda82060a568d06734843968edb6ff3766"
     }
   },
   {
@@ -779,17 +1023,31 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "225d3c5b5c0016654a81446efabee50b94b040b02e08f65f281f3bcc0c7cfa75",
       "meanings": [
         "头",
-        "脑袋"
+        "头脑"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "アリスは頭に花をさしています。",
+          "zh": "爱丽丝头上插着花。"
+        },
+        {
+          "ja": "ジルはかわいいだけでなく頭もよい。",
+          "zh": "吉尔不仅可爱，而且聪明。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/b62cb9ce4c",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "notes": "頭がいい、頭がよい表示聪明。",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "6d5c9d30c7b74247e85fcf8f924c25a145ab7a71392eec74af17122817ba6cc4"
     }
   },
   {
@@ -820,16 +1078,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "a4f961ab081e3f9dcc4ff5bd3934d9841b183ae33ae8cd9abfc2a2f4bbb6adb3",
       "meanings": [
         "新的"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "先生は新しい車が気に入っている。",
+          "zh": "老师很喜欢那辆新车。"
+        },
+        {
+          "ja": "新しいレストランが出来たそうだ。",
+          "zh": "听说新开了一家餐厅。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/8ae27e3b51",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "e945c450e459279012c71b30cdcb039324a274fac113f3f76e4213a8da3bf735"
     }
   },
   {
@@ -850,10 +1121,9 @@
     ],
     "examples": [
       {
-        "ja": "こっちの本はあっちの本よりやさしい。",
-        "furigana": "こっちの{本|ほん}はあっちの{本|ほん}よりやさしい。",
-        "en": "These books are easier than those books.",
-        "tatoeba_id": 217779
+        "ja": "出口はあちらです。",
+        "en": "The exit is over there.",
+        "furigana": "{出口|でぐち}はあちらです。"
       },
       {
         "ja": "あちらに着いたら手紙をください。",
@@ -863,16 +1133,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
-      "source_hash": "ff389471da14779346843f2a5d1568c8ced395a93b6605495357ec6d0e779b75",
+      "status": "reviewed",
+      "source_hash": "d25bbe742631ca4fcc05a455bcc114a375740dc77a95648dee6d2a39ff2e5377",
       "meanings": [
         "那边（较礼貌）"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "出口はあちらです。",
+          "zh": "出口在那边。"
+        },
+        {
+          "ja": "あちらに着いたら手紙をください。",
+          "zh": "到了那边请给我写信。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/34e6f7d220",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "6ecc1d1e8b7e7be87f140a791592e489f749433b8d892e46e0a6d8a9d5b8700f"
     }
   },
   {
@@ -905,17 +1188,31 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "ff2440a92dd8ea5b935b03af9b59a73b3cceb706ad936744b7c0e93dfd321a87",
       "meanings": [
         "厚的",
         "深厚的"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "それは４ｃｍの厚さです。",
+          "zh": "它有四厘米厚。"
+        },
+        {
+          "ja": "氷は２インチの厚さだ。",
+          "zh": "冰有两英寸厚。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/9949d87445",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "notes": "厚さ是厚い的名词形式，表示厚度。",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "262b7711ce291e40fabd412c63d65d867a710f39204fa520ca4d6b737a194c2c"
     }
   },
   {
@@ -946,16 +1243,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "575ff37c17247e3210518c22c94cc3a33acc945049dcd8b929caf2e6ae1c1ea3",
       "meanings": [
         "热的（天气、气温）"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "どうして、こんなに暑いのですか。",
+          "zh": "怎么这么热？"
+        },
+        {
+          "ja": "暑くならないうちに出かけよう。",
+          "zh": "趁还没热起来，出门吧。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/7b4aecdf7b",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "c01b5b831e578eb6bd8fe6d7f04cef29942204ee8449b9a9193f5ede60b54476"
     }
   },
   {
@@ -986,17 +1296,30 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "9a97cd650b02a4686ed93e52a4ed88de927686c5e8cef5edd0541d3b6e23eeb0",
       "meanings": [
         "烫的",
         "热的（物体、液体）"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "熱いコーヒーを入れてあげましょう。",
+          "zh": "我给你沏杯热咖啡吧。"
+        },
+        {
+          "ja": "熱いダックスフント・ソーセージはいかが。",
+          "zh": "来根热的长条香肠怎么样？"
+        }
+      ],
       "references": [
         "upstream vocab/n5/a379d413fd",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "5b5da7690f1ec6bc180c48cc95b6bfc72ee4df14947f941c7ff3918a618a2a1e"
     }
   },
   {
@@ -1026,16 +1349,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "6c190715f0270c5f374f75e3b9e5cc13fc120f8b47d7a01cef2d640841530db2",
       "meanings": [
         "那边（口语）"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "こっちの本はあっちの本よりやさしい。",
+          "zh": "这边这本书比那边那本容易。"
+        },
+        {
+          "ja": "あっちにエレベーターがあるみたいだよ。",
+          "zh": "那边好像有电梯哦。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/60dd63379e",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "beb7f45d64d5315cad822672dc43e526ae3222c86e721cfe91e59e646c107a2e"
     }
   },
   {
@@ -1067,17 +1403,30 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "db217877e3e151129fdb0d4886535b795bf3f50b42b197e3c72618d603df7a0b",
       "meanings": [
         "之后",
         "以后"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "雨天の後には晴天が来る。",
+          "zh": "雨天过后便是晴天。"
+        },
+        {
+          "ja": "アルファベットでＢはＡの後にくる。",
+          "zh": "在字母表中，B排在A后面。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/4f134c9b38",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "c4c6e759619626ea2f81c1dcbb3972ab82dbdf61c4d3e94aee91d5f75a1411df"
     }
   },
   {
@@ -1110,16 +1459,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "2c78da7e50c67dbad4ea8d5e99295fdbf41265d5794279e18286fb608639ff40",
       "meanings": [
         "你"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "ねえあなたたち行かないで。",
+          "zh": "喂，你们别走。"
+        },
+        {
+          "ja": "どちらの本があなたのものですか。",
+          "zh": "哪本书是你的？"
+        }
+      ],
       "references": [
         "upstream vocab/n5/afdf384f68",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "4bc0b71b5a7d318b06def000edc10f10502e16a42f57d2b6f649ddde2114ec91"
     }
   },
   {
@@ -1150,16 +1512,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "a4c36b82928d9bef6900af80869b6c46df9e2a587012848f24a4ba9d490b2c5b",
       "meanings": [
         "哥哥（称自己的哥哥）"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "これは兄です。かっこいいですね。",
+          "zh": "这是我哥哥。很帅吧。"
+        },
+        {
+          "ja": "兄はアパートをさがしています。",
+          "zh": "哥哥正在找公寓。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/4aab699864",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "d7039577027fce3ab6c846596f0b8097c52ad74d24861dd9632586252cac847f"
     }
   },
   {
@@ -1189,16 +1564,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "61fcdd02d5a782e649dfc186db9a7e4250d04882fb5d99cbe798555988d7301e",
       "meanings": [
         "姐姐（称自己的姐姐）"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "先月、姉は６ポンドの男の子を生んだ。",
+          "zh": "上个月，姐姐生了一个六磅重的男孩。"
+        },
+        {
+          "ja": "姉は私のズボンにアイロンをかけてくれる。",
+          "zh": "姐姐会帮我熨裤子。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/8bfeb208b4",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "5eeb2f5818e99c5abf18b476c0dba6ecc19016e08f9383e067e47ac1e7c308a6"
     }
   },
   {
@@ -1232,16 +1620,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "457428a1fdbfe133faf6deaf92898118714ff54278a16d7438d29619696548cb",
       "meanings": [
         "那个（后接名词）"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "あのおいしいワインをなぜ飲まないんだい。",
+          "zh": "你为什么不喝那瓶好喝的葡萄酒呢？"
+        },
+        {
+          "ja": "この本はあの本ほどやさしくない。",
+          "zh": "这本书没有那本容易。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/ac4706068b",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "362f5c6e206129407f61562e96357e7605615dd23b05dd2381ee943d97c576de"
     }
   },
   {
@@ -1271,16 +1672,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "a2a2a1cc5601e65f1a299fa3648fe0742807b3aba4428328bc91e512752dc1b8",
       "meanings": [
         "公寓"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "兄はアパートをさがしています。",
+          "zh": "哥哥正在找公寓。"
+        },
+        {
+          "ja": "いいアパートね。",
+          "zh": "这公寓真不错。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/0cf05b3a0d",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "05a4063195d07cc2e1b5228aede91699720463aa9916bbd11343c242d7ded628"
     }
   },
   {
@@ -1316,18 +1730,31 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "86b7a2812ddb8e87dbe65307dcd77ff97408647b147843a59942c781fdc86386",
       "meanings": [
         "淋",
         "冲",
         "洗（淋浴）"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "その時はシャワーを浴びていた。",
+          "zh": "那时我正在淋浴。"
+        },
+        {
+          "ja": "シャワーを浴びてもよいでしょうか。",
+          "zh": "我可以洗个淋浴吗？"
+        }
+      ],
       "references": [
         "upstream vocab/n5/a5aceb6426",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "7f18dd1d90a64ca89d8770da4d20cc664caa82f729b3725ef1737055e2d3a93d"
     }
   },
   {
@@ -1358,16 +1785,30 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "d748e3a932550ed0108fafc5af64066f68b8a338ee8799bdf16a32e32f587e70",
       "meanings": [
         "危险的"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "間一髪！危ないところでした。",
+          "zh": "好险！刚才真危险。"
+        },
+        {
+          "ja": "危ない！トラックが来るぞ！",
+          "zh": "小心！卡车来了！"
+        }
+      ],
       "references": [
         "upstream vocab/n5/0509cb3b27",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "notes": "危ない也常单独用于警告，译为“小心！”或“危险！”。",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "7fe9611eb4a6963efdbbc435ec282335a501e74bf609fef76370e6cd0e8b28ac"
     }
   },
   {
@@ -1376,7 +1817,9 @@
     "reading": "あまい",
     "romaji": "amai",
     "meanings": [
-      "sweet"
+      "sweet",
+      "lenient",
+      "soft on"
     ],
     "level": "N5",
     "pos": [
@@ -1398,16 +1841,30 @@
       }
     ],
     "zh": {
-      "status": "draft",
-      "source_hash": "571014171d0de6cfcf8d65ffcece26a59466bb1f5f1e3b4b64af88893528e711",
+      "status": "reviewed",
+      "source_hash": "9c651b1ee63f388f170c2609325ba7ea23295b3cb4258821fbe891a5804e35d8",
       "meanings": [
-        "甜的"
+        "甜的",
+        "宽容的、纵容的"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "メアリーにはつい甘くなってしまう。",
+          "zh": "我总是不由得对玛丽心软。"
+        },
+        {
+          "ja": "このチョコレートはとっても甘くておいしい。",
+          "zh": "这块巧克力很甜，很好吃。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/4afffe5811",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "118fc60b08dc2c0db1ec2181029202d03a446775e21578fb224dd2df5119418a"
     }
   },
   {
@@ -1441,16 +1898,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "1f76535f5d32941b66fe1c4d0e4fbc8bfecbc6f7befa3809d2a92b05ce7fe607",
       "meanings": [
         "不太……（常与否定搭配）"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "この手の本はあまり読まない。",
+          "zh": "我不太读这类书。"
+        },
+        {
+          "ja": "フランス語ではあまり話しません。",
+          "zh": "我不太用法语交谈。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/eac90e8e98",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "0450bfa24751dff60e98044d74a0df844767992dafb3fad160dc82386c64be3d"
     }
   },
   {
@@ -1480,16 +1950,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "317c8b5e45c9bd3756ffd2168adf723a5cf0b822306f6dfed4d161cde43d92d2",
       "meanings": [
         "糖果"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "いい子にしていたら、あめをあげよう。",
+          "zh": "乖乖听话的话，就给你糖吃。"
+        },
+        {
+          "ja": "息子は箱から飴を一つ取った。",
+          "zh": "儿子从盒子里拿了一颗糖。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/5d72771a3c",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "0b1b1156d09b52e555562705ed38a36c9497c879ed1ebc338a38c091a456a011"
     }
   },
   {
@@ -1520,16 +2003,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "e5eeb4af76ffad6cba553924c7f1a8c554161a285f9a862df62d0dccf32be309",
       "meanings": [
         "雨"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "木のおかげで雨にぬれずにすんだ。",
+          "zh": "多亏有那棵树，我才没被雨淋湿。"
+        },
+        {
+          "ja": "今すぐにも雨がふるかもしれない。",
+          "zh": "说不定马上就要下雨了。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/277a58c9df",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "1c1e37494379e69302e1039c2a14b6fd67d012940867e8a144f1bd4f3015a6a5"
     }
   },
   {
@@ -1561,16 +2057,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "0b2a627c427f4e792562b9c8a4f9b3450e019ff142ea35822296f05be59b3d74",
       "meanings": [
         "洗"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "いつこの車は洗われましたか。",
+          "zh": "这辆车是什么时候洗的？"
+        },
+        {
+          "ja": "車を洗っているのはジョーンズさんです。",
+          "zh": "正在洗车的是琼斯先生。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/f8fa96946f",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "2cfbcef6f57122947d12a92a40960a0373a43088b4ce106defbf8b520a7aaef5"
     }
   },
   {
@@ -1604,16 +2113,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "7a572755edde8b6ff5749dc38800d735e9fa62eea9dcbe9a89fb15e2b5c328a9",
       "meanings": [
         "谢谢"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "はるばる来てくれてありがとう。",
+          "zh": "谢谢你远道而来。"
+        },
+        {
+          "ja": "そうおっしゃって下さってありがとう。",
+          "zh": "谢谢您这么说。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/93461820fe",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "6d47d43d21a7b8d5dccbc832685fef945bc5e3a761d82a1875e8191044823ddb"
     }
   },
   {
@@ -1650,17 +2172,30 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "a732b5a13d988e7c74fd45b7dc44a64b96ee729c4058e98aefdc294e9fe418ba",
       "meanings": [
         "有",
         "在（用于无生命事物）"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "話があったら電話をかけて下さい。",
+          "zh": "有事的话请打电话。"
+        },
+        {
+          "ja": "木はたとえあってもほとんどない。",
+          "zh": "树即便有，也几乎没有几棵。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/ac08788418",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "92245d5ef7b8cfc674cffa026d4ddc3ae6f7950db475ab53b37416c96f8798c7"
     }
   },
   {
@@ -1691,17 +2226,30 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "782e4db5916be25aa0cd96773af4a18236b9cc5929892ed4b44ff993af9d573e",
       "meanings": [
         "走",
         "步行"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "歩いて行きますか？それともバスで行きますか？",
+          "zh": "你是走着去，还是坐公交车去？"
+        },
+        {
+          "ja": "歩きながら本を読んではいけない。",
+          "zh": "不要一边走路一边看书。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/55f3080ce4",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "94ae3aee907b5b7e3f9372c83bf4f7cd6f20c1dd6154c7162baa75ff22e17df6"
     }
   },
   {
@@ -1717,17 +2265,42 @@
       "pn"
     ],
     "jmdict_id": 1000580,
+    "examples": [
+      {
+        "ja": "あれは何ですか。",
+        "en": "What is that over there?",
+        "furigana": "あれは{何|なん}ですか。"
+      },
+      {
+        "ja": "あれは私のかばんです。",
+        "en": "That over there is my bag.",
+        "furigana": "あれは{私|わたし}のかばんです。"
+      }
+    ],
     "zh": {
-      "status": "draft",
-      "source_hash": "03950d987a3ef9bfba913d25b6b97ecba6f7ecfa08deb3ad18a5baf870efcf7c",
+      "status": "reviewed",
+      "source_hash": "70cba002332dabf3ff1c4ed73f01e021be9a37093cd3f1b8f33a0d31577389ac",
       "meanings": [
         "那个（代指事物）"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "あれは何ですか。",
+          "zh": "那是什么？"
+        },
+        {
+          "ja": "あれは私のかばんです。",
+          "zh": "那是我的包。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/d727a76b22",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "14eb56a782f1940034173c08c9d30c8c4da1fd7ae4904d3c8cdd02e8c2d0e45f"
     }
   },
   {
@@ -1760,16 +2333,31 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "a54edf79b5d10a04c542b2ad8643e4a7d39cc1d8b1cb9658c8138c2afc389e45",
       "meanings": [
-        "好的"
+        "好的",
+        "可以的"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "もう２、３ページ読みさえすればいい。",
+          "zh": "只要再读两三页就行了。"
+        },
+        {
+          "ja": "ダンスはスタイルをよくするのにいい。",
+          "zh": "跳舞有助于塑造体形。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/e37a087c0f",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "notes": "〜さえすればいい表示只要做到某事就可以。",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "8ae5040156595064470d1048c449d3651afd4b445814ae1876dbbf9746de2b54"
     }
   },
   {
@@ -1785,18 +2373,43 @@
       "int"
     ],
     "jmdict_id": 1583250,
+    "examples": [
+      {
+        "ja": "「学生ですか。」「いいえ、会社員です。」",
+        "en": "Are you a student? No, I am a company employee.",
+        "furigana": "「{学生|がくせい}ですか。」「いいえ、{会社員|かいしゃいん}です。」"
+      },
+      {
+        "ja": "「これはあなたの本ですか。」「いいえ、違います。」",
+        "en": "Is this your book? No, it is not.",
+        "furigana": "「これはあなたの{本|ほん}ですか。」「いいえ、{違|ちが}います。」"
+      }
+    ],
     "zh": {
-      "status": "draft",
-      "source_hash": "d95577a1a54dd4e4cff54cc1c5a6c3abaace9e5f2af766ebeaff599fd097e42b",
+      "status": "reviewed",
+      "source_hash": "f5ea01906ec70e81588247185bab005ffc87c1007250d096dcf4dc7876bc94de",
       "meanings": [
         "不",
         "不是"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "「学生ですか。」「いいえ、会社員です。」",
+          "zh": "“你是学生吗？”“不是，我是公司职员。”"
+        },
+        {
+          "ja": "「これはあなたの本ですか。」「いいえ、違います。」",
+          "zh": "“这是你的书吗？”“不，不是。”"
+        }
+      ],
       "references": [
         "upstream vocab/n5/6d4596ae46",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "c5c2053fdd94ec070d4ce4f5cb0bded5fa40b57e3fc365823c8e9fb10fbf6f12"
     }
   },
   {
@@ -1827,16 +2440,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "c1a7828f86d527ac85a3554de31f23385256171b3120c64dc9cd68ded7782460",
       "meanings": [
         "说"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "「みんなひと休みしようぜ」とジョンは言った。",
+          "zh": "约翰说：“大家休息一下吧。”"
+        },
+        {
+          "ja": "さんざん小言をいってやる。",
+          "zh": "我要狠狠数落他一顿。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/ae0cc00f94",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "1511c3406284d4202affcf4365f7ae0adfc3ea9d16c0c376e14c1ed603ba844b"
     }
   },
   {
@@ -1867,17 +2493,30 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "d3f9a43298f9dbbb56d8e79a577c0b1c8d904449f8d234c75785910524e4918b",
       "meanings": [
         "家",
         "房子"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "木立の間に家が見える。",
+          "zh": "可以从树丛间看到一栋房子。"
+        },
+        {
+          "ja": "母はいつも家にいるわけではない。",
+          "zh": "妈妈并不是一直都在家。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/9f074820b1",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "1d638ca1289abdee5eebbf09612acc7279607eaab65d08171c1cc918eb357717"
     }
   },
   {
@@ -1910,17 +2549,30 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "d58a8fef91d28fb8094375e5a0a1d84abc5bc1fe6e28d8a104716ba905b75e6a",
       "meanings": [
         "如何",
         "怎么样（较礼貌）"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "コンタクトを入れるというのはいかがでしょう？",
+          "zh": "考虑戴隐形眼镜怎么样？"
+        },
+        {
+          "ja": "ベーコンかソーセージはいかがか。",
+          "zh": "来点培根或香肠怎么样？"
+        }
+      ],
       "references": [
         "upstream vocab/n5/a3f296ad9a",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "1a921b45716f102adf1cfaff65df9f5614aa6c31bc9811aa9509dbc55f24675c"
     }
   },
   {
@@ -1950,16 +2602,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "e0197717cf9be2c45f8f7d664a641aa808a5cba48c3b6bd0dfd45daa99c8dbb3",
       "meanings": [
         "去"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "お母さん、泳ぎに行ってもいい？",
+          "zh": "妈妈，我可以去游泳吗？"
+        },
+        {
+          "ja": "父は、アメリカへ行ってしまった。",
+          "zh": "爸爸已经去美国了。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/66e4692df7",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "8b23b0ae3b154500bd2a9abd6f3143a253f9e8edcfe1fbeb2d07e0ad79111e75"
     }
   },
   {
@@ -1993,17 +2658,30 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "e14c038283adf1cf020f2d93ed13f594092d1ed760988eeb02fbab410534190f",
       "meanings": [
         "几个",
         "几岁"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "あなたのお父さんはおいくつですか。",
+          "zh": "您父亲多大年纪？"
+        },
+        {
+          "ja": "ウエストのサイズはいくつですか。",
+          "zh": "你的腰围是多少？"
+        }
+      ],
       "references": [
         "upstream vocab/n5/026ae57b50",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "8cf85b45ad221049726f88ccd6c91d97bb50ab85f6028c8d3d1610049bd59973"
     }
   },
   {
@@ -2036,16 +2714,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "ff65a65e0107f422a0d4df7dc719fccd13b51da49cef39321ce7b15612c3ea8d",
       "meanings": [
         "多少钱"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "このハンカチはいくらですか。",
+          "zh": "这条手帕多少钱？"
+        },
+        {
+          "ja": "ヒルトンホテルまでいくらですか。",
+          "zh": "到希尔顿酒店要多少钱？"
+        }
+      ],
       "references": [
         "upstream vocab/n5/4fc98c6938",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "298721137c319f41bb0efc74fca6bdb983124c1a519a37d55f6dec147c06be11"
     }
   },
   {
@@ -2075,16 +2766,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "83f1905b90b920247008e78b6517f414a7c6b9f374249f5330c7289e8f144b41",
       "meanings": [
         "池塘"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "その池にはほとんど水がない。",
+          "zh": "那个池塘里几乎没有水。"
+        },
+        {
+          "ja": "この前の夏にこの池は水がなくなりました。",
+          "zh": "去年夏天，这个池塘干了。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/43c874a6c8",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "b95f6d0d9a2474b7b2166ce7654ed32be8fd96ff191f656e8da3852043463191"
     }
   },
   {
@@ -2115,16 +2819,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "b3da5b3af55c6f3b7b69cf9c40aeac91b927c25e179bb347c8dcaaa1374ae399",
       "meanings": [
         "医生"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "医者になるつもりだったのですが。",
+          "zh": "我本来打算当医生的。"
+        },
+        {
+          "ja": "日本語の話せる医者はいますか。",
+          "zh": "有会说日语的医生吗？"
+        }
+      ],
       "references": [
         "upstream vocab/n5/ca76162587",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "1c42eb4f9cdb4460832ec7138aa1671ef4ab7b8e474c74bb1175cab2ae56bdca"
     }
   },
   {
@@ -2157,16 +2874,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "b54fc7727592a677a8dae6c373287fc6ce8322f3a0753acfb4f507a9200b57f6",
       "meanings": [
         "椅子"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "ちょっと椅子をずらしてくれない？",
+          "zh": "能把椅子挪一下吗？"
+        },
+        {
+          "ja": "イスはそのままにしておきなさい。",
+          "zh": "把椅子留在原处。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/d305fa14a8",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "3bdc63efa8b658e47521b1326a3561192b6d7f92603b4d8c1e8c977d47002559"
     }
   },
   {
@@ -2176,7 +2906,7 @@
     "romaji": "isogashii",
     "meanings": [
       "busy",
-      "irritated"
+      "occupied"
     ],
     "level": "N5",
     "pos": [
@@ -2198,16 +2928,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
-      "source_hash": "7ae8dd7aef35e55d2f6848cb54b300f016eadfe32c7e3345da525e504dc07c1c",
+      "status": "reviewed",
+      "source_hash": "9b775af64c9387eb4782778ee3aae5736e7e4797c5c82cc958d1dbe22d0e7c38",
       "meanings": [
         "忙碌的"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "忙しくてそれどころじゃないよ。",
+          "zh": "我忙得顾不上那个。"
+        },
+        {
+          "ja": "このところ、とても忙しくてね。",
+          "zh": "最近实在是很忙。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/cd1bcc2b1b",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "62992a5e255defc510ce2978972acb554e095bd1d3d56f188e3247c4f4877d15"
     }
   },
   {
@@ -2238,17 +2981,30 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "ec9452206406fddbc39753aeee5a7d386cdba6bfc9b018a971f01fa694872f76",
       "meanings": [
         "痛的",
         "疼的"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "ほかに痛いところはありますか。",
+          "zh": "还有其他地方疼吗？"
+        },
+        {
+          "ja": "痛くないようにしてください。",
+          "zh": "请尽量别弄疼我。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/4dae367794",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "94bceda3f474bad932ea37020ba2e4f384b2c5c00d92ca216b073ea14bbb5453"
     }
   },
   {
@@ -2269,27 +3025,40 @@
     ],
     "examples": [
       {
-        "ja": "８ドル５０セントいただきます。",
-        "en": "$8.50, please.",
-        "tatoeba_id": 234953
+        "ja": "食べる前に「いただきます」と言います。",
+        "en": "Before eating, we say itadakimasu.",
+        "furigana": "{食|た}べる{前|まえ}に「いただきます」と{言|い}います。"
       },
       {
-        "ja": "ワインをいただきます。",
-        "en": "We'd like to have some wine.",
-        "tatoeba_id": 192061
+        "ja": "みんなで「いただきます」と言って、食事を始めました。",
+        "en": "We all said itadakimasu and began the meal.",
+        "furigana": "みんなで「いただきます」と{言|い}って、{食事|しょくじ}を{始|はじ}めました。"
       }
     ],
     "zh": {
-      "status": "draft",
-      "source_hash": "179c96fdb915e120ab56d7d1e65667fb5e850bf368d4b89c87a566fe469383b9",
+      "status": "reviewed",
+      "source_hash": "64e26bf80655ad3ce3fb6b1cd4268d8c4b8d9f644541571929c39349fc239baf",
       "meanings": [
         "我开动了（饭前致谢用语）"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "食べる前に「いただきます」と言います。",
+          "zh": "吃饭前会说“我开动了”。"
+        },
+        {
+          "ja": "みんなで「いただきます」と言って、食事を始めました。",
+          "zh": "大家一起说了“我开动了”，然后开始用餐。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/eac7a22620",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "26b678cbb767e2b670c122dd14bbd6c7d715ca0e2120b0aaf83989a1a1b59d5d"
     }
   },
   {
@@ -2320,16 +3089,31 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "5b42db12b878c2200a614fe0e644a3f4d49303e938da7158df004e9eae9b58f3",
       "meanings": [
-        "一"
+        "一",
+        "第一（如東京一）"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "これは東京一のインドレストランです。",
+          "zh": "这是东京最好的印度餐厅。"
+        },
+        {
+          "ja": "このとおりを一マイル行きなさい。",
+          "zh": "沿这条路走一英里。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/9d8f862791",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "notes": "地名等后接一可表示在该范围内排名第一，如東京一。",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "3fea0bf1fd484a14d12fc35c3c3a6f99599ea4ed1d7f92d413233167653abab5"
     }
   },
   {
@@ -2361,7 +3145,7 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "a746c694b70e428b7f38206583d3403b4a1cfaecc808bd5d3e3b20ac49f48c8f",
       "meanings": [
         "一天",
@@ -2370,18 +3154,22 @@
       "examples": [
         {
           "ja": "一日で５００ドルつかってしまった。",
-          "zh": "我一天就花掉了五百美元。"
+          "zh": "一天就花掉了五百美元。"
         },
         {
           "ja": "一日いい天気になりそうですよ。",
-          "zh": "看来今天一整天都会是好天气。"
+          "zh": "看来一整天都会是好天气。"
         }
       ],
       "references": [
         "upstream vocab/n5/1cfccd0cdd",
-        "Original Chinese draft by Codex; not human-reviewed"
+        "Original Chinese authored and reviewed by Codex; no independent human review"
       ],
-      "explanation": "本卡学习いちにち，表示一天或整天。表示每月一号时，初学者应另学ついたち。"
+      "explanation": "本卡学习いちにち，表示一天或整天。表示每月一号时，初学者应另学ついたち。",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "dc5f669d19fe751ceb783dd9bd158bef0e876ac8666bbfbbed8e48164b91dbcc"
     }
   },
   {
@@ -2415,17 +3203,30 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "ddecad609a9cbb815531193ed240532ba37fbff783e7e62c978793ab3882f2dc",
       "meanings": [
         "第一",
         "最"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "このリンゴがいちばんおいしい。",
+          "zh": "这个苹果最好吃。"
+        },
+        {
+          "ja": "あいつはクラスでいちばんのまぬけだ。",
+          "zh": "那家伙是班里最笨的。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/cb96f363df",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "e4beea932f22d4f8195fc0dc8d44c35c3776b4652b886308c30a29ac1f48bc61"
     }
   },
   {
@@ -2458,16 +3259,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "74af1a4a225a31814e961cb9597dc504708692324be97cacec6cab8cd8257d3d",
       "meanings": [
         "什么时候"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "いつ旅行においでになりますか。",
+          "zh": "您什么时候来旅行？"
+        },
+        {
+          "ja": "パーティーはいつにしましょうか。",
+          "zh": "我们把聚会定在什么时候好呢？"
+        }
+      ],
       "references": [
         "upstream vocab/n5/fac6fc0838",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "61b19171f1ada1e8094cbe6a001bc87ba5efaa55ed0284b0e6ee61acef8a62fb"
     }
   },
   {
@@ -2498,17 +3312,30 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "20866b462340cf9977728485d476c078b03edc16de1fd852cb3c97ba7eb9ddc2",
       "meanings": [
         "五天",
         "五号"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "１月５日から１月１５日までおねがいします。",
+          "zh": "麻烦安排从一月五日到一月十五日。"
+        },
+        {
+          "ja": "五日待ってくれ。",
+          "zh": "等我五天。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/2a7c4baf86",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "ee180479be5cd00e19a0b75da5a6f0689b6d7aa4347f4504cfeafa4d5a827f3f"
     }
   },
   {
@@ -2539,16 +3366,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "24ee5e30b828dfb33ac236342ebc7ccf6f9b78d72ba5004ddba360ab461dc04b",
       "meanings": [
         "一起"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "「ご一緒してもいいですか」「もちろんです」",
+          "zh": "“我可以和你一起吗？”“当然可以。”"
+        },
+        {
+          "ja": "もっと一緒にいられたらいいのに。",
+          "zh": "要是能多在一起待一会儿就好了。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/2dc7289c82",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "a8dc99e3af7b57726ea94d82f61246ab6de20d2b3415b62c279c5211f94bbcd7"
     }
   },
   {
@@ -2572,23 +3412,35 @@
         "tatoeba_id": 220200
       },
       {
-        "ja": "レストランやパブは五つ木通りにたくさんあります。",
-        "furigana": "レストランやパブは{五|いつ}つ{木|き}{通|どお}りにたくさんあります。",
-        "en": "Many restaurants and pubs are on Itsutsugi Street.",
-        "tatoeba_id": 192345
+        "ja": "卵を五つ買いました。",
+        "en": "I bought five eggs.",
+        "furigana": "{卵|たまご}を{五|いつ}つ{買|か}いました。"
       }
     ],
     "zh": {
-      "status": "draft",
-      "source_hash": "619b5adf80613132e6f522f9ed9fb8087dff52e226dd8e33e9b3514672166d41",
+      "status": "reviewed",
+      "source_hash": "03508ffdd17449e5648ecbfbae46226000dba3395c5dea13946797d69c0b9992",
       "meanings": [
         "五个"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "この箱にはリンゴが五つ入っている。",
+          "zh": "这个盒子里装着五个苹果。"
+        },
+        {
+          "ja": "卵を五つ買いました。",
+          "zh": "我买了五个鸡蛋。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/9ac35c3990",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "7b2a16fcff5d0c6dc59f69264307c44e7d4845d384a31e0d24da4883f1f76a62"
     }
   },
   {
@@ -2622,17 +3474,30 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "6390dd15a8f766952c1400a3b775373456704d13c8c9e43772074ba39e247ed4",
       "meanings": [
         "总是",
         "平时"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "あの子はいつもニコニコしている。",
+          "zh": "那孩子总是笑眯眯的。"
+        },
+        {
+          "ja": "あの子はいつもだだをこねている。",
+          "zh": "那孩子总是撒泼耍赖。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/dea2a1df8b",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "b62b4e6740679387c2c2860abd6a6f4ea760d39156c843d6ff657e5703edfc7c"
     }
   },
   {
@@ -2663,16 +3528,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "6555408f17af4dd45f677ecd2fcae53a05e40125331376a234599b5d97f7cddc",
       "meanings": [
         "狗"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "その犬はかみついたりしませんよ。",
+          "zh": "那只狗不会咬人哦。"
+        },
+        {
+          "ja": "この犬は何でもほとんど食べます。",
+          "zh": "这只狗几乎什么都吃。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/0df89f5010",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "e8f9d6c3366ea2d139197f7c7f0faa7526d2d6c5f8b551f595d0e6aeebee294d"
     }
   },
   {
@@ -2705,16 +3583,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "899e713b8d622c41ab649c0ea9557c92586383d5521e9c93b59fb1444fec8113",
       "meanings": [
         "现在"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "今のアナウンスは何だったのですか。",
+          "zh": "刚才广播说的是什么？"
+        },
+        {
+          "ja": "トムもビルも今テニスをしている。",
+          "zh": "汤姆和比尔现在都在打网球。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/ce75c75644",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "d3d6c8a33eaceceda9be1ea61982fda2e36d5806e649311703ff3fea7cc2f698"
     }
   },
   {
@@ -2747,17 +3638,30 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "826e4269e90c4d9d7f8e0eaf7838dbd88c4351440cbe20996e3ca1063439e6bc",
       "meanings": [
         "意思",
         "含义"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "その語にはいくつかの意味がある。",
+          "zh": "那个词有几个意思。"
+        },
+        {
+          "ja": "おっしゃる意味がわかりませんが。",
+          "zh": "我不太明白您的意思。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/cb29ccdd2a",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "8c66baab00318b8c530ca6e162f148f0d5357a20986db5344052fcc23e6763c7"
     }
   },
   {
@@ -2788,16 +3692,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "ba227a673868dec14d541d552a9794ded4db26d24b69c38a4f8b4893c41a8f99",
       "meanings": [
         "妹妹"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "男の子は妹を見下ろしがちである。",
+          "zh": "男孩子往往会瞧不起自己的妹妹。"
+        },
+        {
+          "ja": "あいつの妹、とてもかわいいね。",
+          "zh": "那家伙的妹妹真可爱啊。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/12047d019b",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "565a8f5131ec75a069d9f27e0ad9f4110ee8bcdde0c9fe1d4c44629935f17114"
     }
   },
   {
@@ -2827,17 +3744,30 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "a2cf132eb5385be1cff6d6f6de6a1c549b1dd5c497cc6665792304c2e2e1cad0",
       "meanings": [
         "讨厌",
         "不愿意"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "毎日うっとうしくていやですね。",
+          "zh": "每天都这么阴沉沉的，真讨厌啊。"
+        },
+        {
+          "ja": "どんなものでも、スポーツはいやです。",
+          "zh": "无论哪一种运动，我都不喜欢。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/eda751e069",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "fe93871d70f61a45f49158841da80af55f3e0bf6f3f685628bae414a087fc8fd"
     }
   },
   {
@@ -2867,16 +3797,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "6a19fc3cf567880794604810b4a2b7273a693c8f0fe6fcb85efeaf888cd0f53b",
       "meanings": [
         "入口"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "１台の車が入り口に止まった。",
+          "zh": "一辆车停在了入口处。"
+        },
+        {
+          "ja": "数人の人が入り口でぶらついていた。",
+          "zh": "几个人在入口处闲逛。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/1ff0529d03",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "91bd3dc48765164787550e2b1f8d209459f99c6774acfb195a38c05ed99f955d"
     }
   },
   {
@@ -2899,10 +3842,9 @@
     ],
     "examples": [
       {
-        "ja": "すっかり食べ終わってはいない。",
-        "furigana": "すっかり{食|た}べ{終|お}わってはいない。",
-        "en": "I haven't quite finished eating.",
-        "tatoeba_id": 214668
+        "ja": "庭に猫がいます。",
+        "en": "There is a cat in the garden.",
+        "furigana": "{庭|にわ}に{猫|ねこ}がいます。"
       },
       {
         "ja": "あんないい男そうそういないぞ！！",
@@ -2912,17 +3854,30 @@
       }
     ],
     "zh": {
-      "status": "draft",
-      "source_hash": "8f2297c427270b4541c15818d26d678b0aedb31099a780cc88fb44dd7d929848",
+      "status": "reviewed",
+      "source_hash": "fcf17323d165282b3a5e2df65878d40d6407690f9c7cf0831f61905134984406",
       "meanings": [
         "在",
         "有（用于人、动物）"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "庭に猫がいます。",
+          "zh": "院子里有一只猫。"
+        },
+        {
+          "ja": "あんないい男そうそういないぞ！！",
+          "zh": "那么好的男人可不常见！"
+        }
+      ],
       "references": [
         "upstream vocab/n5/9438889173",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "fb7d76668c78181299e3a838d2aa7eda94c525fb5d17533d8d6e5627264e6119"
     }
   },
   {
@@ -2954,16 +3909,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "99228e1f67e7c0c52fc12b6b83e09cd6b44f17935aa6f0a4d11c09fa136f979f",
       "meanings": [
         "需要"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "今のところお金はいらない。",
+          "zh": "目前我不需要钱。"
+        },
+        {
+          "ja": "バターが要るんだけど、いくらかありますか。",
+          "zh": "我需要黄油，你这里有一些吗？"
+        }
+      ],
       "references": [
         "upstream vocab/n5/7a84208708",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "1a10cf4f7a382528349d7f36338d27701a5601795683cb053b384e15f4ed6b34"
     }
   },
   {
@@ -2995,16 +3963,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "ce1db23e17713daeea93d5ec322e06fccf442799c5f4d734d1c498f262f06263",
       "meanings": [
         "放入"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "それは引き出しに入れておきました。",
+          "zh": "我已经把它放进抽屉里了。"
+        },
+        {
+          "ja": "本をさかさまに入れないで下さい。",
+          "zh": "请不要把书倒着放进去。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/6d824d5110",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "26c37711dbb1bc5f16764633ef968e8b51171816fd6b7cee63c4b8e99d8e58f2"
     }
   },
   {
@@ -3035,16 +4016,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "29efcc7ba7197b4c582da2497b9e3f422de84c9ed05097925b27d9681af16ad5",
       "meanings": [
         "颜色"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "カメレオンはどんな色にでもなれる。",
+          "zh": "变色龙能变成各种颜色。"
+        },
+        {
+          "ja": "この色、気に入りましたか。",
+          "zh": "你喜欢这个颜色吗？"
+        }
+      ],
       "references": [
         "upstream vocab/n5/523266ea6f",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "78a7a20479f94455fd8279d482828029d54ae28bc7aa555e49c6b0b79f7db32b"
     }
   },
   {
@@ -3078,16 +4072,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "68ac319f1573ca41da633f763d01d5f6de74702d599d46d09c67f4306a70234c",
       "meanings": [
         "各种各样"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "先生といってもいろいろある。",
+          "zh": "虽说都是老师，也有各种各样的。"
+        },
+        {
+          "ja": "コーヒーにもいろいろある。",
+          "zh": "咖啡也有各种各样的。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/f74dd1ee9a",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "32db4b3f6a42579a9b34b78905d819c37cf80efc6eb099ff801311153849cf6a"
     }
   },
   {
@@ -3118,16 +4125,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "63be583cef653408f16278bd458b1d7393e45ccafe1ed456eafeba3ca052f142",
       "meanings": [
         "上面"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "テーブルの上にリンゴがあります。",
+          "zh": "桌上有苹果。"
+        },
+        {
+          "ja": "テーブルの上にオレンジがある。",
+          "zh": "桌上有橙子。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/08a3ed212d",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "687409452f12e4b5bb1e6b3257afc5e094e117c5965c08fd850dcdaeb2afd6f9"
     }
   },
   {
@@ -3159,16 +4179,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "c6524dd79a5edc90d1074ab4fc7d3751c746efa4a88d95beed09cd0d0fa26b07",
       "meanings": [
         "后面"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "校長が先生の後ろから入ってきた。",
+          "zh": "校长跟在老师后面走了进来。"
+        },
+        {
+          "ja": "あなたの後ろのドアをしめて下さい。",
+          "zh": "请把你身后的门关上。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/93bdc81dd9",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "866a5def4a9e8f1936afffd1272098f86e401825955422bdedb1e11fce4373fd"
     }
   },
   {
@@ -3200,17 +4233,30 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "7fb3fa72b4246c77ec03cc84f0e3743b5b09201b8b391edb271b6fbdb232aa36",
       "meanings": [
         "薄的",
         "淡的"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "コーヒーは薄いのが好きです。",
+          "zh": "我喜欢淡一点的咖啡。"
+        },
+        {
+          "ja": "肉を薄く切りなさい。",
+          "zh": "把肉切薄一些。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/d2b2316e45",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "5a72c294ddb474d90dae8c1d79d9f48a10331dfe4809549f786d456d27d0e1c0"
     }
   },
   {
@@ -3241,16 +4287,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "eabc4e200b4e76d58f44e9a0570df943ca17aeaa9da21cb21305ef55cb937317",
       "meanings": [
         "歌曲"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "歌がうまければいいのになあ。",
+          "zh": "要是我唱歌好听就好了。"
+        },
+        {
+          "ja": "この歌の名前は『オンリー・ユー』です。",
+          "zh": "这首歌的名字叫《Only You》。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/036f4180a2",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "8e07bdbb290515a3654e42cab2e45551415ff234e7cd02d24060305057de87c0"
     }
   },
   {
@@ -3283,16 +4342,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "085c996ac5da3cf595b14c61e312a333a0820a6943e140cb4bfc7087df02d85b",
       "meanings": [
         "唱歌"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "ジョンはステージで何を歌いましたか。",
+          "zh": "约翰在台上唱了什么？"
+        },
+        {
+          "ja": "ベティはうまく歌うことができた。",
+          "zh": "贝蒂唱歌唱得很好。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/3464318c23",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "6da79f6b8008885da2c8d1a44281e1d0875901617c180325f367a97c67d4fd82"
     }
   },
   {
@@ -3324,16 +4396,31 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "580aaf5ad1f46d45221e940008388e2062be5bb2dce6d0a5dd1a237343e9eed0",
       "meanings": [
-        "出生"
+        "出生",
+        "诞生、产生"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "どんぐりからオークが生まれる。",
+          "zh": "橡树由橡子长成。"
+        },
+        {
+          "ja": "ここが父の生まれたところです。",
+          "zh": "这里是父亲出生的地方。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/63bc7722fa",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "bfe036fecbe5aabe2e8fc46e5622df1c9554c74dcda146a8e6d1ace2af003b4e",
+      "notes": "除人的出生外，也可用于事物的诞生或形成；例句中橡树由橡子长成属于引申表达。"
     }
   },
   {
@@ -3363,16 +4450,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "716e9a27a70763690d2651af9410cdf9a4766ebe942ea05d83a9b3d6aab10980",
       "meanings": [
         "海"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "何としても海をひと目みたいものだ。",
+          "zh": "无论如何，我都想看一眼大海。"
+        },
+        {
+          "ja": "海までは、たった１マイルです。",
+          "zh": "到海边只有一英里。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/06ac21dc7d",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "909b5a585f611de89d2756f1c1325b58a2b5ac8bdd896cc5e60c8243e67d691d"
     }
   },
   {
@@ -3404,16 +4504,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "fd370f732ab97a701d362c5860e794a8a1e93950c4b5b2bf64ebc9cfc8974bd8",
       "meanings": [
         "卖"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "トムはメアリーにバイクを売った。",
+          "zh": "汤姆把摩托车卖给了玛丽。"
+        },
+        {
+          "ja": "バターは１ポンドいくらで売られる。",
+          "zh": "黄油按每磅的价格出售。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/f7e1da43df",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "69298584da4d7664228258276e8ed724c5ed5a00f66bd59c4121f6d70c80f9c7"
     }
   },
   {
@@ -3447,17 +4560,30 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "04e4547002ce01e9a3fa0d1864c719b00dc9de9c6c30d2fc782b878ba998a488",
       "meanings": [
         "吵闹的",
         "烦人的"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "あの子はなんてうるさい子だろう。",
+          "zh": "那孩子真吵啊。"
+        },
+        {
+          "ja": "つべこべうるさいよ。やるのかやらないのか！？",
+          "zh": "啰嗦什么，你到底做不做？！"
+        }
+      ],
       "references": [
         "upstream vocab/n5/7ecfe0d248",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "5ef96d6cf0fb991f12840e6ea663553f72ac431e623244ff467bc5f8d1445dfc"
     }
   },
   {
@@ -3488,17 +4614,30 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "3a6efb4e88c3c1a10f952534cfc6f47fef2eb87a1db9f654ecf739188498f29e",
       "meanings": [
         "上衣",
         "外套"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "ドアのそばのかぎに上着をかけなさい。",
+          "zh": "把外套挂在门旁的钩子上。"
+        },
+        {
+          "ja": "その上着はよくもったね。",
+          "zh": "那件外套穿了很久呢。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/1ef8a05bf3",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "31ae4eff8b678c43f30d68b6bee499beb5970d833aba1e8dbbdbcee3555d9f61"
     }
   },
   {
@@ -3529,17 +4668,30 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "8783d3dc57bdd6a5a82be5f96ea8937a76baf618f52d9d00b467870ec43ade34",
       "meanings": [
         "画",
         "图画"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "絵がテーブルの上にかかっている。",
+          "zh": "画挂在桌子上方。"
+        },
+        {
+          "ja": "なぜその絵を見なかったのですか。",
+          "zh": "你为什么没看那幅画？"
+        }
+      ],
       "references": [
         "upstream vocab/n5/5bb390da0b",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "8bbaef422aa48fc6a9c31d7cb670a9978dd8c1aed1f277ab9af868881571c32a"
     }
   },
   {
@@ -3570,16 +4722,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "e94d42ae96cb58e822940992155cb43da6e73f49d9c2a6af5b5f7f7b8a627bea",
       "meanings": [
         "电影"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "その映画をもう一度見たいな。",
+          "zh": "我想再看一遍那部电影。"
+        },
+        {
+          "ja": "映画を見に行こうではないですか。",
+          "zh": "我们去看电影吧。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/92b1621231",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "63b68d1f5318b7a5399abcccedb8f3e2b343f78719eb61b2eda208b712040b20"
     }
   },
   {
@@ -3610,16 +4775,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "81c710f521662f8c9b6fe24ccfbc5f97aa69553711611800799f18a6407463f3",
       "meanings": [
         "电影院"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "その映画館は人々でいっぱいだった。",
+          "zh": "那家电影院里挤满了人。"
+        },
+        {
+          "ja": "この近くに映画館はありますか。",
+          "zh": "这附近有电影院吗？"
+        }
+      ],
       "references": [
         "upstream vocab/n5/8a88cfbcb8",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "434bf7cf6ebb1f9e5889bec0052e7eb5085fce29ed0b6548c82fbc8fd6125e14"
     }
   },
   {
@@ -3650,16 +4828,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "6fe6aef7a8d42a9bc6517d40ec6d09f68d4b9f2d9214ac9973c1329cb8d3bc60",
       "meanings": [
         "英语"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "アメリカでは英語を話します。",
+          "zh": "美国人说英语。"
+        },
+        {
+          "ja": "先生のように英語が話せたらなぁ。",
+          "zh": "要是我能像老师那样说英语就好了。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/16adc7bd03",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "fc84d68e33243149d41cae18b0c5b0238d6a5c65a019410752a7c73b2c93b87e"
     }
   },
   {
@@ -3688,17 +4879,30 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "aec6d8b97f5d1fa400d57b2674e62df30413427bc83ea5f8bd1380674e60e9cd",
       "meanings": [
         "嗯",
         "是的"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "「テニスをしましょうか」「ええ」",
+          "zh": "“我们打网球吧？”“好啊。”"
+        },
+        {
+          "ja": "ええ、アンソニーです。",
+          "zh": "是的，我是安东尼。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/8ac60a4060",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "ee7968792ee553eec11dc45413a8cd488990349b0f6e4ff9ce4e224d632b769e"
     }
   },
   {
@@ -3729,16 +4933,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "aa3cfd6435c6d2d68d2586d162371b48bb2608e1cf345692bf093f0b2f5270cf",
       "meanings": [
-        "车站"
+        "车站（通常指铁路车站）"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "グランド・セントラル駅までやってください。",
+          "zh": "请送我到中央车站。"
+        },
+        {
+          "ja": "ここから駅まで２マイルあります。",
+          "zh": "从这里到车站有两英里。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/d5f359c20b",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "1cdde99ec960e5f3c8d819332f1abe650d5ee83b9c1fd5847d817c47969090d0"
     }
   },
   {
@@ -3768,16 +4985,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "5c919b2b3496f43f5e7aa38d70bf0781843b622e2c2ac87e5a7c39ec9488fb6c",
       "meanings": [
         "电梯"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "エレベーターはどこですか。",
+          "zh": "电梯在哪里？"
+        },
+        {
+          "ja": "私はエレベーターで下におりた。",
+          "zh": "我坐电梯下去了。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/eb1695baf6",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "b578508f132811c222c2c6b574ce5c1f71e22588e1d2464e159b29b7f7162b22"
     }
   },
   {
@@ -3808,16 +5038,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "204e36e28accf6d0b903f6a62681f7e5d98fc48068b13595f9ab8f77fb1b1820",
       "meanings": [
         "铅笔"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "えんぴつであなたの名前を書きなさい。",
+          "zh": "用铅笔写下你的名字。"
+        },
+        {
+          "ja": "ペンか鉛筆を持っていますか。",
+          "zh": "你带钢笔或铅笔了吗？"
+        }
+      ],
       "references": [
         "upstream vocab/n5/381da4d060",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "bf1c5d3b0719c521772539965c73e08bc525a27a1eb5c11052dcdc1fa5be8c49"
     }
   },
   {
@@ -3850,17 +5093,30 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "0989d2c2b98cb2d234c26e7f72c8604ad7ae862b3f6983c176a1edfa1d542265",
       "meanings": [
         "好吃的",
         "美味的"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "おいしい食事をありがとう。",
+          "zh": "谢谢你招待这么好吃的一餐。"
+        },
+        {
+          "ja": "なんておいしいスープなんだろう。",
+          "zh": "这汤真好喝！"
+        }
+      ],
       "references": [
         "upstream vocab/n5/7f02ae8fa1",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "897dfb2ffd9334dbdd60e580e665cd58121ffe18185029460460c9e4395aaf59"
     }
   },
   {
@@ -3891,16 +5147,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "5c22c1d534583b60d0a3f90f8003a4cd63b4c93afadfa7eb00d404b9844982a5",
       "meanings": [
         "多的"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "この学校は男子よりも女子が多い。",
+          "zh": "这所学校的女生比男生多。"
+        },
+        {
+          "ja": "そこには、水が多かったからである。",
+          "zh": "那是因为那里有很多水。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/60813fffd1",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "1f10b228c0fb297372bf028d2e0a4abd6e794a432e1c004f3878d21fc94cb760"
     }
   },
   {
@@ -3931,16 +5200,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "7bd7609890b78c9b9209e65dda763a5a8c94f00696392a940353890d27da0dd1",
       "meanings": [
         "大的"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "もっと大きいサイズはありますか。",
+          "zh": "有更大一号的吗？"
+        },
+        {
+          "ja": "きみは何と大きい家を持っているんだろう。",
+          "zh": "你的房子真大啊。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/8fa5a63fc7",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "3d47266632f7a26928a105ba10dc2be09902f8030fb2a6bad64fc5731d4a29ca"
     }
   },
   {
@@ -3971,16 +5253,29 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "71ecd9f35e4c57940f47b3595490f81b6da5ab9dc87399d2fe06353e025cbffe",
       "meanings": [
         "大的（直接修饰名词）"
       ],
-      "examples": [],
+      "examples": [
+        {
+          "ja": "それらはとても大きなりんごです。",
+          "zh": "那些是很大的苹果。"
+        },
+        {
+          "ja": "あの大きなハンマーを見てごらん。",
+          "zh": "你看看那把大锤子。"
+        }
+      ],
       "references": [
         "upstream vocab/n5/3a2de0afca",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "6a0ace2e9391e009a679402b2d4048475031023c082ad25604a5ac591a16df09"
     }
   },
   {
@@ -10559,7 +11854,7 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "45ced342c3569f971de260af9c8c624d124b2de9b1938b84a0a3bd911e7d43e4",
       "meanings": [
         "肥皂"
@@ -10567,7 +11862,7 @@
       "examples": [
         {
           "ja": "せっけんだらけの手で私にさわらないで。",
-          "zh": "别用沾满肥皂的手碰我。"
+          "zh": "别用满是肥皂的手碰我。"
         },
         {
           "ja": "せっけんで手を洗いました。",
@@ -10576,9 +11871,13 @@
       ],
       "references": [
         "upstream vocab/n5/b48d0c99d4",
-        "Original Chinese draft by Codex; not human-reviewed"
+        "Original Chinese authored and reviewed by Codex; no independent human review"
       ],
-      "explanation": "这里是洗手用的肥皂，汉字可写作石鹸或石けん。不要与同音的節倹（节俭）混淆。"
+      "explanation": "这里是洗手用的肥皂，汉字可写作石鹸或石けん。不要与同音的節倹（节俭）混淆。",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "4d4cf98c5ef26a097dd8f9a99c3c283bbfa50114bb078486026e6177e1d6baed"
     }
   },
   {
@@ -11754,7 +13053,7 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "387b3f1653e27cc38bb8cdd5dd5c8c7188514b03c75d9f6129eed480662d3d64",
       "meanings": [
         "吃"
@@ -11766,14 +13065,18 @@
         },
         {
           "ja": "食べながら読んではいけません。",
-          "zh": "不能一边吃东西一边看书。"
+          "zh": "不要一边吃东西一边看书。"
         }
       ],
       "references": [
         "upstream vocab/n5/86f67e2dc3",
-        "Original Chinese draft by Codex; not human-reviewed"
+        "Original Chinese authored and reviewed by Codex; no independent human review"
       ],
-      "explanation": "一段动词，表示吃。礼貌形式为食べます，否定形式为食べない。"
+      "explanation": "一段动词，表示吃。礼貌形式为食べます，否定形式为食べない。",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "2e1310f5c3638c7b28a234bae5ec04197ecc00b6d60ebfab6f15c062ccad1e77"
     }
   },
   {
@@ -19526,7 +20829,7 @@
       }
     ],
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "5f2183f86791a3e14f2957272dc920758c849c288cf6f746f436109063ec13e9",
       "meanings": [
         "四天",
@@ -19535,18 +20838,22 @@
       "examples": [
         {
           "ja": "長くても４日しか待てませんよ。",
-          "zh": "最多只能等四天。"
+          "zh": "我最多只能等四天。"
         },
         {
           "ja": "私は１９７４年６月４日に生まれた。",
-          "zh": "我出生于1974年6月4日。"
+          "zh": "我出生于一九七四年六月四日。"
         }
       ],
       "references": [
         "upstream vocab/n5/222ae96df7",
-        "Original Chinese draft by Codex; not human-reviewed"
+        "Original Chinese authored and reviewed by Codex; no independent human review"
       ],
-      "explanation": "よっか既可以表示四天，也可以表示每月四号，需结合语境判断。"
+      "explanation": "よっか既可以表示四天，也可以表示每月四号，需结合语境判断。",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "4a57e927288f875c51bc20b4b7793c90804361efd6a9271fd5eaa777ed6bab04"
     }
   },
   {

@@ -38,6 +38,9 @@ export interface Chinese {
   examples: { ja: string; zh: string }[];
   references: string[];
   reviewer?: string;
+  review_method?: 'ai' | 'human';
+  reviewed_at?: string;
+  review_hash?: string;
 }
 
 export interface Vocab {

@@ -1,0 +1,6473 @@
+{
+  "source": "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz",
+  "snapshot_sha256": "aacc8703771759ad302f01199db13e83043fdf8cabb2357df742e9e758e8aa8d",
+  "retrieved_at": "2026-10-28",
+  "license": "See NOTICE.md for JMdict attribution and license.",
+  "scope": "Selected dictionary senses used during the 200-entry Chinese review; Chinese is original, not a dictionary translation.",
+  "entries": [
+    {
+      "id": "ada066edfd",
+      "jmdict_id": 1198180,
+      "dictionary": {
+        "spellings": [
+          "会う",
+          "逢う",
+          "遭う",
+          "遇う"
+        ],
+        "readings": [
+          "あう"
+        ],
+        "glosses": [
+          [
+            "to meet",
+            "to encounter",
+            "to see",
+            "to come across",
+            "to run into"
+          ],
+          [
+            "to have (e.g. an accident)",
+            "to suffer (e.g. an unpleasant fate)",
+            "to encounter",
+            "to face",
+            "to go through (e.g. a tough time)",
+            "to get caught up (in)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ebec658463",
+      "jmdict_id": 1381380,
+      "dictionary": {
+        "spellings": [
+          "青",
+          "蒼",
+          "碧"
+        ],
+        "readings": [
+          "あお"
+        ],
+        "glosses": [
+          [
+            "blue",
+            "azure"
+          ],
+          [
+            "green"
+          ],
+          [
+            "green light (traffic)"
+          ],
+          [
+            "black (horse coat color)"
+          ],
+          [
+            "blue 5-point card"
+          ],
+          [
+            "immature",
+            "unripe",
+            "young"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "51a671ec17",
+      "jmdict_id": 1381390,
+      "dictionary": {
+        "spellings": [
+          "青い",
+          "蒼い",
+          "碧い"
+        ],
+        "readings": [
+          "あおい"
+        ],
+        "glosses": [
+          [
+            "blue",
+            "azure"
+          ],
+          [
+            "green"
+          ],
+          [
+            "pale (facial color)",
+            "gray",
+            "grey"
+          ],
+          [
+            "unripe",
+            "inexperienced"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2dacb910b2",
+      "jmdict_id": 2013900,
+      "dictionary": {
+        "spellings": [
+          "赤",
+          "紅",
+          "朱",
+          "緋"
+        ],
+        "readings": [
+          "あか"
+        ],
+        "glosses": [
+          [
+            "red",
+            "crimson",
+            "scarlet"
+          ],
+          [
+            "red-containing colour (e.g. brown, pink, orange)"
+          ],
+          [
+            "Red (i.e. communist)"
+          ],
+          [
+            "red light (traffic)"
+          ],
+          [
+            "red ink (i.e. in finance or proof-reading)",
+            "(in) the red"
+          ],
+          [
+            "complete",
+            "total",
+            "perfect",
+            "obvious"
+          ],
+          [
+            "copper"
+          ],
+          [
+            "red 5-point card"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "44ba38cf8b",
+      "jmdict_id": 1383240,
+      "dictionary": {
+        "spellings": [
+          "赤い",
+          "紅い",
+          "朱い",
+          "緋い",
+          "赭い",
+          "丹い"
+        ],
+        "readings": [
+          "あかい"
+        ],
+        "glosses": [
+          [
+            "red",
+            "crimson",
+            "scarlet",
+            "vermilion"
+          ],
+          [
+            "Red",
+            "communist"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "91987ae840",
+      "jmdict_id": 1532350,
+      "dictionary": {
+        "spellings": [
+          "明るい",
+          "明い"
+        ],
+        "readings": [
+          "あかるい"
+        ],
+        "glosses": [
+          [
+            "light",
+            "bright",
+            "well-lit",
+            "well-lighted"
+          ],
+          [
+            "bright (colour)"
+          ],
+          [
+            "cheerful",
+            "bright",
+            "spirited",
+            "sunny (e.g. disposition)"
+          ],
+          [
+            "bright (future, prospects, etc.)",
+            "rosy",
+            "encouraging",
+            "promising"
+          ],
+          [
+            "knowledgeable (about)",
+            "familiar (with)",
+            "well versed (in)",
+            "well acquainted (with)"
+          ],
+          [
+            "fair (e.g. politics)",
+            "clean",
+            "impartial"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "8dc7006bda",
+      "jmdict_id": 1332650,
+      "dictionary": {
+        "spellings": [
+          "秋"
+        ],
+        "readings": [
+          "あき"
+        ],
+        "glosses": [
+          [
+            "autumn",
+            "fall"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fc3bc1e6f1",
+      "jmdict_id": 1586270,
+      "dictionary": {
+        "spellings": [
+          "開く",
+          "空く",
+          "明く"
+        ],
+        "readings": [
+          "あく"
+        ],
+        "glosses": [
+          [
+            "to open (e.g. doors)"
+          ],
+          [
+            "to open (e.g. business, etc.)"
+          ],
+          [
+            "to be empty"
+          ],
+          [
+            "to be vacant",
+            "to be available",
+            "to be free"
+          ],
+          [
+            "to be open (e.g. neckline, etc.)"
+          ],
+          [
+            "to have been opened (of one's eyes, mouth, etc.)"
+          ],
+          [
+            "to come to an end"
+          ],
+          [
+            "to open (one's eyes, mouth, etc.)"
+          ],
+          [
+            "to have a hole",
+            "to form a gap",
+            "to have an interval (between events)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "321963ed35",
+      "jmdict_id": 1202450,
+      "dictionary": {
+        "spellings": [
+          "開ける",
+          "空ける",
+          "明ける"
+        ],
+        "readings": [
+          "あける"
+        ],
+        "glosses": [
+          [
+            "to open (a door, etc.)",
+            "to unwrap (e.g. parcel, package)",
+            "to unlock"
+          ],
+          [
+            "to open (for business, etc.)"
+          ],
+          [
+            "to empty",
+            "to remove",
+            "to make space",
+            "to make room"
+          ],
+          [
+            "to move out",
+            "to clear out"
+          ],
+          [
+            "to be away from (e.g. one's house)",
+            "to leave (temporarily)"
+          ],
+          [
+            "to dawn",
+            "to grow light"
+          ],
+          [
+            "to end (of a period, season)"
+          ],
+          [
+            "to begin (of the New Year)"
+          ],
+          [
+            "to leave (one's schedule) open",
+            "to make time (for)"
+          ],
+          [
+            "to make (a hole)",
+            "to open up (a hole)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "9661cbac61",
+      "jmdict_id": 1352320,
+      "dictionary": {
+        "spellings": [
+          "上げる",
+          "騰げる"
+        ],
+        "readings": [
+          "あげる",
+          "アゲる"
+        ],
+        "glosses": [
+          [
+            "to raise",
+            "to elevate"
+          ],
+          [
+            "to move something (to a higher place)",
+            "to put onto (e.g. a shelf)"
+          ],
+          [
+            "to increase (price, quality, status, etc.)",
+            "to raise (a wage)"
+          ],
+          [
+            "to show someone (into a room)",
+            "to let in (e.g. a guest)"
+          ],
+          [
+            "to give"
+          ],
+          [
+            "to enrol (one's child in school)",
+            "to enroll",
+            "to send (one's child; e.g. to college)"
+          ],
+          [
+            "to develop (talent, skill, etc.)",
+            "to improve"
+          ],
+          [
+            "to earn (something desirable)",
+            "to achieve (e.g. a good result)",
+            "to obtain"
+          ],
+          [
+            "to promote (someone)"
+          ],
+          [
+            "to complete",
+            "to finish"
+          ],
+          [
+            "to make (a loud sound)",
+            "to raise (one's voice)"
+          ],
+          [
+            "to raise (one's gaze)",
+            "to lift up (one's face)",
+            "to look up"
+          ],
+          [
+            "to do up (one's hair)"
+          ],
+          [
+            "to offer up (incense, a prayer, etc.) to the gods (or Buddha, etc.)"
+          ],
+          [
+            "to praise",
+            "to commend",
+            "to flatter"
+          ],
+          [
+            "to make do (with less expenses than expected)",
+            "to cover expenses (with a given amount)",
+            "to set costs"
+          ],
+          [
+            "to finish (one's studies)",
+            "to complete (a lesson)",
+            "to pass (e.g. a class)"
+          ],
+          [
+            "to upload (e.g. an image)",
+            "to publish (on the internet)",
+            "to post"
+          ],
+          [
+            "to raise someone's spirits",
+            "to cheer someone up",
+            "to enhance a mood"
+          ],
+          [
+            "(of the tide) to come in",
+            "to rise"
+          ],
+          [
+            "to increase (of market price)",
+            "to rise (of stock prices)"
+          ],
+          [
+            "to vomit",
+            "to throw up"
+          ],
+          [
+            "to do for (the sake of someone else)"
+          ],
+          [
+            "to complete ..."
+          ],
+          [
+            "to humbly do ..."
+          ]
+        ]
+      }
+    },
+    {
+      "id": "d46ae79a26",
+      "jmdict_id": 1428280,
+      "dictionary": {
+        "spellings": [
+          "朝"
+        ],
+        "readings": [
+          "あさ"
+        ],
+        "glosses": [
+          [
+            "morning"
+          ],
+          [
+            "breakfast"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "98bc6f72ae",
+      "jmdict_id": 1586330,
+      "dictionary": {
+        "spellings": [
+          "朝ごはん",
+          "朝ご飯",
+          "朝御飯"
+        ],
+        "readings": [
+          "あさごはん"
+        ],
+        "glosses": [
+          [
+            "breakfast"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "b3b4041c52",
+      "jmdict_id": 1584640,
+      "dictionary": {
+        "spellings": [
+          "明後日"
+        ],
+        "readings": [
+          "あさって",
+          "みょうごにち"
+        ],
+        "glosses": [
+          [
+            "day after tomorrow"
+          ],
+          [
+            "wrong (e.g. direction)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "27df3d5802",
+      "jmdict_id": 1404630,
+      "dictionary": {
+        "spellings": [
+          "足",
+          "脚",
+          "肢"
+        ],
+        "readings": [
+          "あし"
+        ],
+        "glosses": [
+          [
+            "foot",
+            "paw",
+            "arm (of an octopus, squid, etc.)"
+          ],
+          [
+            "leg"
+          ],
+          [
+            "gait"
+          ],
+          [
+            "pace"
+          ],
+          [
+            "lower radical of a kanji"
+          ],
+          [
+            "means of transportation",
+            "(one's) ride"
+          ],
+          [
+            "money",
+            "coin"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "115ec83476",
+      "jmdict_id": 1584660,
+      "dictionary": {
+        "spellings": [
+          "明日"
+        ],
+        "readings": [
+          "あした",
+          "あす",
+          "みょうにち"
+        ],
+        "glosses": [
+          [
+            "tomorrow"
+          ],
+          [
+            "near future"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "bee501faf0",
+      "jmdict_id": 1000320,
+      "dictionary": {
+        "spellings": [
+          "彼処",
+          "彼所"
+        ],
+        "readings": [
+          "あそこ",
+          "あすこ",
+          "かしこ",
+          "アソコ",
+          "あしこ"
+        ],
+        "glosses": [
+          [
+            "there",
+            "over there",
+            "that place",
+            "yonder",
+            "you-know-where"
+          ],
+          [
+            "genitals",
+            "private parts",
+            "nether regions"
+          ],
+          [
+            "that far",
+            "that much",
+            "that point"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2d55571300",
+      "jmdict_id": 1542160,
+      "dictionary": {
+        "spellings": [
+          "遊ぶ"
+        ],
+        "readings": [
+          "あそぶ",
+          "あすぶ"
+        ],
+        "glosses": [
+          [
+            "to play (games, sports)",
+            "to enjoy oneself",
+            "to have a good time"
+          ],
+          [
+            "to mess about (with alcohol, gambling, philandery, etc.)"
+          ],
+          [
+            "to be idle",
+            "to do nothing",
+            "to be unused"
+          ],
+          [
+            "to meet up (with friends)",
+            "to hang out"
+          ],
+          [
+            "to give oneself up (to gambling, drinking, etc.)"
+          ],
+          [
+            "to go to (for pleasure or for study)"
+          ],
+          [
+            "to tease (someone)",
+            "to play (with)"
+          ],
+          [
+            "to intentionally throw a ball to lower the batter's concentration"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "f665c2128a",
+      "jmdict_id": 1586420,
+      "dictionary": {
+        "spellings": [
+          "暖かい",
+          "温かい",
+          "暖い"
+        ],
+        "readings": [
+          "あたたかい",
+          "あったかい",
+          "あったけー"
+        ],
+        "glosses": [
+          [
+            "warm",
+            "mild",
+            "(pleasantly) hot"
+          ],
+          [
+            "considerate",
+            "kind",
+            "genial"
+          ],
+          [
+            "warm (of a colour)",
+            "mellow"
+          ],
+          [
+            "having enough money"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "b62cb9ce4c",
+      "jmdict_id": 1582310,
+      "dictionary": {
+        "spellings": [
+          "頭"
+        ],
+        "readings": [
+          "あたま",
+          "かしら"
+        ],
+        "glosses": [
+          [
+            "head"
+          ],
+          [
+            "hair (on one's head)"
+          ],
+          [
+            "mind",
+            "brains",
+            "intellect"
+          ],
+          [
+            "leader",
+            "chief",
+            "boss",
+            "captain"
+          ],
+          [
+            "top",
+            "tip"
+          ],
+          [
+            "beginning",
+            "start"
+          ],
+          [
+            "head",
+            "person"
+          ],
+          [
+            "down payment",
+            "deposit"
+          ],
+          [
+            "top structural component of a kanji"
+          ],
+          [
+            "pair"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "8ae27e3b51",
+      "jmdict_id": 1361490,
+      "dictionary": {
+        "spellings": [
+          "新しい",
+          "新らしい"
+        ],
+        "readings": [
+          "あたらしい"
+        ],
+        "glosses": [
+          [
+            "new",
+            "novel",
+            "fresh",
+            "recent",
+            "latest",
+            "up-to-date",
+            "modern"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "34e6f7d220",
+      "jmdict_id": 1483185,
+      "dictionary": {
+        "spellings": [
+          "彼方"
+        ],
+        "readings": [
+          "あちら",
+          "あっち",
+          "あち"
+        ],
+        "glosses": [
+          [
+            "that way",
+            "that direction",
+            "over there",
+            "yonder"
+          ],
+          [
+            "that (one)"
+          ],
+          [
+            "that person"
+          ],
+          [
+            "there",
+            "over there",
+            "foreign country (esp. a Western nation)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "9949d87445",
+      "jmdict_id": 1275320,
+      "dictionary": {
+        "spellings": [
+          "厚い",
+          "篤い"
+        ],
+        "readings": [
+          "あつい"
+        ],
+        "glosses": [
+          [
+            "thick",
+            "deep",
+            "heavy"
+          ],
+          [
+            "kind",
+            "cordial",
+            "hospitable",
+            "warm",
+            "faithful"
+          ],
+          [
+            "serious (of an illness)"
+          ],
+          [
+            "abundant"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "7b4aecdf7b",
+      "jmdict_id": 1343460,
+      "dictionary": {
+        "spellings": [
+          "暑い"
+        ],
+        "readings": [
+          "あつい",
+          "あづい",
+          "あぢぃ",
+          "あぢー",
+          "あぢい",
+          "あっつい",
+          "アツイ",
+          "アツい"
+        ],
+        "glosses": [
+          [
+            "hot",
+            "warm",
+            "sultry",
+            "heated"
+          ],
+          [
+            "passionate",
+            "impassioned",
+            "burning (desire, etc.)"
+          ],
+          [
+            "on everybody's mind",
+            "on the radar",
+            "du jour",
+            "interested (gaze, etc.)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "a379d413fd",
+      "jmdict_id": 1467720,
+      "dictionary": {
+        "spellings": [
+          "熱い"
+        ],
+        "readings": [
+          "あつい",
+          "あっつい"
+        ],
+        "glosses": [
+          [
+            "hot (to the touch)"
+          ],
+          [
+            "passionate (feelings, etc.)",
+            "ardent",
+            "hot (e.g. gaze)"
+          ],
+          [
+            "hot (e.g. temper)"
+          ],
+          [
+            "zealous",
+            "enthusiastic",
+            "fired up"
+          ],
+          [
+            "intense",
+            "severe",
+            "extreme"
+          ],
+          [
+            "hot (topic)",
+            "of interest"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "60dd63379e",
+      "jmdict_id": 1483185,
+      "dictionary": {
+        "spellings": [
+          "彼方"
+        ],
+        "readings": [
+          "あちら",
+          "あっち",
+          "あち"
+        ],
+        "glosses": [
+          [
+            "that way",
+            "that direction",
+            "over there",
+            "yonder"
+          ],
+          [
+            "that (one)"
+          ],
+          [
+            "that person"
+          ],
+          [
+            "there",
+            "over there",
+            "foreign country (esp. a Western nation)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "4f134c9b38",
+      "jmdict_id": 1269320,
+      "dictionary": {
+        "spellings": [
+          "後"
+        ],
+        "readings": [
+          "あと"
+        ],
+        "glosses": [
+          [
+            "behind",
+            "rear"
+          ],
+          [
+            "after",
+            "later"
+          ],
+          [
+            "remainder",
+            "the rest"
+          ],
+          [
+            "more (e.g. five more minutes)",
+            "left"
+          ],
+          [
+            "also",
+            "in addition"
+          ],
+          [
+            "descendant",
+            "successor",
+            "heir"
+          ],
+          [
+            "after one's death"
+          ],
+          [
+            "past",
+            "previous"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "afdf384f68",
+      "jmdict_id": 1223615,
+      "dictionary": {
+        "spellings": [
+          "貴方",
+          "貴女",
+          "貴男"
+        ],
+        "readings": [
+          "あなた"
+        ],
+        "glosses": [
+          [
+            "you"
+          ],
+          [
+            "dear",
+            "honey"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "4aab699864",
+      "jmdict_id": 1249900,
+      "dictionary": {
+        "spellings": [
+          "兄"
+        ],
+        "readings": [
+          "あに"
+        ],
+        "glosses": [
+          [
+            "older brother",
+            "elder brother"
+          ],
+          [
+            "brother-in-law (spouse's older brother or older sister's husband)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "8bfeb208b4",
+      "jmdict_id": 1307630,
+      "dictionary": {
+        "spellings": [
+          "姉",
+          "姐"
+        ],
+        "readings": [
+          "あね"
+        ],
+        "glosses": [
+          [
+            "older sister",
+            "elder sister"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ac4706068b",
+      "jmdict_id": 1000420,
+      "dictionary": {
+        "spellings": [
+          "彼の"
+        ],
+        "readings": [
+          "あの",
+          "あん"
+        ],
+        "glosses": [
+          [
+            "that",
+            "those",
+            "the"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "0cf05b3a0d",
+      "jmdict_id": 1017760,
+      "dictionary": {
+        "spellings": [],
+        "readings": [
+          "アパート"
+        ],
+        "glosses": [
+          [
+            "apartment building",
+            "apartment block",
+            "apartment house"
+          ],
+          [
+            "apartment"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "a5aceb6426",
+      "jmdict_id": 1547450,
+      "dictionary": {
+        "spellings": [
+          "浴びる"
+        ],
+        "readings": [
+          "あびる"
+        ],
+        "glosses": [
+          [
+            "to dash over oneself (e.g. water)",
+            "to take (e.g. shower)",
+            "to bask in (e.g. the sun)",
+            "to bathe in",
+            "to be flooded with (e.g. light)",
+            "to be covered in"
+          ],
+          [
+            "to suffer (e.g. an attack)",
+            "to draw (e.g. criticism, attention, praise)",
+            "to have heaped upon",
+            "to be showered with"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "0509cb3b27",
+      "jmdict_id": 1218380,
+      "dictionary": {
+        "spellings": [
+          "危ない",
+          "危い"
+        ],
+        "readings": [
+          "あぶない",
+          "アブない",
+          "アブナい",
+          "あぶねー",
+          "あっぶねー"
+        ],
+        "glosses": [
+          [
+            "dangerous",
+            "risky",
+            "hazardous",
+            "perilous",
+            "precarious"
+          ],
+          [
+            "in danger",
+            "in jeopardy",
+            "critical",
+            "grave",
+            "at risk"
+          ],
+          [
+            "uncertain",
+            "unreliable",
+            "insecure",
+            "unsteady",
+            "doubtful"
+          ],
+          [
+            "close (call)",
+            "narrow (escape)"
+          ],
+          [
+            "sketchy",
+            "shady",
+            "dodgy"
+          ],
+          [
+            "look out!",
+            "watch out!",
+            "be careful!"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "4afffe5811",
+      "jmdict_id": 1213400,
+      "dictionary": {
+        "spellings": [
+          "甘い"
+        ],
+        "readings": [
+          "あまい"
+        ],
+        "glosses": [
+          [
+            "sweet-tasting",
+            "sweet",
+            "sugary",
+            "sugared"
+          ],
+          [
+            "fragrant (smelling)",
+            "sweet (music)"
+          ],
+          [
+            "lightly salted",
+            "light in salt",
+            "not spicy"
+          ],
+          [
+            "indulgent",
+            "lenient",
+            "soft (on)",
+            "easy-going",
+            "generous"
+          ],
+          [
+            "naive",
+            "overly optimistic",
+            "simplistic"
+          ],
+          [
+            "half-hearted",
+            "not finished properly"
+          ],
+          [
+            "insufficient",
+            "not satisfactory",
+            "inadequate",
+            "loose"
+          ],
+          [
+            "mild"
+          ],
+          [
+            "tempting",
+            "enticing",
+            "luring"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "eac90e8e98",
+      "jmdict_id": 1584930,
+      "dictionary": {
+        "spellings": [
+          "余り",
+          "餘り",
+          "剰り"
+        ],
+        "readings": [
+          "あまり",
+          "あんまり"
+        ],
+        "glosses": [
+          [
+            "remainder",
+            "remnant",
+            "rest",
+            "balance",
+            "surplus",
+            "remains (of a meal)",
+            "leftovers"
+          ],
+          [
+            "(not) very",
+            "(not) much"
+          ],
+          [
+            "too much",
+            "excessively",
+            "overly"
+          ],
+          [
+            "extreme",
+            "great",
+            "severe",
+            "tremendous",
+            "terrible"
+          ],
+          [
+            "not very good",
+            "so-so",
+            "mediocre"
+          ],
+          [
+            "more than",
+            "over"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "5d72771a3c",
+      "jmdict_id": 1153520,
+      "dictionary": {
+        "spellings": [
+          "飴"
+        ],
+        "readings": [
+          "あめ"
+        ],
+        "glosses": [
+          [
+            "(hard) candy",
+            "toffee"
+          ],
+          [
+            "rice-sugar",
+            "sugar made from the starch of rice, potatoes, etc."
+          ],
+          [
+            "amber",
+            "yellowish-brown"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "277a58c9df",
+      "jmdict_id": 1171900,
+      "dictionary": {
+        "spellings": [
+          "雨"
+        ],
+        "readings": [
+          "あめ"
+        ],
+        "glosses": [
+          [
+            "rain"
+          ],
+          [
+            "rainy day",
+            "rainy weather"
+          ],
+          [
+            "the November suit (in hanafuda)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "f8fa96946f",
+      "jmdict_id": 1390930,
+      "dictionary": {
+        "spellings": [
+          "洗う"
+        ],
+        "readings": [
+          "あらう"
+        ],
+        "glosses": [
+          [
+            "to wash",
+            "to cleanse",
+            "to rinse"
+          ],
+          [
+            "to inquire into",
+            "to investigate"
+          ],
+          [
+            "to purify (one's heart)"
+          ],
+          [
+            "to lave (e.g. shore)",
+            "to wash over (e.g. deck)",
+            "to sweep"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "93461820fe",
+      "jmdict_id": 1586820,
+      "dictionary": {
+        "spellings": [
+          "有難う",
+          "有り難う",
+          "有りがとう"
+        ],
+        "readings": [
+          "ありがとう"
+        ],
+        "glosses": [
+          [
+            "thank you",
+            "thanks"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ac08788418",
+      "jmdict_id": 1296400,
+      "dictionary": {
+        "spellings": [
+          "有る",
+          "在る"
+        ],
+        "readings": [
+          "ある"
+        ],
+        "glosses": [
+          [
+            "to be",
+            "to exist",
+            "to live"
+          ],
+          [
+            "to have"
+          ],
+          [
+            "to be located"
+          ],
+          [
+            "to be equipped with"
+          ],
+          [
+            "to happen",
+            "to come about"
+          ],
+          [
+            "to exist (in a completed state)",
+            "to be (something unchanged in its current state)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "55f3080ce4",
+      "jmdict_id": 1514320,
+      "dictionary": {
+        "spellings": [
+          "歩く",
+          "步く"
+        ],
+        "readings": [
+          "あるく"
+        ],
+        "glosses": [
+          [
+            "to walk"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "d727a76b22",
+      "jmdict_id": 1000580,
+      "dictionary": {
+        "spellings": [
+          "彼",
+          "彼れ"
+        ],
+        "readings": [
+          "あれ",
+          "アレ"
+        ],
+        "glosses": [
+          [
+            "that",
+            "that thing"
+          ],
+          [
+            "that person"
+          ],
+          [
+            "then",
+            "that time"
+          ],
+          [
+            "that place (over there)"
+          ],
+          [
+            "down there (i.e. one's genitals)"
+          ],
+          [
+            "period",
+            "menses"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "e37a087c0f",
+      "jmdict_id": 2820690,
+      "dictionary": {
+        "spellings": [],
+        "readings": [
+          "いい"
+        ],
+        "glosses": [
+          [
+            "good",
+            "excellent",
+            "fine",
+            "nice",
+            "pleasant",
+            "agreeable"
+          ],
+          [
+            "sufficient",
+            "enough",
+            "ready",
+            "prepared"
+          ],
+          [
+            "profitable (deal, business offer, etc.)",
+            "beneficial"
+          ],
+          [
+            "OK",
+            "all right",
+            "fine",
+            "no problem"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "6d4596ae46",
+      "jmdict_id": 1583250,
+      "dictionary": {
+        "spellings": [],
+        "readings": [
+          "いいえ",
+          "いえ"
+        ],
+        "glosses": [
+          [
+            "no"
+          ],
+          [
+            "you're welcome",
+            "not at all",
+            "don't mention it"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ae0cc00f94",
+      "jmdict_id": 1587040,
+      "dictionary": {
+        "spellings": [
+          "言う",
+          "云う",
+          "謂う"
+        ],
+        "readings": [
+          "いう",
+          "ゆう"
+        ],
+        "glosses": [
+          [
+            "to say",
+            "to utter",
+            "to declare"
+          ],
+          [
+            "to name",
+            "to call"
+          ],
+          [
+            "to go (e.g. \"the alarm went ping\")",
+            "to make a noise"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "9f074820b1",
+      "jmdict_id": 1191730,
+      "dictionary": {
+        "spellings": [
+          "家"
+        ],
+        "readings": [
+          "いえ"
+        ],
+        "glosses": [
+          [
+            "house",
+            "residence",
+            "dwelling",
+            "home"
+          ],
+          [
+            "family",
+            "household"
+          ],
+          [
+            "lineage",
+            "family name"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "a3f296ad9a",
+      "jmdict_id": 2845606,
+      "dictionary": {
+        "spellings": [
+          "如何"
+        ],
+        "readings": [
+          "いかが"
+        ],
+        "glosses": [
+          [
+            "how",
+            "in what way",
+            "how about"
+          ],
+          [
+            "questionable"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "66e4692df7",
+      "jmdict_id": 1578850,
+      "dictionary": {
+        "spellings": [
+          "行く",
+          "往く"
+        ],
+        "readings": [
+          "いく",
+          "ゆく",
+          "イク"
+        ],
+        "glosses": [
+          [
+            "to go",
+            "to move (towards)",
+            "to head (towards)",
+            "to leave (for)"
+          ],
+          [
+            "to move through",
+            "to travel across",
+            "to walk along (e.g. a road)"
+          ],
+          [
+            "to go (well, badly, etc.)",
+            "to proceed",
+            "to turn out",
+            "to get along"
+          ],
+          [
+            "to do (in a particular way)",
+            "to go (with; a choice)",
+            "to try"
+          ],
+          [
+            "to pass (of time, seasons, etc.)",
+            "to go by"
+          ],
+          [
+            "to stream",
+            "to flow"
+          ],
+          [
+            "to die",
+            "to pass away"
+          ],
+          [
+            "to reach (a stage, extent, age, etc.)",
+            "to get to",
+            "to go (so far as ...)"
+          ],
+          [
+            "to reach (of information, instructions, wind, etc.)",
+            "to arrive"
+          ],
+          [
+            "to continue ...",
+            "to go on ...",
+            "to (progress) steadily",
+            "to gradually ...",
+            "to progressively ..."
+          ],
+          [
+            "to have an orgasm",
+            "to come",
+            "to cum"
+          ],
+          [
+            "to trip",
+            "to get high",
+            "to have a drug-induced hallucination"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "026ae57b50",
+      "jmdict_id": 1219960,
+      "dictionary": {
+        "spellings": [
+          "幾つ"
+        ],
+        "readings": [
+          "いくつ"
+        ],
+        "glosses": [
+          [
+            "how many"
+          ],
+          [
+            "how old"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "4fc98c6938",
+      "jmdict_id": 1219980,
+      "dictionary": {
+        "spellings": [
+          "幾ら"
+        ],
+        "readings": [
+          "いくら"
+        ],
+        "glosses": [
+          [
+            "how much"
+          ],
+          [
+            "something over",
+            "and something",
+            "-odd"
+          ],
+          [
+            "however (much)",
+            "no matter how"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "43c874a6c8",
+      "jmdict_id": 1421700,
+      "dictionary": {
+        "spellings": [
+          "池"
+        ],
+        "readings": [
+          "いけ"
+        ],
+        "glosses": [
+          [
+            "pond"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ca76162587",
+      "jmdict_id": 1159980,
+      "dictionary": {
+        "spellings": [
+          "医者",
+          "醫者"
+        ],
+        "readings": [
+          "いしゃ"
+        ],
+        "glosses": [
+          [
+            "doctor",
+            "physician"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "d305fa14a8",
+      "jmdict_id": 1157070,
+      "dictionary": {
+        "spellings": [
+          "椅子",
+          "倚子"
+        ],
+        "readings": [
+          "いす",
+          "イス"
+        ],
+        "glosses": [
+          [
+            "chair",
+            "seat",
+            "stool",
+            "bench"
+          ],
+          [
+            "post",
+            "position",
+            "seat",
+            "office"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "cd1bcc2b1b",
+      "jmdict_id": 1519290,
+      "dictionary": {
+        "spellings": [
+          "忙しい",
+          "忙がしい"
+        ],
+        "readings": [
+          "いそがしい"
+        ],
+        "glosses": [
+          [
+            "busy",
+            "occupied",
+            "hectic"
+          ],
+          [
+            "restless",
+            "hurried",
+            "fidgety"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "4dae367794",
+      "jmdict_id": 1432680,
+      "dictionary": {
+        "spellings": [
+          "痛い",
+          "甚い"
+        ],
+        "readings": [
+          "いたい",
+          "イタイ",
+          "イタい"
+        ],
+        "glosses": [
+          [
+            "painful",
+            "sore"
+          ],
+          [
+            "cringy",
+            "embarrassing"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "eac7a22620",
+      "jmdict_id": 1410800,
+      "dictionary": {
+        "spellings": [
+          "頂きます",
+          "戴きます"
+        ],
+        "readings": [
+          "いただきます"
+        ],
+        "glosses": [
+          [
+            "thank you (for the meal just served)",
+            "I receive (this meal)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "9d8f862791",
+      "jmdict_id": 1160790,
+      "dictionary": {
+        "spellings": [
+          "一",
+          "１",
+          "壱",
+          "弌",
+          "壹"
+        ],
+        "readings": [
+          "いち"
+        ],
+        "glosses": [
+          [
+            "one",
+            "1"
+          ],
+          [
+            "best"
+          ],
+          [
+            "first",
+            "foremost"
+          ],
+          [
+            "beginning",
+            "start"
+          ],
+          [
+            "a (single)",
+            "one (of many)"
+          ],
+          [
+            "ace"
+          ],
+          [
+            "bottom string (on a shamisen, etc.)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "1cfccd0cdd",
+      "jmdict_id": 1576260,
+      "dictionary": {
+        "spellings": [
+          "一日",
+          "１日"
+        ],
+        "readings": [
+          "いちにち",
+          "いちじつ"
+        ],
+        "glosses": [
+          [
+            "one day"
+          ],
+          [
+            "all day (long)",
+            "the whole day",
+            "from morning till night"
+          ],
+          [
+            "first day of the month"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "cb96f363df",
+      "jmdict_id": 1165970,
+      "dictionary": {
+        "spellings": [
+          "一番",
+          "１番"
+        ],
+        "readings": [
+          "いちばん"
+        ],
+        "glosses": [
+          [
+            "number one",
+            "first",
+            "first place"
+          ],
+          [
+            "best",
+            "most"
+          ],
+          [
+            "game",
+            "round",
+            "bout"
+          ],
+          [
+            "as a test",
+            "as an experiment",
+            "by way of experiment",
+            "by way of trial",
+            "tentatively"
+          ],
+          [
+            "song (e.g. in noh)",
+            "piece"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "fac6fc0838",
+      "jmdict_id": 1188760,
+      "dictionary": {
+        "spellings": [
+          "何時"
+        ],
+        "readings": [
+          "いつ"
+        ],
+        "glosses": [
+          [
+            "when",
+            "at what time",
+            "how soon"
+          ],
+          [
+            "normal times",
+            "ordinary days"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2a7c4baf86",
+      "jmdict_id": 1268570,
+      "dictionary": {
+        "spellings": [
+          "５日",
+          "五日"
+        ],
+        "readings": [
+          "いつか",
+          "ごにち"
+        ],
+        "glosses": [
+          [
+            "5th day of the month"
+          ],
+          [
+            "five days"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2dc7289c82",
+      "jmdict_id": 1163400,
+      "dictionary": {
+        "spellings": [
+          "一緒",
+          "一しょ"
+        ],
+        "readings": [
+          "いっしょ"
+        ],
+        "glosses": [
+          [
+            "(doing) together"
+          ],
+          [
+            "one lump",
+            "one mixture",
+            "the same category"
+          ],
+          [
+            "the same",
+            "identical"
+          ],
+          [
+            "(at) the same time"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "9ac35c3990",
+      "jmdict_id": 1268070,
+      "dictionary": {
+        "spellings": [
+          "五つ",
+          "５つ",
+          "伍つ"
+        ],
+        "readings": [
+          "いつつ"
+        ],
+        "glosses": [
+          [
+            "five"
+          ],
+          [
+            "five years of age"
+          ],
+          [
+            "eight o'clock (old time system)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "dea2a1df8b",
+      "jmdict_id": 1188890,
+      "dictionary": {
+        "spellings": [
+          "何時も"
+        ],
+        "readings": [
+          "いつも"
+        ],
+        "glosses": [
+          [
+            "always",
+            "all the time",
+            "at all times"
+          ],
+          [
+            "never"
+          ],
+          [
+            "usual",
+            "regular",
+            "habitual",
+            "customary"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "0df89f5010",
+      "jmdict_id": 1258330,
+      "dictionary": {
+        "spellings": [
+          "犬",
+          "狗"
+        ],
+        "readings": [
+          "いぬ",
+          "イヌ"
+        ],
+        "glosses": [
+          [
+            "dog (Canis (lupus) familiaris)",
+            "canine"
+          ],
+          [
+            "squealer",
+            "rat",
+            "snitch",
+            "informer",
+            "informant",
+            "spy"
+          ],
+          [
+            "loser",
+            "asshole"
+          ],
+          [
+            "counterfeit",
+            "inferior",
+            "useless",
+            "wasteful"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ce75c75644",
+      "jmdict_id": 1288850,
+      "dictionary": {
+        "spellings": [
+          "今"
+        ],
+        "readings": [
+          "いま"
+        ],
+        "glosses": [
+          [
+            "now",
+            "the present time",
+            "just now",
+            "soon",
+            "immediately"
+          ],
+          [
+            "another",
+            "more"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "cb29ccdd2a",
+      "jmdict_id": 1156800,
+      "dictionary": {
+        "spellings": [
+          "意味"
+        ],
+        "readings": [
+          "いみ"
+        ],
+        "glosses": [
+          [
+            "meaning",
+            "significance",
+            "sense"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "12047d019b",
+      "jmdict_id": 1524590,
+      "dictionary": {
+        "spellings": [
+          "妹"
+        ],
+        "readings": [
+          "いもうと"
+        ],
+        "glosses": [
+          [
+            "younger sister"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "eda751e069",
+      "jmdict_id": 1587610,
+      "dictionary": {
+        "spellings": [
+          "嫌",
+          "厭"
+        ],
+        "readings": [
+          "いや",
+          "や",
+          "イヤ"
+        ],
+        "glosses": [
+          [
+            "disliking",
+            "not wanting",
+            "unwilling (to do)",
+            "reluctant"
+          ],
+          [
+            "unpleasant",
+            "disagreeable",
+            "nasty",
+            "horrible",
+            "disgusting",
+            "undesirable",
+            "unwelcome"
+          ],
+          [
+            "no!",
+            "quit it!",
+            "stop!"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "1ff0529d03",
+      "jmdict_id": 1582820,
+      "dictionary": {
+        "spellings": [
+          "入り口",
+          "入口",
+          "這入口"
+        ],
+        "readings": [
+          "いりぐち",
+          "いりくち",
+          "はいりぐち",
+          "はいりくち"
+        ],
+        "glosses": [
+          [
+            "entrance",
+            "entry",
+            "gate",
+            "approach",
+            "mouth"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "9438889173",
+      "jmdict_id": 1577980,
+      "dictionary": {
+        "spellings": [
+          "居る"
+        ],
+        "readings": [
+          "いる"
+        ],
+        "glosses": [
+          [
+            "to be (of animate objects)",
+            "to exist"
+          ],
+          [
+            "to stay"
+          ],
+          [
+            "to be ...-ing"
+          ],
+          [
+            "to have ...-ed",
+            "to be ...-ed"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "7a84208708",
+      "jmdict_id": 1546640,
+      "dictionary": {
+        "spellings": [
+          "要る"
+        ],
+        "readings": [
+          "いる"
+        ],
+        "glosses": [
+          [
+            "to be needed",
+            "to be necessary",
+            "to be required",
+            "to be wanted",
+            "to need",
+            "to want"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "6d824d5110",
+      "jmdict_id": 1465610,
+      "dictionary": {
+        "spellings": [
+          "入れる",
+          "容れる",
+          "函れる"
+        ],
+        "readings": [
+          "いれる"
+        ],
+        "glosses": [
+          [
+            "to put in",
+            "to let in",
+            "to take in",
+            "to bring in",
+            "to insert",
+            "to install (e.g. software)",
+            "to set (a jewel, etc.)",
+            "to ink in (e.g. tattoo)"
+          ],
+          [
+            "to admit",
+            "to accept",
+            "to employ",
+            "to hire"
+          ],
+          [
+            "to accept",
+            "to comply",
+            "to grant",
+            "to adopt (a policy, etc.)",
+            "to take (advice, etc.)",
+            "to listen to",
+            "to pay attention to"
+          ],
+          [
+            "to include"
+          ],
+          [
+            "to pay (one's rent, etc.)"
+          ],
+          [
+            "to cast (a vote)"
+          ],
+          [
+            "to make (tea, coffee, etc.)"
+          ],
+          [
+            "to turn on (a switch, etc.)"
+          ],
+          [
+            "to send (a fax)",
+            "to call"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "523266ea6f",
+      "jmdict_id": 1357600,
+      "dictionary": {
+        "spellings": [
+          "色"
+        ],
+        "readings": [
+          "いろ"
+        ],
+        "glosses": [
+          [
+            "colour",
+            "color",
+            "hue",
+            "tint",
+            "tinge",
+            "shade"
+          ],
+          [
+            "complexion",
+            "skin colour",
+            "skin color"
+          ],
+          [
+            "look (on one's face)",
+            "expression"
+          ],
+          [
+            "appearance",
+            "air",
+            "feeling"
+          ],
+          [
+            "personality",
+            "character"
+          ],
+          [
+            "tone (of one's voice, etc.)",
+            "tune",
+            "sound",
+            "ring"
+          ],
+          [
+            "love",
+            "lust",
+            "sensuality",
+            "love affair"
+          ],
+          [
+            "lover",
+            "paramour"
+          ],
+          [
+            "beauty",
+            "sexiness",
+            "physical appeal"
+          ],
+          [
+            "kind",
+            "type",
+            "variety"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "f74dd1ee9a",
+      "jmdict_id": 1587850,
+      "dictionary": {
+        "spellings": [
+          "色々",
+          "色色",
+          "色いろ"
+        ],
+        "readings": [
+          "いろいろ"
+        ],
+        "glosses": [
+          [
+            "various",
+            "a variety of",
+            "all sorts of",
+            "many (different)"
+          ],
+          [
+            "variously",
+            "in various ways",
+            "in many ways"
+          ],
+          [
+            "various things",
+            "this and that"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "08a3ed212d",
+      "jmdict_id": 1352130,
+      "dictionary": {
+        "spellings": [
+          "上"
+        ],
+        "readings": [
+          "うえ"
+        ],
+        "glosses": [
+          [
+            "above",
+            "over",
+            "up"
+          ],
+          [
+            "top",
+            "summit",
+            "upper part",
+            "head (e.g. of a staircase)"
+          ],
+          [
+            "surface",
+            "on (top of)"
+          ],
+          [
+            "the above (in a piece of writing)",
+            "earlier part"
+          ],
+          [
+            "superior",
+            "better",
+            "higher (position, rank, etc.)",
+            "upper (class)"
+          ],
+          [
+            "elder",
+            "older",
+            "senior"
+          ],
+          [
+            "with respect to ...",
+            "in terms of",
+            "as far as ... is concerned",
+            "when (e.g. drunk)"
+          ],
+          [
+            "besides ...",
+            "in addition to ...",
+            "on top of ...",
+            "as well as ..."
+          ],
+          [
+            "after ...",
+            "upon ...",
+            "on ...",
+            "with (e.g. full awareness)",
+            "as a result of ..."
+          ],
+          [
+            "since ...",
+            "now that ...",
+            "because ..."
+          ],
+          [
+            "honorable",
+            "venerable",
+            "dear"
+          ],
+          [
+            "emperor",
+            "sovereign",
+            "shogun",
+            "daimyo"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "93bdc81dd9",
+      "jmdict_id": 1269410,
+      "dictionary": {
+        "spellings": [
+          "後ろ",
+          "後"
+        ],
+        "readings": [
+          "うしろ"
+        ],
+        "glosses": [
+          [
+            "back",
+            "behind",
+            "rear"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "d2b2316e45",
+      "jmdict_id": 1475480,
+      "dictionary": {
+        "spellings": [
+          "薄い"
+        ],
+        "readings": [
+          "うすい"
+        ],
+        "glosses": [
+          [
+            "thin (of an object)"
+          ],
+          [
+            "pale",
+            "light",
+            "faint"
+          ],
+          [
+            "watery",
+            "thin",
+            "diluted"
+          ],
+          [
+            "weak (taste, etc.)",
+            "little (affection, etc.)",
+            "not much (of a presence)"
+          ],
+          [
+            "slim (probability, etc.)",
+            "small"
+          ],
+          [
+            "sparse",
+            "patchy",
+            "scattered"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "036f4180a2",
+      "jmdict_id": 1193180,
+      "dictionary": {
+        "spellings": [
+          "歌",
+          "唄",
+          "詩"
+        ],
+        "readings": [
+          "うた"
+        ],
+        "glosses": [
+          [
+            "song",
+            "singing"
+          ],
+          [
+            "classical Japanese poem (esp. tanka)"
+          ],
+          [
+            "modern poetry"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "3464318c23",
+      "jmdict_id": 1588120,
+      "dictionary": {
+        "spellings": [
+          "歌う",
+          "唄う",
+          "詠う",
+          "唱う"
+        ],
+        "readings": [
+          "うたう"
+        ],
+        "glosses": [
+          [
+            "to sing"
+          ],
+          [
+            "to sing of (love, beauty, etc.) in a poem",
+            "to express in the form of a poem",
+            "to recite (a poem)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "63bc7722fa",
+      "jmdict_id": 1378690,
+      "dictionary": {
+        "spellings": [
+          "生まれる",
+          "産まれる",
+          "生れる",
+          "産れる"
+        ],
+        "readings": [
+          "うまれる"
+        ],
+        "glosses": [
+          [
+            "to be born"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "06ac21dc7d",
+      "jmdict_id": 1201190,
+      "dictionary": {
+        "spellings": [
+          "海"
+        ],
+        "readings": [
+          "うみ",
+          "み",
+          "わた",
+          "わだ"
+        ],
+        "glosses": [
+          [
+            "sea",
+            "ocean",
+            "waters"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "f7e1da43df",
+      "jmdict_id": 1473950,
+      "dictionary": {
+        "spellings": [
+          "売る"
+        ],
+        "readings": [
+          "うる"
+        ],
+        "glosses": [
+          [
+            "to sell"
+          ],
+          [
+            "to betray",
+            "to sell out (one's friend, country, etc.)"
+          ],
+          [
+            "to make (oneself) known",
+            "to establish (a reputation) for oneself"
+          ],
+          [
+            "to pick (a fight, quarrel, etc.)",
+            "to provoke",
+            "to force on someone"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "7ecfe0d248",
+      "jmdict_id": 1481920,
+      "dictionary": {
+        "spellings": [
+          "煩い",
+          "五月蝿い",
+          "五月蠅い",
+          "煩さい"
+        ],
+        "readings": [
+          "うるさい",
+          "ウルサイ"
+        ],
+        "glosses": [
+          [
+            "noisy",
+            "loud"
+          ],
+          [
+            "annoying",
+            "troublesome",
+            "tiresome",
+            "persistent",
+            "importunate"
+          ],
+          [
+            "fussy",
+            "finicky",
+            "picky",
+            "particular",
+            "nagging",
+            "fastidious",
+            "bossy"
+          ],
+          [
+            "shut up",
+            "be quiet"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "1ef8a05bf3",
+      "jmdict_id": 1580340,
+      "dictionary": {
+        "spellings": [
+          "上着",
+          "上衣",
+          "表着"
+        ],
+        "readings": [
+          "うわぎ",
+          "じょうい"
+        ],
+        "glosses": [
+          [
+            "coat",
+            "jacket",
+            "outerwear"
+          ],
+          [
+            "top",
+            "upper-body garment"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "5bb390da0b",
+      "jmdict_id": 1202270,
+      "dictionary": {
+        "spellings": [
+          "絵",
+          "画"
+        ],
+        "readings": [
+          "え",
+          "が"
+        ],
+        "glosses": [
+          [
+            "picture",
+            "drawing",
+            "painting",
+            "sketch"
+          ],
+          [
+            "image (TV, film, etc.)",
+            "picture",
+            "footage"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "92b1621231",
+      "jmdict_id": 1173720,
+      "dictionary": {
+        "spellings": [
+          "映画",
+          "映畫",
+          "映畵"
+        ],
+        "readings": [
+          "えいが"
+        ],
+        "glosses": [
+          [
+            "movie",
+            "film",
+            "motion picture"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "8a88cfbcb8",
+      "jmdict_id": 1173750,
+      "dictionary": {
+        "spellings": [
+          "映画館"
+        ],
+        "readings": [
+          "えいがかん"
+        ],
+        "glosses": [
+          [
+            "movie theatre",
+            "movie theater",
+            "cinema"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "16adc7bd03",
+      "jmdict_id": 1174420,
+      "dictionary": {
+        "spellings": [
+          "英語"
+        ],
+        "readings": [
+          "えいご"
+        ],
+        "glosses": [
+          [
+            "English (language)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "8ac60a4060",
+      "jmdict_id": 1001140,
+      "dictionary": {
+        "spellings": [],
+        "readings": [
+          "ええ",
+          "えー",
+          "え〜",
+          "えーー",
+          "えーっ"
+        ],
+        "glosses": [
+          [
+            "yes",
+            "that is correct",
+            "right"
+          ],
+          [
+            "um",
+            "errr",
+            "well"
+          ],
+          [
+            "huh?"
+          ],
+          [
+            "grrr",
+            "gah",
+            "must I?"
+          ],
+          [
+            "good"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "d5f359c20b",
+      "jmdict_id": 1175140,
+      "dictionary": {
+        "spellings": [
+          "駅",
+          "驛"
+        ],
+        "readings": [
+          "えき"
+        ],
+        "glosses": [
+          [
+            "railway station",
+            "train station"
+          ],
+          [
+            "staging post on a highway (in pre-modern Japan)"
+          ],
+          [
+            "counter for railway stations and bus stations"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "eb1695baf6",
+      "jmdict_id": 1030630,
+      "dictionary": {
+        "spellings": [],
+        "readings": [
+          "エレベーター",
+          "エレベータ"
+        ],
+        "glosses": [
+          [
+            "elevator",
+            "lift"
+          ],
+          [
+            "elevator"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "381da4d060",
+      "jmdict_id": 1178590,
+      "dictionary": {
+        "spellings": [
+          "鉛筆"
+        ],
+        "readings": [
+          "えんぴつ",
+          "エンピツ"
+        ],
+        "glosses": [
+          [
+            "(wooden) pencil"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "7f02ae8fa1",
+      "jmdict_id": 1486650,
+      "dictionary": {
+        "spellings": [
+          "美味しい",
+          "旨味しい"
+        ],
+        "readings": [
+          "おいしい",
+          "オイシイ"
+        ],
+        "glosses": [
+          [
+            "good(-tasting)",
+            "nice",
+            "delicious",
+            "tasty"
+          ],
+          [
+            "attractive (offer, opportunity, etc.)",
+            "appealing",
+            "convenient",
+            "favorable",
+            "desirable",
+            "profitable"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "60813fffd1",
+      "jmdict_id": 1407460,
+      "dictionary": {
+        "spellings": [
+          "多い"
+        ],
+        "readings": [
+          "おおい"
+        ],
+        "glosses": [
+          [
+            "many",
+            "numerous",
+            "a lot"
+          ],
+          [
+            "large amount of",
+            "large quantity of",
+            "a lot",
+            "much"
+          ],
+          [
+            "frequent",
+            "common"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "8fa5a63fc7",
+      "jmdict_id": 1588880,
+      "dictionary": {
+        "spellings": [
+          "大きい",
+          "巨きい"
+        ],
+        "readings": [
+          "おおきい"
+        ],
+        "glosses": [
+          [
+            "big",
+            "large",
+            "great"
+          ],
+          [
+            "loud"
+          ],
+          [
+            "extensive",
+            "spacious"
+          ],
+          [
+            "important",
+            "decisive",
+            "valuable"
+          ],
+          [
+            "older",
+            "grown-up"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "3a2de0afca",
+      "jmdict_id": 1412890,
+      "dictionary": {
+        "spellings": [
+          "大きな"
+        ],
+        "readings": [
+          "おおきな"
+        ],
+        "glosses": [
+          [
+            "big",
+            "large",
+            "great"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "b48d0c99d4",
+      "jmdict_id": 1382590,
+      "dictionary": {
+        "spellings": [
+          "石鹸",
+          "石けん",
+          "石鹼"
+        ],
+        "readings": [
+          "せっけん"
+        ],
+        "glosses": [
+          [
+            "soap"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "222ae96df7",
+      "jmdict_id": 1307320,
+      "dictionary": {
+        "spellings": [
+          "４日",
+          "四日"
+        ],
+        "readings": [
+          "よっか"
+        ],
+        "glosses": [
+          [
+            "4th day of the month"
+          ],
+          [
+            "four days"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "86f67e2dc3",
+      "jmdict_id": 1358280,
+      "dictionary": {
+        "spellings": [
+          "食べる",
+          "喰べる"
+        ],
+        "readings": [
+          "たべる"
+        ],
+        "glosses": [
+          [
+            "to eat"
+          ],
+          [
+            "to live on (e.g. a salary)",
+            "to live off",
+            "to subsist on"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "4fff6d0441",
+      "jmdict_id": 2394370,
+      "dictionary": {
+        "spellings": [],
+        "readings": [
+          "あっ",
+          "アッ",
+          "アっ",
+          "あ",
+          "ア"
+        ],
+        "glosses": [
+          [
+            "ah",
+            "oh"
+          ],
+          [
+            "hey!"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "6a4011f27f",
+      "jmdict_id": 2085080,
+      "dictionary": {
+        "spellings": [],
+        "readings": [
+          "ああ"
+        ],
+        "glosses": [
+          [
+            "like that",
+            "so"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "c3c3ac9f48",
+      "jmdict_id": 1151120,
+      "dictionary": {
+        "spellings": [
+          "挨拶"
+        ],
+        "readings": [
+          "あいさつ"
+        ],
+        "glosses": [
+          [
+            "greeting",
+            "greetings",
+            "salutation",
+            "salute",
+            "polite set phrase used when meeting or parting from someone"
+          ],
+          [
+            "speech (congratulatory or appreciative)",
+            "address"
+          ],
+          [
+            "reply",
+            "response"
+          ],
+          [
+            "courtesy visit (to offer condolences, say congratulations, pay respect, introduce oneself, etc.)"
+          ],
+          [
+            "revenge",
+            "retaliation"
+          ],
+          [
+            "a fine thing to say"
+          ],
+          [
+            "dialoging (with another Zen practitioner to ascertain their level of enlightenment)"
+          ],
+          [
+            "relationship (between people)",
+            "connection"
+          ],
+          [
+            "intervention",
+            "mediation",
+            "mediator"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "d1a343e501",
+      "jmdict_id": 1215230,
+      "dictionary": {
+        "spellings": [
+          "間"
+        ],
+        "readings": [
+          "あいだ",
+          "あわい"
+        ],
+        "glosses": [
+          [
+            "space (between)",
+            "gap",
+            "interval",
+            "distance",
+            "stretch"
+          ],
+          [
+            "period of time (during, while)",
+            "duration",
+            "interval"
+          ],
+          [
+            "between (two parties or things)"
+          ],
+          [
+            "among (a group)"
+          ],
+          [
+            "relations (between)",
+            "relationship"
+          ],
+          [
+            "midpoint",
+            "average",
+            "halfway",
+            "middle ground"
+          ],
+          [
+            "due to",
+            "because of"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "54e1f7a772",
+      "jmdict_id": 1284430,
+      "dictionary": {
+        "spellings": [
+          "合う"
+        ],
+        "readings": [
+          "あう",
+          "おう"
+        ],
+        "glosses": [
+          [
+            "to come together",
+            "to merge",
+            "to unite",
+            "to meet"
+          ],
+          [
+            "to fit",
+            "to match",
+            "to suit",
+            "to agree with",
+            "to be correct"
+          ],
+          [
+            "to be profitable",
+            "to be equitable"
+          ],
+          [
+            "to do ... to each other",
+            "to do ... together"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2a6a55be8d",
+      "jmdict_id": 1383260,
+      "dictionary": {
+        "spellings": [
+          "赤ちゃん"
+        ],
+        "readings": [
+          "あかちゃん"
+        ],
+        "glosses": [
+          [
+            "baby",
+            "infant"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "4a3152836b",
+      "jmdict_id": 1352290,
+      "dictionary": {
+        "spellings": [
+          "上がる",
+          "上る",
+          "騰がる",
+          "上ル"
+        ],
+        "readings": [
+          "あがる",
+          "アガる"
+        ],
+        "glosses": [
+          [
+            "to rise",
+            "to go up",
+            "to come up",
+            "to ascend",
+            "to be raised"
+          ],
+          [
+            "to enter (esp. from outdoors)",
+            "to come in",
+            "to go in"
+          ],
+          [
+            "to enter (a school)",
+            "to advance to the next grade"
+          ],
+          [
+            "to get out (of water)",
+            "to come ashore",
+            "to be washed ashore"
+          ],
+          [
+            "to float atop the water",
+            "to surface from the sea (e.g. of a corpse)",
+            "to rise to the surface"
+          ],
+          [
+            "to increase",
+            "to be raised (e.g. of a salary)",
+            "to rise"
+          ],
+          [
+            "to improve",
+            "to make progress"
+          ],
+          [
+            "to be promoted",
+            "to advance"
+          ],
+          [
+            "to be made (of profit, etc.)"
+          ],
+          [
+            "to occur (esp. of a favourable result)"
+          ],
+          [
+            "to be adequate (to cover expenses, etc.)"
+          ],
+          [
+            "to be finished",
+            "to be done",
+            "to be over"
+          ],
+          [
+            "to stop (of rain)",
+            "to clear up (of weather)"
+          ],
+          [
+            "to stop (working properly)",
+            "to cut out",
+            "to give out",
+            "to die"
+          ],
+          [
+            "to win (in a card game, etc.)"
+          ],
+          [
+            "to be spoken loudly",
+            "to be raised loudly (of a voice)"
+          ],
+          [
+            "to get nervous",
+            "to get stage fright"
+          ],
+          [
+            "to be offered (to the gods, etc.)"
+          ],
+          [
+            "to go",
+            "to visit"
+          ],
+          [
+            "to eat",
+            "to drink"
+          ],
+          [
+            "to serve (in one's master's home)"
+          ],
+          [
+            "to enter a red light district",
+            "to amuse oneself in a red light district",
+            "to visit a brothel"
+          ],
+          [
+            "to arise vigorously (e.g. of voices in excitement)",
+            "to become excited",
+            "to be in uproar (e.g. of a crowd)"
+          ],
+          [
+            "to be complete",
+            "to finish"
+          ],
+          [
+            "adds the connotation of an action happening strongly or violently"
+          ],
+          [
+            "above",
+            "north of"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "e877021bf4",
+      "jmdict_id": 1383310,
+      "dictionary": {
+        "spellings": [
+          "赤ん坊",
+          "赤んぼ",
+          "赤んぼう"
+        ],
+        "readings": [
+          "あかんぼう",
+          "あかんぼ"
+        ],
+        "glosses": [
+          [
+            "baby",
+            "infant"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "91f0d5ac9e",
+      "jmdict_id": 1586270,
+      "dictionary": {
+        "spellings": [
+          "開く",
+          "空く",
+          "明く"
+        ],
+        "readings": [
+          "あく"
+        ],
+        "glosses": [
+          [
+            "to open (e.g. doors)"
+          ],
+          [
+            "to open (e.g. business, etc.)"
+          ],
+          [
+            "to be empty"
+          ],
+          [
+            "to be vacant",
+            "to be available",
+            "to be free"
+          ],
+          [
+            "to be open (e.g. neckline, etc.)"
+          ],
+          [
+            "to have been opened (of one's eyes, mouth, etc.)"
+          ],
+          [
+            "to come to an end"
+          ],
+          [
+            "to open (one's eyes, mouth, etc.)"
+          ],
+          [
+            "to have a hole",
+            "to form a gap",
+            "to have an interval (between events)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "628b6b8e9d",
+      "jmdict_id": 1015220,
+      "dictionary": {
+        "spellings": [],
+        "readings": [
+          "アクセサリー",
+          "アクセサリ"
+        ],
+        "glosses": [
+          [
+            "accessory (fashion)",
+            "jewelry"
+          ],
+          [
+            "accessory (audio, car, camera, etc.)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "f935952fed",
+      "jmdict_id": 1390800,
+      "dictionary": {
+        "spellings": [
+          "浅い"
+        ],
+        "readings": [
+          "あさい"
+        ],
+        "glosses": [
+          [
+            "shallow",
+            "superficial"
+          ],
+          [
+            "slight (wound)",
+            "light (sleep)",
+            "pale (colour)",
+            "inadequate (knowledge)"
+          ],
+          [
+            "short (time)",
+            "early",
+            "young"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "590fa58ca9",
+      "jmdict_id": 1526960,
+      "dictionary": {
+        "spellings": [
+          "味"
+        ],
+        "readings": [
+          "あじ"
+        ],
+        "glosses": [
+          [
+            "flavor",
+            "flavour",
+            "taste"
+          ],
+          [
+            "charm",
+            "appeal",
+            "uniqueness",
+            "attractiveness"
+          ],
+          [
+            "experience",
+            "taste (e.g. of victory)"
+          ],
+          [
+            "smart",
+            "clever",
+            "witty",
+            "strange"
+          ],
+          [
+            "aji",
+            "position that has some lingering potential that may be exploited later in the game"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "97bdb63259",
+      "jmdict_id": 1015840,
+      "dictionary": {
+        "spellings": [
+          "亜細亜"
+        ],
+        "readings": [
+          "アジア"
+        ],
+        "glosses": [
+          [
+            "Asia"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "4c3461199c",
+      "jmdict_id": 1584660,
+      "dictionary": {
+        "spellings": [
+          "明日"
+        ],
+        "readings": [
+          "あした",
+          "あす",
+          "みょうにち"
+        ],
+        "glosses": [
+          [
+            "tomorrow"
+          ],
+          [
+            "near future"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "7fe5e36942",
+      "jmdict_id": 1542070,
+      "dictionary": {
+        "spellings": [
+          "遊び"
+        ],
+        "readings": [
+          "あそび"
+        ],
+        "glosses": [
+          [
+            "play",
+            "playing",
+            "game"
+          ],
+          [
+            "pleasure",
+            "amusement",
+            "pastime",
+            "recreation",
+            "diversion"
+          ],
+          [
+            "play (in a mechanism, e.g. a steering wheel)",
+            "slack"
+          ],
+          [
+            "flexibility (in a performance, art, etc.)",
+            "freedom"
+          ],
+          [
+            "flyleaf"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "8c98c01eff",
+      "jmdict_id": 1333550,
+      "dictionary": {
+        "spellings": [
+          "集まる",
+          "集る"
+        ],
+        "readings": [
+          "あつまる"
+        ],
+        "glosses": [
+          [
+            "to gather",
+            "to collect",
+            "to assemble"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "b00801af22",
+      "jmdict_id": 1333560,
+      "dictionary": {
+        "spellings": [
+          "集める",
+          "蒐める",
+          "聚める",
+          "輯める"
+        ],
+        "readings": [
+          "あつめる"
+        ],
+        "glosses": [
+          [
+            "to gather",
+            "to collect",
+            "to assemble",
+            "to get (things, people, etc.) together"
+          ],
+          [
+            "to raise (money)",
+            "to gather (e.g. funds)"
+          ],
+          [
+            "to garner (e.g. popularity)",
+            "to draw (attention)",
+            "to attract (e.g. an audience)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "c1fb180c70",
+      "jmdict_id": 1017330,
+      "dictionary": {
+        "spellings": [],
+        "readings": [
+          "アナウンサー",
+          "アナウンサ"
+        ],
+        "glosses": [
+          [
+            "announcer",
+            "presenter",
+            "broadcaster",
+            "reporter"
+          ],
+          [
+            "in-house television talent who does on-location fluff pieces for variety shows"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "0fa879c73d",
+      "jmdict_id": 1929050,
+      "dictionary": {
+        "spellings": [
+          "阿弗利加",
+          "亜弗利加"
+        ],
+        "readings": [
+          "アフリカ"
+        ],
+        "glosses": [
+          [
+            "Africa"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "b921645383",
+      "jmdict_id": 1149830,
+      "dictionary": {
+        "spellings": [
+          "亜米利加",
+          "亜墨利加",
+          "阿米利加",
+          "亜美利加"
+        ],
+        "readings": [
+          "アメリカ"
+        ],
+        "glosses": [
+          [
+            "(United States of) America",
+            "United States",
+            "US",
+            "USA"
+          ],
+          [
+            "America (land mass)",
+            "the Americas"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "1056f23586",
+      "jmdict_id": 1323010,
+      "dictionary": {
+        "spellings": [
+          "謝る"
+        ],
+        "readings": [
+          "あやまる"
+        ],
+        "glosses": [
+          [
+            "to apologize (apologise)"
+          ],
+          [
+            "to refuse",
+            "to decline"
+          ],
+          [
+            "to be unable to bear",
+            "to be defeated (by)",
+            "to be at a loss",
+            "to be stumped (by)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ab0767b2f7",
+      "jmdict_id": 1019280,
+      "dictionary": {
+        "spellings": [],
+        "readings": [
+          "アルコール",
+          "アルコホル"
+        ],
+        "glosses": [
+          [
+            "alcohol"
+          ],
+          [
+            "alcoholic drink",
+            "alcohol"
+          ],
+          [
+            "(alcohol-based) hand sanitizer"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "88d4196563",
+      "jmdict_id": 1019420,
+      "dictionary": {
+        "spellings": [],
+        "readings": [
+          "アルバイト"
+        ],
+        "glosses": [
+          [
+            "part-time job",
+            "side job"
+          ],
+          [
+            "part-time worker"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "d06643e4e1",
+      "jmdict_id": 1153890,
+      "dictionary": {
+        "spellings": [
+          "安心",
+          "安神"
+        ],
+        "readings": [
+          "あんしん"
+        ],
+        "glosses": [
+          [
+            "peace of mind",
+            "relief",
+            "(sense of) security",
+            "safety",
+            "assurance",
+            "confidence"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "160a8399af",
+      "jmdict_id": 1153930,
+      "dictionary": {
+        "spellings": [
+          "安全"
+        ],
+        "readings": [
+          "あんぜん",
+          "あんせん"
+        ],
+        "glosses": [
+          [
+            "safety",
+            "security"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "367da027cb",
+      "jmdict_id": 1000590,
+      "dictionary": {
+        "spellings": [],
+        "readings": [
+          "あんな"
+        ],
+        "glosses": [
+          [
+            "that sort of",
+            "that kind of",
+            "like that",
+            "such",
+            "so"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "52a79a5d69",
+      "jmdict_id": 1154860,
+      "dictionary": {
+        "spellings": [
+          "案内"
+        ],
+        "readings": [
+          "あんない",
+          "あない"
+        ],
+        "glosses": [
+          [
+            "guidance",
+            "leading (the way)",
+            "showing around"
+          ],
+          [
+            "information",
+            "notice",
+            "notification"
+          ],
+          [
+            "announcement (of a visitor's arrival)",
+            "informing (someone) of a visitor's arrival"
+          ],
+          [
+            "invitation"
+          ],
+          [
+            "acquaintance",
+            "knowledge"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "629362dbfc",
+      "jmdict_id": 1155060,
+      "dictionary": {
+        "spellings": [
+          "以下",
+          "已下"
+        ],
+        "readings": [
+          "いか",
+          "いげ"
+        ],
+        "glosses": [
+          [
+            "not exceeding ...",
+            "not more than ...",
+            "... and under",
+            "... and below",
+            "... or fewer"
+          ],
+          [
+            "below (a standard, level, etc.)",
+            "under",
+            "beneath",
+            "less than"
+          ],
+          [
+            "the following",
+            "the below-mentioned",
+            "the rest",
+            "followed by ..."
+          ],
+          [
+            "including ...",
+            "... and other (employees, officials, etc.)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "da4198f39c",
+      "jmdict_id": 1155090,
+      "dictionary": {
+        "spellings": [
+          "以外"
+        ],
+        "readings": [
+          "いがい"
+        ],
+        "glosses": [
+          [
+            "excluding",
+            "except (for)",
+            "apart from",
+            "other than",
+            "besides",
+            "in addition to"
+          ],
+          [
+            "outside (a boundary, scope, etc.)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "20044dd689",
+      "jmdict_id": 1159810,
+      "dictionary": {
+        "spellings": [
+          "医学"
+        ],
+        "readings": [
+          "いがく"
+        ],
+        "glosses": [
+          [
+            "medicine",
+            "medical science"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "db01fd59d7",
+      "jmdict_id": 1378520,
+      "dictionary": {
+        "spellings": [
+          "生きる",
+          "活きる"
+        ],
+        "readings": [
+          "いきる"
+        ],
+        "glosses": [
+          [
+            "to live",
+            "to exist"
+          ],
+          [
+            "to make a living",
+            "to subsist"
+          ],
+          [
+            "to be in effect",
+            "to be in use",
+            "to function"
+          ],
+          [
+            "to come to life",
+            "to be enlivened"
+          ],
+          [
+            "to be safe (in baseball, go, etc.)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ba5a03baf1",
+      "jmdict_id": 1156530,
+      "dictionary": {
+        "spellings": [
+          "意見"
+        ],
+        "readings": [
+          "いけん"
+        ],
+        "glosses": [
+          [
+            "opinion",
+            "view",
+            "comment"
+          ],
+          [
+            "scolding",
+            "reprimand",
+            "rebuke",
+            "admonition",
+            "cautioning",
+            "warning"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "372ce69caf",
+      "jmdict_id": 1382440,
+      "dictionary": {
+        "spellings": [
+          "石"
+        ],
+        "readings": [
+          "いし"
+        ],
+        "glosses": [
+          [
+            "stone",
+            "rock",
+            "pebble"
+          ],
+          [
+            "jewel",
+            "precious stone"
+          ],
+          [
+            "flint (in a lighter)"
+          ],
+          [
+            "(round) game piece",
+            "stone (in go, etc.)",
+            "disc (in Othello)"
+          ],
+          [
+            "stone (in the bladder, kidney etc.)",
+            "calculus"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "770aa71095",
+      "jmdict_id": 1195140,
+      "dictionary": {
+        "spellings": [
+          "苛める",
+          "虐める"
+        ],
+        "readings": [
+          "いじめる",
+          "イジメる",
+          "イジめる"
+        ],
+        "glosses": [
+          [
+            "to ill-treat",
+            "to bully",
+            "to torment",
+            "to pick on",
+            "to tease",
+            "to be cruel to",
+            "to persecute"
+          ],
+          [
+            "to be tough on (e.g. one's body)",
+            "to treat harshly"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "13ab63d79a",
+      "jmdict_id": 1155120,
+      "dictionary": {
+        "spellings": [
+          "以上",
+          "已上"
+        ],
+        "readings": [
+          "いじょう"
+        ],
+        "glosses": [
+          [
+            "not less than ...",
+            "... and over",
+            "... and above",
+            "... and upwards",
+            "... or more"
+          ],
+          [
+            "beyond (e.g. one's expectations)",
+            "above",
+            "more than",
+            "further than"
+          ],
+          [
+            "the above",
+            "the above-mentioned",
+            "the aforementioned",
+            "the foregoing"
+          ],
+          [
+            "since ...",
+            "seeing that ...",
+            "now that ...",
+            "once ..."
+          ],
+          [
+            "that's all",
+            "that is the end",
+            "the end"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "05b5de61ab",
+      "jmdict_id": 1228650,
+      "dictionary": {
+        "spellings": [
+          "急ぐ"
+        ],
+        "readings": [
+          "いそぐ"
+        ],
+        "glosses": [
+          [
+            "to hurry",
+            "to rush",
+            "to hasten",
+            "to make something happen sooner"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "6dbf756da1",
+      "jmdict_id": 1421900,
+      "dictionary": {
+        "spellings": [
+          "致す"
+        ],
+        "readings": [
+          "いたす"
+        ],
+        "glosses": [
+          [
+            "to do"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "47cc7185d5",
+      "jmdict_id": 1587290,
+      "dictionary": {
+        "spellings": [
+          "頂く",
+          "戴く"
+        ],
+        "readings": [
+          "いただく"
+        ],
+        "glosses": [
+          [
+            "to receive",
+            "to get",
+            "to accept",
+            "to take",
+            "to buy"
+          ],
+          [
+            "to eat",
+            "to drink"
+          ],
+          [
+            "to be crowned with",
+            "to wear (on one's head)",
+            "to have (on top)"
+          ],
+          [
+            "to have (as one's leader)",
+            "to live under (a ruler)",
+            "to install (a president)"
+          ],
+          [
+            "to get someone to do something"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "bf82bb12d2",
+      "jmdict_id": 1576250,
+      "dictionary": {
+        "spellings": [
+          "一度",
+          "１度",
+          "一たび",
+          "ひと度",
+          "一とたび"
+        ],
+        "readings": [
+          "いちど",
+          "ひとたび"
+        ],
+        "glosses": [
+          [
+            "once",
+            "one time",
+            "on one occasion"
+          ],
+          [
+            "temporarily",
+            "for a moment"
+          ],
+          [
+            "one degree",
+            "one tone",
+            "one musical interval"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "cf69ef2274",
+      "jmdict_id": 1164010,
+      "dictionary": {
+        "spellings": [
+          "一生懸命",
+          "一生けんめい",
+          "一生けん命"
+        ],
+        "readings": [
+          "いっしょうけんめい"
+        ],
+        "glosses": [
+          [
+            "very hard",
+            "with utmost effort",
+            "as hard as one can",
+            "with all one's might",
+            "for dear life",
+            "eagerly",
+            "desperately"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "95f7288e1b",
+      "jmdict_id": 1165670,
+      "dictionary": {
+        "spellings": [
+          "一杯",
+          "１杯",
+          "一盃",
+          "一ぱい",
+          "１ぱい"
+        ],
+        "readings": [
+          "いっぱい"
+        ],
+        "glosses": [
+          [
+            "one cup (of)",
+            "one glass (of)",
+            "one bowl (of)",
+            "cupful",
+            "glassful",
+            "bowlful",
+            "spoonful"
+          ],
+          [
+            "one drink (of alcohol)"
+          ],
+          [
+            "full",
+            "filled (with)",
+            "brimming (with)",
+            "crowded",
+            "packed"
+          ],
+          [
+            "fully",
+            "to capacity",
+            "to the maximum",
+            "as much as possible"
+          ],
+          [
+            "a lot",
+            "much",
+            "many"
+          ],
+          [
+            "all of ...",
+            "the entire ..."
+          ],
+          [
+            "one (squid, octopus, crab, etc.)"
+          ],
+          [
+            "one (boat)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "3de1fe452d",
+      "jmdict_id": 1311450,
+      "dictionary": {
+        "spellings": [
+          "糸"
+        ],
+        "readings": [
+          "いと"
+        ],
+        "glosses": [
+          [
+            "thread",
+            "yarn",
+            "string"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "556e3e0d99",
+      "jmdict_id": 1155180,
+      "dictionary": {
+        "spellings": [
+          "以内"
+        ],
+        "readings": [
+          "いない"
+        ],
+        "glosses": [
+          [
+            "within",
+            "inside of",
+            "less than"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "11d4a3118b",
+      "jmdict_id": 1442750,
+      "dictionary": {
+        "spellings": [
+          "田舎",
+          "田舍"
+        ],
+        "readings": [
+          "いなか"
+        ],
+        "glosses": [
+          [
+            "rural area",
+            "countryside",
+            "the sticks"
+          ],
+          [
+            "hometown"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "877a39a99f",
+      "jmdict_id": 1222770,
+      "dictionary": {
+        "spellings": [
+          "祈る",
+          "祷る",
+          "禱る"
+        ],
+        "readings": [
+          "いのる"
+        ],
+        "glosses": [
+          [
+            "to pray",
+            "to say a prayer",
+            "to say grace"
+          ],
+          [
+            "to wish",
+            "to hope"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "bc25dff617",
+      "jmdict_id": 1000940,
+      "dictionary": {
+        "spellings": [
+          "居らっしゃる"
+        ],
+        "readings": [
+          "いらっしゃる"
+        ],
+        "glosses": [
+          [
+            "to come",
+            "to go",
+            "to be (somewhere)"
+          ],
+          [
+            "to be (doing)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "833af5347e",
+      "jmdict_id": 1357250,
+      "dictionary": {
+        "spellings": [
+          "植える"
+        ],
+        "readings": [
+          "うえる"
+        ],
+        "glosses": [
+          [
+            "to plant",
+            "to grow",
+            "to raise"
+          ],
+          [
+            "to insert",
+            "to transplant",
+            "to implant",
+            "to set (type)"
+          ],
+          [
+            "to inoculate (e.g. an infectious agent)"
+          ],
+          [
+            "to instill (idea, value, etc.)",
+            "to inculcate"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "bf69a1d9f2",
+      "jmdict_id": 1305700,
+      "dictionary": {
+        "spellings": [
+          "伺う"
+        ],
+        "readings": [
+          "うかがう"
+        ],
+        "glosses": [
+          [
+            "to call on someone",
+            "to call at a place",
+            "to pay a visit",
+            "to wait on someone"
+          ],
+          [
+            "to ask",
+            "to inquire"
+          ],
+          [
+            "to hear",
+            "to be told"
+          ],
+          [
+            "to implore (a god for an oracle)",
+            "to seek direction (from your superior)"
+          ],
+          [
+            "to speak to (a large crowd at a theatre, etc.)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "4bdd43130b",
+      "jmdict_id": 1588060,
+      "dictionary": {
+        "spellings": [
+          "受付",
+          "受け付け",
+          "受付け",
+          "受けつけ",
+          "受け付",
+          "受附"
+        ],
+        "readings": [
+          "うけつけ"
+        ],
+        "glosses": [
+          [
+            "reception (desk)",
+            "information desk",
+            "receptionist",
+            "information clerk"
+          ],
+          [
+            "receipt",
+            "acceptance"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "20989c0cb5",
+      "jmdict_id": 1329590,
+      "dictionary": {
+        "spellings": [
+          "受ける",
+          "請ける",
+          "承ける",
+          "享ける"
+        ],
+        "readings": [
+          "うける",
+          "ウケる"
+        ],
+        "glosses": [
+          [
+            "to receive",
+            "to get"
+          ],
+          [
+            "to catch (e.g. a ball)"
+          ],
+          [
+            "to be struck by (wind, waves, sunlight, etc.)"
+          ],
+          [
+            "to sustain (damage)",
+            "to incur (a loss)",
+            "to suffer (an injury)",
+            "to feel (influence)"
+          ],
+          [
+            "to undergo (e.g. surgery)",
+            "to take (a test)",
+            "to accept (a challenge)"
+          ],
+          [
+            "to be given (e.g. life, talent)"
+          ],
+          [
+            "to find funny",
+            "to find humorous",
+            "to be amused (by)"
+          ],
+          [
+            "to follow",
+            "to succeed",
+            "to be descended from"
+          ],
+          [
+            "to face (south, etc.)"
+          ],
+          [
+            "to be modified by"
+          ],
+          [
+            "to obtain (a pawned item, etc.) by paying a fee"
+          ],
+          [
+            "to be well-received",
+            "to become popular",
+            "to go down well"
+          ],
+          [
+            "to answer (to an opponent's move)",
+            "to respond",
+            "to react"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "e54d4fef93",
+      "jmdict_id": 1451210,
+      "dictionary": {
+        "spellings": [
+          "動く"
+        ],
+        "readings": [
+          "うごく"
+        ],
+        "glosses": [
+          [
+            "to move",
+            "to stir",
+            "to shift",
+            "to shake",
+            "to swing"
+          ],
+          [
+            "to operate",
+            "to run",
+            "to go",
+            "to work"
+          ],
+          [
+            "to make a move",
+            "to take action",
+            "to act",
+            "to go into action"
+          ],
+          [
+            "to be touched",
+            "to be influenced"
+          ],
+          [
+            "to change",
+            "to vary",
+            "to fluctuate",
+            "to waver"
+          ],
+          [
+            "to be transferred"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "da1a2f9721",
+      "jmdict_id": 1172400,
+      "dictionary": {
+        "spellings": [
+          "嘘",
+          "噓"
+        ],
+        "readings": [
+          "うそ",
+          "ウソ"
+        ],
+        "glosses": [
+          [
+            "lie",
+            "fib",
+            "falsehood",
+            "untruth"
+          ],
+          [
+            "mistake",
+            "error"
+          ],
+          [
+            "unwise move",
+            "bad decision"
+          ],
+          [
+            "no way!",
+            "unbelievable!",
+            "really?!"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "76d4bcd098",
+      "jmdict_id": 1457730,
+      "dictionary": {
+        "spellings": [
+          "内",
+          "中",
+          "裡",
+          "裏",
+          "家",
+          "內"
+        ],
+        "readings": [
+          "うち"
+        ],
+        "glosses": [
+          [
+            "inside",
+            "within"
+          ],
+          [
+            "while (e.g. one is young)",
+            "during",
+            "within (e.g. a day)",
+            "in the course of"
+          ],
+          [
+            "among",
+            "amongst",
+            "(out) of",
+            "between"
+          ],
+          [
+            "in (secret, chaos, poverty, etc.)",
+            "amidst",
+            "with (e.g. success)"
+          ],
+          [
+            "within oneself",
+            "one's feelings",
+            "inner thoughts"
+          ],
+          [
+            "we",
+            "our company",
+            "our organization"
+          ],
+          [
+            "one's home",
+            "one's family"
+          ],
+          [
+            "my spouse",
+            "my husband",
+            "my wife"
+          ],
+          [
+            "signed on behalf of (husband's name) by his wife"
+          ],
+          [
+            "I",
+            "me"
+          ],
+          [
+            "imperial palace grounds"
+          ],
+          [
+            "emperor"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "e6f3a7d91a",
+      "jmdict_id": 1408810,
+      "dictionary": {
+        "spellings": [
+          "打つ",
+          "拍つ",
+          "搏つ",
+          "撲つ",
+          "擣つ"
+        ],
+        "readings": [
+          "うつ"
+        ],
+        "glosses": [
+          [
+            "to hit",
+            "to strike",
+            "to knock",
+            "to beat",
+            "to punch",
+            "to slap",
+            "to tap",
+            "to bang",
+            "to clap",
+            "to pound"
+          ],
+          [
+            "to strike (noon, etc.)",
+            "to sound (cymbals, etc.)",
+            "to beat (a drum, etc.)"
+          ],
+          [
+            "to beat (rhythmically, e.g. pulse, waves, etc.)"
+          ],
+          [
+            "to move",
+            "to impress",
+            "to touch"
+          ],
+          [
+            "to drive in",
+            "to hammer in",
+            "to put in",
+            "to inject",
+            "to vaccinate"
+          ],
+          [
+            "to type",
+            "to send",
+            "to transmit"
+          ],
+          [
+            "to insert",
+            "to write in",
+            "to mark"
+          ],
+          [
+            "to make (noodles, etc.)",
+            "to prepare"
+          ],
+          [
+            "to till (soil)"
+          ],
+          [
+            "to sprinkle",
+            "to throw",
+            "to cast"
+          ],
+          [
+            "to do",
+            "to carry out",
+            "to play",
+            "to perform",
+            "to engage in (gambling, etc.)"
+          ],
+          [
+            "to pay (a deposit, etc.)"
+          ],
+          [
+            "to visit (on a pilgrimage)"
+          ],
+          [
+            "to line (a coat)"
+          ],
+          [
+            "to bind (a criminal)"
+          ],
+          [
+            "to drop (a piece)"
+          ],
+          [
+            "to play a move",
+            "to play a game"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "0dd54894db",
+      "jmdict_id": 1486360,
+      "dictionary": {
+        "spellings": [
+          "美しい",
+          "愛しい"
+        ],
+        "readings": [
+          "うつくしい"
+        ],
+        "glosses": [
+          [
+            "beautiful",
+            "pretty",
+            "lovely",
+            "sweet",
+            "pure (heart, friendship, etc.)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "69589e0288",
+      "jmdict_id": 1588320,
+      "dictionary": {
+        "spellings": [
+          "写す",
+          "撮す"
+        ],
+        "readings": [
+          "うつす"
+        ],
+        "glosses": [
+          [
+            "to copy",
+            "to duplicate",
+            "to reproduce",
+            "to trace",
+            "to transcribe"
+          ],
+          [
+            "to describe",
+            "to depict",
+            "to portray",
+            "to express"
+          ],
+          [
+            "to imitate",
+            "to model after"
+          ],
+          [
+            "to take (a photo)",
+            "to photograph",
+            "to film",
+            "to shoot"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "c7362b5e02",
+      "jmdict_id": 1158210,
+      "dictionary": {
+        "spellings": [
+          "移る",
+          "遷る"
+        ],
+        "readings": [
+          "うつる"
+        ],
+        "glosses": [
+          [
+            "to move (to another place or state)",
+            "to change (e.g. of state, affiliation, scenery, etc.)",
+            "to be transferred"
+          ],
+          [
+            "to spread (of a fire, smell, etc.)",
+            "to catch (an illness)",
+            "to be infected",
+            "to be contagious"
+          ],
+          [
+            "to move (e.g. of one's focus)",
+            "to change (e.g. of one's interest)"
+          ],
+          [
+            "to be permeated (by a color or scent)",
+            "to seep into"
+          ],
+          [
+            "to pass (of time)",
+            "to elapse"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "78d94c404b",
+      "jmdict_id": 1562850,
+      "dictionary": {
+        "spellings": [
+          "腕"
+        ],
+        "readings": [
+          "うで"
+        ],
+        "glosses": [
+          [
+            "arm"
+          ],
+          [
+            "ability",
+            "skill",
+            "talent",
+            "competence"
+          ],
+          [
+            "(physical) strength"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "6d3b3fe0a4",
+      "jmdict_id": 1310460,
+      "dictionary": {
+        "spellings": [
+          "上手い",
+          "美味い",
+          "旨い",
+          "巧い",
+          "甘い",
+          "美い"
+        ],
+        "readings": [
+          "うまい"
+        ],
+        "glosses": [
+          [
+            "skillful",
+            "skilful",
+            "skilled",
+            "good",
+            "expert",
+            "clever (expression, trick, etc.)",
+            "apt",
+            "appropriate"
+          ],
+          [
+            "delicious",
+            "tasty",
+            "good",
+            "nice"
+          ],
+          [
+            "good (deal, idea, etc.)",
+            "profitable",
+            "promising",
+            "lucky",
+            "fortunate",
+            "successful",
+            "satisfactory",
+            "splendid"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "1b5a6286d6",
+      "jmdict_id": 1550190,
+      "dictionary": {
+        "spellings": [
+          "裏"
+        ],
+        "readings": [
+          "うら"
+        ],
+        "glosses": [
+          [
+            "opposite side",
+            "bottom",
+            "other side",
+            "side hidden from view",
+            "undersurface",
+            "reverse side"
+          ],
+          [
+            "rear",
+            "back",
+            "behind"
+          ],
+          [
+            "lining",
+            "inside"
+          ],
+          [
+            "in the shadows",
+            "behind the scenes",
+            "offstage",
+            "behind (someone's) back"
+          ],
+          [
+            "more (to something than meets the eye)",
+            "hidden side (e.g. of one's personality)",
+            "unknown circumstances",
+            "different side"
+          ],
+          [
+            "proof"
+          ],
+          [
+            "opposite (of a prediction, common sense, etc.)",
+            "contrary"
+          ],
+          [
+            "inverse (of a hypothesis, etc.)"
+          ],
+          [
+            "bottom (of an inning)",
+            "last half (of an inning)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "11222e25b5",
+      "jmdict_id": 1588550,
+      "dictionary": {
+        "spellings": [
+          "売り場",
+          "売場"
+        ],
+        "readings": [
+          "うりば"
+        ],
+        "glosses": [
+          [
+            "selling area",
+            "counter",
+            "section",
+            "department",
+            "sales floor"
+          ],
+          [
+            "favorable time to sell",
+            "good time to sell"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "c67a9658b1",
+      "jmdict_id": 1219510,
+      "dictionary": {
+        "spellings": [
+          "嬉しい",
+          "欣しい"
+        ],
+        "readings": [
+          "うれしい"
+        ],
+        "glosses": [
+          [
+            "happy",
+            "glad",
+            "pleased",
+            "delighted",
+            "overjoyed"
+          ],
+          [
+            "joyful",
+            "delightful",
+            "gratifying",
+            "pleasant"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "533b248802",
+      "jmdict_id": 1001090,
+      "dictionary": {
+        "spellings": [],
+        "readings": [
+          "うん",
+          "ウン",
+          "うむ",
+          "ううむ",
+          "う～ん",
+          "うんっ",
+          "ウ〜ン"
+        ],
+        "glosses": [
+          [
+            "yes",
+            "yeah",
+            "uh huh"
+          ],
+          [
+            "hum",
+            "hmmm",
+            "well",
+            "erm",
+            "huh?"
+          ],
+          [
+            "oof"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "44f33984fb",
+      "jmdict_id": 1172830,
+      "dictionary": {
+        "spellings": [
+          "運転"
+        ],
+        "readings": [
+          "うんてん"
+        ],
+        "glosses": [
+          [
+            "operation (of a machine)",
+            "running",
+            "working"
+          ],
+          [
+            "driving (a vehicle)"
+          ],
+          [
+            "use (of capital, funds, etc.)",
+            "management",
+            "investment"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "9f6e25d5e2",
+      "jmdict_id": 1172870,
+      "dictionary": {
+        "spellings": [
+          "運転手"
+        ],
+        "readings": [
+          "うんてんしゅ"
+        ],
+        "glosses": [
+          [
+            "driver",
+            "chauffeur"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "47487b1e85",
+      "jmdict_id": 1172910,
+      "dictionary": {
+        "spellings": [
+          "運動"
+        ],
+        "readings": [
+          "うんどう"
+        ],
+        "glosses": [
+          [
+            "exercise",
+            "physical training",
+            "workout",
+            "sports",
+            "athletics"
+          ],
+          [
+            "appeal",
+            "campaign",
+            "drive",
+            "crusade",
+            "movement",
+            "lobbying"
+          ],
+          [
+            "motion",
+            "movement"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "3139c14254",
+      "jmdict_id": 1028580,
+      "dictionary": {
+        "spellings": [],
+        "readings": [
+          "エスカレーター",
+          "エスカレータ"
+        ],
+        "glosses": [
+          [
+            "escalator"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "bb01cb559f",
+      "jmdict_id": 1310530,
+      "dictionary": {
+        "spellings": [
+          "枝"
+        ],
+        "readings": [
+          "えだ"
+        ],
+        "glosses": [
+          [
+            "branch",
+            "bough",
+            "limb",
+            "twig",
+            "sprig",
+            "spray"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "60c9784974",
+      "jmdict_id": 1588730,
+      "dictionary": {
+        "spellings": [
+          "選ぶ",
+          "撰ぶ",
+          "択ぶ"
+        ],
+        "readings": [
+          "えらぶ"
+        ],
+        "glosses": [
+          [
+            "to choose",
+            "to select",
+            "to pick (out)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "5ceed9165d",
+      "jmdict_id": 1178450,
+      "dictionary": {
+        "spellings": [
+          "遠慮"
+        ],
+        "readings": [
+          "えんりょ"
+        ],
+        "glosses": [
+          [
+            "reserve",
+            "constraint",
+            "restraint",
+            "modesty",
+            "diffidence",
+            "hesitation",
+            "holding back",
+            "discretion",
+            "tact",
+            "thoughtfulness"
+          ],
+          [
+            "declining",
+            "refraining"
+          ],
+          [
+            "forethought",
+            "foresight"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "53c76e5c6e",
+      "jmdict_id": 1001180,
+      "dictionary": {
+        "spellings": [
+          "お出でになる",
+          "御出でになる"
+        ],
+        "readings": [
+          "おいでになる"
+        ],
+        "glosses": [
+          [
+            "to be"
+          ],
+          [
+            "to come"
+          ],
+          [
+            "to go"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "12e7bd036b",
+      "jmdict_id": 1612770,
+      "dictionary": {
+        "spellings": [
+          "お祝い",
+          "お祝",
+          "御祝い",
+          "御祝"
+        ],
+        "readings": [
+          "おいわい"
+        ],
+        "glosses": [
+          [
+            "congratulation",
+            "congratulations",
+            "celebration",
+            "festival"
+          ],
+          [
+            "congratulatory gift",
+            "present"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "5c63f36f44",
+      "jmdict_id": 1032030,
+      "dictionary": {
+        "spellings": [],
+        "readings": [
+          "オートバイ"
+        ],
+        "glosses": [
+          [
+            "motorcycle",
+            "motorbike"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "e5e5899ce2",
+      "jmdict_id": 1001640,
+      "dictionary": {
+        "spellings": [
+          "お陰",
+          "お蔭",
+          "御陰",
+          "御蔭"
+        ],
+        "readings": [
+          "おかげ"
+        ],
+        "glosses": [
+          [
+            "grace (of God)",
+            "benevolence (of Buddha)",
+            "blessing"
+          ],
+          [
+            "assistance",
+            "help",
+            "aid"
+          ],
+          [
+            "effects",
+            "influence"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "4d2128cddd",
+      "jmdict_id": 1190860,
+      "dictionary": {
+        "spellings": [
+          "可笑しい",
+          "奇怪しい",
+          "可怪しい"
+        ],
+        "readings": [
+          "おかしい",
+          "オカシイ"
+        ],
+        "glosses": [
+          [
+            "funny",
+            "amusing",
+            "comical",
+            "laughable",
+            "ridiculous"
+          ],
+          [
+            "strange",
+            "odd",
+            "funny",
+            "peculiar",
+            "weird",
+            "wrong",
+            "unusual",
+            "eccentric"
+          ],
+          [
+            "wrong",
+            "unsuitable",
+            "improper",
+            "inappropriate",
+            "unbecoming"
+          ],
+          [
+            "suspicious"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "a58874b751",
+      "jmdict_id": 2429350,
+      "dictionary": {
+        "spellings": [
+          "お金持ち",
+          "お金もち",
+          "お金持",
+          "おカネ持ち",
+          "御金持ち"
+        ],
+        "readings": [
+          "おかねもち"
+        ],
+        "glosses": [
+          [
+            "rich person",
+            "wealthy person"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "4cfa8f43e2",
+      "jmdict_id": 1182620,
+      "dictionary": {
+        "spellings": [
+          "億"
+        ],
+        "readings": [
+          "おく"
+        ],
+        "glosses": [
+          [
+            "hundred million",
+            "100,000,000",
+            "10^8"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "1065d7145c",
+      "jmdict_id": 1182710,
+      "dictionary": {
+        "spellings": [
+          "屋上"
+        ],
+        "readings": [
+          "おくじょう"
+        ],
+        "glosses": [
+          [
+            "rooftop"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ba001e2f36",
+      "jmdict_id": 1589030,
+      "dictionary": {
+        "spellings": [
+          "贈り物",
+          "贈物",
+          "贈りもの"
+        ],
+        "readings": [
+          "おくりもの"
+        ],
+        "glosses": [
+          [
+            "present",
+            "gift"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "af1dae5588",
+      "jmdict_id": 1402730,
+      "dictionary": {
+        "spellings": [
+          "送る"
+        ],
+        "readings": [
+          "おくる"
+        ],
+        "glosses": [
+          [
+            "to send",
+            "to dispatch",
+            "to forward",
+            "to transmit",
+            "to ship",
+            "to remit"
+          ],
+          [
+            "to see (someone) off",
+            "to escort",
+            "to accompany",
+            "to take"
+          ],
+          [
+            "to bid farewell to (the departed)",
+            "to say goodbye to",
+            "to bury"
+          ],
+          [
+            "to spend (time)",
+            "to pass",
+            "to lead (a life)",
+            "to live"
+          ],
+          [
+            "to pass (on, along)",
+            "to advance (a runner)"
+          ],
+          [
+            "to affix (okurigana)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ae8ce3986c",
+      "jmdict_id": 1589040,
+      "dictionary": {
+        "spellings": [
+          "遅れる",
+          "後れる"
+        ],
+        "readings": [
+          "おくれる"
+        ],
+        "glosses": [
+          [
+            "to be late",
+            "to be delayed",
+            "to fall behind schedule",
+            "to be overdue"
+          ],
+          [
+            "to fall behind (in a race, one's studies, etc.)",
+            "to lag behind",
+            "to be behind (the times)"
+          ],
+          [
+            "to be bereaved of",
+            "to be preceded by (someone) in death"
+          ],
+          [
+            "to be slow (of a clock or watch)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "99de4451f7",
+      "jmdict_id": 1223660,
+      "dictionary": {
+        "spellings": [
+          "起こす",
+          "起す"
+        ],
+        "readings": [
+          "おこす"
+        ],
+        "glosses": [
+          [
+            "to raise",
+            "to raise up",
+            "to set up",
+            "to pick up",
+            "to stand (something) up"
+          ],
+          [
+            "to wake",
+            "to wake up",
+            "to waken",
+            "to awaken"
+          ],
+          [
+            "to cause",
+            "to bring about",
+            "to lead to",
+            "to trigger",
+            "to give rise to",
+            "to create",
+            "to generate (e.g. heat, electricity)",
+            "to produce"
+          ],
+          [
+            "to start",
+            "to begin",
+            "to launch",
+            "to establish",
+            "to found",
+            "to set up",
+            "to open"
+          ],
+          [
+            "to plough",
+            "to plow",
+            "to till"
+          ],
+          [
+            "to feel (an emotion, desire, etc.)",
+            "to be moved to",
+            "to summon up",
+            "to muster"
+          ],
+          [
+            "to fall ill with"
+          ],
+          [
+            "to transcribe",
+            "to write down (what is spoken)"
+          ],
+          [
+            "to turn over (a card)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2139fab218",
+      "jmdict_id": 1589060,
+      "dictionary": {
+        "spellings": [
+          "行う",
+          "行なう"
+        ],
+        "readings": [
+          "おこなう"
+        ],
+        "glosses": [
+          [
+            "to perform",
+            "to do",
+            "to conduct oneself",
+            "to carry out"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2e0f32c097",
+      "jmdict_id": 1445690,
+      "dictionary": {
+        "spellings": [
+          "怒る"
+        ],
+        "readings": [
+          "おこる"
+        ],
+        "glosses": [
+          [
+            "to get angry",
+            "to get mad",
+            "to lose one's temper"
+          ],
+          [
+            "to scold",
+            "to tell (someone) off"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "3787755f33",
+      "jmdict_id": 1589110,
+      "dictionary": {
+        "spellings": [
+          "押入れ",
+          "押し入れ",
+          "押入"
+        ],
+        "readings": [
+          "おしいれ"
+        ],
+        "glosses": [
+          [
+            "closet (built into the wall, usu. with sliding doors)",
+            "(built-in) wardrobe"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "1f5a7d8e07",
+      "jmdict_id": 1002170,
+      "dictionary": {
+        "spellings": [
+          "お嬢さん",
+          "御嬢さん"
+        ],
+        "readings": [
+          "おじょうさん"
+        ],
+        "glosses": [
+          [
+            "(another's) daughter"
+          ],
+          [
+            "young lady"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "6693b4e9f7",
+      "jmdict_id": 1002400,
+      "dictionary": {
+        "spellings": [
+          "お宅",
+          "御宅"
+        ],
+        "readings": [
+          "おたく"
+        ],
+        "glosses": [
+          [
+            "your house",
+            "your home",
+            "your family"
+          ],
+          [
+            "your husband"
+          ],
+          [
+            "your organization"
+          ],
+          [
+            "you"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "981ee66f59",
+      "jmdict_id": 1548550,
+      "dictionary": {
+        "spellings": [
+          "落ちる",
+          "墜ちる",
+          "落る"
+        ],
+        "readings": [
+          "おちる"
+        ],
+        "glosses": [
+          [
+            "to fall",
+            "to drop",
+            "to come down",
+            "to crash",
+            "to collapse",
+            "to cave in",
+            "to give way"
+          ],
+          [
+            "to set (of the sun or moon)",
+            "to sink",
+            "to dip",
+            "to go down"
+          ],
+          [
+            "to decrease (of popularity, quality, speed, sales, etc.)",
+            "to fall",
+            "to drop",
+            "to go down",
+            "to decline",
+            "to deteriorate",
+            "to abate (of wind)"
+          ],
+          [
+            "to be inferior (to)",
+            "to be not as good (as)",
+            "to fall short (of)"
+          ],
+          [
+            "to come off (of dirt, paint, makeup, etc.)",
+            "to come out (of a stain)",
+            "to fade (of colour)",
+            "to be removed (of an illness, possessing spirit, etc.)"
+          ],
+          [
+            "to disappear (of excess fat)",
+            "to become thinner",
+            "to become leaner"
+          ],
+          [
+            "to be left out",
+            "to be omitted",
+            "to be missing"
+          ],
+          [
+            "to fail (an exam)",
+            "to lose (a contest, election, etc.)",
+            "to be unsuccessful"
+          ],
+          [
+            "to decline (of morals, character, etc.)",
+            "to become vulgar (e.g. of a conversation)",
+            "to stoop (to)",
+            "to sink (so low)"
+          ],
+          [
+            "to be ruined",
+            "to go under",
+            "to fall (into hell)"
+          ],
+          [
+            "to fall (in love, asleep, etc.)"
+          ],
+          [
+            "to fall (into someone's hands)",
+            "to be accepted (of a bid)",
+            "to be won (of a tender)",
+            "to be honoured (of a bill)"
+          ],
+          [
+            "to fall into (a trap)",
+            "to fall for (a trick)"
+          ],
+          [
+            "to give in"
+          ],
+          [
+            "to confess",
+            "to own up"
+          ],
+          [
+            "to come to (a conclusion, topic, etc.)",
+            "to arrive at (in the end)"
+          ],
+          [
+            "to leave (a city, castle, etc.)",
+            "to (be defeated and) flee"
+          ],
+          [
+            "to sink in",
+            "to be accepted (in one's heart)"
+          ],
+          [
+            "to fall (to the enemy)",
+            "to be defeated"
+          ],
+          [
+            "to come in (of money)"
+          ],
+          [
+            "to fall (upon; of light, a shadow, one's gaze, etc.)"
+          ],
+          [
+            "to pass out (in judo)",
+            "to fall unconscious"
+          ],
+          [
+            "to go down (of a website, server, etc.)",
+            "to crash"
+          ],
+          [
+            "to log out (of an online game, chat room, etc.)",
+            "to drop out",
+            "to leave",
+            "to go offline"
+          ],
+          [
+            "to move to deeper water (of a fish in cold weather)"
+          ],
+          [
+            "to die (of an animal)"
+          ],
+          [
+            "to strike (of lightning)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "050024e2d9",
+      "jmdict_id": 1238840,
+      "dictionary": {
+        "spellings": [
+          "仰る",
+          "仰有る",
+          "仰しゃる",
+          "仰っしゃる"
+        ],
+        "readings": [
+          "おっしゃる"
+        ],
+        "glosses": [
+          [
+            "to say",
+            "to speak",
+            "to tell"
+          ],
+          [
+            "to be called"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "b8630e0875",
+      "jmdict_id": 1496480,
+      "dictionary": {
+        "spellings": [
+          "夫",
+          "良人"
+        ],
+        "readings": [
+          "おっと"
+        ],
+        "glosses": [
+          [
+            "husband"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "f2c38f9517",
+      "jmdict_id": 1270550,
+      "dictionary": {
+        "spellings": [
+          "お釣り",
+          "お釣",
+          "御釣り",
+          "御釣"
+        ],
+        "readings": [
+          "おつり"
+        ],
+        "glosses": [
+          [
+            "change (for a purchase)"
+          ],
+          [
+            "toilet splashback"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "c6815e7618",
+      "jmdict_id": 1576900,
+      "dictionary": {
+        "spellings": [
+          "音"
+        ],
+        "readings": [
+          "おと"
+        ],
+        "glosses": [
+          [
+            "sound",
+            "noise"
+          ],
+          [
+            "(musical) note"
+          ],
+          [
+            "fame"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "f786333cf9",
+      "jmdict_id": 1589260,
+      "dictionary": {
+        "spellings": [
+          "落とす",
+          "落す",
+          "堕とす",
+          "墜とす",
+          "陥とす",
+          "陥す"
+        ],
+        "readings": [
+          "おとす"
+        ],
+        "glosses": [
+          [
+            "to drop",
+            "to lose",
+            "to let fall",
+            "to shed (light)",
+            "to cast (one's gaze)",
+            "to pour in (liquid)",
+            "to leave behind"
+          ],
+          [
+            "to clean off (dirt, makeup, paint, etc.)",
+            "to remove (e.g. stains or facial hair)",
+            "to lose",
+            "to spend money at a certain place",
+            "to omit",
+            "to leave out",
+            "to secretly let escape"
+          ],
+          [
+            "to lose (a match)",
+            "to reject (an applicant)",
+            "to fail (a course)",
+            "to defeat (in an election)"
+          ],
+          [
+            "to lower (e.g. shoulders or voice)",
+            "to lessen (e.g. production or body weight)",
+            "to worsen (quality)",
+            "to reduce (e.g. rank or popularity)",
+            "to speak badly of",
+            "to make light of",
+            "to fall into straitened circumstances"
+          ],
+          [
+            "to fall into (e.g. a dilemma or sin)",
+            "to make one's own",
+            "to have one's bid accepted",
+            "to force surrender",
+            "to take (e.g. an enemy camp or castle)",
+            "to forcefully convince",
+            "to press for a confession",
+            "to deal with"
+          ],
+          [
+            "to download",
+            "to copy from a computer to another medium"
+          ],
+          [
+            "to make someone swoon (judo)"
+          ],
+          [
+            "to finish a story (e.g. with the punch line)"
+          ],
+          [
+            "to finish (a period, e.g. of fasting)"
+          ],
+          [
+            "to win over",
+            "to seduce",
+            "to conquer (unwillingness)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "8c636a46f4",
+      "jmdict_id": 1546880,
+      "dictionary": {
+        "spellings": [
+          "踊り",
+          "躍り"
+        ],
+        "readings": [
+          "おどり"
+        ],
+        "glosses": [
+          [
+            "dancing",
+            "dance"
+          ],
+          [
+            "iteration mark (used to represent repetition of the previous character)"
+          ],
+          [
+            "Bon Festival dance",
+            "Lantern Festival dance"
+          ],
+          [
+            "eating live seafood (e.g. squid, ice gobies) while it is still moving"
+          ],
+          [
+            "soft spot (in the skull of an infant)",
+            "fontanelle",
+            "fontanel"
+          ],
+          [
+            "live shrimp (as a sushi dish)"
+          ],
+          [
+            "doubling of loan interest upon bill renewal if failed to repay (Edo period)",
+            "double interest"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "3280103eb8",
+      "jmdict_id": 1538440,
+      "dictionary": {
+        "spellings": [
+          "踊る"
+        ],
+        "readings": [
+          "おどる"
+        ],
+        "glosses": [
+          [
+            "to dance (orig. a hopping dance)"
+          ],
+          [
+            "to be manipulated",
+            "to dance to someone's tune"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "6d69734463",
+      "jmdict_id": 1238680,
+      "dictionary": {
+        "spellings": [
+          "驚く",
+          "愕く",
+          "駭く"
+        ],
+        "readings": [
+          "おどろく"
+        ],
+        "glosses": [
+          [
+            "to be surprised",
+            "to be taken aback",
+            "to be amazed",
+            "to be astonished",
+            "to be shocked"
+          ],
+          [
+            "to be frightened",
+            "to be startled",
+            "to be alarmed"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "68ff489ea4",
+      "jmdict_id": 1604135,
+      "dictionary": {
+        "spellings": [
+          "お祭り",
+          "お祭",
+          "お祀り",
+          "お祀",
+          "御祭り",
+          "御祭",
+          "御祀り",
+          "御祀"
+        ],
+        "readings": [
+          "おまつり"
+        ],
+        "glosses": [
+          [
+            "festival",
+            "feast",
+            "carnival",
+            "matsuri"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "eb615955c8",
+      "jmdict_id": 1001870,
+      "dictionary": {
+        "spellings": [
+          "お見舞い",
+          "お見舞",
+          "御見舞い",
+          "御見舞"
+        ],
+        "readings": [
+          "おみまい"
+        ],
+        "glosses": [
+          [
+            "visit (to someone affected by illness or misfortune)",
+            "call",
+            "inquiry (about someone's health)",
+            "expression of sympathy"
+          ],
+          [
+            "letter of inquiry",
+            "letter of sympathy",
+            "get-well letter",
+            "gift (in token of one's sympathy)"
+          ],
+          [
+            "dealing (a hit)",
+            "striking (a blow)",
+            "landing (an attack)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "554ab81272",
+      "jmdict_id": 2137720,
+      "dictionary": {
+        "spellings": [
+          "然う"
+        ],
+        "readings": [
+          "そう"
+        ],
+        "glosses": [
+          [
+            "in that way",
+            "thus",
+            "such"
+          ],
+          [
+            "so",
+            "the same",
+            "that's the case"
+          ],
+          [
+            "so?"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "aa663833e4",
+      "jmdict_id": 1401210,
+      "dictionary": {
+        "spellings": [
+          "相談"
+        ],
+        "readings": [
+          "そうだん"
+        ],
+        "glosses": [
+          [
+            "consultation",
+            "discussion",
+            "discussing",
+            "asking (someone) for advice"
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,102 +1,102 @@
 id,word,reading,romaji,meanings,level,pos,jmdict_id,other_forms,example_ja,example_en,meanings_zh,explanation_zh,status_zh,formation_zh,notes_zh,examples_zh
-4fff6d0441,あ,あ,a,Ah,N4,int,2394370,,あ！まずい！ガソリンが切れてきた。,"Oh, no! We're running out of gas.",啊（感叹、注意到某事）,,draft,,,[]
-6a4011f27f,ああ,ああ,aa,like that,N4,adv,2085080,,ある人はこうだと言い、またある人はああだと言う。,"One man says this, another that.",那样,,draft,,,[]
-c3c3ac9f48,あいさつする,あいさつする,aisatsusuru,to greet,N4,n; vs; vi,1151120,,私にあいさつするような人はいない。,There is no one to greet me.,打招呼; 问候,,draft,,,[]
-d1a343e501,間,あいだ,aida,a space,N4,n,1215230,,二人の間がしっくり行かない。,They don't get along together.,之间; 期间,,draft,,,[]
-54e1f7a772,合う,あう,au,to match,N4,v5u; vi,1284430,,このチョッキは前が合わない。,This waistcoat won't meet at the front.,合适; 相配,,draft,,,[]
-2a6a55be8d,あかちゃん,あかちゃん,akachan,infant,N4,n,1383260,赤ちゃん,その赤ちゃんは歯が生えはじめている。,The baby is cutting his teeth.,婴儿,,draft,,,[]
-4a3152836b,上がる,あがる,agaru,to rise,N4,v5r; vi,1352290,,車のバッテリーが上がってるよ。,The car battery is dead.,上升; 升高,,draft,,,[]
-e877021bf4,赤ん坊,あかんぼう,akanbou,baby,N4,n,1383310,あかんぼう,うちの赤ん坊は口をきくようになってきました。,Our baby is learning to speak.,婴儿,,draft,,,[]
-91f0d5ac9e,空く,あく,aku,to open; to become empty,N4,v5k; vi,1586270,,放課後は空いてますか？,Are you free after school?,空出来; 变空,,draft,,,[]
-628b6b8e9d,アクセサリー,アクセサリー,akusesarii,accessory,N4,n,1015220,,この服にはどんなアクセサリーを付けるの？,What sort of jewelry are you going to wear with this dress?,饰品; 配饰,,draft,,,[]
-f935952fed,浅い,あさい,asai,shallow; superficial,N4,adj-i,1390800,,この川はあそこで浅くなっている。,This river becomes shallow at that point.,浅的; 肤浅的,,draft,,,[]
-590fa58ca9,味,あじ,aji,flavour,N4,n,1526960,,このチーズはピリッとした味がする。,This cheese has a sharp taste.,味道,,draft,,,[]
-97bdb63259,アジア,アジア,ajia,Asia,N4,n,1015840,,ヨーロッパはアジアより人口が少ない。,Europe has a smaller population than Asia.,亚洲,,draft,,,[]
-4c3461199c,明日,あす,asu,tomorrow,N4,n; adv,1584660,,あしたは一日中ひまです。,I'll be free all day tomorrow.,明天（あす）,,draft,,,[]
-7fe5e36942,遊び,あそび,asobi,play,N4,n,1542070,,今度の旅行は仕事じゃなくて遊びです。,"Our next trip is for pleasure, not for work.",玩耍; 游戏,,draft,,,[]
-8c98c01eff,集まる,あつまる,atsumaru,to gather,N4,v5r; vi,1333550,,通りに人がたくさん集まっている。,There is a crowd of people on the street.,聚集（自动词）,,draft,,,[]
-b00801af22,集める,あつめる,atsumeru,to collect something,N4,v1; vt,1333560,,毎週月曜日にゴミを集めにきます。,They collect our garbage every Monday.,收集; 召集（他动词）,,draft,,,[]
-c1fb180c70,アナウンサー,アナウンサー,anaunsaa,announcer,N4,n,1017330,,アナウンサーは早口が出来る。,The announcer can talk rapidly.,播音员,,draft,,,[]
-0fa879c73d,アフリカ,アフリカ,afurika,Africa,N4,n,1929050,,アフリカにはたくさんの自然がある。,Africa has a lot of nature.,非洲,,draft,,,[]
-b921645383,アメリカ,アメリカ,amerika,America,N4,n,1149830,,私は去年の秋にアメリカにいった。,I went to America last fall.,美国,,draft,,,[]
-1056f23586,謝る,あやまる,ayamaru,to apologize,N4,v5r; vt; vi,1323010,,私は彼女に謝らなければならない。,I must make an apology to her.,道歉,,draft,,,[]
-ab0767b2f7,アルコール,アルコール,arukooru,alcohol,N4,n,1019280,,このビールはアルコール分が５％だ。,This beer contains 5% alcohol.,酒精,,draft,,,[]
-88d4196563,アルバイト,アルバイト,arubaito,part-time job,N4,n; vs; vi,1019420,,,,兼职; 打工,,draft,,,[]
-d06643e4e1,安心,あんしん,anshin,relief,N4,n; adj-na; vs; vi,1153890,,あいつに仕事を任せておけば安心だ。,You can trust him with any job.,安心; 放心,,draft,,,[]
-160a8399af,安全,あんぜん,anzen,safety,N4,n; adj-na,1153930,,私たちは思っているほど安全ではない。,We are not all that safe.,安全,,draft,,,[]
-367da027cb,あんな,あんな,anna,such,N4,adj-pn,1000590,,あんないい男そうそういないぞ！！,There aren't many blokes that nice!,那样的（后接名词）,,draft,,,[]
-52a79a5d69,案内,あんない,annai,to guide,N4,n; vs; vt,1154860,,私をあちこちに案内してください。,Please show me around.,引导; 介绍,,draft,,,[]
-629362dbfc,以下,いか,ika,less than,N4,n-suf,1155060,,それは千円以下では買えません。,"You can't buy it under 1,000 yen.",以下; 不超过（包含界限数）,,draft,,,[]
-da4198f39c,以外,いがい,igai,with the exception of,N4,n-suf,1155090,,その仕事以外ならなんでもやる。,I'll do anything but that job.,以外; 除……之外,,draft,,,[]
-20044dd689,医学,いがく,igaku,medical science,N4,n,1159810,,二人の医者が医学の話をしていた。,Two doctors were talking shop.,医学,,draft,,,[]
-db01fd59d7,生きる,いきる,ikiru,to live,N4,v1; vi,1378520,,生きるものはすべていつかは死ぬ。,All living things die some day.,活着; 生存,,draft,,,[]
-ba5a03baf1,意見,いけん,iken,opinion,N4,n,1156530,,ここではどんどん意見をおっしゃってかまいません。,You can speak out freely here.,意见; 看法,,draft,,,[]
-372ce69caf,石,いし,ishi,stone,N4,n,1382440,,私にはこの石は持ち上がらない。,I cannot lift this stone.,石头,,draft,,,[]
-770aa71095,いじめる,いじめる,ijimeru,to tease,N4,v1; vt,1195140,苛める,彼はよく友人をいじめたものだ。,He used to bully his friends.,欺负,,draft,,,[]
-13ab63d79a,以上,いじょう,ijou,more than; this is all,N4,n-suf,1155120,,以上ですか？,Is that all?,以上（包含界限数）; 到此为止,,draft,,,[]
-05b5de61ab,急ぐ,いそぐ,isogu,to hurry,N4,v5g; vi; vt,1228650,,ニックはバスに間に合うように急いだ。,Nick hurried to catch the bus.,赶快; 赶时间,,draft,,,[]
-6dbf756da1,致す,いたす,itasu,(humble) to do,N4,v5s; vt,1421900,,お取り寄せいたしましょうか。,Would you like me to order it?,做（する的自谦语）,,draft,,,[]
-47cc7185d5,いただく,いただく,itadaku,(humble) to receive,N4,v5k; vt,1587290,頂く,九時に来ていただきたいのですが。,I'd like you to come at nine.,领受; 吃喝（自谦表达）,,draft,,,[]
-bf82bb12d2,一度,いちど,ichido,once,N4,n; adv,1576250,,人間はこの世に一度しか生きない。,One lives but once in the world.,一次,,draft,,,[]
-cf69ef2274,一生懸命,いっしょうけんめい,isshoukenmei,with utmost effort,N4,adv; adj-na; n,1164010,,もっと一生懸命勉強すべきだったのに。,You should have worked harder.,拼命; 全力以赴,,draft,,,[]
-95f7288e1b,いっぱい,いっぱい,ippai,full,N4,adj-na; adj-no; n-suf,1165670,,このボトルに水をいっぱい入れてください。,Please fill this bottle with water.,满; 很多,,draft,,,[]
-3de1fe452d,糸,いと,ito,thread,N4,n; n-suf,1311450,,長い糸はからまりやすい。,A long thread is easily entangled.,线,,draft,,,[]
-556e3e0d99,以内,いない,inai,within,N4,n; n-suf; adv,1155180,,１週間以内に電話します。,I'll call you within a week.,以内（包含界限）,,draft,,,[]
-11d4a3118b,田舎,いなか,inaka,countryside,N4,n,1442750,,去年の夏、父の田舎に行きました。,I visited my father's hometown last summer.,乡下; 故乡,,draft,,,[]
-877a39a99f,祈る,いのる,inoru,to pray,N4,v5r; vt,1222770,,早くよくなられるように祈っています。,I hope you'll get well soon.,祈祷; 祝愿,,draft,,,[]
-bc25dff617,いらっしゃる,いらっしゃる,irassharu,(respectful) to be; to come or to go,N4,v5aru; vi,1000940,,,,在; 来; 去（尊敬语）,,draft,,,[]
-833af5347e,植える,うえる,ueru,to plant; to grow,N4,v1; vt,1357250,,私は庭にバラを植えた。,I planted roses in the garden.,种植,,draft,,,[]
-bf69a1d9f2,うかがう,うかがう,ukagau,to visit,N4,v5u; vt,1305700,伺う,体重をおうかがいしてもよろしいですか。,May I ask you what your weight is?,拜访（此处为自谦用法）,,draft,,,[]
-4bdd43130b,受付,うけつけ,uketsuke,reception (desk); receptionist,N4,n,1588060,,受付で入院の手続きをしてください。,You have to fill out an application for admission to the hospital at the front desk.,接待处; 接待人员,本卡选择接待处或接待人员的义项。受理、接收也是相关用法，但现有两个例句指办理入院手续的窗口。,draft,,,"[{""ja"":""受付で入院の手続きをしてください。"",""zh"":""请在接待处办理住院手续。""},{""ja"":""入院の受付窓口はどこですか。"",""zh"":""办理住院手续的窗口在哪里？""}]"
-20989c0cb5,受ける,うける,ukeru,to take a lesson or test,N4,v1; vt,1329590,,病気なので試験が受けられません。,I can't sit for the examination because I am ill.,接受; 参加（考试、课程等）,,draft,,,[]
-e54d4fef93,動く,うごく,ugoku,to move,N4,v5k; vi,1451210,,まだ動くうちに売ってしまわなきゃ。,I should sell it while it still runs.,动; 移动,,draft,,,[]
-da1a2f9721,うそ,うそ,uso,a lie,N4,n; adj-no,1172400,嘘,えっ嘘でしょ。,"Oh my God, I can't believe this.",谎言,,draft,,,[]
-76d4bcd098,うち,うち,uchi,within,N4,n; adv,1457730,内,教会は私の家とあなたの家の中にあります。,The church is between my house and yours.,之内; 期间,,draft,,,[]
-e6f3a7d91a,打つ,うつ,utsu,to hit,N4,v5t; vt,1408810,,８時をちょうど打ちましたね。,"It has just struck eight, hasn't it?",打; 敲,,draft,,,[]
-0dd54894db,美しい,うつくしい,utsukushii,beautiful,N4,adj-i,1486360,,私たちは美しい入り日に見とれた。,We admired the beautiful sunset.,美丽的,,draft,,,[]
-69589e0288,写す,うつす,utsusu,to copy or photograph,N4,v5s; vt,1588320,,その写真は空から写されたものである。,The picture was taken from the air.,抄写; 拍摄,,draft,,,[]
-c7362b5e02,移る,うつる,utsuru,to move house or transfer,N4,v5r; vi,1158210,,もっとお金があれば大きな家に移れるのにな。,"If I had more money, I could move to a bigger house.",转移; 搬迁,,draft,,,[]
-78d94c404b,腕,うで,ude,arm,N4,n,1562850,,けがをした腕を見せて下さい。,Please show me your injured arm.,胳膊; 手臂,,draft,,,[]
-6d3b3fe0a4,うまい,うまい,umai,delicious,N4,adj-i,1310460,甘い,それはあまりにもうますぎる話だ。,That's too good a story to be true.,好吃的,,draft,,,[]
-1b5a6286d6,裏,うら,ura,reverse side,N4,n,1550190,,靴の裏にガムがこびりついちゃった。,There's gum stuck to the bottom of my shoe.,背面; 反面,,draft,,,[]
-11222e25b5,売り場,うりば,uriba,place where things are sold,N4,n,1588550,,スナック売り場は、どこですか。,Where can I buy snacks?,售货处; 柜台,,draft,,,[]
-c67a9658b1,うれしい,うれしい,ureshii,glad,N4,adj-i,1219510,嬉しい,あなたに再会できてうれしい。,I am pleased to see you again.,高兴的,,draft,,,[]
-533b248802,うん,うん,un,(informal) yes,N4,int,1001090,,うん、休みが終わるまででいいの。,"Oh, just over the holidays.",嗯; 是（随意表达）,,draft,,,[]
-44f33984fb,運転,うんてん,unten,to drive,N4,n; vs; vt; vi,1172830,,キャロルはレンタカーを運転しています。,Carol is driving a rent-a-car.,驾驶; 运转,,draft,,,[]
-9f6e25d5e2,運転手,うんてんしゅ,untenshu,driver,N4,n,1172870,,運転手は車のスピードを上げた。,The driver accelerated his car.,司机,,draft,,,[]
-47487b1e85,運動,うんどう,undou,to exercise,N4,n; vs; vi,1172910,,週に一度でいいから運動しなさい。,Try to exercise at least once a week.,运动,,draft,,,[]
-3139c14254,エスカレーター,エスカレーター,esukareetaa,escalator,N4,n,1028580,,上りのエスカレーターはどこですか？,Where's the up-escalator?,自动扶梯,,draft,,,[]
-bb01cb559f,枝,えだ,eda,branch; twig,N4,n,1310530,,たくさんの鳥が枝にとまっている。,Many birds are on the branch.,树枝,,draft,,,[]
-60c9784974,選ぶ,えらぶ,erabu,to choose,N4,v5b; vt,1588730,,これとあれの中から選んで下さい。,Choose between this and that.,选择,,draft,,,[]
-5ceed9165d,遠慮,えんりょ,enryo,to be reserved; to be restrained,N4,n; vs; vt; vi,1178450,,ここでのおタバコはご遠慮願います。,Please refrain from smoking here.,客气; 顾虑; 克制,,draft,,,[]
-53c76e5c6e,おいでになる,おいでになる,oideninaru,(respectful) to be,N4,exp; v5r,1001180,お出でになる,いつ旅行においでになりますか。,When will you go on a journey?,在; 来; 去（尊敬表达）,,draft,,,[]
-12e7bd036b,お祝い,おいわい,oiwai,congratulation,N4,n,1612770,,心からお祝いを申し上げます。,I offer you my hearty congratulations.,祝贺; 贺礼,,draft,,,[]
-5c63f36f44,オートバイ,オートバイ,ootobai,motorcycle,N4,n,1032030,,オートバイに乗るのは楽しい。,It's fun to ride a motorcycle.,摩托车,,draft,,,[]
-e5e5899ce2,おかげ,おかげ,okage,owing to,N4,n,1001640,お陰; お蔭,私が今日あるのは両親のおかげである。,I owe what I am to my parents.,多亏; 托……的福,,draft,,,[]
-4d2128cddd,おかしい,おかしい,okashii,strange or funny,N4,adj-i,1190860,可笑しい,君のジョークは何度聞いてもおかしい。,Your joke is funny no matter how many times I hear it.,奇怪的; 可笑的,,draft,,,[]
-a58874b751,お金持ち,おかねもち,okanemochi,rich man,N4,n,2429350,,どうしたらお金持ちになれるのかしら？,How can I become rich?,有钱人,,draft,,,[]
-4cfa8f43e2,億,おく,oku,one hundred million,N4,num,1182620,,１０億人の人たちが英語を話しています。,One billion people speak English.,亿,,draft,,,[]
-1065d7145c,屋上,おくじょう,okujou,rooftop,N4,n,1182710,,デパートの屋上にアドバルーンが上がっている。,There is an advertising balloon flying above the department store.,屋顶平台,,draft,,,[]
-ba001e2f36,贈り物,おくりもの,okurimono,gift,N4,n,1589030,,ジェニーは贈り物をありがとうと言った。,Jenny thanked me for the gift.,礼物,,draft,,,[]
-af1dae5588,送る,おくる,okuru,to send,N4,v5r; vt,1402730,,この手紙を日本に送ってくれませんか。,Could you send this letter to Japan?,送; 寄送,,draft,,,[]
-ae8ce3986c,遅れる,おくれる,okureru,to be late,N4,v1; vi,1589040,,電車はほとんど一時間遅れだった。,The train was almost an hour behind time.,迟到; 延误,,draft,,,[]
-99de4451f7,起す,おこす,okosu,to wake,N4,v5s; vt,1223660,起こす,病気の子供はベッドの上で体を起こした。,The sick child sat up in bed.,叫醒（通常写作起こす）,,draft,,,[]
-2139fab218,行う,おこなう,okonau,to do,N4,v5u; vt,1589060,,いう事と行う事はまったく別だ。,"To say is one thing, and to do quite another.",进行; 举行,,draft,,,[]
-2e0f32c097,怒る,おこる,okoru,to get angry; to be angry,N4,v5r; vi,1445690,,それをそのままにしておきなさい。そうしないと怒られますよ。,"Leave it as it is, or you will be scolded.",生气; 发怒,,draft,,,[]
-3787755f33,押し入れ,おしいれ,oshiire,closet,N4,n,1589110,,強盗はその子供を押し入れに閉じ込めた。,The burglar shut the child in the closet.,壁橱,,draft,,,[]
-1f5a7d8e07,お嬢さん,おじょうさん,ojousan,young lady,N4,n,1002170,,お嬢さんは試験に合格なさったそうですね。,"Your daughter passed the examination, I hear.",小姐; 令爱,,draft,,,[]
-6693b4e9f7,お宅,おたく,otaku,(polite) your house,N4,n,1002400,,近いうちにお宅にうかがいます。,We'll visit you one of these days.,您家; 贵府,,draft,,,[]
-981ee66f59,落ちる,おちる,ochiru,to fall or drop,N4,v1; vi,1548550,,勉強しないと試験に落ちるよ。,"If you don't study, you will fail the exam.",落下; 掉落（自动词）,,draft,,,[]
-050024e2d9,おっしゃる,おっしゃる,ossharu,(respectful) to say,N4,v5aru; vt,1238840,仰る,全くおっしゃる通りです。,You are absolutely right.,说（言う的尊敬语）,,draft,,,[]
-b8630e0875,夫,おっと,otto,husband,N4,n,1496480,,妻は夫より長生きするものだ。,Wives usually outlive husbands.,丈夫,,draft,,,[]
-f2c38f9517,おつり,おつり,otsuri,change from purchase; balance,N4,n,1270550,,１ドルでおつりがありますか。,Have you got change for a dollar?,找零,,draft,,,[]
-c6815e7618,音,おと,oto,sound; note,N4,n,1576900,,ここから海の音が聞こえる。,We can hear the ocean from here.,声音,,draft,,,[]
-f786333cf9,落す,おとす,otosu,to drop,N4,v5s; vt,1589260,落とす,リストから私の名を落とさないで下さい。,Don't take my name off your list.,使掉落; 弄丢（通常写作落とす）,,draft,,,[]
-8c636a46f4,踊り,おどり,odori,a dance,N4,n,1546880,,私のガールフレンドは踊りがうまい。,My girlfriend is a good dancer.,舞蹈,,draft,,,[]
-3280103eb8,踊る,おどる,odoru,to dance,N4,v5r; vi,1538440,,なぜ彼と踊らなかったの？,Why didn't you dance with him?,跳舞,,draft,,,[]
-6d69734463,驚く,おどろく,odoroku,to be surprised,N4,v5k; vi,1238680,,母はそのニュースを聞いて驚いた。,Mother was surprised at the news.,吃惊,,draft,,,[]
-68ff489ea4,お祭り,おまつり,omatsuri,festival,N4,n,1604135,,お祭りでロブスターを食べました。,I ate lobster at the festival.,节日; 祭典,,draft,,,[]
-eb615955c8,お見舞い,おみまい,omimai,calling on someone who is ill; enquiry,N4,n,1001870,,彼女のお見舞いに行こうよ。,Why don't we go and see her in the hospital?,探病; 慰问,,draft,,,[]
+4fff6d0441,あ,あ,a,Ah,N4,int,2394370,,あ！まずい！ガソリンが切れてきた。,"Oh, no! We're running out of gas.",啊（感叹、注意到某事）,,reviewed,,,"[{""ja"":""あ！まずい！ガソリンが切れてきた。"",""zh"":""啊！糟了！汽油快用完了。""},{""ja"":""あ、上書きしちゃった。"",""zh"":""啊，不小心覆盖保存了。""}]"
+6a4011f27f,ああ,ああ,aa,like that,N4,adv,2085080,,ある人はこうだと言い、またある人はああだと言う。,"One man says this, another that.",那样,,reviewed,,,"[{""ja"":""ある人はこうだと言い、またある人はああだと言う。"",""zh"":""有人说是这样，也有人说是那样。""},{""ja"":""ああ、ああいうふうにやるんだな。"",""zh"":""啊，原来是那样做啊。""}]"
+c3c3ac9f48,あいさつする,あいさつする,aisatsusuru,to greet,N4,n; vs; vi,1151120,,私にあいさつするような人はいない。,There is no one to greet me.,打招呼; 问候,,reviewed,,,"[{""ja"":""私にあいさつするような人はいない。"",""zh"":""没有人会来跟我打招呼。""},{""ja"":""お別れのあいさつに来ました。"",""zh"":""我是来向您告别的。""}]"
+d1a343e501,間,あいだ,aida,space between; interval; among,N4,n,1215230,,二人の間がしっくり行かない。,They don't get along together.,间隔; ……之间; ……之中,,reviewed,,,"[{""ja"":""二人の間がしっくり行かない。"",""zh"":""两个人的关系不太融洽。""},{""ja"":""テニスは学生の間で大変人気がある。"",""zh"":""网球在学生中很受欢迎。""}]"
+54e1f7a772,合う,あう,au,to match,N4,v5u; vi,1284430,,このチョッキは前が合わない。,This waistcoat won't meet at the front.,合适; 相配,,reviewed,,,"[{""ja"":""このチョッキは前が合わない。"",""zh"":""这件马甲前面合不上。""},{""ja"":""この白いコートはあなたによく合うでしょう。"",""zh"":""这件白色外套应该很适合你。""}]"
+2a6a55be8d,あかちゃん,あかちゃん,akachan,infant,N4,n,1383260,赤ちゃん,その赤ちゃんは歯が生えはじめている。,The baby is cutting his teeth.,婴儿,,reviewed,,,"[{""ja"":""その赤ちゃんは歯が生えはじめている。"",""zh"":""那个宝宝开始长牙了。""},{""ja"":""この赤ちゃんは男ですか女ですか。"",""zh"":""这个宝宝是男孩还是女孩？""}]"
+4a3152836b,上がる,あがる,agaru,to rise,N4,v5r; vi,1352290,,気温が上がりました。,The temperature rose.,上升; 升高,,reviewed,,,"[{""ja"":""気温が上がりました。"",""zh"":""气温升高了。""},{""ja"":""階段を上がってください。"",""zh"":""请走上楼梯。""}]"
+e877021bf4,赤ん坊,あかんぼう,akanbou,baby,N4,n,1383310,あかんぼう,うちの赤ん坊は口をきくようになってきました。,Our baby is learning to speak.,婴儿,,reviewed,,,"[{""ja"":""うちの赤ん坊は口をきくようになってきました。"",""zh"":""我们家的宝宝已经开始会说话了。""},{""ja"":""赤ん坊はまだ歩くことができない。"",""zh"":""宝宝还不会走路。""}]"
+91f0d5ac9e,空く,あく,aku,to become vacant; to become available,N4,v5k; vi,1586270,,放課後は空いてますか？,Are you free after school?,空出; 有空,,reviewed,,,"[{""ja"":""放課後は空いてますか？"",""zh"":""你放学后有空吗？""},{""ja"":""いつも何曜日なら空いていますか？"",""zh"":""你通常星期几有空？""}]"
+628b6b8e9d,アクセサリー,アクセサリー,akusesarii,accessory,N4,n,1015220,,この服にはどんなアクセサリーを付けるの？,What sort of jewelry are you going to wear with this dress?,饰品; 配饰,,reviewed,,,"[{""ja"":""この服にはどんなアクセサリーを付けるの？"",""zh"":""这身衣服配什么饰品？""},{""ja"":""彼女は服にアクセサリーを付けている。"",""zh"":""她在衣服上配了饰品。""}]"
+f935952fed,浅い,あさい,asai,shallow; superficial,N4,adj-i,1390800,,この川はあそこで浅くなっている。,This river becomes shallow at that point.,浅的; 肤浅的,,reviewed,,,"[{""ja"":""この川はあそこで浅くなっている。"",""zh"":""这条河到那边就变浅了。""},{""ja"":""この学校のカリキュラムは広く浅い。"",""zh"":""这所学校的课程涉及面广，但内容较浅。""}]"
+590fa58ca9,味,あじ,aji,flavour,N4,n,1526960,,このチーズはピリッとした味がする。,This cheese has a sharp taste.,味道,,reviewed,,,"[{""ja"":""このチーズはピリッとした味がする。"",""zh"":""这块奶酪有股辛辣味。""},{""ja"":""その魚はさけのような味だった。"",""zh"":""那种鱼尝起来像鲑鱼。""}]"
+97bdb63259,アジア,アジア,ajia,Asia,N4,n,1015840,,ヨーロッパはアジアより人口が少ない。,Europe has a smaller population than Asia.,亚洲,,reviewed,,,"[{""ja"":""ヨーロッパはアジアより人口が少ない。"",""zh"":""欧洲的人口比亚洲少。""},{""ja"":""アジアはオーストラリアよりはるかに大きい。"",""zh"":""亚洲比澳大利亚大得多。""}]"
+4c3461199c,明日,あす,asu,tomorrow,N4,n; adv,1584660,,明日は会議があります。,There is a meeting tomorrow.,明天（あす）,,reviewed,,あす与あした均指明天；あす较常用于正式表达，本条采用あす的读音。,"[{""ja"":""明日は会議があります。"",""zh"":""明天有会议。""},{""ja"":""明日、お電話します。"",""zh"":""我明天给您打电话。""}]"
+7fe5e36942,遊び,あそび,asobi,play,N4,n,1542070,,今度の旅行は仕事じゃなくて遊びです。,"Our next trip is for pleasure, not for work.",玩耍; 游戏,,reviewed,,,"[{""ja"":""今度の旅行は仕事じゃなくて遊びです。"",""zh"":""这次旅行是去玩的，不是出差。""},{""ja"":""人生は楽しみや遊びばかりでない。"",""zh"":""人生不光是享乐和玩耍。""}]"
+8c98c01eff,集まる,あつまる,atsumaru,to gather,N4,v5r; vi,1333550,,通りに人がたくさん集まっている。,There is a crowd of people on the street.,聚集（自动词）,,reviewed,,,"[{""ja"":""通りに人がたくさん集まっている。"",""zh"":""街上聚集了很多人。""},{""ja"":""たくさんの学生がそこに集まった。"",""zh"":""很多学生聚集到了那里。""}]"
+b00801af22,集める,あつめる,atsumeru,to collect something,N4,v1; vt,1333560,,毎週月曜日にゴミを集めにきます。,They collect our garbage every Monday.,收集; 召集（他动词）,,reviewed,,,"[{""ja"":""毎週月曜日にゴミを集めにきます。"",""zh"":""每周一有人来收垃圾。""},{""ja"":""ケンは古いコインを集めている。"",""zh"":""肯在收集旧硬币。""}]"
+c1fb180c70,アナウンサー,アナウンサー,anaunsaa,announcer,N4,n,1017330,,アナウンサーは早口が出来る。,The announcer can talk rapidly.,播音员,,reviewed,,,"[{""ja"":""アナウンサーは早口が出来る。"",""zh"":""播音员能说得很快。""},{""ja"":""あの子のお母さんはアナウンサーです。"",""zh"":""那个孩子的妈妈是播音员。""}]"
+0fa879c73d,アフリカ,アフリカ,afurika,Africa,N4,n,1929050,,アフリカにはたくさんの自然がある。,Africa has a lot of nature.,非洲,,reviewed,,,"[{""ja"":""アフリカにはたくさんの自然がある。"",""zh"":""非洲有很多自然景观。""},{""ja"":""これらの鳥は冬には北アフリカに渡る。"",""zh"":""这些鸟冬天会迁徙到北非。""}]"
+b921645383,アメリカ,アメリカ,amerika,America,N4,n,1149830,,私は去年の秋にアメリカにいった。,I went to America last fall.,美国,,reviewed,,,"[{""ja"":""私は去年の秋にアメリカにいった。"",""zh"":""我去年秋天去了美国。""},{""ja"":""私はアメリカにいったことがない。"",""zh"":""我从来没去过美国。""}]"
+1056f23586,謝る,あやまる,ayamaru,to apologize,N4,v5r; vt; vi,1323010,,私は彼女に謝らなければならない。,I must make an apology to her.,道歉,,reviewed,,,"[{""ja"":""私は彼女に謝らなければならない。"",""zh"":""我必须向她道歉。""},{""ja"":""たとえ悪くなくても、謝るべきだ。"",""zh"":""即使没有错，也应该道歉。""}]"
+ab0767b2f7,アルコール,アルコール,arukooru,alcohol,N4,n,1019280,,このビールはアルコール分が５％だ。,This beer contains 5% alcohol.,酒精,,reviewed,,,"[{""ja"":""このビールはアルコール分が５％だ。"",""zh"":""这种啤酒的酒精含量为百分之五。""},{""ja"":""アルコールの入ってない飲み物はありますか。"",""zh"":""有不含酒精的饮料吗？""}]"
+88d4196563,アルバイト,アルバイト,arubaito,part-time job,N4,n; vs; vi,1019420,,コンビニでアルバイトをしています。,I work part-time at a convenience store.,兼职; 打工,,reviewed,,,"[{""ja"":""コンビニでアルバイトをしています。"",""zh"":""我在便利店打工。""},{""ja"":""週末はアルバイトがあります。"",""zh"":""我周末要去打工。""}]"
+d06643e4e1,安心,あんしん,anshin,relief,N4,n; adj-na; vs; vi,1153890,,あいつに仕事を任せておけば安心だ。,You can trust him with any job.,安心; 放心,,reviewed,,,"[{""ja"":""あいつに仕事を任せておけば安心だ。"",""zh"":""把工作交给他就可以放心了。""},{""ja"":""私はそのことについては安心している。"",""zh"":""关于那件事，我很放心。""}]"
+160a8399af,安全,あんぜん,anzen,safety,N4,n; adj-na,1153930,,私たちは思っているほど安全ではない。,We are not all that safe.,安全,,reviewed,,,"[{""ja"":""私たちは思っているほど安全ではない。"",""zh"":""我们的处境没有想象中那么安全。""},{""ja"":""この川で泳ぐのは、安全ですか。"",""zh"":""在这条河里游泳安全吗？""}]"
+367da027cb,あんな,あんな,anna,such,N4,adj-pn,1000590,,あんないい男そうそういないぞ！！,There aren't many blokes that nice!,那样的（后接名词）,,reviewed,,,"[{""ja"":""あんないい男そうそういないぞ！！"",""zh"":""那么好的男人可不常见！""},{""ja"":""あんなカッコいい男、そうはいない。"",""zh"":""那么帅的男人可不常见。""}]"
+52a79a5d69,案内,あんない,annai,to guide,N4,n; vs; vt,1154860,,私をあちこちに案内してください。,Please show me around.,引导; 介绍,,reviewed,,,"[{""ja"":""私をあちこちに案内してください。"",""zh"":""请带我到各处看看。""},{""ja"":""このあたりを案内いたしましょう。"",""zh"":""我带您看看这附近吧。""}]"
+629362dbfc,以下,いか,ika,not more than; the following,N4,n-suf,1155060,,それは千円以下では買えません。,"You cannot buy it for 1,000 yen or less.",以下（包括该数值）; 以下所列,,reviewed,,数字后的以下包括端点；不足或未満才排除端点。另可指下文所列内容。,"[{""ja"":""それは千円以下では買えません。"",""zh"":""一千日元或更少的钱买不到那个。""},{""ja"":""以下の通り注文いたします。"",""zh"":""我按下列内容订购。""}]"
+da4198f39c,以外,いがい,igai,with the exception of,N4,n-suf,1155090,,その仕事以外ならなんでもやる。,I'll do anything but that job.,以外; 除……之外,,reviewed,,,"[{""ja"":""その仕事以外ならなんでもやる。"",""zh"":""除了那份工作，其他什么我都做。""},{""ja"":""青空以外には何も見られなかった。"",""zh"":""除了蓝天，什么也看不见。""}]"
+20044dd689,医学,いがく,igaku,medical science,N4,n,1159810,,二人の医者が医学の話をしていた。,Two doctors were talking shop.,医学,,reviewed,,,"[{""ja"":""二人の医者が医学の話をしていた。"",""zh"":""两位医生正在谈论医学。""},{""ja"":""私はアメリカで医学を学ぶつもりだったんですが。"",""zh"":""我本来打算去美国学医的。""}]"
+db01fd59d7,生きる,いきる,ikiru,to live,N4,v1; vi,1378520,,生きるものはすべていつかは死ぬ。,All living things die some day.,活着; 生存,,reviewed,,,"[{""ja"":""生きるものはすべていつかは死ぬ。"",""zh"":""一切活着的东西总有一天都会死。""},{""ja"":""人間は食物なしでは生きられない。"",""zh"":""人没有食物就无法生存。""}]"
+ba5a03baf1,意見,いけん,iken,opinion,N4,n,1156530,,ここではどんどん意見をおっしゃってかまいません。,You can speak out freely here.,意见; 看法,,reviewed,,,"[{""ja"":""ここではどんどん意見をおっしゃってかまいません。"",""zh"":""在这里您可以畅所欲言。""},{""ja"":""私はそれがよい意見だと思います。"",""zh"":""我觉得那是个好意见。""}]"
+372ce69caf,石,いし,ishi,stone,N4,n,1382440,,私にはこの石は持ち上がらない。,I cannot lift this stone.,石头,,reviewed,,,"[{""ja"":""私にはこの石は持ち上がらない。"",""zh"":""我搬不动这块石头。""},{""ja"":""私にはこの石を持ち上げる力がない。"",""zh"":""我没有力气举起这块石头。""}]"
+770aa71095,いじめる,いじめる,ijimeru,to tease,N4,v1; vt,1195140,苛める,彼はよく友人をいじめたものだ。,He used to bully his friends.,欺负,,reviewed,,,"[{""ja"":""彼はよく友人をいじめたものだ。"",""zh"":""他以前经常欺负朋友。""},{""ja"":""私は彼をいじめたことを後悔した。"",""zh"":""我后悔欺负了他。""}]"
+13ab63d79a,以上,いじょう,ijou,not less than; beyond; that is all,N4,n-suf,1155120,,以上ですか？,Is that all?,以上（包括该数值）; 超过（某种程度）; 完毕,,reviewed,,数字后的以上包括端点；必要以上则表示超出必要程度。发言结束时的以上です表示“完毕”。,"[{""ja"":""以上ですか？"",""zh"":""就这些了吗？""},{""ja"":""必要以上にお金を使わないようにしなさい。"",""zh"":""注意不要花超过必要限度的钱。""}]"
+05b5de61ab,急ぐ,いそぐ,isogu,to hurry,N4,v5g; vi; vt,1228650,,ニックはバスに間に合うように急いだ。,Nick hurried to catch the bus.,赶快; 赶时间,,reviewed,,,"[{""ja"":""ニックはバスに間に合うように急いだ。"",""zh"":""尼克赶着去坐公交车。""},{""ja"":""水を少しもってきてくれ——急いで。"",""zh"":""拿点水来——快点。""}]"
+6dbf756da1,致す,いたす,itasu,(humble) to do,N4,v5s; vt,1421900,,お取り寄せいたしましょうか。,Would you like me to order it?,做（する的自谦语）,,reviewed,,,"[{""ja"":""お取り寄せいたしましょうか。"",""zh"":""要为您订购调货吗？""},{""ja"":""別紙の注文書の通り注文いたします。"",""zh"":""我按照另附的订货单订购。""}]"
+47cc7185d5,いただく,いただく,itadaku,to receive (humble); to eat or drink (humble),N4,v5k; vt,1587290,頂く,先生から本をいただきました。,I received a book from my teacher.,领受; 吃喝（自谦表达）,,reviewed,,,"[{""ja"":""先生から本をいただきました。"",""zh"":""我收到了老师给的书。""},{""ja"":""お茶をいただきます。"",""zh"":""我喝点茶。""}]"
+bf82bb12d2,一度,いちど,ichido,once,N4,n; adv,1576250,,人間はこの世に一度しか生きない。,One lives but once in the world.,一次,,reviewed,,,"[{""ja"":""人間はこの世に一度しか生きない。"",""zh"":""人在世上只能活一次。""},{""ja"":""週に一度でいいから運動しなさい。"",""zh"":""哪怕每周只有一次，也要运动。""}]"
+cf69ef2274,一生懸命,いっしょうけんめい,isshoukenmei,with utmost effort,N4,adv; adj-na; n,1164010,,もっと一生懸命勉強すべきだったのに。,You should have worked harder.,拼命; 全力以赴,,reviewed,,,"[{""ja"":""もっと一生懸命勉強すべきだったのに。"",""zh"":""你本来应该更努力学习的。""},{""ja"":""今後はもっと一生懸命勉強しなさい。"",""zh"":""今后要更加努力学习。""}]"
+95f7288e1b,いっぱい,いっぱい,ippai,full,N4,adj-na; adj-no; n-suf,1165670,,このボトルに水をいっぱい入れてください。,Please fill this bottle with water.,满; 很多; 整整（某段时间）,,reviewed,,一日いっぱい表示一整天；是否表示满、很多或整个期间取决于搭配。,"[{""ja"":""このボトルに水をいっぱい入れてください。"",""zh"":""请把这个瓶子装满水。""},{""ja"":""たとえ一日いっぱい掛かってもそのタイプを仕上げます。"",""zh"":""即使要花上一整天，我也会把打字工作完成。""}]"
+3de1fe452d,糸,いと,ito,thread,N4,n; n-suf,1311450,,長い糸はからまりやすい。,A long thread is easily entangled.,线,,reviewed,,,"[{""ja"":""長い糸はからまりやすい。"",""zh"":""长线容易缠在一起。""},{""ja"":""この糸はすぐもつれる。"",""zh"":""这种线很容易缠结。""}]"
+556e3e0d99,以内,いない,inai,within,N4,n; n-suf; adv,1155180,,１週間以内に電話します。,I'll call you within a week.,以内（包含界限）,,reviewed,,,"[{""ja"":""１週間以内に電話します。"",""zh"":""我会在一周内打电话。""},{""ja"":""一週間以内にその仕事を終えるでしょう。"",""zh"":""应该能在一周内完成那项工作。""}]"
+11d4a3118b,田舎,いなか,inaka,countryside,N4,n,1442750,,去年の夏、父の田舎に行きました。,I visited my father's hometown last summer.,乡下; 故乡,,reviewed,,,"[{""ja"":""去年の夏、父の田舎に行きました。"",""zh"":""去年夏天，我去了父亲的乡下老家。""},{""ja"":""私はむしろ田舎に一人で住みたい。"",""zh"":""我宁愿独自住在乡下。""}]"
+877a39a99f,祈る,いのる,inoru,to pray,N4,v5r; vt,1222770,,早くよくなられるように祈っています。,I hope you'll get well soon.,祈祷; 祝愿,,reviewed,,,"[{""ja"":""早くよくなられるように祈っています。"",""zh"":""祝您早日康复。""},{""ja"":""雨が正午前にはやむよう祈っていたのですが。"",""zh"":""我原本盼着雨能在中午前停下来。""}]"
+bc25dff617,いらっしゃる,いらっしゃる,irassharu,(respectful) to be; to come or to go,N4,v5aru; vi,1000940,,先生は教室にいらっしゃいます。,The teacher is in the classroom.,在; 来; 去（尊敬语）,,reviewed,,,"[{""ja"":""先生は教室にいらっしゃいます。"",""zh"":""老师在教室里。""},{""ja"":""明日、何時にいらっしゃいますか。"",""zh"":""您明天几点来？""}]"
+833af5347e,植える,うえる,ueru,to plant; to grow,N4,v1; vt,1357250,,私は庭にバラを植えた。,I planted roses in the garden.,种植,,reviewed,,,"[{""ja"":""私は庭にバラを植えた。"",""zh"":""我在院子里种了玫瑰。""},{""ja"":""ここにたくさん植えよう。"",""zh"":""我们在这里多种一些吧。""}]"
+bf69a1d9f2,うかがう,うかがう,ukagau,to visit (humble); to ask (humble); to hear (humble),N4,v5u; vt,1305700,伺う,体重をおうかがいしてもよろしいですか。,May I ask you what your weight is?,拜访（自谦）; 请教、询问（自谦）; 听闻（自谦）,,reviewed,,うかがう是自谦表达；根据上下文可指拜访、询问或听闻。,"[{""ja"":""体重をおうかがいしてもよろしいですか。"",""zh"":""可以请问您的体重吗？""},{""ja"":""病気のため本日はうかがうことができませんでした。"",""zh"":""因为生病，今天没能去拜访您。""}]"
+4bdd43130b,受付,うけつけ,uketsuke,reception (desk); receptionist,N4,n,1588060,,受付で入院の手続きをしてください。,You have to fill out an application for admission to the hospital at the front desk.,接待处; 接待人员,本卡选择接待处或接待人员的义项。受理、接收也是相关用法，但现有两个例句指办理入院手续的窗口。,reviewed,,,"[{""ja"":""受付で入院の手続きをしてください。"",""zh"":""请到接待处办理住院手续。""},{""ja"":""入院の受付窓口はどこですか。"",""zh"":""办理住院手续的窗口在哪里？""}]"
+20989c0cb5,受ける,うける,ukeru,to take a lesson or test,N4,v1; vt,1329590,,病気なので試験が受けられません。,I can't sit for the examination because I am ill.,接受; 参加（考试、课程等）,,reviewed,,,"[{""ja"":""病気なので試験が受けられません。"",""zh"":""因为生病，我没法参加考试。""},{""ja"":""入学試験を受けるつもりですか。"",""zh"":""你打算参加入学考试吗？""}]"
+e54d4fef93,動く,うごく,ugoku,to move,N4,v5k; vi,1451210,,まだ動くうちに売ってしまわなきゃ。,I should sell it while it still runs.,动; 移动; 运转,,reviewed,,,"[{""ja"":""まだ動くうちに売ってしまわなきゃ。"",""zh"":""得趁它还能运转赶紧卖掉。""},{""ja"":""私は家の中で何かが動くのを感じた。"",""zh"":""我感觉屋里有什么东西在动。""}]"
+da1a2f9721,うそ,うそ,uso,a lie,N4,n; adj-no,1172400,嘘,えっ嘘でしょ。,"Oh my God, I can't believe this.",谎言,,reviewed,,,"[{""ja"":""えっ嘘でしょ。"",""zh"":""啊，不会吧！""},{""ja"":""彼はとりわけうそがきらいである。"",""zh"":""他尤其讨厌谎言。""}]"
+76d4bcd098,うち,うち,uchi,within,N4,n; adv,1457730,内,今日のうちに宿題を終わらせます。,I will finish my homework before today is over.,之内; 期间,,reviewed,,,"[{""ja"":""今日のうちに宿題を終わらせます。"",""zh"":""我会在今天之内完成作业。""},{""ja"":""若いうちにいろいろな国を訪ねたいです。"",""zh"":""我想趁年轻去各个国家看看。""}]"
+e6f3a7d91a,打つ,うつ,utsu,to hit,N4,v5t; vt,1408810,,８時をちょうど打ちましたね。,"It has just struck eight, hasn't it?",打; 敲响; 玩（如老虎机）,,reviewed,,時計が八時を打つ表示钟敲八点；スロットを打つ表示玩老虎机。,"[{""ja"":""８時をちょうど打ちましたね。"",""zh"":""刚才正好敲了八点吧。""},{""ja"":""スロットを打っているうちに、あれよあれよと今の時間です。"",""zh"":""玩着老虎机，不知不觉就到了这个时间。""}]"
+0dd54894db,美しい,うつくしい,utsukushii,beautiful,N4,adj-i,1486360,,私たちは美しい入り日に見とれた。,We admired the beautiful sunset.,美丽的,,reviewed,,,"[{""ja"":""私たちは美しい入り日に見とれた。"",""zh"":""我们看美丽的落日看得入了迷。""},{""ja"":""バイオリンの音色はとても美しい。"",""zh"":""小提琴的音色非常优美。""}]"
+69589e0288,写す,うつす,utsusu,to copy or photograph,N4,v5s; vt,1588320,,その写真は空から写されたものである。,The picture was taken from the air.,抄写; 拍摄,,reviewed,,,"[{""ja"":""その写真は空から写されたものである。"",""zh"":""那张照片是从空中拍摄的。""},{""ja"":""このページをノートに写しておきなさい。"",""zh"":""把这一页抄到笔记本上。""}]"
+c7362b5e02,移る,うつる,utsuru,to move house or transfer,N4,v5r; vi,1158210,,もっとお金があれば大きな家に移れるのにな。,"If I had more money, I could move to a bigger house.",转移; 搬迁,,reviewed,,,"[{""ja"":""もっとお金があれば大きな家に移れるのにな。"",""zh"":""要是有更多钱，就能搬到大房子里了。""},{""ja"":""今、席を移ってもかまいませんか。"",""zh"":""现在可以换个座位吗？""}]"
+78d94c404b,腕,うで,ude,arm,N4,n,1562850,,けがをした腕を見せて下さい。,Please show me your injured arm.,胳膊; 手臂,,reviewed,,,"[{""ja"":""けがをした腕を見せて下さい。"",""zh"":""请让我看看你受伤的胳膊。""},{""ja"":""その少女は父親の腕にしがみついていた。"",""zh"":""那个女孩紧紧抱着父亲的胳膊。""}]"
+6d3b3fe0a4,うまい,うまい,umai,skillful; delicious; good (e.g. an offer),N4,adj-i,1310460,甘い,それはあまりにもうますぎる話だ。,That's too good a story to be true.,擅长的; 好吃的; 美妙的（如机会、计划）,,reviewed,,技能、食物或机会均可用うまい评价；うまい話常指听起来很诱人的事，需结合上下文判断。,"[{""ja"":""それはあまりにもうますぎる話だ。"",""zh"":""这事听起来好得让人难以置信。""},{""ja"":""彼女はテニスは上手いが、水泳は下手だ。"",""zh"":""她擅长打网球，但不擅长游泳。""}]"
+1b5a6286d6,裏,うら,ura,reverse side,N4,n,1550190,,靴の裏にガムがこびりついちゃった。,There's gum stuck to the bottom of my shoe.,背面; 反面,,reviewed,,,"[{""ja"":""靴の裏にガムがこびりついちゃった。"",""zh"":""口香糖粘在鞋底上了。""},{""ja"":""紙の裏に名前を書いてください。"",""zh"":""请把名字写在纸的背面。""}]"
+11222e25b5,売り場,うりば,uriba,place where things are sold,N4,n,1588550,,スナック売り場は、どこですか。,Where can I buy snacks?,售货处; 柜台,,reviewed,,,"[{""ja"":""スナック売り場は、どこですか。"",""zh"":""卖零食的地方在哪里？""},{""ja"":""ビタミン剤売り場はどこですか。"",""zh"":""维生素制剂在哪个柜台卖？""}]"
+c67a9658b1,うれしい,うれしい,ureshii,glad,N4,adj-i,1219510,嬉しい,あなたに再会できてうれしい。,I am pleased to see you again.,高兴的,,reviewed,,,"[{""ja"":""あなたに再会できてうれしい。"",""zh"":""很高兴再次见到你。""},{""ja"":""私はその知らせを聞いてうれしい。"",""zh"":""听到这个消息，我很高兴。""}]"
+533b248802,うん,うん,un,(informal) yes,N4,int,1001090,,うん、休みが終わるまででいいの。,"Oh, just over the holidays.",嗯; 是（随意表达）,,reviewed,,,"[{""ja"":""うん、休みが終わるまででいいの。"",""zh"":""嗯，到假期结束就行。""},{""ja"":""うん、私はたぶん家にいるわ。"",""zh"":""嗯，我大概会在家。""}]"
+44f33984fb,運転,うんてん,unten,to drive,N4,n; vs; vt; vi,1172830,,キャロルはレンタカーを運転しています。,Carol is driving a rent-a-car.,驾驶; 运转,,reviewed,,,"[{""ja"":""キャロルはレンタカーを運転しています。"",""zh"":""卡罗尔开着租来的车。""},{""ja"":""父は自動車の運転がとても上手い。"",""zh"":""父亲很擅长开车。""}]"
+9f6e25d5e2,運転手,うんてんしゅ,untenshu,driver,N4,n,1172870,,運転手は車のスピードを上げた。,The driver accelerated his car.,司机,,reviewed,,,"[{""ja"":""運転手は車のスピードを上げた。"",""zh"":""司机加快了车速。""},{""ja"":""運転手はハンドルを右にきった。"",""zh"":""司机把方向盘向右打。""}]"
+47487b1e85,運動,うんどう,undou,to exercise,N4,n; vs; vi,1172910,,週に一度でいいから運動しなさい。,Try to exercise at least once a week.,运动,,reviewed,,,"[{""ja"":""週に一度でいいから運動しなさい。"",""zh"":""哪怕每周只有一次，也要运动。""},{""ja"":""その運動をして若返った。"",""zh"":""做了那项运动后，感觉年轻了。""}]"
+3139c14254,エスカレーター,エスカレーター,esukareetaa,escalator,N4,n,1028580,,上りのエスカレーターはどこですか？,Where's the up-escalator?,自动扶梯,,reviewed,,,"[{""ja"":""上りのエスカレーターはどこですか？"",""zh"":""上行的自动扶梯在哪里？""},{""ja"":""エスカレーターで二階へ行きます。"",""zh"":""我乘自动扶梯去二楼。""}]"
+bb01cb559f,枝,えだ,eda,branch; twig,N4,n,1310530,,たくさんの鳥が枝にとまっている。,Many birds are on the branch.,树枝,,reviewed,,,"[{""ja"":""たくさんの鳥が枝にとまっている。"",""zh"":""许多鸟停在树枝上。""},{""ja"":""枝はオレンジでたわんでいた。"",""zh"":""树枝被橙子的重量压弯了。""}]"
+60c9784974,選ぶ,えらぶ,erabu,to choose,N4,v5b; vt,1588730,,これとあれの中から選んで下さい。,Choose between this and that.,选择,,reviewed,,,"[{""ja"":""これとあれの中から選んで下さい。"",""zh"":""请从这个和那个当中选择。""},{""ja"":""この二つの中から一つ選びなさい。"",""zh"":""从这两个中选一个。""}]"
+5ceed9165d,遠慮,えんりょ,enryo,to be reserved; to be restrained,N4,n; vs; vt; vi,1178450,,ここでのおタバコはご遠慮願います。,Please refrain from smoking here.,客气; 顾虑; 克制,,reviewed,,,"[{""ja"":""ここでのおタバコはご遠慮願います。"",""zh"":""请勿在此吸烟。""},{""ja"":""タバコをご遠慮いただけますか。"",""zh"":""能请您不要吸烟吗？""}]"
+53c76e5c6e,おいでになる,おいでになる,oideninaru,(respectful) to be,N4,exp; v5r,1001180,お出でになる,いつ旅行においでになりますか。,When will you go on a journey?,在; 来; 去（尊敬表达）,,reviewed,,,"[{""ja"":""いつ旅行においでになりますか。"",""zh"":""您什么时候来旅行？""},{""ja"":""この雨の中をおいでにならないでください。"",""zh"":""下这么大的雨，请您不要过来了。""}]"
+12e7bd036b,お祝い,おいわい,oiwai,congratulation,N4,n,1612770,,心からお祝いを申し上げます。,I offer you my hearty congratulations.,祝贺; 贺礼,,reviewed,,,"[{""ja"":""心からお祝いを申し上げます。"",""zh"":""谨向您表示衷心的祝贺。""},{""ja"":""ケイトはまず誕生日のお祝いをすることはない。"",""zh"":""凯特几乎从来不庆祝生日。""}]"
+5c63f36f44,オートバイ,オートバイ,ootobai,motorcycle,N4,n,1032030,,オートバイに乗るのは楽しい。,It's fun to ride a motorcycle.,摩托车,,reviewed,,,"[{""ja"":""オートバイに乗るのは楽しい。"",""zh"":""骑摩托车很有趣。""},{""ja"":""オートバイが買えたらいいのになあ。"",""zh"":""要是能买辆摩托车就好了。""}]"
+e5e5899ce2,おかげ,おかげ,okage,owing to,N4,n,1001640,お陰; お蔭,私が今日あるのは両親のおかげである。,I owe what I am to my parents.,多亏; 托……的福,,reviewed,,,"[{""ja"":""私が今日あるのは両親のおかげである。"",""zh"":""我能有今天，全靠父母。""},{""ja"":""私がいるのは父のおかげです。"",""zh"":""我能来到这里，多亏了父亲。""}]"
+4d2128cddd,おかしい,おかしい,okashii,strange or funny,N4,adj-i,1190860,可笑しい,君のジョークは何度聞いてもおかしい。,Your joke is funny no matter how many times I hear it.,奇怪的; 可笑的,,reviewed,,,"[{""ja"":""君のジョークは何度聞いてもおかしい。"",""zh"":""你的笑话无论听多少次都好笑。""},{""ja"":""この車のエンジンはおかしい。"",""zh"":""这辆车的发动机有点不对劲。""}]"
+a58874b751,お金持ち,おかねもち,okanemochi,rich man,N4,n,2429350,,どうしたらお金持ちになれるのかしら？,How can I become rich?,有钱人,,reviewed,,,"[{""ja"":""どうしたらお金持ちになれるのかしら？"",""zh"":""怎样才能变得有钱呢？""},{""ja"":""叔母は非常なお金持ちだからといって、それだけ幸せというわけではない。"",""zh"":""姑妈虽然很有钱，却不见得就因此幸福。""}]"
+4cfa8f43e2,億,おく,oku,one hundred million,N4,num,1182620,,この建物は一億円で建てられました。,This building was built for one hundred million yen.,亿,,reviewed,,,"[{""ja"":""この建物は一億円で建てられました。"",""zh"":""这栋建筑花了一亿日元建成。""},{""ja"":""この町の予算は二億円です。"",""zh"":""这个镇的预算是两亿日元。""}]"
+1065d7145c,屋上,おくじょう,okujou,rooftop,N4,n,1182710,,デパートの屋上にアドバルーンが上がっている。,There is an advertising balloon flying above the department store.,屋顶平台,,reviewed,,,"[{""ja"":""デパートの屋上にアドバルーンが上がっている。"",""zh"":""百货商店的楼顶上升起了广告气球。""},{""ja"":""青空を見たくなったら、屋上に行きます。"",""zh"":""想看蓝天的时候，我就去屋顶。""}]"
+ba001e2f36,贈り物,おくりもの,okurimono,gift,N4,n,1589030,,ジェニーは贈り物をありがとうと言った。,Jenny thanked me for the gift.,礼物,,reviewed,,,"[{""ja"":""ジェニーは贈り物をありがとうと言った。"",""zh"":""珍妮对收到的礼物表示了感谢。""},{""ja"":""私はおじによい贈り物をもらった。"",""zh"":""我从叔叔那里收到了很好的礼物。""}]"
+af1dae5588,送る,おくる,okuru,to send,N4,v5r; vt,1402730,,この手紙を日本に送ってくれませんか。,Could you send this letter to Japan?,送; 寄送,,reviewed,,,"[{""ja"":""この手紙を日本に送ってくれませんか。"",""zh"":""能帮我把这封信寄到日本吗？""},{""ja"":""車で家まで送ってもらえませんか？"",""zh"":""能开车送我回家吗？""}]"
+ae8ce3986c,遅れる,おくれる,okureru,to be late,N4,v1; vi,1589040,,電車はほとんど一時間遅れだった。,The train was almost an hour behind time.,迟到; 延误,,reviewed,,,"[{""ja"":""電車はほとんど一時間遅れだった。"",""zh"":""列车晚点了将近一个小时。""},{""ja"":""月曜日にはバスはたいてい遅れる。"",""zh"":""星期一公交车通常会晚点。""}]"
+99de4451f7,起す,おこす,okosu,to wake someone; to raise (the body),N4,v5s; vt,1223660,起こす,病気の子供はベッドの上で体を起こした。,The sick child sat up in bed.,叫醒; 扶起、撑起（身体）,,reviewed,,起す也写作起こす；上体を起こす表示撑起上半身，不能一律译为叫醒。,"[{""ja"":""病気の子供はベッドの上で体を起こした。"",""zh"":""生病的孩子在床上撑起了身子。""},{""ja"":""明日の朝6時に起こしてください。"",""zh"":""请明天早上六点叫醒我。""}]"
+2139fab218,行う,おこなう,okonau,to do,N4,v5u; vt,1589060,,いう事と行う事はまったく別だ。,"To say is one thing, and to do quite another.",进行; 举行,,reviewed,,,"[{""ja"":""いう事と行う事はまったく別だ。"",""zh"":""说和做完全是两回事。""},{""ja"":""会議は明日行います。"",""zh"":""会议将在明天举行。""}]"
+2e0f32c097,怒る,おこる,okoru,to get angry; to be angry,N4,v5r; vi,1445690,,それをそのままにしておきなさい。そうしないと怒られますよ。,"Leave it as it is, or you will be scolded.",生气; 发怒,,reviewed,,,"[{""ja"":""それをそのままにしておきなさい。そうしないと怒られますよ。"",""zh"":""把它原样放着，否则你会挨骂的。""},{""ja"":""父は私のことを怒っているんです。"",""zh"":""父亲正在生我的气。""}]"
+3787755f33,押し入れ,おしいれ,oshiire,closet,N4,n,1589110,,強盗はその子供を押し入れに閉じ込めた。,The burglar shut the child in the closet.,壁橱,,reviewed,,,"[{""ja"":""強盗はその子供を押し入れに閉じ込めた。"",""zh"":""强盗把那个孩子关进了壁橱。""},{""ja"":""私は押入れに閉じ込められるのがこわかった。"",""zh"":""我很害怕被关进壁橱里。""}]"
+1f5a7d8e07,お嬢さん,おじょうさん,ojousan,young lady,N4,n,1002170,,お嬢さんは試験に合格なさったそうですね。,"Your daughter passed the examination, I hear.",小姐; 令爱,,reviewed,,,"[{""ja"":""お嬢さんは試験に合格なさったそうですね。"",""zh"":""听说您女儿通过考试了，是吗？""},{""ja"":""お嬢さんに会わせていただきたい。"",""zh"":""我想见见您的女儿。""}]"
+6693b4e9f7,お宅,おたく,otaku,your home (polite); your organization (polite),N4,n,1002400,,近いうちにお宅にうかがいます。,We'll visit you one of these days.,您家; 贵方（公司、店铺等）,,reviewed,,,"[{""ja"":""近いうちにお宅にうかがいます。"",""zh"":""近期我会到您家拜访。""},{""ja"":""お宅の店は何時まであいていますか。"",""zh"":""贵店营业到几点？""}]"
+981ee66f59,落ちる,おちる,ochiru,to fall or drop,N4,v1; vi,1548550,,リンゴが木から落ちました。,An apple fell from the tree.,落下; 掉落（自动词）,,reviewed,,,"[{""ja"":""リンゴが木から落ちました。"",""zh"":""苹果从树上掉下来了。""},{""ja"":""ポケットから財布が落ちた。"",""zh"":""钱包从口袋里掉出来了。""}]"
+050024e2d9,おっしゃる,おっしゃる,ossharu,(respectful) to say,N4,v5aru; vt,1238840,仰る,全くおっしゃる通りです。,You are absolutely right.,说（言う的尊敬语）,,reviewed,,,"[{""ja"":""全くおっしゃる通りです。"",""zh"":""您说得完全正确。""},{""ja"":""あなたがメールでおっしゃることは全て正当です。価格を除いては。"",""zh"":""除了价格以外，您邮件里说的都很合理。""}]"
+b8630e0875,夫,おっと,otto,husband,N4,n,1496480,,妻は夫より長生きするものだ。,Wives usually outlive husbands.,丈夫,,reviewed,,,"[{""ja"":""妻は夫より長生きするものだ。"",""zh"":""妻子往往比丈夫长寿。""},{""ja"":""夫はいつもベッドで本を読むんです。"",""zh"":""丈夫总是在床上看书。""}]"
+f2c38f9517,おつり,おつり,otsuri,change from purchase; balance,N4,n,1270550,,１ドルでおつりがありますか。,Have you got change for a dollar?,找零,,reviewed,,,"[{""ja"":""１ドルでおつりがありますか。"",""zh"":""付一美元能找零吗？""},{""ja"":""あの店でおつりをごまかされた。"",""zh"":""我在那家店被少找了零钱。""}]"
+c6815e7618,音,おと,oto,sound; note,N4,n,1576900,,ここから海の音が聞こえる。,We can hear the ocean from here.,声音,,reviewed,,,"[{""ja"":""ここから海の音が聞こえる。"",""zh"":""从这里能听到海的声音。""},{""ja"":""彼女はピアノで高い音を出した。"",""zh"":""她用钢琴弹出了一个高音。""}]"
+f786333cf9,落す,おとす,otosu,to drop,N4,v5s; vt,1589260,落とす,駅で財布を落としました。,I dropped my wallet at the station.,使掉落; 弄丢（通常写作落とす）,,reviewed,,,"[{""ja"":""駅で財布を落としました。"",""zh"":""我在车站掉了钱包。""},{""ja"":""そのコップを落すな。"",""zh"":""别把那个杯子掉在地上。""}]"
+8c636a46f4,踊り,おどり,odori,a dance,N4,n,1546880,,私のガールフレンドは踊りがうまい。,My girlfriend is a good dancer.,舞蹈,,reviewed,,,"[{""ja"":""私のガールフレンドは踊りがうまい。"",""zh"":""我的女朋友很会跳舞。""},{""ja"":""私は彼女は踊りが上手だと思います。"",""zh"":""我觉得她很会跳舞。""}]"
+3280103eb8,踊る,おどる,odoru,to dance,N4,v5r; vi,1538440,,なぜ彼と踊らなかったの？,Why didn't you dance with him?,跳舞,,reviewed,,,"[{""ja"":""なぜ彼と踊らなかったの？"",""zh"":""你为什么没和他跳舞？""},{""ja"":""パーティでは大いに歌い踊りました。"",""zh"":""在聚会上，我们尽情地唱歌跳舞了。""}]"
+6d69734463,驚く,おどろく,odoroku,to be surprised,N4,v5k; vi,1238680,,母はそのニュースを聞いて驚いた。,Mother was surprised at the news.,吃惊,,reviewed,,,"[{""ja"":""母はそのニュースを聞いて驚いた。"",""zh"":""母亲听到那个消息很吃惊。""},{""ja"":""その人はその知らせに驚きました。"",""zh"":""那个人听到消息后很惊讶。""}]"
+68ff489ea4,お祭り,おまつり,omatsuri,festival,N4,n,1604135,,お祭りでロブスターを食べました。,I ate lobster at the festival.,节日; 祭典,,reviewed,,,"[{""ja"":""お祭りでロブスターを食べました。"",""zh"":""我在庆典上吃了龙虾。""},{""ja"":""そのお祭りを見たいのですが。"",""zh"":""我想去看看那个庆典。""}]"
+eb615955c8,お見舞い,おみまい,omimai,calling on someone who is ill; enquiry,N4,n,1001870,,彼女のお見舞いに行こうよ。,Why don't we go and see her in the hospital?,探病; 慰问,,reviewed,,,"[{""ja"":""彼女のお見舞いに行こうよ。"",""zh"":""我们去探望她吧。""},{""ja"":""先日、私たちは彼のお兄さんをお見舞いにいった。"",""zh"":""前几天，我们去探望了他生病的哥哥。""}]"
 f586632207,お土産,おみやげ,omiyage,souvenir,N4,n,1002500,,これは北海道からのお土産です。,This is a souvenir from Hokkaido.,,,,,,[]
 3e4c1468c7,思い出す,おもいだす,omoidasu,to remember,N4,v5s; vt,1309260,,あなたを見るとお兄さんを思い出します。,You remind me of your brother.,,,,,,[]
 bad913ed8f,思う,おもう,omou,to think; to feel,N4,v5u; vt,1589350,,晴れだと思うよ。,I think it will be sunny.,,,,,,[]
@@ -343,8 +343,8 @@ da94019cdd,線,せん,sen,line,N4,n; n-suf,1391780,,この線の終点はどこ�
 ba20bc66d0,ぜんぜん,ぜんぜん,zenzen,not entirely (used in a negative sentence),N4,adv,1395620,全然,私はビールはぜんぜん飲みません。,I never touch beer.,,,,,,[]
 8c83cac81c,戦争,せんそう,sensou,war,N4,n; vs; vi,1390360,,戦争が起こらなければいいと思う。,I hope war doesn't break out.,,,,,,[]
 9b3ce398bd,先輩,せんぱい,senpai,senior,N4,n; suf,1388410,,彼は仕事の上では私の先輩だ。,He has more experience on the job than I.,,,,,,[]
-554ab81272,そう,そう,sou,in that way; so,N4,adv,2137720,,そう思います。,I think so.,那样; 如此,这里表示“那样、如此”，指前文所说的情况。不要与降りそうだ中表示“看起来要……”的辅助词混淆。,draft,,,"[{""ja"":""そう思います。"",""zh"":""我也这样认为。""},{""ja"":""私もそうです。"",""zh"":""我也是这样。""}]"
-aa663833e4,相談,そうだん,soudan,consultation; discussion,N4,n; vs; vt,1401210,,あなたに相談したいことがあるの。,I have something to talk over with you.,商量; 咨询,相談是名词，后接する构成“商量、咨询”。向某人商量可说人に相談する。,draft,,,"[{""ja"":""あなたに相談したいことがあるの。"",""zh"":""我有件事想和你商量。""},{""ja"":""集まってそのことを相談しよう。"",""zh"":""我们聚在一起商量那件事吧。""}]"
+554ab81272,そう,そう,sou,in that way; so,N4,adv,2137720,,そう思います。,I think so.,那样; 如此,这里表示“那样、如此”，指前文所说的情况。不要与降りそうだ中表示“看起来要……”的辅助词混淆。,reviewed,,,"[{""ja"":""そう思います。"",""zh"":""我也是这样想的。""},{""ja"":""私もそうです。"",""zh"":""我也是这样。""}]"
+aa663833e4,相談,そうだん,soudan,consultation; discussion,N4,n; vs; vt,1401210,,あなたに相談したいことがあるの。,I have something to talk over with you.,商量; 咨询,相談是名词，后接する构成“商量、咨询”。向某人商量可说人に相談する。,reviewed,,,"[{""ja"":""あなたに相談したいことがあるの。"",""zh"":""我有件事想和你商量。""},{""ja"":""集まってそのことを相談しよう。"",""zh"":""我们聚在一起商量一下那件事吧。""}]"
 ec43853e0f,育てる,そだてる,sodateru,to rear; to bring up,N4,v1; vt,1160570,,クッキーはケイトによって育てられた。,Cookie was raised by Kate.,,,,,,[]
 6a89d1feee,卒業,そつぎょう,sotsugyou,graduation,N4,n; vs; vi,1405890,,私はポップ・ミュージックはそろそろ卒業しようと思っているの。,I feel I'm growing out of pop music.,,,,,,[]
 14363682cb,祖父,そふ,sofu,grandfather,N4,n,1396840,,祖父はステッキがないと歩けない。,My grandfather cannot walk without a stick.,,,,,,[]

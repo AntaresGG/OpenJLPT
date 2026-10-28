@@ -1,101 +1,101 @@
 id,word,reading,romaji,meanings,level,pos,jmdict_id,other_forms,example_ja,example_en,meanings_zh,explanation_zh,status_zh,formation_zh,notes_zh,examples_zh
-ada066edfd,会う,あう,au,to meet,N5,v5u; vi,1198180,,もうスミスさんに会われましたね。,"You've met Mr. Smith already, haven't you?",见面; 遇见,,draft,,,[]
-ebec658463,青,あお,ao,blue,N5,n; adj-no,1381380,,信号が青に変わったわよ。,The traffic light turned green.,蓝色,,draft,,,[]
-51a671ec17,青い,あおい,aoi,blue,N5,adj-i,1381390,,お前はまだ「青い」な。,You're still green.,蓝色的,,draft,,,[]
-2dacb910b2,赤,あか,aka,red,N5,n; adj-no,2013900,,赤インクで書いてはいけない。,Don't write in red ink.,红色,,draft,,,[]
-44ba38cf8b,赤い,あかい,akai,red,N5,adj-i,1383240,,彼女は赤いスカートをはいていた。,She was wearing a red skirt.,红色的,,draft,,,[]
-91987ae840,明るい,あかるい,akarui,bright,N5,adj-i,1532350,,外はだんだん明るくなっていく。,It is getting lighter outside.,明亮的; 开朗的,,draft,,,[]
-8dc7006bda,秋,あき,aki,autumn,N5,n; adv,1332650,,秋はもうすぐそこまで来ている。,Autumn is just around the corner.,秋天,,draft,,,[]
-fc3bc1e6f1,開く,あく,aku,to open; to become open,N5,v5k; vi,1586270,,ぐいと押すとドアは開いた。,The door yielded to a strong push.,开; 打开（自动词）,,draft,,,[]
-321963ed35,開ける,あける,akeru,to open,N5,v1; vt,1202450,,ドアはジムによって開けられます。,The door is opened by Jim.,打开（他动词）,,draft,,,[]
-9661cbac61,上げる,あげる,ageru,to give,N5,v1; vt,1352320,あげる,左手を上げなさい。,Raise your left hand.,给; 给予,,draft,,,[]
-d46ae79a26,朝,あさ,asa,morning,N5,n; adv,1428280,,朝のラッシュは今がピークだ。,The morning rush is at its peak now.,早晨,,draft,,,[]
-98bc6f72ae,朝ごはん,あさごはん,asagohan,breakfast,N5,n,1586330,朝御飯,朝ごはんにはなにがよろしいですか。,What would you like for breakfast?,早饭,,draft,,,[]
-b3b4041c52,あさって,あさって,asatte,day after tomorrow,N5,n; adv,1584640,明後日,あさって彼にここへ来てもらうつもりです。,I will have him come here the day after tomorrow.,后天,,draft,,,[]
-27df3d5802,足,あし,ashi,foot; leg,N5,n,1404630,,また足がしびれた。,My foot's asleep again!,脚; 腿,,draft,,,[]
-115ec83476,明日,あした,ashita,tomorrow,N5,n; adv,1584660,あした,あしたは一日中ひまです。,I'll be free all day tomorrow.,明天,,draft,,,[]
-bee501faf0,あそこ,あそこ,asoko,over there,N5,pn,1000320,彼処,先生、アソコがかゆいんです。,"Doctor, I've got an itch in my crotch.",那里（离双方都较远）,,draft,,,[]
-2d55571300,遊ぶ,あそぶ,asobu,to play; to make a visit,N5,v5b; vi,1542160,,ビルはよく一人でおもちゃで遊ぶ。,Bill often plays with toys by himself.,玩; 游玩,,draft,,,[]
-f665c2128a,暖かい,あたたかい,atatakai,warm,N5,adj-i,1586420,,だんだん暖かくなります。,It will get warmer and warmer.,暖和的,,draft,,,[]
-b62cb9ce4c,頭,あたま,atama,head,N5,n,1582310,,アリスは頭に花をさしています。,Alice has a flower in her hair.,头; 脑袋,,draft,,,[]
-8ae27e3b51,新しい,あたらしい,atarashii,new,N5,adj-i,1361490,,先生は新しい車が気に入っている。,Our teacher likes his new car.,新的,,draft,,,[]
-34e6f7d220,あちら,あちら,achira,there,N5,pn,1483185,彼方,こっちの本はあっちの本よりやさしい。,These books are easier than those books.,那边（较礼貌）,,draft,,,[]
-9949d87445,厚い,あつい,atsui,kind; deep; thick,N5,adj-i,1275320,,それは４ｃｍの厚さです。,It is four centimeters thick.,厚的; 深厚的,,draft,,,[]
-7b4aecdf7b,暑い,あつい,atsui,hot,N5,adj-i,1343460,,どうして、こんなに暑いのですか。,Why is it so hot?,热的（天气、气温）,,draft,,,[]
-a379d413fd,熱い,あつい,atsui,hot to the touch,N5,adj-i,1467720,,熱いコーヒーを入れてあげましょう。,Let me make you a cup of hot coffee.,烫的; 热的（物体、液体）,,draft,,,[]
-60dd63379e,あっち,あっち,atchi,over there,N5,pn,1483185,,こっちの本はあっちの本よりやさしい。,These books are easier than those books.,那边（口语）,,draft,,,[]
-4f134c9b38,後,あと,ato,afterwards,N5,n; adj-no,1269320,,雨天の後には晴天が来る。,After rain comes fair weather.,之后; 以后,,draft,,,[]
-afdf384f68,あなた,あなた,anata,you,N5,pn,1223615,貴女,ねえあなたたち行かないで。,"Don't go, dears.",你,,draft,,,[]
-4aab699864,兄,あに,ani,(humble) older brother,N5,n,1249900,,これは兄です。かっこいいですね。,"This is my brother. Handsome, isn't he?",哥哥（称自己的哥哥）,,draft,,,[]
-8bfeb208b4,姉,あね,ane,(humble) older sister,N5,n,1307630,,先月、姉は６ポンドの男の子を生んだ。,Last month my sister gave birth to a six-pound baby.,姐姐（称自己的姐姐）,,draft,,,[]
-ac4706068b,あの,あの,ano,that over there,N5,adj-pn,1000420,彼の,あのおいしいワインをなぜ飲まないんだい。,Why not try that delicious wine?,那个（后接名词）,,draft,,,[]
-0cf05b3a0d,アパート,アパート,apaato,apartment,N5,n,1017760,,兄はアパートをさがしています。,My brother is looking for an apartment.,公寓,,draft,,,[]
-a5aceb6426,あびる,あびる,abiru,to bathe; to shower,N5,v1; vt,1547450,浴びる,その時はシャワーを浴びていた。,I was taking a shower then.,淋; 冲; 洗（淋浴）,,draft,,,[]
-0509cb3b27,危ない,あぶない,abunai,dangerous,N5,adj-i,1218380,,間一髪！危ないところでした。,That was a close call.,危险的,,draft,,,[]
-4afffe5811,甘い,あまい,amai,sweet,N5,adj-i,1213400,,メアリーにはつい甘くなってしまう。,I have always had a soft spot in my heart for Mary.,甜的,,draft,,,[]
-eac90e8e98,あまり,あまり,amari,not very,N5,adv,1584930,余り,この手の本はあまり読まない。,I don't read this kind of book much.,不太……（常与否定搭配）,,draft,,,[]
-5d72771a3c,飴,あめ,ame,candy,N5,n,1153520,,いい子にしていたら、あめをあげよう。,"If you are a good girl, you shall have candy.",糖果,,draft,,,[]
-277a58c9df,雨,あめ,ame,rain,N5,n,1171900,,木のおかげで雨にぬれずにすんだ。,The trees kept me out of the rain.,雨,,draft,,,[]
-f8fa96946f,洗う,あらう,arau,to wash,N5,v5u; vt,1390930,,いつこの車は洗われましたか。,When was this car washed?,洗,,draft,,,[]
-93461820fe,ありがとう,ありがとう,arigatou,Thank you,N5,int,1586820,有難う,はるばる来てくれてありがとう。,It was nice of you to come all the way.,谢谢,,draft,,,[]
-ac08788418,ある,ある,aru,to be; to have (used for inanimate objects),N5,v5r-i; vi,1296400,有る; 在る,話があったら電話をかけて下さい。,"If you want to speak to me, please call me up.",有; 在（用于无生命事物）,,draft,,,[]
-55f3080ce4,歩く,あるく,aruku,to walk,N5,v5k; vi,1514320,,歩いて行きますか？それともバスで行きますか？,Will you go on foot or by bus?,走; 步行,,draft,,,[]
-d727a76b22,あれ,あれ,are,that,N5,pn,1000580,,,,那个（代指事物）,,draft,,,[]
-e37a087c0f,いい,いい,ii,good,N5,adj-ix,2820690,よい,もう２、３ページ読みさえすればいい。,You have only to read a few more pages.,好的,,draft,,,[]
-6d4596ae46,いいえ,いいえ,iie,no,N5,int,1583250,,,,不; 不是,,draft,,,[]
-ae0cc00f94,言う,いう,iu,to say,N5,v5u; vt,1587040,,「みんなひと休みしようぜ」とジョンは言った。,"John said, ""Hey guys, let's take a break.""",说,,draft,,,[]
-9f074820b1,家,いえ,ie,house,N5,n,1191730,,木立の間に家が見える。,I see a house among the trees.,家; 房子,,draft,,,[]
-a3f296ad9a,いかが,いかが,ikaga,how,N5,adv,2845606,如何,コンタクトを入れるというのはいかがでしょう？,How about wearing contact lenses?,如何; 怎么样（较礼貌）,,draft,,,[]
-66e4692df7,行く,いく,iku,to go,N5,v5k-s; vi,1578850,,お母さん、泳ぎに行ってもいい？,"Can I go swimming, Mother?",去,,draft,,,[]
-026ae57b50,いくつ,いくつ,ikutsu,how many?; how old?,N5,adv,1219960,幾つ,あなたのお父さんはおいくつですか。,How old is your father?,几个; 几岁,,draft,,,[]
-4fc98c6938,いくら,いくら,ikura,how much?,N5,n; adv,1219980,幾ら,このハンカチはいくらですか。,How much is this handkerchief?,多少钱,,draft,,,[]
-43c874a6c8,池,いけ,ike,pond,N5,n,1421700,,その池にはほとんど水がない。,There is little water in the pond.,池塘,,draft,,,[]
-ca76162587,医者,いしゃ,isha,medical doctor,N5,n,1159980,,医者になるつもりだったのですが。,I intended to become a doctor.,医生,,draft,,,[]
-d305fa14a8,いす,いす,isu,chair,N5,n,1157070,椅子,ちょっと椅子をずらしてくれない？,Could you move the chair a bit?,椅子,,draft,,,[]
-cd1bcc2b1b,忙しい,いそがしい,isogashii,busy; irritated,N5,adj-i,1519290,,忙しくてそれどころじゃないよ。,I've got no time for that now.,忙碌的,,draft,,,[]
-4dae367794,痛い,いたい,itai,painful,N5,adj-i,1432680,,ほかに痛いところはありますか。,Do you feel pain in any other part of your body?,痛的; 疼的,,draft,,,[]
-eac7a22620,いただきます,いただきます,itadakimasu,expression of gratitude before meals,N5,exp,1410800,頂きます,８ドル５０セントいただきます。,"$8.50, please.",我开动了（饭前致谢用语）,,draft,,,[]
-9d8f862791,一,いち,ichi,one,N5,num; pref,1160790,,これは東京一のインドレストランです。,This is the best Indian restaurant anywhere in Tokyo.,一,,draft,,,[]
-1cfccd0cdd,一日,いちにち,ichinichi,one day; all day,N5,n,1576260,,一日で５００ドルつかってしまった。,I've spent $500 a day.,一天; 整天,本卡学习いちにち，表示一天或整天。表示每月一号时，初学者应另学ついたち。,draft,,,"[{""ja"":""一日で５００ドルつかってしまった。"",""zh"":""我一天就花掉了五百美元。""},{""ja"":""一日いい天気になりそうですよ。"",""zh"":""看来今天一整天都会是好天气。""}]"
-cb96f363df,いちばん,いちばん,ichiban,best; first,N5,n; adj-no,1165970,一番,このリンゴがいちばんおいしい。,This is the most delicious apple.,第一; 最,,draft,,,[]
-fac6fc0838,いつ,いつ,itsu,when,N5,pn,1188760,何時,いつ旅行においでになりますか。,When will you go on a journey?,什么时候,,draft,,,[]
-2a7c4baf86,五日,いつか,itsuka,five days; fifth day,N5,n,1268570,,１月５日から１月１５日までおねがいします。,"From the 5th to the 15th of January, please.",五天; 五号,,draft,,,[]
-2dc7289c82,一緒,いっしょ,issho,together,N5,n,1163400,,「ご一緒してもいいですか」「もちろんです」,"""May I go with you?"" ""Of course.""",一起,,draft,,,[]
-9ac35c3990,五つ,いつつ,itsutsu,five,N5,num,1268070,,この箱にはリンゴが五つ入っている。,This box contains five apples.,五个,,draft,,,[]
-dea2a1df8b,いつも,いつも,itsumo,always,N5,adv,1188890,何時も,あの子はいつもニコニコしている。,She is always smiling.,总是; 平时,,draft,,,[]
-0df89f5010,犬,いぬ,inu,dog,N5,n,1258330,,その犬はかみついたりしませんよ。,The dog will not harm you.,狗,,draft,,,[]
-ce75c75644,今,いま,ima,now,N5,n; adj-no; adv,1288850,,今のアナウンスは何だったのですか。,What did the announcement just say?,现在,,draft,,,[]
-cb29ccdd2a,意味,いみ,imi,meaning,N5,n; vs; vt,1156800,,その語にはいくつかの意味がある。,The word has several meanings.,意思; 含义,,draft,,,[]
-12047d019b,妹,いもうと,imouto,(humble) younger sister,N5,n,1524590,,男の子は妹を見下ろしがちである。,Boys tend to look down on their younger sisters.,妹妹,,draft,,,[]
-eda751e069,嫌,いや,iya,unpleasant,N5,adj-na,1587610,,毎日うっとうしくていやですね。,Don't you just hate this weather?,讨厌; 不愿意,,draft,,,[]
-1ff0529d03,入口,いりぐち,iriguchi,entrance,N5,n,1582820,,１台の車が入り口に止まった。,A car stopped at the entrance.,入口,,draft,,,[]
-9438889173,いる,いる,iru,to be; to have (used for people and animals),N5,aux-v; v1,1577980,居る,すっかり食べ終わってはいない。,I haven't quite finished eating.,在; 有（用于人、动物）,,draft,,,[]
-7a84208708,要る,いる,iru,to need,N5,v5r; vi,1546640,,今のところお金はいらない。,I don't need money at present.,需要,,draft,,,[]
-6d824d5110,入れる,いれる,ireru,to put in,N5,v1; vt,1465610,,それは引き出しに入れておきました。,I put it in the drawer.,放入,,draft,,,[]
-523266ea6f,色,いろ,iro,colour,N5,n,1357600,,カメレオンはどんな色にでもなれる。,The chameleon can take on any color.,颜色,,draft,,,[]
-f74dd1ee9a,いろいろ,いろいろ,iroiro,various,N5,adj-na; adj-no,1587850,色々,先生といってもいろいろある。,There are teachers and then there are teachers.,各种各样,,draft,,,[]
-08a3ed212d,上,うえ,ue,on top of,N5,n,1352130,,テーブルの上にリンゴがあります。,There is an apple on the table.,上面,,draft,,,[]
-93bdc81dd9,後ろ,うしろ,ushiro,behind,N5,n; adj-no,1269410,,校長が先生の後ろから入ってきた。,The principal came in after the teacher.,后面,,draft,,,[]
-d2b2316e45,薄い,うすい,usui,thin; weak,N5,adj-i,1475480,,コーヒーは薄いのが好きです。,I'd like my coffee weak.,薄的; 淡的,,draft,,,[]
-036f4180a2,歌,うた,uta,song,N5,n,1193180,,歌がうまければいいのになあ。,I wish I were a good singer.,歌曲,,draft,,,[]
-3464318c23,歌う,うたう,utau,to sing,N5,v5u; vt; vi,1588120,,ジョンはステージで何を歌いましたか。,What did John sing on the stage?,唱歌,,draft,,,[]
-63bc7722fa,生まれる,うまれる,umareru,to be born,N5,v1; vi,1378690,,どんぐりからオークが生まれる。,From acorns come oaks.,出生,,draft,,,[]
-06ac21dc7d,海,うみ,umi,sea,N5,n,1201190,,何としても海をひと目みたいものだ。,I ache for a sight of the sea.,海,,draft,,,[]
-f7e1da43df,売る,うる,uru,to sell,N5,v5r; vt,1473950,,トムはメアリーにバイクを売った。,Tom sold his motorcycle to Mary.,卖,,draft,,,[]
-7ecfe0d248,煩い,うるさい,urusai,noisy; annoying,N5,adj-i,1481920,うるさい,あの子はなんてうるさい子だろう。,What a nuisance that child is!,吵闹的; 烦人的,,draft,,,[]
-1ef8a05bf3,上着,うわぎ,uwagi,jacket,N5,n,1580340,,ドアのそばのかぎに上着をかけなさい。,Hang your jacket on the hook by the door.,上衣; 外套,,draft,,,[]
-5bb390da0b,絵,え,e,picture,N5,n,1202270,,絵がテーブルの上にかかっている。,The picture hangs over the table.,画; 图画,,draft,,,[]
-92b1621231,映画,えいが,eiga,movie,N5,n,1173720,,その映画をもう一度見たいな。,I want to see the movie again.,电影,,draft,,,[]
-8a88cfbcb8,映画館,えいがかん,eigakan,cinema,N5,n,1173750,,その映画館は人々でいっぱいだった。,The cinema was filled with people.,电影院,,draft,,,[]
-16adc7bd03,英語,えいご,eigo,English language,N5,n,1174420,,アメリカでは英語を話します。,They speak English in America.,英语,,draft,,,[]
-8ac60a4060,ええ,ええ,ee,yes,N5,int,1001140,,「テニスをしましょうか」「ええ」,"""Let's play tennis."" ""Yes let's.""",嗯; 是的,,draft,,,[]
-d5f359c20b,駅,えき,eki,station,N5,n,1175140,,グランド・セントラル駅までやってください。,"Grand Central Station, please.",车站,,draft,,,[]
-eb1695baf6,エレベーター,エレベーター,erebeetaa,elevator,N5,n,1030630,,エレベーターはどこですか。,Where is the elevator?,电梯,,draft,,,[]
-381da4d060,鉛筆,えんぴつ,enpitsu,pencil,N5,n,1178590,,えんぴつであなたの名前を書きなさい。,Write your name with the pencil.,铅笔,,draft,,,[]
-7f02ae8fa1,おいしい,おいしい,oishii,delicious,N5,adj-i,1486650,美味しい,おいしい食事をありがとう。,Thanks for the delicious meal.,好吃的; 美味的,,draft,,,[]
-60813fffd1,多い,おおい,ooi,many,N5,adj-i,1407460,,この学校は男子よりも女子が多い。,There are more girls than boys in this school.,多的,,draft,,,[]
-8fa5a63fc7,大きい,おおきい,ookii,big,N5,adj-i,1588880,,もっと大きいサイズはありますか。,Do you have a larger size?,大的,,draft,,,[]
-3a2de0afca,大きな,おおきな,ookina,big,N5,adj-pn,1412890,,それらはとても大きなりんごです。,They are very big apples.,大的（直接修饰名词）,,draft,,,[]
+ada066edfd,会う,あう,au,to meet,N5,v5u; vi,1198180,,もうスミスさんに会われましたね。,"You've met Mr. Smith already, haven't you?",见面; 遇见,,reviewed,,,"[{""ja"":""もうスミスさんに会われましたね。"",""zh"":""您已经见过史密斯先生了吧。""},{""ja"":""じゃあパーティーで会いましょう。"",""zh"":""那就在聚会上见吧。""}]"
+ebec658463,青,あお,ao,blue; green (e.g. a traffic light),N5,n; adj-no,1381380,,信号が青に変わったわよ。,The traffic light turned green.,蓝色; 绿色（如交通信号灯）,,reviewed,,,"[{""ja"":""信号が青に変わったわよ。"",""zh"":""信号灯变绿了哦。""},{""ja"":""夏の通学服は白と青のチェックです。"",""zh"":""夏季校服是蓝白格子的。""}]"
+51a671ec17,青い,あおい,aoi,blue; green; inexperienced,N5,adj-i,1381390,,お前はまだ「青い」な。,You're still green.,蓝色的; 绿色的; 不成熟的、经验不足的,,reviewed,,用于人时可比喻年轻、不成熟或缺乏经验；不是说肤色蓝。,"[{""ja"":""お前はまだ「青い」な。"",""zh"":""你还嫩着呢。""},{""ja"":""なぜ空が青いか知っているか。"",""zh"":""你知道天空为什么是蓝色的吗？""}]"
+2dacb910b2,赤,あか,aka,red,N5,n; adj-no,2013900,,赤インクで書いてはいけない。,Don't write in red ink.,红色,,reviewed,,,"[{""ja"":""赤インクで書いてはいけない。"",""zh"":""不要用红墨水写。""},{""ja"":""その家は赤レンガづくりです。"",""zh"":""那栋房子是用红砖砌的。""}]"
+44ba38cf8b,赤い,あかい,akai,red,N5,adj-i,1383240,,彼女は赤いスカートをはいていた。,She was wearing a red skirt.,红色的,,reviewed,,,"[{""ja"":""彼女は赤いスカートをはいていた。"",""zh"":""她穿着一条红裙子。""},{""ja"":""赤いものもあれば白いのもある。"",""zh"":""有红色的，也有白色的。""}]"
+91987ae840,明るい,あかるい,akarui,bright,N5,adj-i,1532350,,外はだんだん明るくなっていく。,It is getting lighter outside.,明亮的; 开朗的,,reviewed,,,"[{""ja"":""外はだんだん明るくなっていく。"",""zh"":""外面渐渐亮起来了。""},{""ja"":""ダイヤは明るく光った。"",""zh"":""钻石闪着明亮的光。""}]"
+8dc7006bda,秋,あき,aki,autumn,N5,n; adv,1332650,,秋はもうすぐそこまで来ている。,Autumn is just around the corner.,秋天,,reviewed,,,"[{""ja"":""秋はもうすぐそこまで来ている。"",""zh"":""秋天马上就要到了。""},{""ja"":""さわやかな秋となりました。"",""zh"":""清爽的秋天来临了。""}]"
+fc3bc1e6f1,開く,あく,aku,to open; to become open,N5,v5k; vi,1586270,,ぐいと押すとドアは開いた。,The door yielded to a strong push.,开; 打开（自动词）,,reviewed,,,"[{""ja"":""ぐいと押すとドアは開いた。"",""zh"":""用力一推，门就开了。""},{""ja"":""ドアはどうしても開かなかった。"",""zh"":""门怎么也打不开。""}]"
+321963ed35,開ける,あける,akeru,to open,N5,v1; vt,1202450,,ドアはジムによって開けられます。,The door is opened by Jim.,打开（他动词）,,reviewed,,,"[{""ja"":""ドアはジムによって開けられます。"",""zh"":""门由吉姆来开。""},{""ja"":""だれかこのドアを開けてください。"",""zh"":""请谁来开一下这扇门。""}]"
+9661cbac61,上げる,あげる,ageru,to raise; to increase; to give,N5,v1; vt,1352320,あげる,左手を上げなさい。,Raise your left hand.,举起; 提高; 给予,,reviewed,,举手、提高速度都用上げる；表示给予时常写作あげる。,"[{""ja"":""左手を上げなさい。"",""zh"":""把左手举起来。""},{""ja"":""彼はスピードを上げた。"",""zh"":""他加快了速度。""}]"
+d46ae79a26,朝,あさ,asa,morning,N5,n; adv,1428280,,朝のラッシュは今がピークだ。,The morning rush is at its peak now.,早晨,,reviewed,,,"[{""ja"":""朝のラッシュは今がピークだ。"",""zh"":""早高峰现在正是最拥挤的时候。""},{""ja"":""ジョージは朝にたくさんのチーズを食べた。"",""zh"":""乔治早上吃了很多奶酪。""}]"
+98bc6f72ae,朝ごはん,あさごはん,asagohan,breakfast,N5,n,1586330,朝御飯,朝ごはんにはなにがよろしいですか。,What would you like for breakfast?,早饭,,reviewed,,,"[{""ja"":""朝ごはんにはなにがよろしいですか。"",""zh"":""您早餐想吃点什么？""},{""ja"":""朝ご飯に何を食べますか。"",""zh"":""你早餐吃什么？""}]"
+b3b4041c52,あさって,あさって,asatte,day after tomorrow,N5,n; adv,1584640,明後日,あさって彼にここへ来てもらうつもりです。,I will have him come here the day after tomorrow.,后天,,reviewed,,,"[{""ja"":""あさって彼にここへ来てもらうつもりです。"",""zh"":""我打算请他后天到这里来。""},{""ja"":""あさって、時間がありませんか。"",""zh"":""后天你有空吗？""}]"
+27df3d5802,足,あし,ashi,foot; leg,N5,n,1404630,,また足がしびれた。,My foot's asleep again!,脚; 腿,,reviewed,,,"[{""ja"":""また足がしびれた。"",""zh"":""脚又麻了。""},{""ja"":""ヘビを見て足がすくんでしまった。"",""zh"":""看到蛇，我吓得腿都动不了了。""}]"
+115ec83476,明日,あした,ashita,tomorrow,N5,n; adv,1584660,あした,あしたは一日中ひまです。,I'll be free all day tomorrow.,明天,,reviewed,,,"[{""ja"":""あしたは一日中ひまです。"",""zh"":""我明天一整天都有空。""},{""ja"":""明日はピクニックに行くつもりだ。"",""zh"":""我打算明天去野餐。""}]"
+bee501faf0,あそこ,あそこ,asoko,over there,N5,pn,1000320,彼処,学校はあそこです。,The school is over there.,那里（离双方都较远）,,reviewed,,,"[{""ja"":""学校はあそこです。"",""zh"":""学校在那边。""},{""ja"":""あそこのスポーツカーを見なさい。"",""zh"":""看看那边的跑车。""}]"
+2d55571300,遊ぶ,あそぶ,asobu,to play; to make a visit,N5,v5b; vi,1542160,,ビルはよく一人でおもちゃで遊ぶ。,Bill often plays with toys by himself.,玩; 游玩,,reviewed,,,"[{""ja"":""ビルはよく一人でおもちゃで遊ぶ。"",""zh"":""比尔经常独自玩玩具。""},{""ja"":""けっしてここで遊んではいけない。"",""zh"":""绝对不可以在这里玩。""}]"
+f665c2128a,暖かい,あたたかい,atatakai,warm,N5,adj-i,1586420,,だんだん暖かくなります。,It will get warmer and warmer.,暖和的,,reviewed,,,"[{""ja"":""だんだん暖かくなります。"",""zh"":""天气会渐渐暖和起来。""},{""ja"":""日毎にだんだん暖かくなっている。"",""zh"":""天气一天比一天暖和了。""}]"
+b62cb9ce4c,頭,あたま,atama,head,N5,n,1582310,,アリスは頭に花をさしています。,Alice has a flower in her hair.,头; 头脑,,reviewed,,頭がいい、頭がよい表示聪明。,"[{""ja"":""アリスは頭に花をさしています。"",""zh"":""爱丽丝头上插着花。""},{""ja"":""ジルはかわいいだけでなく頭もよい。"",""zh"":""吉尔不仅可爱，而且聪明。""}]"
+8ae27e3b51,新しい,あたらしい,atarashii,new,N5,adj-i,1361490,,先生は新しい車が気に入っている。,Our teacher likes his new car.,新的,,reviewed,,,"[{""ja"":""先生は新しい車が気に入っている。"",""zh"":""老师很喜欢那辆新车。""},{""ja"":""新しいレストランが出来たそうだ。"",""zh"":""听说新开了一家餐厅。""}]"
+34e6f7d220,あちら,あちら,achira,there,N5,pn,1483185,彼方,出口はあちらです。,The exit is over there.,那边（较礼貌）,,reviewed,,,"[{""ja"":""出口はあちらです。"",""zh"":""出口在那边。""},{""ja"":""あちらに着いたら手紙をください。"",""zh"":""到了那边请给我写信。""}]"
+9949d87445,厚い,あつい,atsui,kind; deep; thick,N5,adj-i,1275320,,それは４ｃｍの厚さです。,It is four centimeters thick.,厚的; 深厚的,,reviewed,,厚さ是厚い的名词形式，表示厚度。,"[{""ja"":""それは４ｃｍの厚さです。"",""zh"":""它有四厘米厚。""},{""ja"":""氷は２インチの厚さだ。"",""zh"":""冰有两英寸厚。""}]"
+7b4aecdf7b,暑い,あつい,atsui,hot,N5,adj-i,1343460,,どうして、こんなに暑いのですか。,Why is it so hot?,热的（天气、气温）,,reviewed,,,"[{""ja"":""どうして、こんなに暑いのですか。"",""zh"":""怎么这么热？""},{""ja"":""暑くならないうちに出かけよう。"",""zh"":""趁还没热起来，出门吧。""}]"
+a379d413fd,熱い,あつい,atsui,hot to the touch,N5,adj-i,1467720,,熱いコーヒーを入れてあげましょう。,Let me make you a cup of hot coffee.,烫的; 热的（物体、液体）,,reviewed,,,"[{""ja"":""熱いコーヒーを入れてあげましょう。"",""zh"":""我给你沏杯热咖啡吧。""},{""ja"":""熱いダックスフント・ソーセージはいかが。"",""zh"":""来根热的长条香肠怎么样？""}]"
+60dd63379e,あっち,あっち,atchi,over there,N5,pn,1483185,,こっちの本はあっちの本よりやさしい。,These books are easier than those books.,那边（口语）,,reviewed,,,"[{""ja"":""こっちの本はあっちの本よりやさしい。"",""zh"":""这边这本书比那边那本容易。""},{""ja"":""あっちにエレベーターがあるみたいだよ。"",""zh"":""那边好像有电梯哦。""}]"
+4f134c9b38,後,あと,ato,afterwards,N5,n; adj-no,1269320,,雨天の後には晴天が来る。,After rain comes fair weather.,之后; 以后,,reviewed,,,"[{""ja"":""雨天の後には晴天が来る。"",""zh"":""雨天过后便是晴天。""},{""ja"":""アルファベットでＢはＡの後にくる。"",""zh"":""在字母表中，B排在A后面。""}]"
+afdf384f68,あなた,あなた,anata,you,N5,pn,1223615,貴女,ねえあなたたち行かないで。,"Don't go, dears.",你,,reviewed,,,"[{""ja"":""ねえあなたたち行かないで。"",""zh"":""喂，你们别走。""},{""ja"":""どちらの本があなたのものですか。"",""zh"":""哪本书是你的？""}]"
+4aab699864,兄,あに,ani,(humble) older brother,N5,n,1249900,,これは兄です。かっこいいですね。,"This is my brother. Handsome, isn't he?",哥哥（称自己的哥哥）,,reviewed,,,"[{""ja"":""これは兄です。かっこいいですね。"",""zh"":""这是我哥哥。很帅吧。""},{""ja"":""兄はアパートをさがしています。"",""zh"":""哥哥正在找公寓。""}]"
+8bfeb208b4,姉,あね,ane,(humble) older sister,N5,n,1307630,,先月、姉は６ポンドの男の子を生んだ。,Last month my sister gave birth to a six-pound baby.,姐姐（称自己的姐姐）,,reviewed,,,"[{""ja"":""先月、姉は６ポンドの男の子を生んだ。"",""zh"":""上个月，姐姐生了一个六磅重的男孩。""},{""ja"":""姉は私のズボンにアイロンをかけてくれる。"",""zh"":""姐姐会帮我熨裤子。""}]"
+ac4706068b,あの,あの,ano,that over there,N5,adj-pn,1000420,彼の,あのおいしいワインをなぜ飲まないんだい。,Why not try that delicious wine?,那个（后接名词）,,reviewed,,,"[{""ja"":""あのおいしいワインをなぜ飲まないんだい。"",""zh"":""你为什么不喝那瓶好喝的葡萄酒呢？""},{""ja"":""この本はあの本ほどやさしくない。"",""zh"":""这本书没有那本容易。""}]"
+0cf05b3a0d,アパート,アパート,apaato,apartment,N5,n,1017760,,兄はアパートをさがしています。,My brother is looking for an apartment.,公寓,,reviewed,,,"[{""ja"":""兄はアパートをさがしています。"",""zh"":""哥哥正在找公寓。""},{""ja"":""いいアパートね。"",""zh"":""这公寓真不错。""}]"
+a5aceb6426,あびる,あびる,abiru,to bathe; to shower,N5,v1; vt,1547450,浴びる,その時はシャワーを浴びていた。,I was taking a shower then.,淋; 冲; 洗（淋浴）,,reviewed,,,"[{""ja"":""その時はシャワーを浴びていた。"",""zh"":""那时我正在淋浴。""},{""ja"":""シャワーを浴びてもよいでしょうか。"",""zh"":""我可以洗个淋浴吗？""}]"
+0509cb3b27,危ない,あぶない,abunai,dangerous,N5,adj-i,1218380,,間一髪！危ないところでした。,That was a close call.,危险的,,reviewed,,危ない也常单独用于警告，译为“小心！”或“危险！”。,"[{""ja"":""間一髪！危ないところでした。"",""zh"":""好险！刚才真危险。""},{""ja"":""危ない！トラックが来るぞ！"",""zh"":""小心！卡车来了！""}]"
+4afffe5811,甘い,あまい,amai,sweet; lenient; soft on,N5,adj-i,1213400,,メアリーにはつい甘くなってしまう。,I have always had a soft spot in my heart for Mary.,甜的; 宽容的、纵容的,,reviewed,,,"[{""ja"":""メアリーにはつい甘くなってしまう。"",""zh"":""我总是不由得对玛丽心软。""},{""ja"":""このチョコレートはとっても甘くておいしい。"",""zh"":""这块巧克力很甜，很好吃。""}]"
+eac90e8e98,あまり,あまり,amari,not very,N5,adv,1584930,余り,この手の本はあまり読まない。,I don't read this kind of book much.,不太……（常与否定搭配）,,reviewed,,,"[{""ja"":""この手の本はあまり読まない。"",""zh"":""我不太读这类书。""},{""ja"":""フランス語ではあまり話しません。"",""zh"":""我不太用法语交谈。""}]"
+5d72771a3c,飴,あめ,ame,candy,N5,n,1153520,,いい子にしていたら、あめをあげよう。,"If you are a good girl, you shall have candy.",糖果,,reviewed,,,"[{""ja"":""いい子にしていたら、あめをあげよう。"",""zh"":""乖乖听话的话，就给你糖吃。""},{""ja"":""息子は箱から飴を一つ取った。"",""zh"":""儿子从盒子里拿了一颗糖。""}]"
+277a58c9df,雨,あめ,ame,rain,N5,n,1171900,,木のおかげで雨にぬれずにすんだ。,The trees kept me out of the rain.,雨,,reviewed,,,"[{""ja"":""木のおかげで雨にぬれずにすんだ。"",""zh"":""多亏有那棵树，我才没被雨淋湿。""},{""ja"":""今すぐにも雨がふるかもしれない。"",""zh"":""说不定马上就要下雨了。""}]"
+f8fa96946f,洗う,あらう,arau,to wash,N5,v5u; vt,1390930,,いつこの車は洗われましたか。,When was this car washed?,洗,,reviewed,,,"[{""ja"":""いつこの車は洗われましたか。"",""zh"":""这辆车是什么时候洗的？""},{""ja"":""車を洗っているのはジョーンズさんです。"",""zh"":""正在洗车的是琼斯先生。""}]"
+93461820fe,ありがとう,ありがとう,arigatou,Thank you,N5,int,1586820,有難う,はるばる来てくれてありがとう。,It was nice of you to come all the way.,谢谢,,reviewed,,,"[{""ja"":""はるばる来てくれてありがとう。"",""zh"":""谢谢你远道而来。""},{""ja"":""そうおっしゃって下さってありがとう。"",""zh"":""谢谢您这么说。""}]"
+ac08788418,ある,ある,aru,to be; to have (used for inanimate objects),N5,v5r-i; vi,1296400,有る; 在る,話があったら電話をかけて下さい。,"If you want to speak to me, please call me up.",有; 在（用于无生命事物）,,reviewed,,,"[{""ja"":""話があったら電話をかけて下さい。"",""zh"":""有事的话请打电话。""},{""ja"":""木はたとえあってもほとんどない。"",""zh"":""树即便有，也几乎没有几棵。""}]"
+55f3080ce4,歩く,あるく,aruku,to walk,N5,v5k; vi,1514320,,歩いて行きますか？それともバスで行きますか？,Will you go on foot or by bus?,走; 步行,,reviewed,,,"[{""ja"":""歩いて行きますか？それともバスで行きますか？"",""zh"":""你是走着去，还是坐公交车去？""},{""ja"":""歩きながら本を読んではいけない。"",""zh"":""不要一边走路一边看书。""}]"
+d727a76b22,あれ,あれ,are,that,N5,pn,1000580,,あれは何ですか。,What is that over there?,那个（代指事物）,,reviewed,,,"[{""ja"":""あれは何ですか。"",""zh"":""那是什么？""},{""ja"":""あれは私のかばんです。"",""zh"":""那是我的包。""}]"
+e37a087c0f,いい,いい,ii,good,N5,adj-ix,2820690,よい,もう２、３ページ読みさえすればいい。,You have only to read a few more pages.,好的; 可以的,,reviewed,,〜さえすればいい表示只要做到某事就可以。,"[{""ja"":""もう２、３ページ読みさえすればいい。"",""zh"":""只要再读两三页就行了。""},{""ja"":""ダンスはスタイルをよくするのにいい。"",""zh"":""跳舞有助于塑造体形。""}]"
+6d4596ae46,いいえ,いいえ,iie,no,N5,int,1583250,,「学生ですか。」「いいえ、会社員です。」,"Are you a student? No, I am a company employee.",不; 不是,,reviewed,,,"[{""ja"":""「学生ですか。」「いいえ、会社員です。」"",""zh"":""“你是学生吗？”“不是，我是公司职员。”""},{""ja"":""「これはあなたの本ですか。」「いいえ、違います。」"",""zh"":""“这是你的书吗？”“不，不是。”""}]"
+ae0cc00f94,言う,いう,iu,to say,N5,v5u; vt,1587040,,「みんなひと休みしようぜ」とジョンは言った。,"John said, ""Hey guys, let's take a break.""",说,,reviewed,,,"[{""ja"":""「みんなひと休みしようぜ」とジョンは言った。"",""zh"":""约翰说：“大家休息一下吧。”""},{""ja"":""さんざん小言をいってやる。"",""zh"":""我要狠狠数落他一顿。""}]"
+9f074820b1,家,いえ,ie,house,N5,n,1191730,,木立の間に家が見える。,I see a house among the trees.,家; 房子,,reviewed,,,"[{""ja"":""木立の間に家が見える。"",""zh"":""可以从树丛间看到一栋房子。""},{""ja"":""母はいつも家にいるわけではない。"",""zh"":""妈妈并不是一直都在家。""}]"
+a3f296ad9a,いかが,いかが,ikaga,how,N5,adv,2845606,如何,コンタクトを入れるというのはいかがでしょう？,How about wearing contact lenses?,如何; 怎么样（较礼貌）,,reviewed,,,"[{""ja"":""コンタクトを入れるというのはいかがでしょう？"",""zh"":""考虑戴隐形眼镜怎么样？""},{""ja"":""ベーコンかソーセージはいかがか。"",""zh"":""来点培根或香肠怎么样？""}]"
+66e4692df7,行く,いく,iku,to go,N5,v5k-s; vi,1578850,,お母さん、泳ぎに行ってもいい？,"Can I go swimming, Mother?",去,,reviewed,,,"[{""ja"":""お母さん、泳ぎに行ってもいい？"",""zh"":""妈妈，我可以去游泳吗？""},{""ja"":""父は、アメリカへ行ってしまった。"",""zh"":""爸爸已经去美国了。""}]"
+026ae57b50,いくつ,いくつ,ikutsu,how many?; how old?,N5,adv,1219960,幾つ,あなたのお父さんはおいくつですか。,How old is your father?,几个; 几岁,,reviewed,,,"[{""ja"":""あなたのお父さんはおいくつですか。"",""zh"":""您父亲多大年纪？""},{""ja"":""ウエストのサイズはいくつですか。"",""zh"":""你的腰围是多少？""}]"
+4fc98c6938,いくら,いくら,ikura,how much?,N5,n; adv,1219980,幾ら,このハンカチはいくらですか。,How much is this handkerchief?,多少钱,,reviewed,,,"[{""ja"":""このハンカチはいくらですか。"",""zh"":""这条手帕多少钱？""},{""ja"":""ヒルトンホテルまでいくらですか。"",""zh"":""到希尔顿酒店要多少钱？""}]"
+43c874a6c8,池,いけ,ike,pond,N5,n,1421700,,その池にはほとんど水がない。,There is little water in the pond.,池塘,,reviewed,,,"[{""ja"":""その池にはほとんど水がない。"",""zh"":""那个池塘里几乎没有水。""},{""ja"":""この前の夏にこの池は水がなくなりました。"",""zh"":""去年夏天，这个池塘干了。""}]"
+ca76162587,医者,いしゃ,isha,medical doctor,N5,n,1159980,,医者になるつもりだったのですが。,I intended to become a doctor.,医生,,reviewed,,,"[{""ja"":""医者になるつもりだったのですが。"",""zh"":""我本来打算当医生的。""},{""ja"":""日本語の話せる医者はいますか。"",""zh"":""有会说日语的医生吗？""}]"
+d305fa14a8,いす,いす,isu,chair,N5,n,1157070,椅子,ちょっと椅子をずらしてくれない？,Could you move the chair a bit?,椅子,,reviewed,,,"[{""ja"":""ちょっと椅子をずらしてくれない？"",""zh"":""能把椅子挪一下吗？""},{""ja"":""イスはそのままにしておきなさい。"",""zh"":""把椅子留在原处。""}]"
+cd1bcc2b1b,忙しい,いそがしい,isogashii,busy; occupied,N5,adj-i,1519290,,忙しくてそれどころじゃないよ。,I've got no time for that now.,忙碌的,,reviewed,,,"[{""ja"":""忙しくてそれどころじゃないよ。"",""zh"":""我忙得顾不上那个。""},{""ja"":""このところ、とても忙しくてね。"",""zh"":""最近实在是很忙。""}]"
+4dae367794,痛い,いたい,itai,painful,N5,adj-i,1432680,,ほかに痛いところはありますか。,Do you feel pain in any other part of your body?,痛的; 疼的,,reviewed,,,"[{""ja"":""ほかに痛いところはありますか。"",""zh"":""还有其他地方疼吗？""},{""ja"":""痛くないようにしてください。"",""zh"":""请尽量别弄疼我。""}]"
+eac7a22620,いただきます,いただきます,itadakimasu,expression of gratitude before meals,N5,exp,1410800,頂きます,食べる前に「いただきます」と言います。,"Before eating, we say itadakimasu.",我开动了（饭前致谢用语）,,reviewed,,,"[{""ja"":""食べる前に「いただきます」と言います。"",""zh"":""吃饭前会说“我开动了”。""},{""ja"":""みんなで「いただきます」と言って、食事を始めました。"",""zh"":""大家一起说了“我开动了”，然后开始用餐。""}]"
+9d8f862791,一,いち,ichi,one,N5,num; pref,1160790,,これは東京一のインドレストランです。,This is the best Indian restaurant anywhere in Tokyo.,一; 第一（如東京一）,,reviewed,,地名等后接一可表示在该范围内排名第一，如東京一。,"[{""ja"":""これは東京一のインドレストランです。"",""zh"":""这是东京最好的印度餐厅。""},{""ja"":""このとおりを一マイル行きなさい。"",""zh"":""沿这条路走一英里。""}]"
+1cfccd0cdd,一日,いちにち,ichinichi,one day; all day,N5,n,1576260,,一日で５００ドルつかってしまった。,I've spent $500 a day.,一天; 整天,本卡学习いちにち，表示一天或整天。表示每月一号时，初学者应另学ついたち。,reviewed,,,"[{""ja"":""一日で５００ドルつかってしまった。"",""zh"":""一天就花掉了五百美元。""},{""ja"":""一日いい天気になりそうですよ。"",""zh"":""看来一整天都会是好天气。""}]"
+cb96f363df,いちばん,いちばん,ichiban,best; first,N5,n; adj-no,1165970,一番,このリンゴがいちばんおいしい。,This is the most delicious apple.,第一; 最,,reviewed,,,"[{""ja"":""このリンゴがいちばんおいしい。"",""zh"":""这个苹果最好吃。""},{""ja"":""あいつはクラスでいちばんのまぬけだ。"",""zh"":""那家伙是班里最笨的。""}]"
+fac6fc0838,いつ,いつ,itsu,when,N5,pn,1188760,何時,いつ旅行においでになりますか。,When will you go on a journey?,什么时候,,reviewed,,,"[{""ja"":""いつ旅行においでになりますか。"",""zh"":""您什么时候来旅行？""},{""ja"":""パーティーはいつにしましょうか。"",""zh"":""我们把聚会定在什么时候好呢？""}]"
+2a7c4baf86,五日,いつか,itsuka,five days; fifth day,N5,n,1268570,,１月５日から１月１５日までおねがいします。,"From the 5th to the 15th of January, please.",五天; 五号,,reviewed,,,"[{""ja"":""１月５日から１月１５日までおねがいします。"",""zh"":""麻烦安排从一月五日到一月十五日。""},{""ja"":""五日待ってくれ。"",""zh"":""等我五天。""}]"
+2dc7289c82,一緒,いっしょ,issho,together,N5,n,1163400,,「ご一緒してもいいですか」「もちろんです」,"""May I go with you?"" ""Of course.""",一起,,reviewed,,,"[{""ja"":""「ご一緒してもいいですか」「もちろんです」"",""zh"":""“我可以和你一起吗？”“当然可以。”""},{""ja"":""もっと一緒にいられたらいいのに。"",""zh"":""要是能多在一起待一会儿就好了。""}]"
+9ac35c3990,五つ,いつつ,itsutsu,five,N5,num,1268070,,この箱にはリンゴが五つ入っている。,This box contains five apples.,五个,,reviewed,,,"[{""ja"":""この箱にはリンゴが五つ入っている。"",""zh"":""这个盒子里装着五个苹果。""},{""ja"":""卵を五つ買いました。"",""zh"":""我买了五个鸡蛋。""}]"
+dea2a1df8b,いつも,いつも,itsumo,always,N5,adv,1188890,何時も,あの子はいつもニコニコしている。,She is always smiling.,总是; 平时,,reviewed,,,"[{""ja"":""あの子はいつもニコニコしている。"",""zh"":""那孩子总是笑眯眯的。""},{""ja"":""あの子はいつもだだをこねている。"",""zh"":""那孩子总是撒泼耍赖。""}]"
+0df89f5010,犬,いぬ,inu,dog,N5,n,1258330,,その犬はかみついたりしませんよ。,The dog will not harm you.,狗,,reviewed,,,"[{""ja"":""その犬はかみついたりしませんよ。"",""zh"":""那只狗不会咬人哦。""},{""ja"":""この犬は何でもほとんど食べます。"",""zh"":""这只狗几乎什么都吃。""}]"
+ce75c75644,今,いま,ima,now,N5,n; adj-no; adv,1288850,,今のアナウンスは何だったのですか。,What did the announcement just say?,现在,,reviewed,,,"[{""ja"":""今のアナウンスは何だったのですか。"",""zh"":""刚才广播说的是什么？""},{""ja"":""トムもビルも今テニスをしている。"",""zh"":""汤姆和比尔现在都在打网球。""}]"
+cb29ccdd2a,意味,いみ,imi,meaning,N5,n; vs; vt,1156800,,その語にはいくつかの意味がある。,The word has several meanings.,意思; 含义,,reviewed,,,"[{""ja"":""その語にはいくつかの意味がある。"",""zh"":""那个词有几个意思。""},{""ja"":""おっしゃる意味がわかりませんが。"",""zh"":""我不太明白您的意思。""}]"
+12047d019b,妹,いもうと,imouto,(humble) younger sister,N5,n,1524590,,男の子は妹を見下ろしがちである。,Boys tend to look down on their younger sisters.,妹妹,,reviewed,,,"[{""ja"":""男の子は妹を見下ろしがちである。"",""zh"":""男孩子往往会瞧不起自己的妹妹。""},{""ja"":""あいつの妹、とてもかわいいね。"",""zh"":""那家伙的妹妹真可爱啊。""}]"
+eda751e069,嫌,いや,iya,unpleasant,N5,adj-na,1587610,,毎日うっとうしくていやですね。,Don't you just hate this weather?,讨厌; 不愿意,,reviewed,,,"[{""ja"":""毎日うっとうしくていやですね。"",""zh"":""每天都这么阴沉沉的，真讨厌啊。""},{""ja"":""どんなものでも、スポーツはいやです。"",""zh"":""无论哪一种运动，我都不喜欢。""}]"
+1ff0529d03,入口,いりぐち,iriguchi,entrance,N5,n,1582820,,１台の車が入り口に止まった。,A car stopped at the entrance.,入口,,reviewed,,,"[{""ja"":""１台の車が入り口に止まった。"",""zh"":""一辆车停在了入口处。""},{""ja"":""数人の人が入り口でぶらついていた。"",""zh"":""几个人在入口处闲逛。""}]"
+9438889173,いる,いる,iru,to be; to have (used for people and animals),N5,aux-v; v1,1577980,居る,庭に猫がいます。,There is a cat in the garden.,在; 有（用于人、动物）,,reviewed,,,"[{""ja"":""庭に猫がいます。"",""zh"":""院子里有一只猫。""},{""ja"":""あんないい男そうそういないぞ！！"",""zh"":""那么好的男人可不常见！""}]"
+7a84208708,要る,いる,iru,to need,N5,v5r; vi,1546640,,今のところお金はいらない。,I don't need money at present.,需要,,reviewed,,,"[{""ja"":""今のところお金はいらない。"",""zh"":""目前我不需要钱。""},{""ja"":""バターが要るんだけど、いくらかありますか。"",""zh"":""我需要黄油，你这里有一些吗？""}]"
+6d824d5110,入れる,いれる,ireru,to put in,N5,v1; vt,1465610,,それは引き出しに入れておきました。,I put it in the drawer.,放入,,reviewed,,,"[{""ja"":""それは引き出しに入れておきました。"",""zh"":""我已经把它放进抽屉里了。""},{""ja"":""本をさかさまに入れないで下さい。"",""zh"":""请不要把书倒着放进去。""}]"
+523266ea6f,色,いろ,iro,colour,N5,n,1357600,,カメレオンはどんな色にでもなれる。,The chameleon can take on any color.,颜色,,reviewed,,,"[{""ja"":""カメレオンはどんな色にでもなれる。"",""zh"":""变色龙能变成各种颜色。""},{""ja"":""この色、気に入りましたか。"",""zh"":""你喜欢这个颜色吗？""}]"
+f74dd1ee9a,いろいろ,いろいろ,iroiro,various,N5,adj-na; adj-no,1587850,色々,先生といってもいろいろある。,There are teachers and then there are teachers.,各种各样,,reviewed,,,"[{""ja"":""先生といってもいろいろある。"",""zh"":""虽说都是老师，也有各种各样的。""},{""ja"":""コーヒーにもいろいろある。"",""zh"":""咖啡也有各种各样的。""}]"
+08a3ed212d,上,うえ,ue,on top of,N5,n,1352130,,テーブルの上にリンゴがあります。,There is an apple on the table.,上面,,reviewed,,,"[{""ja"":""テーブルの上にリンゴがあります。"",""zh"":""桌上有苹果。""},{""ja"":""テーブルの上にオレンジがある。"",""zh"":""桌上有橙子。""}]"
+93bdc81dd9,後ろ,うしろ,ushiro,behind,N5,n; adj-no,1269410,,校長が先生の後ろから入ってきた。,The principal came in after the teacher.,后面,,reviewed,,,"[{""ja"":""校長が先生の後ろから入ってきた。"",""zh"":""校长跟在老师后面走了进来。""},{""ja"":""あなたの後ろのドアをしめて下さい。"",""zh"":""请把你身后的门关上。""}]"
+d2b2316e45,薄い,うすい,usui,thin; weak,N5,adj-i,1475480,,コーヒーは薄いのが好きです。,I'd like my coffee weak.,薄的; 淡的,,reviewed,,,"[{""ja"":""コーヒーは薄いのが好きです。"",""zh"":""我喜欢淡一点的咖啡。""},{""ja"":""肉を薄く切りなさい。"",""zh"":""把肉切薄一些。""}]"
+036f4180a2,歌,うた,uta,song,N5,n,1193180,,歌がうまければいいのになあ。,I wish I were a good singer.,歌曲,,reviewed,,,"[{""ja"":""歌がうまければいいのになあ。"",""zh"":""要是我唱歌好听就好了。""},{""ja"":""この歌の名前は『オンリー・ユー』です。"",""zh"":""这首歌的名字叫《Only You》。""}]"
+3464318c23,歌う,うたう,utau,to sing,N5,v5u; vt; vi,1588120,,ジョンはステージで何を歌いましたか。,What did John sing on the stage?,唱歌,,reviewed,,,"[{""ja"":""ジョンはステージで何を歌いましたか。"",""zh"":""约翰在台上唱了什么？""},{""ja"":""ベティはうまく歌うことができた。"",""zh"":""贝蒂唱歌唱得很好。""}]"
+63bc7722fa,生まれる,うまれる,umareru,to be born,N5,v1; vi,1378690,,どんぐりからオークが生まれる。,From acorns come oaks.,出生; 诞生、产生,,reviewed,,除人的出生外，也可用于事物的诞生或形成；例句中橡树由橡子长成属于引申表达。,"[{""ja"":""どんぐりからオークが生まれる。"",""zh"":""橡树由橡子长成。""},{""ja"":""ここが父の生まれたところです。"",""zh"":""这里是父亲出生的地方。""}]"
+06ac21dc7d,海,うみ,umi,sea,N5,n,1201190,,何としても海をひと目みたいものだ。,I ache for a sight of the sea.,海,,reviewed,,,"[{""ja"":""何としても海をひと目みたいものだ。"",""zh"":""无论如何，我都想看一眼大海。""},{""ja"":""海までは、たった１マイルです。"",""zh"":""到海边只有一英里。""}]"
+f7e1da43df,売る,うる,uru,to sell,N5,v5r; vt,1473950,,トムはメアリーにバイクを売った。,Tom sold his motorcycle to Mary.,卖,,reviewed,,,"[{""ja"":""トムはメアリーにバイクを売った。"",""zh"":""汤姆把摩托车卖给了玛丽。""},{""ja"":""バターは１ポンドいくらで売られる。"",""zh"":""黄油按每磅的价格出售。""}]"
+7ecfe0d248,煩い,うるさい,urusai,noisy; annoying,N5,adj-i,1481920,うるさい,あの子はなんてうるさい子だろう。,What a nuisance that child is!,吵闹的; 烦人的,,reviewed,,,"[{""ja"":""あの子はなんてうるさい子だろう。"",""zh"":""那孩子真吵啊。""},{""ja"":""つべこべうるさいよ。やるのかやらないのか！？"",""zh"":""啰嗦什么，你到底做不做？！""}]"
+1ef8a05bf3,上着,うわぎ,uwagi,jacket,N5,n,1580340,,ドアのそばのかぎに上着をかけなさい。,Hang your jacket on the hook by the door.,上衣; 外套,,reviewed,,,"[{""ja"":""ドアのそばのかぎに上着をかけなさい。"",""zh"":""把外套挂在门旁的钩子上。""},{""ja"":""その上着はよくもったね。"",""zh"":""那件外套穿了很久呢。""}]"
+5bb390da0b,絵,え,e,picture,N5,n,1202270,,絵がテーブルの上にかかっている。,The picture hangs over the table.,画; 图画,,reviewed,,,"[{""ja"":""絵がテーブルの上にかかっている。"",""zh"":""画挂在桌子上方。""},{""ja"":""なぜその絵を見なかったのですか。"",""zh"":""你为什么没看那幅画？""}]"
+92b1621231,映画,えいが,eiga,movie,N5,n,1173720,,その映画をもう一度見たいな。,I want to see the movie again.,电影,,reviewed,,,"[{""ja"":""その映画をもう一度見たいな。"",""zh"":""我想再看一遍那部电影。""},{""ja"":""映画を見に行こうではないですか。"",""zh"":""我们去看电影吧。""}]"
+8a88cfbcb8,映画館,えいがかん,eigakan,cinema,N5,n,1173750,,その映画館は人々でいっぱいだった。,The cinema was filled with people.,电影院,,reviewed,,,"[{""ja"":""その映画館は人々でいっぱいだった。"",""zh"":""那家电影院里挤满了人。""},{""ja"":""この近くに映画館はありますか。"",""zh"":""这附近有电影院吗？""}]"
+16adc7bd03,英語,えいご,eigo,English language,N5,n,1174420,,アメリカでは英語を話します。,They speak English in America.,英语,,reviewed,,,"[{""ja"":""アメリカでは英語を話します。"",""zh"":""美国人说英语。""},{""ja"":""先生のように英語が話せたらなぁ。"",""zh"":""要是我能像老师那样说英语就好了。""}]"
+8ac60a4060,ええ,ええ,ee,yes,N5,int,1001140,,「テニスをしましょうか」「ええ」,"""Let's play tennis."" ""Yes let's.""",嗯; 是的,,reviewed,,,"[{""ja"":""「テニスをしましょうか」「ええ」"",""zh"":""“我们打网球吧？”“好啊。”""},{""ja"":""ええ、アンソニーです。"",""zh"":""是的，我是安东尼。""}]"
+d5f359c20b,駅,えき,eki,station,N5,n,1175140,,グランド・セントラル駅までやってください。,"Grand Central Station, please.",车站（通常指铁路车站）,,reviewed,,,"[{""ja"":""グランド・セントラル駅までやってください。"",""zh"":""请送我到中央车站。""},{""ja"":""ここから駅まで２マイルあります。"",""zh"":""从这里到车站有两英里。""}]"
+eb1695baf6,エレベーター,エレベーター,erebeetaa,elevator,N5,n,1030630,,エレベーターはどこですか。,Where is the elevator?,电梯,,reviewed,,,"[{""ja"":""エレベーターはどこですか。"",""zh"":""电梯在哪里？""},{""ja"":""私はエレベーターで下におりた。"",""zh"":""我坐电梯下去了。""}]"
+381da4d060,鉛筆,えんぴつ,enpitsu,pencil,N5,n,1178590,,えんぴつであなたの名前を書きなさい。,Write your name with the pencil.,铅笔,,reviewed,,,"[{""ja"":""えんぴつであなたの名前を書きなさい。"",""zh"":""用铅笔写下你的名字。""},{""ja"":""ペンか鉛筆を持っていますか。"",""zh"":""你带钢笔或铅笔了吗？""}]"
+7f02ae8fa1,おいしい,おいしい,oishii,delicious,N5,adj-i,1486650,美味しい,おいしい食事をありがとう。,Thanks for the delicious meal.,好吃的; 美味的,,reviewed,,,"[{""ja"":""おいしい食事をありがとう。"",""zh"":""谢谢你招待这么好吃的一餐。""},{""ja"":""なんておいしいスープなんだろう。"",""zh"":""这汤真好喝！""}]"
+60813fffd1,多い,おおい,ooi,many,N5,adj-i,1407460,,この学校は男子よりも女子が多い。,There are more girls than boys in this school.,多的,,reviewed,,,"[{""ja"":""この学校は男子よりも女子が多い。"",""zh"":""这所学校的女生比男生多。""},{""ja"":""そこには、水が多かったからである。"",""zh"":""那是因为那里有很多水。""}]"
+8fa5a63fc7,大きい,おおきい,ookii,big,N5,adj-i,1588880,,もっと大きいサイズはありますか。,Do you have a larger size?,大的,,reviewed,,,"[{""ja"":""もっと大きいサイズはありますか。"",""zh"":""有更大一号的吗？""},{""ja"":""きみは何と大きい家を持っているんだろう。"",""zh"":""你的房子真大啊。""}]"
+3a2de0afca,大きな,おおきな,ookina,big,N5,adj-pn,1412890,,それらはとても大きなりんごです。,They are very big apples.,大的（直接修饰名词）,,reviewed,,,"[{""ja"":""それらはとても大きなりんごです。"",""zh"":""那些是很大的苹果。""},{""ja"":""あの大きなハンマーを見てごらん。"",""zh"":""你看看那把大锤子。""}]"
 57ed89b240,大勢,おおぜい,oozei,great number of people,N5,n; adj-no,1414220,,大ぜいの人たちがいた。,There were lots of people.,,,,,,[]
 2007947770,お母さん,おかあさん,okaasan,(honorable) mother,N5,n,1002650,,お母さんに口答えしてはいけませんよ。,Don't answer your mother back.,,,,,,[]
 669019c625,お菓子,おかし,okashi,sweets; candy,N5,n,1001710,,もうすこしお菓子を食べませんか。,Will you have some more cake?,,,,,,[]
@@ -326,7 +326,7 @@ c9a15e8777,座る,すわる,suwaru,to sit,N5,v5r; vi,1291800,,父と母は木の
 898b067287,背,せ,se,height; stature,N5,n,2147990,,トムはジャックと背が同じくらいだ。,Tom is as tall as Jack.,,,,,,[]
 af7459ef1e,生徒,せいと,seito,pupil,N5,n,1379380,,この学校はたくさんの生徒がいます。,This school has many students.,,,,,,[]
 4b0b49a42d,セーター,セーター,seetaa,sweater; jumper,N5,n,1074270,,このセーターは気に入らない。,I don't like this sweater.,,,,,,[]
-b48d0c99d4,せっけん,せっけん,sekken,soap,N5,n,1382590,,せっけんだらけの手で私にさわらないで。,Don't touch me with your soapy hands.,肥皂,这里是洗手用的肥皂，汉字可写作石鹸或石けん。不要与同音的節倹（节俭）混淆。,draft,,,"[{""ja"":""せっけんだらけの手で私にさわらないで。"",""zh"":""别用沾满肥皂的手碰我。""},{""ja"":""せっけんで手を洗いました。"",""zh"":""我用肥皂洗了手。""}]"
+b48d0c99d4,せっけん,せっけん,sekken,soap,N5,n,1382590,,せっけんだらけの手で私にさわらないで。,Don't touch me with your soapy hands.,肥皂,这里是洗手用的肥皂，汉字可写作石鹸或石けん。不要与同音的節倹（节俭）混淆。,reviewed,,,"[{""ja"":""せっけんだらけの手で私にさわらないで。"",""zh"":""别用满是肥皂的手碰我。""},{""ja"":""せっけんで手を洗いました。"",""zh"":""我用肥皂洗了手。""}]"
 9d432ac114,背広,せびろ,sebiro,business suit,N5,n,1472740,,私は新しい背広を買った。,I bought a new suit of clothes.,,,,,,[]
 d12ee2e932,狭い,せまい,semai,narrow,N5,adj-i,1237680,,オランダは狭い国です。,The Netherlands is a small country.,,,,,,[]
 434707d737,ゼロ,ゼロ,zero,zero,N5,n,2839962,,私たちは商売をゼロから始めなければならなかった。,We had to start our business from zero.,,,,,,[]
@@ -367,7 +367,7 @@ e7ca1b2fd5,たて,たて,tate,length; height,N5,n,1335640,縦,テーブルを縦
 80beed00bf,たばこ,たばこ,tabako,tobacco; cigarettes,N5,n,1597150,煙草,男はライターでたばこに火をつけた。,The man lit a cigarette with a lighter.,,,,,,[]
 d9eba03b7b,たぶん,たぶん,tabun,probably,N5,adv,1407980,多分,君にはたぶんみんなわかっていることでしょう。,I expect you know all about it.,,,,,,[]
 5c89b3094a,食べ物,たべもの,tabemono,food,N5,n,1358340,,食べ物はすべてなくなってしまった。,All the food was gone.,,,,,,[]
-86f67e2dc3,食べる,たべる,taberu,to eat,N5,v1; vt,1358280,,ちょうど食べたかったものでした。,That hit the spot.,吃,一段动词，表示吃。礼貌形式为食べます，否定形式为食べない。,draft,,,"[{""ja"":""ちょうど食べたかったものでした。"",""zh"":""正好是我想吃的东西。""},{""ja"":""食べながら読んではいけません。"",""zh"":""不能一边吃东西一边看书。""}]"
+86f67e2dc3,食べる,たべる,taberu,to eat,N5,v1; vt,1358280,,ちょうど食べたかったものでした。,That hit the spot.,吃,一段动词，表示吃。礼貌形式为食べます，否定形式为食べない。,reviewed,,,"[{""ja"":""ちょうど食べたかったものでした。"",""zh"":""正好是我想吃的东西。""},{""ja"":""食べながら読んではいけません。"",""zh"":""不要一边吃东西一边看书。""}]"
 4d66739694,卵,たまご,tamago,egg,N5,n,1549140,,卵を一ダースづつつめなさい。,Pack eggs in dozens.,,,,,,[]
 3d2ca62c5f,誰,だれ,dare,who,N5,pn,1416830,,誰がこれをしたのかはわからない。,There is no telling who did this.,,,,,,[]
 2e610178ae,誕生日,たんじょうび,tanjoubi,birthday,N5,n,1419110,,誕生日とは人が生まれた日のことだ。,The birthday is the day on which a person was born.,,,,,,[]
@@ -641,7 +641,7 @@ d980cb1531,ゆっくりと,ゆっくりと,yukkurito,slowly,N5,adv; adv-to; vs,1
 1907b6fc38,洋服,ようふく,youfuku,western-style clothes,N5,n,1546020,,お前に新しい洋服を作ってあげよう。,I will make a new suit for you.,,,,,,[]
 19db29fbbb,よく,よく,yoku,often; well,N5,adv,1605870,,ジャック、よく来てくれたね。,"You are welcome, Jack!",,,,,,[]
 4cb7c969c4,横,よこ,yoko,beside; side; width,N5,n,1180570,,母親は赤ん坊をベッドに横にした。,The mother laid her baby on the bed.,,,,,,[]
-222ae96df7,四日,よっか,yokka,four days; fourth day of the month,N5,n,1307320,,長くても４日しか待てませんよ。,I can wait four days at the longest.,四天; 四号,よっか既可以表示四天，也可以表示每月四号，需结合语境判断。,draft,,,"[{""ja"":""長くても４日しか待てませんよ。"",""zh"":""最多只能等四天。""},{""ja"":""私は１９７４年６月４日に生まれた。"",""zh"":""我出生于1974年6月4日。""}]"
+222ae96df7,四日,よっか,yokka,four days; fourth day of the month,N5,n,1307320,,長くても４日しか待てませんよ。,I can wait four days at the longest.,四天; 四号,よっか既可以表示四天，也可以表示每月四号，需结合语境判断。,reviewed,,,"[{""ja"":""長くても４日しか待てませんよ。"",""zh"":""我最多只能等四天。""},{""ja"":""私は１９７４年６月４日に生まれた。"",""zh"":""我出生于一九七四年六月四日。""}]"
 1000ee441a,四つ,よっつ,yottsu,four,N5,num,1307040,,その紙を四つ折りにしなさい。,Fold the paper in four.,,,,,,[]
 76f05a0739,呼ぶ,よぶ,yobu,to call out; to invite,N5,v5b; vt,1266440,,あなたをケパと呼ぶことにします。,You will be called Cephas.,,,,,,[]
 eb7e675902,読む,よむ,yomu,to read,N5,v5m; vt,1456360,,本を読む時間がほとんどないんだ。,I have little time to read.,,,,,,[]

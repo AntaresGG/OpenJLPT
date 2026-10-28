@@ -29,7 +29,7 @@
     ],
     "notes": "Written は but pronounced 'wa'. It sets up what the sentence is about; the key information comes after it.",
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "3176e50529d6bda7707f7a4b5a7963c699a1d9b8d96440156d6a0a474c9e3958",
       "meanings": [
         "至于……",
@@ -54,8 +54,12 @@
       ],
       "references": [
         "sources/grammar/n5.json#wa",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "72bbc3bf2f9fe44829a08bf4cb80c8979284f3fc4fdcb4640f3b1a0678ce8db1"
     }
   },
   {
@@ -87,7 +91,7 @@
     ],
     "notes": "Question words such as だれ and 何 take が, never は, when they are the subject. が is also used with 好き, ほしい, 上手 and わかる for the thing liked, wanted or understood.",
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "6fd39578a6caa28da48534dec9128ebf021b902198d26f46d18fcf4d14c5cf1b",
       "meanings": [
         "提示主语",
@@ -112,8 +116,12 @@
       ],
       "references": [
         "sources/grammar/n5.json#ga-subject",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "189fdb9f704573c6514c8475f8a281cdcaa61dd1c48c7dfa9d6c7cc72fbbbdad"
     }
   },
   {
@@ -145,7 +153,7 @@
     ],
     "notes": "Written を but pronounced 'o'. With movement verbs such as 歩く, 散歩する and 出る it marks the route or the place being left.",
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "bcab0dc2551d165d900894c81347803e39905b3ae3738bcc121fbb50685275d3",
       "meanings": [
         "提示动作对象",
@@ -170,8 +178,12 @@
       ],
       "references": [
         "sources/grammar/n5.json#o",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "a23e09f2689ca473204a9bc294ac0a46bae9ea37fd223f17ec410e79a7313ac3"
     }
   },
   {
@@ -204,14 +216,14 @@
     ],
     "notes": "Used with clock times, dates, days of the week and months. Relative words such as 今日, 明日, 毎日 and 来週 take no に.",
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "22dd5f3fdd4c81678bbdf62540b849d03ef4b05f91333099b9f7341d1f60f4d0",
       "meanings": [
         "在……时间"
       ],
       "formation": "具体时间名词＋に",
       "explanation": "表示动作发生的具体时间点，可用于钟点、日期、星期等。",
-      "notes": "今日、明日、毎日等相对时间通常不加に；星期名称后的に有时可省略。",
+      "notes": "今日、明日等相对时间，以及毎日等频率表达通常不加に；星期名称后的に有时可省略。",
       "examples": [
         {
           "ja": "毎朝7時に起きます。",
@@ -228,8 +240,12 @@
       ],
       "references": [
         "sources/grammar/n5.json#ni-time",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "d7c368dae1c3b2ad72297cf751b4095890cedaf517c2f4a72f0cb2990a5610ae"
     }
   },
   {
@@ -261,7 +277,7 @@
     ],
     "notes": "Close in meaning to へ. に puts the focus on the arrival point, へ on the direction.",
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "06b0e934d16e9c9e52e9ffda249d50fbf756858b063f5dd06c36e56de92d65ad",
       "meanings": [
         "到……",
@@ -286,8 +302,12 @@
       ],
       "references": [
         "sources/grammar/n5.json#ni-destination",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "ca339cc0398099c8277b44b3527b6b8a099e6e462bbc8ddda4c852488992e4e3"
     }
   },
   {
@@ -319,12 +339,12 @@
     ],
     "notes": "Used with ある, いる and 住む. For the place where an action happens (eat, study, play), use で instead.",
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "4296c668739177e8285b1bfd77ea3227a9e8f273d80a260662844fb0a80a5266",
       "meanings": [
         "在……（存在的地点）"
       ],
-      "formation": "地点名词＋に＋ある／いる",
+      "formation": "地点名词＋に＋ある／いる／住む等",
       "explanation": "说明人或事物存在的位置，也可与住む等表示居住的动词搭配。",
       "notes": "ある通常用于无生命事物，いる用于人或动物；活动发生的场所通常用で。",
       "examples": [
@@ -343,8 +363,12 @@
       ],
       "references": [
         "sources/grammar/n5.json#ni-location",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "3235d9edaeb73fd4f395b8e997438074f73964d80c2d4979fb4870b5ab7f77cf"
     }
   },
   {
@@ -376,7 +400,7 @@
     ],
     "notes": "Common with あげる, 貸す, 教える, 見せる, 電話をかける and 会う. With もらう and 借りる, に marks the person you get something from.",
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "a0723afaedf42490a1df2a08abe29bed55e50cb91023bc575fe1b0a03afbb011",
       "meanings": [
         "向……",
@@ -401,8 +425,12 @@
       ],
       "references": [
         "sources/grammar/n5.json#ni-indirect-object",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "263f69cecc380162b217075f4e4214a7cf78a6c912d93a2cc57d2b152d59c4fc"
     }
   },
   {
@@ -435,7 +463,7 @@
     ],
     "notes": "The period comes first, then に, then the number of times: 月に一回 (once a month).",
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "6805e7472ffc06a0a5b3745e4e4a6be8e3f33717ffef241416ebfb90cba5d212",
       "meanings": [
         "每……",
@@ -460,8 +488,12 @@
       ],
       "references": [
         "sources/grammar/n5.json#ni-frequency",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "ec4ae3b92fa4183f39f3c62bb8bfee2466d054648908eab3382316437a209a3f"
     }
   },
   {
@@ -493,7 +525,7 @@
     ],
     "notes": "Written へ but pronounced 'e'. Usually interchangeable with に for destinations; へ stresses the direction a little more.",
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "d6a7e432e198c51f68b930ffe6265fb65cbb0747634145275eed8891fdad59b0",
       "meanings": [
         "往……",
@@ -518,8 +550,12 @@
       ],
       "references": [
         "sources/grammar/n5.json#e",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "7dd33a4eded929e32b61a96f1ffe6c056a6604d762932d078b5cbc1cff4f0b27"
     }
   },
   {
@@ -551,7 +587,7 @@
     ],
     "notes": "Compare 教室にいます (being somewhere: に) with 教室で勉強します (doing something there: で).",
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "0a7f0a4c3639fd8d6a46200bc90903d64ea139b13be6fff69fb9c9d2c73c7c9f",
       "meanings": [
         "在……（动作发生的场所）"
@@ -575,8 +611,12 @@
       ],
       "references": [
         "sources/grammar/n5.json#de-place",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "ffac0336285db73bf30a09df1f04b53012bd58b5d8cfec4e7ca2d32fca8d9669"
     }
   },
   {
@@ -607,7 +647,41 @@
       "particle",
       "means"
     ],
-    "notes": "To say 'on foot', use 歩いて行きます rather than で."
+    "notes": "To say 'on foot', use 歩いて行きます rather than で.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "15e4d1b692358e28da1f70a7384cf6e11f27fc4ff202c315d5642015a87199a3",
+      "meanings": [
+        "用……",
+        "乘……",
+        "以……方式"
+      ],
+      "formation": "名词＋で",
+      "explanation": "表示完成动作所用的工具、交通方式、语言或手段。",
+      "notes": "步行去通常说歩いて行く；不要把表示工具的で与表示地点的で混淆。",
+      "examples": [
+        {
+          "ja": "毎日電車で会社へ行きます。",
+          "zh": "我每天乘电车去公司。"
+        },
+        {
+          "ja": "はしでご飯を食べます。",
+          "zh": "我用筷子吃饭。"
+        },
+        {
+          "ja": "日本語で手紙を書きました。",
+          "zh": "我用日语写了信。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n5.json#de-means",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "af03a83bd504e722f6d7269610876ff3ef0d952daa0bc024f2f3d5ae9bddb4b8"
+    }
   },
   {
     "id": "to-and",
@@ -637,7 +711,39 @@
       "particle",
       "addition"
     ],
-    "notes": "と lists every item; to give just some examples, use や. It joins nouns only, not verbs or adjectives."
+    "notes": "と lists every item; to give just some examples, use や. It joins nouns only, not verbs or adjectives.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "61aba31711fa09fdfaad6bcf045bad56279ba19961b8cd6f788a7f8d8e5eb410",
+      "meanings": [
+        "和（完整列举）"
+      ],
+      "formation": "名词＋と＋名词",
+      "explanation": "连接名词，列出当前所谈范围内的各项。",
+      "notes": "表示举例而不列全时通常用や；此用法不能直接连接动词或形容词。",
+      "examples": [
+        {
+          "ja": "かばんの中にペンとノートがあります。",
+          "zh": "包里有笔和笔记本。"
+        },
+        {
+          "ja": "朝ご飯にパンとたまごを食べました。",
+          "zh": "我早餐吃了面包和鸡蛋。"
+        },
+        {
+          "ja": "父と母は銀行で働いています。",
+          "zh": "父亲和母亲在银行工作。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n5.json#to-and",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "0f67c7c11dd89cd29345fbe9055d25dea67694442b7355bd938de8cebf266930"
+    }
   },
   {
     "id": "to-with",
@@ -666,7 +772,40 @@
     "tags": [
       "particle"
     ],
-    "notes": "Often followed by いっしょに. With verbs like 話す, 会う and 結婚する, と marks the other person."
+    "notes": "Often followed by いっしょに. With verbs like 話す, 会う and 結婚する, と marks the other person.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "287d4fa3fc13ba76a8caf34fe03200613767ddfeaeb37d999a2d27ccb7e934ce",
+      "meanings": [
+        "和……一起",
+        "与……"
+      ],
+      "formation": "人物名词＋と（＋いっしょに）",
+      "explanation": "表示共同参与动作的对象，也可用于交谈、见面或结婚等相互性动作。",
+      "notes": "と强调双方参与；会う也可以用に标记见面的对象，具体选择取决于语境。",
+      "examples": [
+        {
+          "ja": "週末、友達と映画を見ました。",
+          "zh": "周末我和朋友看了电影。"
+        },
+        {
+          "ja": "妹といっしょに買い物に行きます。",
+          "zh": "我要和妹妹一起去购物。"
+        },
+        {
+          "ja": "だれと昼ご飯を食べましたか。",
+          "zh": "你和谁一起吃了午饭？"
+        }
+      ],
+      "references": [
+        "sources/grammar/n5.json#to-with",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "37034cfa2f94b506d7b67e17492cf12b1584ec14e4e67d7c9e2ee53fe5dec0cd"
+    }
   },
   {
     "id": "ya",
@@ -691,7 +830,35 @@
       "particle",
       "example"
     ],
-    "notes": "Suggests the list is not complete. Often ends with など: 本や雑誌など."
+    "notes": "Suggests the list is not complete. Often ends with など: 本や雑誌など.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "300c2ebea83cb83cd6b9087fc182f125f606e37c20e089fabd12f9832c4aab70",
+      "meanings": [
+        "……和……等"
+      ],
+      "formation": "名词＋や＋名词（＋など）",
+      "explanation": "从多个项目中选出代表性的几项，不表示已经列举完毕。",
+      "notes": "常与など搭配；需要完整列举时通常用と。",
+      "examples": [
+        {
+          "ja": "机の上に本や雑誌があります。",
+          "zh": "桌上有书、杂志等。"
+        },
+        {
+          "ja": "スーパーで肉や野菜を買いました。",
+          "zh": "我在超市买了肉、蔬菜等东西。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n5.json#ya",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "d4abc1defa9f2dac9d19bde63368f8c4759bc107643e4469cb1df5f56e866cd0"
+    }
   },
   {
     "id": "ka-or",
@@ -720,7 +887,39 @@
     "tags": [
       "particle"
     ],
-    "notes": "Means one of the items is chosen. To list items together, use と or や."
+    "notes": "Means one of the items is chosen. To list items together, use と or や.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "c3ddd36ca270d70b9b6c5c3a1a661bd6b01870c9df9c9882bb9aa0665fce8aea",
+      "meanings": [
+        "或者"
+      ],
+      "formation": "名词＋か＋名词",
+      "explanation": "列出可供选择的项目，表示其中之一。",
+      "notes": "此处的か表示选择，不是句末的疑问助词；共同列举用と或や。",
+      "examples": [
+        {
+          "ja": "飲み物はコーヒーか紅茶がいいです。",
+          "zh": "饮料我想要咖啡或红茶。"
+        },
+        {
+          "ja": "土曜日か日曜日に買い物に行きます。",
+          "zh": "我会在星期六或星期日去购物。"
+        },
+        {
+          "ja": "駅までバスかタクシーで行きます。",
+          "zh": "我乘公交车或出租车去车站。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n5.json#ka-or",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "2493716cc0b764c3bdd7a52c31af4465968529f154dcbf1cc962f25b2796bca2"
+    }
   },
   {
     "id": "mo",

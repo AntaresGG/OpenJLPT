@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { join } from 'node:path';
-import { attachChinese, sourceHash, type Chinese } from '../../scripts/lib/localization.ts';
+import { attachChinese, sourceHash, reviewHash, validateReview, type Chinese } from '../../scripts/lib/localization.ts';
 import { applyCorrections } from '../../scripts/lib/corrections.ts';
 import { ROOT } from '../../scripts/lib/util.ts';
 import { findWord, getVocab, getGrammar, searchVocab, searchGrammar } from '../../src/index.ts';
@@ -24,7 +24,7 @@ test('corrections are idempotent and reject unexpected upstream edits before mut
   const before = JSON.stringify(entries);
   applyCorrections(entries, fixes);
   assert.equal(JSON.stringify(entries), before);
-  entries.find(e => e.id === fixes[fixes.length - 1].id)!.meanings = ['unexpected upstream edit'];
+  entries.find(e => e.id === fixes[0].id)!.meanings = ['unexpected upstream edit'];
   const changed = JSON.stringify(entries);
   assert.throws(() => applyCorrections(entries, fixes), /conflict/);
   assert.equal(JSON.stringify(entries), changed);
@@ -51,6 +51,45 @@ test('Chinese search finds exact and partial Chinese while preserving English be
   assert.equal(searchVocab('吃')[0].word, '食べる');
   assert.equal(searchVocab('eat')[0].word, '食べる');
   assert.ok(searchGrammar('事先').some(g => g.id === 'te-oku'));
-  assert.equal(getVocab().filter(v => v.zh?.status === 'draft').length, 200);
-  assert.equal(getGrammar().filter(g => g.zh?.status === 'draft').length, 20);
+  assert.equal(getVocab().filter(v => v.zh?.status === 'reviewed').length, 200);
+  assert.equal(getGrammar().filter(g => g.zh?.status === 'reviewed').length, 30);
+});
+
+test('review binds the exact Chinese wording and requires honest provenance', () => {
+  const zh = structuredClone(findWord('食べる')!.zh!);
+  assert.equal(zh.review_method, 'ai');
+  assert.equal(zh.reviewer, 'Codex');
+  assert.doesNotThrow(() => validateReview(zh));
+  const approved = reviewHash(zh);
+  zh.examples[0].zh = 'Changed translation';
+  assert.notEqual(reviewHash(zh), approved);
+  assert.throws(() => validateReview(zh), /re-review/);
+  zh.status = 'draft';
+  assert.doesNotThrow(() => validateReview(zh));
+  zh.status = 'reviewed';
+  delete zh.reviewer;
+  assert.throws(() => validateReview(zh), /provenance/);
+});
+
+test('all reviewed entries have complete aligned Chinese examples and current source hashes', () => {
+  const entries = [...getVocab(), ...getGrammar()].filter(e => e.zh?.status === 'reviewed');
+  for (const entry of entries) {
+    assert.equal(entry.zh!.source_hash, sourceHash(entry), entry.id);
+    assert.doesNotThrow(() => validateReview(entry.zh!), entry.id);
+    assert.deepEqual(entry.zh!.examples.map(e => e.ja), entry.examples!.map(e => e.ja), entry.id);
+    assert.ok(entry.zh!.examples.every(e => e.zh.trim().length > 0), entry.id);
+    assert.ok(entry.examples!.every(e => !/#[0-9]+/.test(e.furigana ?? '')), entry.id);
+  }
+  assert.equal(entries.reduce((n,e) => n + e.zh!.examples.length, 0), 489);
+});
+
+test('review fixes counter, greeting, lexical reading and inclusive boundary errors', () => {
+  const five = findWord('五つ')!;
+  assert.ok(five.examples!.every(e => !e.ja.includes('五つ木')));
+  assert.ok(five.examples!.some(e => e.ja === '卵を五つ買いました。' && !e.tatoeba_id));
+  assert.ok(findWord('いただきます')!.examples!.every(e => e.ja.includes('「いただきます」') && !e.tatoeba_id));
+  assert.ok(findWord('以下')!.meanings.includes('not more than'));
+  assert.equal(findWord('以下')!.examples![0].en, 'You cannot buy it for 1,000 yen or less.');
+  assert.ok(findWord('行う')!.examples!.some(e => e.furigana?.includes('{行|おこな}')));
+  assert.ok(getVocab().find(e => e.word === '明日' && e.reading === 'あす')!.examples!.every(e => e.furigana?.includes('{明日|あす}')));
 });

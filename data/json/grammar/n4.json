@@ -28,16 +28,16 @@
     ],
     "notes": "くれる is used only when the receiver is the speaker or someone in the speaker's group. With もらう the giver can be marked with に or から.",
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "37fc6ae3038a18c36d93616dc845e9bbba1a141063af4a7debab57ee04e3b22a",
       "meanings": [
         "给别人",
         "给我方",
         "从别人处得到"
       ],
-      "formation": "接受者＋に＋物品＋を＋あげる／给予者＋が＋物品＋を＋くれる／给予者＋に或から＋物品＋を＋もらう",
+      "formation": "给予者＋は／が＋接受者＋に＋物品＋を＋あげる／くれる；接受者＋は／が＋给予者＋に／から＋物品＋を＋もらう",
       "explanation": "あげる从给予者角度表示给别人；くれる表示别人给说话人或说话人一方；もらう从接受者角度表示得到。",
-      "notes": "先确定给予者、接受者和说话人的立场，再选动词。",
+      "notes": "先确定给予者、接受者和说话人的立场。くれる常表示给我方，也可用于说话人将受益者视为自己一方的语境。",
       "examples": [
         {
           "ja": "私は弟に古いゲームをあげた。",
@@ -54,8 +54,14 @@
       ],
       "references": [
         "sources/grammar/n4.json#ageru-kureru-morau",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review",
+        "https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201409.html",
+        "https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201412.html"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "0fcf41043a6d61c1116a39ec70bac2e1306765af6e903551c177fd3467aa4f4f"
     }
   },
   {
@@ -87,7 +93,7 @@
     ],
     "notes": "Said directly to a superior it can sound condescending; use the humble お〜しましょうか (お持ちしましょうか) instead.",
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "4a3e646b4bc0e0437258e7da79d12c1ed51cb3dfde65cea35de8e2bddcd48064",
       "meanings": [
         "为别人做……"
@@ -111,8 +117,14 @@
       ],
       "references": [
         "sources/grammar/n4.json#te-ageru",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review",
+        "https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201409.html",
+        "https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201412.html"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "69c668e3fd1a3e9cf95182001093d618b3f21801081a8082f335e6e5f733d083"
     }
   },
   {
@@ -144,7 +156,7 @@
     ],
     "notes": "The subject is the person doing the favor; the one who benefits is the speaker or someone close to them.",
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "8f23f4cf953c6158a3224725d7c105abe528787f7f72e4c65dceb7abba88865e",
       "meanings": [
         "别人为我或我方做……"
@@ -168,8 +180,14 @@
       ],
       "references": [
         "sources/grammar/n4.json#te-kureru",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review",
+        "https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201409.html",
+        "https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201412.html"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "8db5b945abd8b9d187b32a71de2e59cb04effa566656b13a7e577fff38ca45b2"
     }
   },
   {
@@ -201,7 +219,7 @@
     ],
     "notes": "The receiver of the favor is the subject, and the person who does the action is marked with に.",
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "b479421519422cb48cc3d45a4500c6a20982bd99acf35c87cda671735910f46e",
       "meanings": [
         "请别人做……",
@@ -226,8 +244,14 @@
       ],
       "references": [
         "sources/grammar/n4.json#te-morau",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review",
+        "https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201409.html",
+        "https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201412.html"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "5e19efea2b9cfd41098fe2804d731efc6432876eb789df0fc8bdd336ce1b7a56"
     }
   },
   {
@@ -261,7 +285,7 @@
     ],
     "notes": "くださる is the honorific version of くれる (ます-form: くださいます); いただく is the humble version of もらう.",
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "89d89ca998bb47ae57f16df9541ee2a21d4768bb70b34b9d44f5f3f368a05c9f",
       "meanings": [
         "对方为我做……（尊敬）",
@@ -277,7 +301,7 @@
         },
         {
           "ja": "ホテルの方に、おいしい店を教えていただきました。",
-          "zh": "我向酒店工作人员请教了一家好吃的店。"
+          "zh": "承蒙酒店工作人员介绍，我知道了一家好吃的店。"
         },
         {
           "ja": "今日は来ていただいて、ありがとうございました。",
@@ -286,8 +310,14 @@
       ],
       "references": [
         "sources/grammar/n4.json#te-kudasaru-te-itadaku",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review",
+        "https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201409.html",
+        "https://www.jpf.go.jp/j/project/japanese/teach/tsushin/grammar/201412.html"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "df2d2800b662ee41b9c142fbd2946d334467e7da4d24ff5581d18ea981ffe658"
     }
   },
   {
@@ -320,7 +350,7 @@
     ],
     "notes": "Movement or change away from the speaker, or from now toward the future. Compare 〜てくる.",
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "fe0c03368d6080fe520658f7df7c3a99eab3cfe2a874860fa5b8aa500d64a5cc",
       "meanings": [
         "做了再去",
@@ -346,8 +376,12 @@
       ],
       "references": [
         "sources/grammar/n4.json#te-iku",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "0d0cc91ad73b8239b071a492d20fab723d760c71870d4092d7674cd70677d002"
     }
   },
   {
@@ -379,7 +413,7 @@
     ],
     "notes": "Movement or change toward the speaker, or from the past up to now. 行ってきます literally means 'I'll go and come back.'",
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "5d74555bfcf1f44d5ffe474ae9282266e467084290c7e979fe82b93d81048611",
       "meanings": [
         "做了再回来",
@@ -396,7 +430,7 @@
         },
         {
           "ja": "日本語が少しずつ分かってきた。",
-          "zh": "我渐渐开始能听懂或看懂日语了。"
+          "zh": "我渐渐开始理解日语了。"
         },
         {
           "ja": "おなかがすいてきた。",
@@ -405,8 +439,12 @@
       ],
       "references": [
         "sources/grammar/n4.json#te-kuru",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "7f3aceff00c2ca920167d9787a9029bd151c5fe0a39b52dda925c06f69df5ede"
     }
   },
   {
@@ -440,7 +478,7 @@
     ],
     "notes": "In speech 〜てしまう contracts to 〜ちゃう, and 〜でしまう to 〜じゃう (飲んじゃう).",
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "437f82543fd9db20a39d22276d8d6de11750fcf10874fc2f09e85cb84c0e4884",
       "meanings": [
         "做完",
@@ -466,8 +504,12 @@
       ],
       "references": [
         "sources/grammar/n4.json#te-shimau-chau",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "86354e9bab9a70f5451490068d0b90b9a8e2306156db8cd170912e6273376604"
     }
   },
   {
@@ -499,7 +541,7 @@
     ],
     "notes": "In casual speech 〜ておく often becomes 〜とく (買っとく), and 〜でおく becomes 〜どく (読んどく).",
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "9fb49e2ad1e1f01b80a6aca0f0fe897129bc5a0d706e6233f674857852ace10d",
       "meanings": [
         "事先做好……",
@@ -524,8 +566,12 @@
       ],
       "references": [
         "sources/grammar/n4.json#te-oku",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "adef931b3ed83bef364f7d3f37a2793ba16aca21a3b0e62f91c7db2f7638bfe8"
     }
   },
   {
@@ -557,14 +603,14 @@
     ],
     "notes": "Means trying something out to see the result, not making an effort to do something difficult.",
     "zh": {
-      "status": "draft",
+      "status": "reviewed",
       "source_hash": "649942fec9e65f6d38afc3278953eb914961bbeb31da05bf4a0d5b262cd5f222",
       "meanings": [
         "试着做……看看"
       ],
       "formation": "动词て形＋みる",
       "explanation": "实际尝试某个动作，以了解效果或体验结果。",
-      "notes": "这里的みる是辅助动词，通常写假名；与表示打算尝试的ようとする不同。",
+      "notes": "这里的みる是辅助动词，通常写假名。てみる重在实际试做以观察结果；ようとする侧重尝试采取行动，未必成功。",
       "examples": [
         {
           "ja": "このシャツ、着てみてもいいですか。",
@@ -581,8 +627,12 @@
       ],
       "references": [
         "sources/grammar/n4.json#te-miru",
-        "Original Chinese draft by Codex; not human-reviewed"
-      ]
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "222d37b9186d6c0a8372cdd8b956b4b59d961498a3c14f919b45c9e259a8e0cc"
     }
   },
   {
@@ -613,7 +663,39 @@
       "state",
       "result"
     ],
-    "notes": "Used with transitive verbs, and the object usually takes が. It implies someone did it on purpose, unlike 〜ている with intransitive verbs (窓が開いている)."
+    "notes": "Used with transitive verbs, and the object usually takes が. It implies someone did it on purpose, unlike 〜ている with intransitive verbs (窓が開いている).",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "efdf24e7e6f693064ab614783615fcded5474b9ee10e5adae6cb08466e461dcd",
+      "meanings": [
+        "已经……好（结果状态）"
+      ],
+      "formation": "他动词て形＋ある",
+      "explanation": "表示有人有意做过某事，其结果仍保持着，常含事先安排或准备的意味。",
+      "notes": "描述结果状态时，原动作对象常用が标记，如地図がはってある；强调已经完成准备时也可保留を。区别于自动词＋ている单纯描述状态。",
+      "examples": [
+        {
+          "ja": "入り口に地図がはってあります。",
+          "zh": "入口处贴着地图。"
+        },
+        {
+          "ja": "テーブルの上にお皿が並べてあった。",
+          "zh": "桌上已经摆好了盘子。"
+        },
+        {
+          "ja": "ビールなら冷蔵庫に入れてあるよ。",
+          "zh": "啤酒的话，已经放进冰箱了。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n4.json#te-aru",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "8c17a2ddc337efe80ba8b5c9ef58e78fc4d200d6b5cbe96fd643f803941b6543"
+    }
   },
   {
     "id": "toki",
@@ -643,7 +725,39 @@
       "time",
       "sequence"
     ],
-    "notes": "The verb's tense shows the order: 行くとき means before or on the way (the going isn't finished yet); 行ったとき means after arriving. Often written 時 in kanji."
+    "notes": "The verb's tense shows the order: 行くとき means before or on the way (the going isn't finished yet); 行ったとき means after arriving. Often written 時 in kanji.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "363cf2525e7bf22a0c0d23e3458046ae9d8b8a1547ec0179ab5791fcef2277a2",
+      "meanings": [
+        "……的时候"
+      ],
+      "formation": "动词普通形／い形容词＋とき；な形容词＋な＋とき；名词＋の＋とき",
+      "explanation": "以某个时间、状态或事件作为背景，说明另一件事在何时发生。",
+      "notes": "行くとき中的前项动作尚未完成，行ったとき则以该动作已实现为背景；具体先后关系仍需结合动词和上下文，不能只看整句话是否发生在过去。",
+      "examples": [
+        {
+          "ja": "子どものとき、よく川で泳ぎました。",
+          "zh": "小时候，我经常在河里游泳。"
+        },
+        {
+          "ja": "日本へ行くとき、新しいかばんを買いました。",
+          "zh": "去日本之前，我买了一个新包。"
+        },
+        {
+          "ja": "日本へ行ったとき、友達にお土産を買いました。",
+          "zh": "去日本时，我给朋友买了伴手礼。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n4.json#toki",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "dfcce00901c1883abfc3d7c80923c6e88e4f047e2fc37f7d12b896cf7a617ea3"
+    }
   },
   {
     "id": "aida-aida-ni",
@@ -674,7 +788,40 @@
       "time",
       "simultaneity"
     ],
-    "notes": "間 means the action continues through the whole period; 間に means it happens at some point within the period."
+    "notes": "間 means the action continues through the whole period; 間に means it happens at some point within the period.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "3334aab0b9e602b049fdf17f37ea681efdfc749e37c1d1f4ef5e4637033de957",
+      "meanings": [
+        "在……的整个期间",
+        "在……期间的某个时候"
+      ],
+      "formation": "动词ている形／辞书形＋間（に）；名词＋の＋間（に）",
+      "explanation": "間侧重某个动作或状态贯穿整段时间；間に侧重某件事发生或完成于这段时间内。",
+      "notes": "持续状态也可用形容词修饰：忙しい間、元気な間。先判断要表达持续，还是期间内发生的一件事。",
+      "examples": [
+        {
+          "ja": "夏休みの間、祖父の家にいました。",
+          "zh": "暑假期间我一直住在祖父家。"
+        },
+        {
+          "ja": "母が寝ている間に、部屋を掃除した。",
+          "zh": "趁母亲睡觉时，我打扫了房间。"
+        },
+        {
+          "ja": "電車を待っている間、ずっと本を読んでいた。",
+          "zh": "等电车的整个过程中，我一直在看书。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n4.json#aida-aida-ni",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "d64475beb8a64800902dcdaf31f0d4bdef26a7138c27105c3272089d45335aad"
+    }
   },
   {
     "id": "sou-da-appearance",
@@ -704,7 +851,40 @@
       "appearance",
       "conjecture"
     ],
-    "notes": "A judgment from what you see. いい → よさそう, ない → なさそう. Not used with adjectives for plainly visible traits (赤い, かわいい); かわいそう means 'pitiful'."
+    "notes": "A judgment from what you see. いい → よさそう, ない → なさそう. Not used with adjectives for plainly visible traits (赤い, かわいい); かわいそう means 'pitiful'.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "92aad9e99e3e468052b85a3639fe9691a437f00f5388b8ef6240ed3bb27b18a8",
+      "meanings": [
+        "看起来……",
+        "眼看就要……"
+      ],
+      "formation": "动词ます形去ます＋そうだ；い形容词去い＋そうだ；な形容词词干＋そうだ",
+      "explanation": "根据眼前的迹象判断状态，或判断某个动作、变化即将发生。",
+      "notes": "いい变为よさそう，ない变为なさそう；否定动词另有降りそうにない等形式。かわいそう通常表示可怜，不能用来表达看起来可爱。与传闻そうだ的接续不同。",
+      "examples": [
+        {
+          "ja": "そのカレー、辛そうだね。",
+          "zh": "那份咖喱看起来很辣呢。"
+        },
+        {
+          "ja": "空が暗いですね。雨が降りそうです。",
+          "zh": "天空很暗，看起来要下雨了。"
+        },
+        {
+          "ja": "久しぶりに会った祖父は元気そうだった。",
+          "zh": "久别重逢的祖父看起来精神很好。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n4.json#sou-da-appearance",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "90db0b860fadd1aa6df55e2d0f8ddc867455b025746764eaccd6b018f734a142"
+    }
   },
   {
     "id": "sou-da-hearsay",
@@ -733,7 +913,40 @@
     "tags": [
       "hearsay"
     ],
-    "notes": "Attaches to full plain forms, unlike the 'looks like' そうだ, which attaches to stems. It has no past or negative form."
+    "notes": "Attaches to full plain forms, unlike the 'looks like' そうだ, which attaches to stems. It has no past or negative form.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "130525b4118230e950d2132d7b590813bb258d5e4b69f8c5e8bd642a12d25e41",
+      "meanings": [
+        "听说……",
+        "据说……"
+      ],
+      "formation": "动词／い形容词普通形＋そうだ；名词／な形容词普通形（现在肯定含だ）＋そうだ",
+      "explanation": "转述从别人、报道等渠道得到的信息，不是依据眼前迹象作判断。",
+      "notes": "过去或否定信息放在前面的普通形中，如雨が降ったそうだ、来ないそうだ；不要通过把传闻そうだ本身变成そうだった或そうではない来表达这些意思。",
+      "examples": [
+        {
+          "ja": "天気予報では、明日は雪が降るそうです。",
+          "zh": "天气预报说明天会下雪。"
+        },
+        {
+          "ja": "駅前の本屋は来月なくなるそうだ。",
+          "zh": "听说车站前的书店下个月要关门了。"
+        },
+        {
+          "ja": "リンさんのお兄さんは医者だそうです。",
+          "zh": "听说林同学的哥哥是医生。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n4.json#sou-da-hearsay",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "aa9fcb191e7ca52a3586a12663ca2b8dfa0fdcd10dec0fdc9ff487a9ee18250a"
+    }
   },
   {
     "id": "rashii",

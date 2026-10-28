@@ -31,7 +31,8 @@ def test_chinese_lookup_and_fallback():
     assert search_vocab("eat")[0].word == "食べる"
     assert any(g.id == "te-oku" for g in search_grammar("事先"))
     assert len([v for v in get_vocab() if v.zh]) == 200
-    assert len([g for g in get_grammar() if g.zh]) == 20
+    assert len([g for g in get_grammar() if g.zh]) == 30
+    assert all(e.zh['status'] == 'reviewed' and e.zh['review_method'] == 'ai' for e in [*get_vocab(), *get_grammar()] if e.zh)
 
 
 def test_json_csv_sqlite_agree():
@@ -59,6 +60,6 @@ def test_anki_chinese_and_source_attribution():
     word = next(v for v in json.loads((Path(data_root()) / "json/vocab/n5.json").read_text(encoding="utf-8")) if v["word"] == "せっけん")
     note = exports.vocab_note(word, {})
     assert "肥皂" in note.fields[4]
-    assert "中文初稿" in note.fields[4]
+    assert "正式稿 · AI 审校" in note.fields[4]
     word["zh"]["status"] = "stale"
     assert "肥皂" not in exports.vocab_note(word, {}).fields[4]

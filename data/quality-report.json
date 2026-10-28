@@ -8,22 +8,25 @@
     "vocab": {
       "N5": {
         "total": 674,
-        "draft": 100,
-        "reviewed": 0,
+        "draft": 0,
+        "reviewed": 100,
+        "ai_reviewed": 100,
         "stale": 0,
-        "translated_examples": 8
+        "translated_examples": 200
       },
       "N4": {
         "total": 630,
-        "draft": 100,
-        "reviewed": 0,
+        "draft": 0,
+        "reviewed": 100,
+        "ai_reviewed": 100,
         "stale": 0,
-        "translated_examples": 6
+        "translated_examples": 200
       },
       "N3": {
         "total": 1659,
         "draft": 0,
         "reviewed": 0,
+        "ai_reviewed": 0,
         "stale": 0,
         "translated_examples": 0
       },
@@ -31,6 +34,7 @@
         "total": 1778,
         "draft": 0,
         "reviewed": 0,
+        "ai_reviewed": 0,
         "stale": 0,
         "translated_examples": 0
       },
@@ -38,6 +42,7 @@
         "total": 3070,
         "draft": 0,
         "reviewed": 0,
+        "ai_reviewed": 0,
         "stale": 0,
         "translated_examples": 0
       }
@@ -45,22 +50,25 @@
     "grammar": {
       "N5": {
         "total": 81,
-        "draft": 10,
-        "reviewed": 0,
+        "draft": 0,
+        "reviewed": 15,
+        "ai_reviewed": 15,
         "stale": 0,
-        "translated_examples": 30
+        "translated_examples": 44
       },
       "N4": {
         "total": 98,
-        "draft": 10,
-        "reviewed": 0,
+        "draft": 0,
+        "reviewed": 15,
+        "ai_reviewed": 15,
         "stale": 0,
-        "translated_examples": 30
+        "translated_examples": 45
       },
       "N3": {
         "total": 101,
         "draft": 0,
         "reviewed": 0,
+        "ai_reviewed": 0,
         "stale": 0,
         "translated_examples": 0
       },
@@ -68,6 +76,7 @@
         "total": 123,
         "draft": 0,
         "reviewed": 0,
+        "ai_reviewed": 0,
         "stale": 0,
         "translated_examples": 0
       },
@@ -75,6 +84,7 @@
         "total": 123,
         "draft": 0,
         "reviewed": 0,
+        "ai_reviewed": 0,
         "stale": 0,
         "translated_examples": 0
       }
@@ -127,6 +137,282 @@
       "references": [
         "https://www.edrdg.org/jmdict/j_jmdict.html",
         "JMdict ent_seq 1401210; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "ebec658463",
+      "reason": "Include the conventional green-traffic-light sense shown in the examples.",
+      "references": [
+        "JMdict entry 1381380",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "51a671ec17",
+      "reason": "Include figurative inexperience, explicitly illustrated by the existing example.",
+      "references": [
+        "JMdict entry 1381390",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "9661cbac61",
+      "reason": "Both examples illustrate raising or increasing, missing from the original gloss.",
+      "references": [
+        "JMdict entry 1352320",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "bee501faf0",
+      "reason": "Replace an anatomical euphemism with an original spatial example.",
+      "references": [
+        "JMdict entry 1000320",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "34e6f7d220",
+      "reason": "Use an original example of the actual headword rather than its casual variant.",
+      "references": [
+        "JMdict entry 1483185",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "4afffe5811",
+      "reason": "The first example uses leniency rather than sweetness.",
+      "references": [
+        "JMdict entry 1213400",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "d727a76b22",
+      "reason": "Supply original examples for the demonstrative, without borrowed sentence attribution.",
+      "references": [
+        "JMdict entry 1000580",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "6d4596ae46",
+      "reason": "Supply original negative-answer examples.",
+      "references": [
+        "JMdict entry 1583250",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "cd1bcc2b1b",
+      "reason": "Remove irritated, which does not express the intended busy/occupied sense.",
+      "references": [
+        "JMdict entry 1519290",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "eac7a22620",
+      "reason": "The meal greeting was illustrated by payment/drinking uses of itadaku. Replace with original greeting examples.",
+      "references": [
+        "JMdict entry 1410800",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "9ac35c3990",
+      "reason": "The original matched the proper noun Itsuki, not the counter itsutsu. Original replacement.",
+      "references": [
+        "JMdict entry 1268070",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "9438889173",
+      "reason": "Replace auxiliary iru with an original animate-existence example.",
+      "references": [
+        "JMdict entry 1577980",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "d1a343e501",
+      "reason": "Cover interpersonal relations and among students in the existing examples.",
+      "references": [
+        "JMdict entry 1215230",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "4a3152836b",
+      "reason": "Replace dead-battery and rain-stopping senses with original examples of the selected rise/ascend senses.",
+      "references": [
+        "JMdict entry 1352290",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "91f0d5ac9e",
+      "reason": "Include availability of time, as illustrated by the existing example.",
+      "references": [
+        "JMdict entry 1586270",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "4c3461199c",
+      "reason": "The selected reading is asu, not ashita. Use original sentences with explicit matching readings.",
+      "references": [
+        "JMdict entry 1584660",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "88d4196563",
+      "reason": "Supply original part-time-work examples.",
+      "references": [
+        "JMdict entry 1019420",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "629362dbfc",
+      "reason": "Numerical ika includes the stated boundary; correct gloss and English translation.",
+      "references": [
+        "JMdict entry 1155060",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "13ab63d79a",
+      "reason": "Numerical ijou includes the boundary; retain beyond for the degree example.",
+      "references": [
+        "JMdict entry 1155120",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "47cc7185d5",
+      "reason": "Illustrate lexical humble receiving/eating rather than only auxiliary te-itadaku.",
+      "references": [
+        "JMdict entry 1587290",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "bc25dff617",
+      "reason": "Supply original honorific existence/coming examples.",
+      "references": [
+        "JMdict entry 1000940",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "bf69a1d9f2",
+      "reason": "The first example is humble asking, not visiting.",
+      "references": [
+        "JMdict entry 1305700",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "76d4bcd098",
+      "reason": "Both examples mismatch the temporal uchi sense; one uses naka, the other home. Replace with original temporal examples.",
+      "references": [
+        "JMdict entry 1457730",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "6d3b3fe0a4",
+      "reason": "Existing examples mean skillful and a good offer, not delicious.",
+      "references": [
+        "JMdict entry 1310460",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "1b5a6286d6",
+      "reason": "Use an original physical-reverse-side example for the selected sense.",
+      "references": [
+        "JMdict entry 1550190",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "4cfa8f43e2",
+      "reason": "Replace incidental factual claims and malformed furigana with original illustrative sentences, not real-world statistics.",
+      "references": [
+        "JMdict entry 1182620",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "99de4451f7",
+      "reason": "The first example raises the body, while the second wakes someone.",
+      "references": [
+        "JMdict entry 1223660",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "2139fab218",
+      "reason": "Original example disambiguates okonau from the mistaken iku example and reading.",
+      "references": [
+        "JMdict entry 1589060",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "6693b4e9f7",
+      "reason": "Otaku respectfully refers to an organization as well as a home; the second example concerns a store.",
+      "references": [
+        "JMdict entry 1002400",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "981ee66f59",
+      "reason": "Use original physical-falling examples consistent with the selected beginner sense.",
+      "references": [
+        "JMdict entry 1548550",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "f786333cf9",
+      "reason": "Use an original example of dropping/losing rather than removing a name from a list.",
+      "references": [
+        "JMdict entry 1589260",
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "3139c14254",
+      "reason": "Replace a location-dependent instruction with an original neutral escalator example.",
+      "references": [
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "54e1f7a772",
+      "reason": "Replace a dictionary-ID token in furigana with the contextually reviewed kana reading; retain original sentence attribution.",
+      "references": [
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "877a39a99f",
+      "reason": "Replace a dictionary-ID token in furigana with the contextually reviewed kana reading; retain original sentence attribution.",
+      "references": [
+        "sources/quality/review-2026-10-28.json"
+      ]
+    },
+    {
+      "id": "b8630e0875",
+      "reason": "Replace a dictionary-ID token in furigana with the contextually reviewed kana reading; retain original sentence attribution.",
+      "references": [
+        "sources/quality/review-2026-10-28.json"
       ]
     }
   ],
@@ -1138,5 +1424,644 @@
       "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
     }
   ],
-  "limitation": "Structural audit and original Chinese drafts; no human linguistic review or statistical error-rate estimate."
+  "malformed_furigana": [
+    {
+      "id": "2120ff505c",
+      "word": "会社",
+      "ja": "ビルは三年前にこの会社に入った。",
+      "furigana": "ビルは{三年|さんねん}{前|#1392580}にこの{会社|かいしゃ}に{入|はい}った。",
+      "status": "needs_review"
+    },
+    {
+      "id": "19f270c68f",
+      "word": "消す",
+      "ja": "寝る前に電気を消してください。",
+      "furigana": "{寝|ね}る{前|#1392580}に{電気|でんき}を{消|け}してください。",
+      "status": "needs_review"
+    },
+    {
+      "id": "0144505953",
+      "word": "デパート",
+      "ja": "そのデパートの前に書店がある。",
+      "furigana": "そのデパートの{前|#1392580}に{書店|しょてん}がある。",
+      "status": "needs_review"
+    },
+    {
+      "id": "677d3c5fac",
+      "word": "ドア",
+      "ja": "入る前にドアをノックして下さい。",
+      "furigana": "{入|はい}る{前|#1392580}にドアをノックして{下|くだ}さい。",
+      "status": "needs_review"
+    },
+    {
+      "id": "c428d02d43",
+      "word": "入る",
+      "ja": "入る前にドアをノックして下さい。",
+      "furigana": "{入|はい}る{前|#1392580}にドアをノックして{下|くだ}さい。",
+      "status": "needs_review"
+    },
+    {
+      "id": "ede9ab2f7f",
+      "word": "まっすぐ",
+      "ja": "まっすぐ前を見てください。",
+      "furigana": "まっすぐ{前|#1392580}を{見|み}てください。",
+      "status": "needs_review"
+    },
+    {
+      "id": "285b008622",
+      "word": "夕方",
+      "ja": "ひょっとすると夕方前に雨になるかもしれない。",
+      "furigana": "ひょっとすると{夕方|ゆうがた}{前|#1392580}に{雨|あめ}になるかもしれない。",
+      "status": "needs_review"
+    },
+    {
+      "id": "cc34f28850",
+      "word": "考える",
+      "ja": "答える前によく考えねばならない。",
+      "furigana": "{答|こた}える{前|#1392580}によく{考|かんが}えねばならない。",
+      "status": "needs_review"
+    },
+    {
+      "id": "7225b79db5",
+      "word": "聞こえる",
+      "ja": "車が家の前に止まる音が聞こえた。",
+      "furigana": "{車|くるま}が{家|いえ}の{前|#1392580}に{止|と}まる{音|おと}が{聞|き}こえた。",
+      "status": "needs_review"
+    },
+    {
+      "id": "a431dff83f",
+      "word": "公務員",
+      "ja": "彼は２０年前、大学を卒業するとすぐに公務員になった。",
+      "furigana": "{彼|かれ}は２０{年|ねん}{前|#1392580}、{大学|だいがく}を{卒業|そつぎょう}するとすぐに{公務員|こうむいん}になった。",
+      "status": "needs_review"
+    },
+    {
+      "id": "beb32f751c",
+      "word": "調べる",
+      "ja": "家は買う前によく調べるべきだ。",
+      "furigana": "{家|いえ}は{買|か}う{前|#1392580}によく{調|しら}べるべきだ。",
+      "status": "needs_review"
+    },
+    {
+      "id": "40c673da45",
+      "word": "神社",
+      "ja": "その神社は２００年前に建てられた。",
+      "furigana": "その{神社|じんじゃ}は２００{年|ねん}{前|#1392580}に{建|た}てられた。",
+      "status": "needs_review"
+    },
+    {
+      "id": "8065461ace",
+      "word": "すく",
+      "ja": "バスの前の方は空いていた。",
+      "furigana": "バスの{前|#1392580}の{方|ほう}は{空|す}いていた。",
+      "status": "needs_review"
+    },
+    {
+      "id": "1e1b53a2d3",
+      "word": "済む",
+      "ja": "１０時ちょっと前に仕事が済んだ。",
+      "furigana": "１０{時|じ}ちょっと{前|#1392580}に{仕事|しごと}が{済|す}んだ。",
+      "status": "needs_review"
+    },
+    {
+      "id": "be7c090b8e",
+      "word": "手袋",
+      "ja": "ポールは出かける前に手袋をした。",
+      "furigana": "ポールは{出|で}かける{前|#1392580}に{手袋|てぶくろ}をした。",
+      "status": "needs_review"
+    },
+    {
+      "id": "e9c1a3ae2c",
+      "word": "通る",
+      "ja": "私は毎日その教会の前を通る。",
+      "furigana": "{私|わたし}は{毎日|まいにち}その{教会|きょうかい}の{前|#1392580}を{通|とお}る。",
+      "status": "needs_review"
+    },
+    {
+      "id": "3aadcbc234",
+      "word": "止める",
+      "ja": "急にジムは銀行の前で車を止めた。",
+      "furigana": "{急|きゅう}にジムは{銀行|ぎんこう}の{前|#1392580}で{車|くるま}を{止|と}めた。",
+      "status": "needs_review"
+    },
+    {
+      "id": "2adec6b9b4",
+      "word": "亡くなる",
+      "ja": "父は２年前に亡くなった。",
+      "furigana": "{父|ちち}は２{年|ねん}{前|#1392580}に{亡|な}くなった。",
+      "status": "needs_review"
+    },
+    {
+      "id": "433da13afb",
+      "word": "入学",
+      "ja": "私はこの学校に２年前に入学した。",
+      "furigana": "{私|わたし}はこの{学校|がっこう}に２{年|ねん}{前|#1392580}に{入学|にゅうがく}した。",
+      "status": "needs_review"
+    },
+    {
+      "id": "4610276c99",
+      "word": "始める",
+      "ja": "父はこの事業を４０年前に始めた。",
+      "furigana": "{父|ちち}はこの{事業|じぎょう}を４０{年|ねん}{前|#1392580}に{始|はじ}めた。",
+      "status": "needs_review"
+    },
+    {
+      "id": "a441432c8a",
+      "word": "拾う",
+      "ja": "ホテルの前で私を車で拾ってください。",
+      "furigana": "ホテルの{前|#1392580}で{私|わたし}を{車|くるま}で{拾|ひろ}ってください。",
+      "status": "needs_review"
+    },
+    {
+      "id": "f6b676e45f",
+      "word": "太る",
+      "ja": "あまり太ったのでカラーの前が合わなかった。",
+      "furigana": "あまり{太|ふと}ったのでカラーの{前|#1392580}が{合|あ}わなかった。",
+      "status": "needs_review"
+    },
+    {
+      "id": "cb6d7546fb",
+      "word": "負ける",
+      "ja": "私は友人の前で負けたくなかった。",
+      "furigana": "{私|わたし}は{友人|ゆうじん}の{前|#1392580}で{負|ま}けたくなかった。",
+      "status": "needs_review"
+    },
+    {
+      "id": "d81bb54f03",
+      "word": "湯",
+      "ja": "日本人は寝る前に熱い湯につかるのが好きです。",
+      "furigana": "{日本人|にほんじん}は{寝|ね}る{前|#1392580}に{熱|あつ}い{湯|ゆ}につかるのが{好|す}きです。",
+      "status": "needs_review"
+    },
+    {
+      "id": "33abea1364",
+      "word": "演説",
+      "ja": "彼はたくさんの人の前で演説した。",
+      "furigana": "{彼|かれ}はたくさんの{人|ひと}の{前|#1392580}で{演説|えんぜつ}した。",
+      "status": "needs_review"
+    },
+    {
+      "id": "a8a06b3e15",
+      "word": "男の人",
+      "ja": "若い男の人がドアの前で歌っています。",
+      "furigana": "{若|わか}い{男|おとこ}の{人|ひと}がドアの{前|#1392580}で{歌|うた}っています。",
+      "status": "needs_review"
+    },
+    {
+      "id": "33875d6135",
+      "word": "家事",
+      "ja": "妻の活動は家事に限られている。",
+      "furigana": "{妻|#1294330}の{活動|かつどう}は{家事|かじ}に{限|かぎ}られている。",
+      "status": "needs_review"
+    },
+    {
+      "id": "a32b605031",
+      "word": "交際",
+      "ja": "その男は妻と交際し始めた。",
+      "furigana": "その{男|おとこ}は{妻|#1294330}と{交際|こうさい}し{始|はじ}めた。",
+      "status": "needs_review"
+    },
+    {
+      "id": "60b9a40caa",
+      "word": "克服",
+      "ja": "彼は妻の死をまだ克服していない。",
+      "furigana": "{彼|かれ}は{妻|#1294330}の{死|し}をまだ{克服|こくふく}していない。",
+      "status": "needs_review"
+    },
+    {
+      "id": "f8acb92221",
+      "word": "事件",
+      "ja": "彼はその事件のことを妻に話した。",
+      "furigana": "{彼|かれ}はその{事件|じけん}のことを{妻|#1294330}に{話|はな}した。",
+      "status": "needs_review"
+    },
+    {
+      "id": "99dc3e9d67",
+      "word": "事務",
+      "ja": "退職する前に彼は事務を渡した。",
+      "furigana": "{退職|たいしょく}する{前|#1392580}に{彼|かれ}は{事務|じむ}を{渡|わた}した。",
+      "status": "needs_review"
+    },
+    {
+      "id": "34502f33ca",
+      "word": "週",
+      "ja": "それはその前の週に買ったものでした。",
+      "furigana": "それはその{前|#1392580}の{週|しゅう}に{買|か}ったものでした。",
+      "status": "needs_review"
+    },
+    {
+      "id": "d83bc64e48",
+      "word": "書斎",
+      "ja": "妻が寝た後、書斎で仕事をした。",
+      "furigana": "{妻|#1294330}が{寝|ね}た{後|あと}、{書斎|しょさい}で{仕事|しごと}をした。",
+      "status": "needs_review"
+    },
+    {
+      "id": "20119e5c9b",
+      "word": "倒す",
+      "ja": "シート横にあるノブを前に動かし、シートを倒します。",
+      "furigana": "シート{横|よこ}にあるノブを{前|#1392580}に{動|うご}かし、シートを{倒|たお}します。",
+      "status": "needs_review"
+    },
+    {
+      "id": "4850008747",
+      "word": "ノック",
+      "ja": "入る前にドアをノックして下さい。",
+      "furigana": "{入|はい}る{前|#1392580}にドアをノックして{下|くだ}さい。",
+      "status": "needs_review"
+    },
+    {
+      "id": "215a642747",
+      "word": "発車",
+      "ja": "駅に着く前に列車は発車していた。",
+      "furigana": "{駅|えき}に{着|つ}く{前|#1392580}に{列車|れっしゃ}は{発車|はっしゃ}していた。",
+      "status": "needs_review"
+    },
+    {
+      "id": "1ea7451e69",
+      "word": "瓶",
+      "ja": "使用する前に瓶を振ってください。",
+      "furigana": "{使用|しよう}する{前|#1392580}に{瓶|びん}を{振|ふ}ってください。",
+      "status": "needs_review"
+    },
+    {
+      "id": "44edce4345",
+      "word": "ベルト",
+      "ja": "彼女は腰に革のベルトをしている。",
+      "furigana": "{彼女|かのじょ}は{腰|#1288340}に{革|かわ}のベルトをしている。",
+      "status": "needs_review"
+    },
+    {
+      "id": "e7344aa7e1",
+      "word": "法",
+      "ja": "すべての人は法の前に平等です。",
+      "furigana": "すべての{人|ひと}は{法|ほう}の{前|#1392580}に{平等|びょうどう}です。",
+      "status": "needs_review"
+    },
+    {
+      "id": "ba21b41503",
+      "word": "飯",
+      "ja": "とにかくメシ・・・といきたいところだが、その前に用を足すことにした。",
+      "furigana": "とにかくメシ・・・といきたいところだが、その{前|#1392580}に{用|よう}を{足|た}すことにした。",
+      "status": "needs_review"
+    },
+    {
+      "id": "b434efd06b",
+      "word": "夜明け",
+      "ja": "私は、突然夜明け前に起こされた。",
+      "furigana": "{私|わたし}は、{突然|とつぜん}{夜明|よあ}け{前|#1392580}に{起|お}こされた。",
+      "status": "needs_review"
+    },
+    {
+      "id": "b434efd06b",
+      "word": "夜明け",
+      "ja": "登山者は夜明け前に目を覚ました。",
+      "furigana": "{登山者|とざんしゃ}は{夜明|よあ}け{前|#1392580}に{目|め}を{覚|さ}ました。",
+      "status": "needs_review"
+    },
+    {
+      "id": "733b519a1e",
+      "word": "楽",
+      "ja": "人手が多ければ仕事は楽になるんだ。",
+      "furigana": "{人手|#2825953}が{多|おお}ければ{仕事|しごと}は{楽|らく}になるんだ。",
+      "status": "needs_review"
+    },
+    {
+      "id": "5b1dbc60e6",
+      "word": "遭う",
+      "ja": "前に彼にあったのを覚えている。",
+      "furigana": "{前|#1392580}に{彼|かれ}にあったのを{覚|おぼ}えている。",
+      "status": "needs_review"
+    },
+    {
+      "id": "6ee36ace0e",
+      "word": "角度",
+      "ja": "９０度の角度は直角と呼ばれている。",
+      "furigana": "９０{度|#1445160}の{角度|かくど}は{直角|ちょっかく}と{呼|よ}ばれている。",
+      "status": "needs_review"
+    },
+    {
+      "id": "a5b0e18f8b",
+      "word": "過半数",
+      "ja": "与党は前の選挙で過半数を占めた。",
+      "furigana": "{与党|よとう}は{前|#1392580}の{選挙|せんきょ}で{過半数|かはんすう}を{占|し}めた。",
+      "status": "needs_review"
+    },
+    {
+      "id": "1974a3d703",
+      "word": "間隔",
+      "ja": "彼が答える前に長い時間の間隔があった。",
+      "furigana": "{彼|かれ}が{答|こた}える{前|#1392580}に{長|なが}い{時間|じかん}の{間隔|かんかく}があった。",
+      "status": "needs_review"
+    },
+    {
+      "id": "9597fdd403",
+      "word": "着替え",
+      "ja": "彼女は今夜のパーティーの前に着替えをしなければならない。",
+      "furigana": "{彼女|かのじょ}は{今夜|こんや}のパーティーの{前|#1392580}に{着替|きが}えをしなければならない。",
+      "status": "needs_review"
+    },
+    {
+      "id": "eea1f873b2",
+      "word": "期限",
+      "ja": "期限前にこの仕事を仕上げなさい。",
+      "furigana": "{期限|きげん}{前|#1392580}にこの{仕事|しごと}を{仕上|しあ}げなさい。",
+      "status": "needs_review"
+    },
+    {
+      "id": "3c701afc3b",
+      "word": "櫛",
+      "ja": "外出する前に髪を櫛でときなさい。",
+      "furigana": "{外出|がいしゅつ}する{前|#1392580}に{髪|かみ}を{櫛|くし}でときなさい。",
+      "status": "needs_review"
+    },
+    {
+      "id": "d9f84d61b1",
+      "word": "苦心",
+      "ja": "苦心の甲斐があった。",
+      "furigana": "{苦心|くしん}の{甲斐|#1280250}があった。",
+      "status": "needs_review"
+    },
+    {
+      "id": "61b1422294",
+      "word": "出勤",
+      "ja": "朝食前に出勤するなんていかにも彼らしい。",
+      "furigana": "{朝食|ちょうしょく}{前|#1392580}に{出勤|しゅっきん}するなんていかにも{彼|かれ}らしい。",
+      "status": "needs_review"
+    },
+    {
+      "id": "bb1d4f2a63",
+      "word": "正門",
+      "ja": "正門前には、まだ人の姿もない。",
+      "furigana": "{正門|せいもん}{前|#1392580}には、まだ{人|ひと}の{姿|すがた}もない。",
+      "status": "needs_review"
+    },
+    {
+      "id": "5880c88977",
+      "word": "素質",
+      "ja": "私は優れた彼の妻になる素質がある。",
+      "furigana": "{私|わたし}は{優|すぐ}れた{彼|かれ}の{妻|#1294330}になる{素質|そしつ}がある。",
+      "status": "needs_review"
+    },
+    {
+      "id": "31df50f399",
+      "word": "剃る",
+      "ja": "出かける前にヒゲを剃らなくては。",
+      "furigana": "{出|で}かける{前|#1392580}にヒゲを{剃|そ}らなくては。",
+      "status": "needs_review"
+    },
+    {
+      "id": "415ca8e1aa",
+      "word": "大して",
+      "ja": "彼は大して妻の話し相手にはならない。",
+      "furigana": "{彼|かれ}は{大|たい}して{妻|#1294330}の{話|はな}し{相手|あいて}にはならない。",
+      "status": "needs_review"
+    },
+    {
+      "id": "56cd51f84a",
+      "word": "体操",
+      "ja": "朝食前にいつも体操をします。",
+      "furigana": "{朝食|ちょうしょく}{前|#1392580}にいつも{体操|たいそう}をします。",
+      "status": "needs_review"
+    },
+    {
+      "id": "2f149505a1",
+      "word": "鉄砲",
+      "ja": "彼が鉄砲を掃除していたら暴発し、もう少しで妻に当たるところだった。",
+      "furigana": "{彼|かれ}が{鉄砲|てっぽう}を{掃除|そうじ}していたら{暴発|ぼうはつ}し、もう{少|すこ}しで{妻|#1294330}に{当|あ}たるところだった。",
+      "status": "needs_review"
+    },
+    {
+      "id": "30d9cc84d3",
+      "word": "冷やす",
+      "ja": "白ワインは出す前に冷やす方がいいよ。",
+      "furigana": "{白|しろ}ワインは{出|だ}す{前|#1392580}に{冷|ひ}やす{方|ほう}がいいよ。",
+      "status": "needs_review"
+    },
+    {
+      "id": "b16f84d958",
+      "word": "ひゃっかじてん",
+      "ja": "この百科事典は、妻のものです。",
+      "furigana": "この{百科事典|ひゃっかじてん}は、{妻|#1294330}のものです。",
+      "status": "needs_review"
+    },
+    {
+      "id": "441e70ebe8",
+      "word": "噴水",
+      "ja": "駅の前に噴水があります。",
+      "furigana": "{駅|えき}の{前|#1392580}に{噴水|ふんすい}があります。",
+      "status": "needs_review"
+    },
+    {
+      "id": "286b27e0f2",
+      "word": "マイナス",
+      "ja": "昨夜、温度計はマイナス１０度を示した。",
+      "furigana": "{昨夜|ゆうべ}、{温度計|おんどけい}はマイナス１０{度|#1445160}を{示|しめ}した。",
+      "status": "needs_review"
+    },
+    {
+      "id": "d2a076ec5a",
+      "word": "剥く",
+      "ja": "リンゴを食べる前に皮をむきなさい。",
+      "furigana": "リンゴを{食|た}べる{前|#1392580}に{皮|かわ}をむきなさい。",
+      "status": "needs_review"
+    },
+    {
+      "id": "f00e187c45",
+      "word": "名詞",
+      "ja": "名詞から動詞が派生していることもあれば、その逆のこともある。",
+      "furigana": "{名詞|めいし}から{動詞|どうし}が{派生|はせい}していることもあれば、その{逆|#1226960}のこともある。",
+      "status": "needs_review"
+    },
+    {
+      "id": "2c59eb6f09",
+      "word": "来日",
+      "ja": "４年前に１年の予定で来日しました。",
+      "furigana": "４{年|ねん}{前|#1392580}に１{年|とし}の{予定|よてい}で{来日|らいにち}しました。",
+      "status": "needs_review"
+    },
+    {
+      "id": "3c6f24a260",
+      "word": "リズム",
+      "ja": "妻はアメリカでの新しい生活のリズムに慣れるのにえらい苦労した。",
+      "furigana": "{妻|#1294330}はアメリカでの{新|あたら}しい{生活|せいかつ}のリズムに{慣|な}れるのにえらい{苦労|くろう}した。",
+      "status": "needs_review"
+    },
+    {
+      "id": "f98e192838",
+      "word": "レンズ",
+      "ja": "レンズを通ると像は逆になった。",
+      "furigana": "レンズを{通|とお}ると{像|ぞう}は{逆|#1226960}になった。",
+      "status": "needs_review"
+    },
+    {
+      "id": "9c2a6f0131",
+      "word": "公",
+      "ja": "その老人は１０年前に公の生活から引退した。",
+      "furigana": "その{老人|ろうじん}は１０{年|ねん}{前|#1392580}に{公|おおやけ}の{生活|せいかつ}から{引退|いんたい}した。",
+      "status": "needs_review"
+    },
+    {
+      "id": "40f53466d6",
+      "word": "階級",
+      "ja": "彼は２年前に、大佐の階級に昇進した。",
+      "furigana": "{彼|かれ}は２{年|ねん}{前|#1392580}に、{大佐|たいさ}の{階級|かいきゅう}に{昇進|しょうしん}した。",
+      "status": "needs_review"
+    },
+    {
+      "id": "ecd9ff4900",
+      "word": "回路",
+      "ja": "回路を調べる前に、電源のスイッチを切りなさい。",
+      "furigana": "{回路|かいろ}を{調|しら}べる{前|#1392580}に、{電源|でんげん}のスイッチを{切|き}りなさい。",
+      "status": "needs_review"
+    },
+    {
+      "id": "ab92b16431",
+      "word": "傍ら",
+      "ja": "彼は読書をし、その傍らで妻が手袋を編んでいた。",
+      "furigana": "{彼|かれ}は{読書|どくしょ}をし、その{傍|かたわ}らで{妻|#1294330}が{手袋|てぶくろ}を{編|あ}んでいた。",
+      "status": "needs_review"
+    },
+    {
+      "id": "237ff96ee6",
+      "word": "愚痴",
+      "ja": "妻はいつも愚痴ばかりこぼしている。",
+      "furigana": "{妻|#1294330}はいつも{愚痴|ぐち}ばかりこぼしている。",
+      "status": "needs_review"
+    },
+    {
+      "id": "a0f10b94be",
+      "word": "結核",
+      "ja": "何年か前には、結核にかかっていると知らされることは死の宣告を聞くのに等しかった。",
+      "furigana": "{何年|なんねん}か{前|#1392580}には、{結核|けっかく}にかかっていると{知|し}らされることは{死|し}の{宣告|せんこく}を{聞|き}くのに{等|ひと}しかった。",
+      "status": "needs_review"
+    },
+    {
+      "id": "18beab6691",
+      "word": "コンタクト",
+      "ja": "サリーは前の日に買ったコンタクトをなくした。",
+      "furigana": "サリーは{前|#1392580}の{日|ひ}に{買|か}ったコンタクトをなくした。",
+      "status": "needs_review"
+    },
+    {
+      "id": "ae6a0942f1",
+      "word": "事業",
+      "ja": "父はこの事業を４０年前に始めた。",
+      "furigana": "{父|ちち}はこの{事業|じぎょう}を４０{年|ねん}{前|#1392580}に{始|はじ}めた。",
+      "status": "needs_review"
+    },
+    {
+      "id": "4f9508a37a",
+      "word": "失格",
+      "ja": "彼女は２度のフライングで失格した。",
+      "furigana": "{彼女|かのじょ}は２{度|#1445160}のフライングで{失格|しっかく}した。",
+      "status": "needs_review"
+    },
+    {
+      "id": "ddff5ba694",
+      "word": "修士",
+      "ja": "彼女は３年前に修士の学位をとりました。",
+      "furigana": "{彼女|かのじょ}は３{年|ねん}{前|#1392580}に{修士|しゅうし}の{学位|がくい}をとりました。",
+      "status": "needs_review"
+    },
+    {
+      "id": "a7b0152ffc",
+      "word": "終始",
+      "ja": "前の会社では何でも屋に終始したので今度は専門職に就きたい。",
+      "furigana": "{前|#1392580}の{会社|かいしゃ}では{何|なん}でも{屋|や}に{終始|しゅうし}したので{今度|こんど}は{専門職|せんもんしょく}に{就|つ}きたい。",
+      "status": "needs_review"
+    },
+    {
+      "id": "94cb3c6d1f",
+      "word": "初版",
+      "ja": "初版は１０年前に出版された。",
+      "furigana": "{初版|しょはん}は１０{年|ねん}{前|#1392580}に{出版|しゅっぱん}された。",
+      "status": "needs_review"
+    },
+    {
+      "id": "5fe5d25c22",
+      "word": "セール",
+      "ja": "いま閉店前のセールをやっているとこがありますか。",
+      "furigana": "いま{閉店|へいてん}{前|#1392580}のセールをやっているとこがありますか。",
+      "status": "needs_review"
+    },
+    {
+      "id": "e8937187a7",
+      "word": "創立",
+      "ja": "彼は５年前にその学校を創立した。",
+      "furigana": "{彼|かれ}は５{年|ねん}{前|#1392580}にその{学校|がっこう}を{創立|そうりつ}した。",
+      "status": "needs_review"
+    },
+    {
+      "id": "608257c42c",
+      "word": "手掛ける",
+      "ja": "私は４年前からこの仕事を手がけています。",
+      "furigana": "{私|わたし}は４{年|ねん}{前|#1392580}からこの{仕事|しごと}を{手|て}がけています。",
+      "status": "needs_review"
+    },
+    {
+      "id": "89781dc3a2",
+      "word": "電源",
+      "ja": "回路を調べる前に、電源のスイッチを切りなさい。",
+      "furigana": "{回路|かいろ}を{調|しら}べる{前|#1392580}に、{電源|でんげん}のスイッチを{切|き}りなさい。",
+      "status": "needs_review"
+    },
+    {
+      "id": "b6b8baaa21",
+      "word": "共稼ぎ",
+      "ja": "今では多くの家庭が共稼ぎで、夫と妻の両方が働いている。",
+      "furigana": "{今|いま}では{多|おお}くの{家庭|かてい}が{共稼|ともかせ}ぎで、{夫|おっと}と{妻|#1294330}の{両方|りょうほう}が{働|はたら}いている。",
+      "status": "needs_review"
+    },
+    {
+      "id": "48a804961e",
+      "word": "根回し",
+      "ja": "大統領は辞任する前にお金に困らないように根回しした。",
+      "furigana": "{大統領|だいとうりょう}は{辞任|じにん}する{前|#1392580}にお{金|かね}に{困|こま}らないように{根回|ねまわ}しした。",
+      "status": "needs_review"
+    },
+    {
+      "id": "05e2d4d19d",
+      "word": "復活",
+      "ja": "３０年前のファッションが復活した。",
+      "furigana": "３０{年|ねん}{前|#1392580}のファッションが{復活|ふっかつ}した。",
+      "status": "needs_review"
+    },
+    {
+      "id": "81dd8f026d",
+      "word": "沸騰",
+      "ja": "水は摂氏100度で沸騰する。",
+      "furigana": "{水|みず}は{摂氏|せっし}100{度|#1445160}で{沸騰|ふっとう}する。",
+      "status": "needs_review"
+    },
+    {
+      "id": "e0f4bf005a",
+      "word": "眉",
+      "ja": "妻の死の知らせを聞いてもまゆ一つ動かさなかった。",
+      "furigana": "{妻|#1294330}の{死|し}の{知|し}らせを{聞|き}いてもまゆ{一|ひと}つ{動|うご}かさなかった。",
+      "status": "needs_review"
+    },
+    {
+      "id": "88c5764dde",
+      "word": "無駄遣い",
+      "ja": "彼は妻の無駄遣いに渋い顔をする。",
+      "furigana": "{彼|かれ}は{妻|#1294330}の{無駄遣|むだづか}いに{渋|しぶ}い{顔|かお}をする。",
+      "status": "needs_review"
+    },
+    {
+      "id": "8307cffb68",
+      "word": "与党",
+      "ja": "与党は前の選挙で過半数を占めた。",
+      "furigana": "{与党|よとう}は{前|#1392580}の{選挙|せんきょ}で{過半数|かはんすう}を{占|し}めた。",
+      "status": "needs_review"
+    },
+    {
+      "id": "8c9facae6d",
+      "word": "了解",
+      "ja": "「とりあえず店の前、掃除しといてくれ」「了解！」「打ち水も頼む」",
+      "furigana": "「とりあえず{店|みせ}の{前|#1392580}、{掃除|そうじ}しといてくれ」「{了解|りょうかい}！」「{打|う}ち{水|みず}も{頼|たの}む」",
+      "status": "needs_review"
+    }
+  ],
+  "limitation": "Structural audit and explicitly recorded Codex linguistic review; no independent human review or statistical error-rate estimate. Initial pilot selection and expanded coverage are reported separately."
 }
