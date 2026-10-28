@@ -25,10 +25,10 @@
       "N3": {
         "total": 1659,
         "draft": 0,
-        "reviewed": 100,
-        "ai_reviewed": 100,
+        "reviewed": 1659,
+        "ai_reviewed": 1659,
         "stale": 0,
-        "translated_examples": 200
+        "translated_examples": 3299
       },
       "N2": {
         "total": 1778,
@@ -67,10 +67,10 @@
       "N3": {
         "total": 101,
         "draft": 0,
-        "reviewed": 10,
-        "ai_reviewed": 10,
+        "reviewed": 101,
+        "ai_reviewed": 101,
         "stale": 0,
-        "translated_examples": 30
+        "translated_examples": 303
       },
       "N2": {
         "total": 123,
@@ -493,6 +493,1157 @@
       "references": [
         "https://www.edrdg.org/jmdict/j_jmdict.html",
         "JMdict ent_seq 1308080; checked downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "b73c4e0e07",
+      "reason": "The examples did not contain うがい; replace them with original examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1577660; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "215cb207d4",
+      "reason": "Add original examples for the verb, which had none.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1478010; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "5e53fbc57d",
+      "reason": "The second example used the related noun うなり声 rather than the verb; replace it.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1565300; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "9ce542fed7",
+      "reason": "Add original examples for the prefix, which had none.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1352140; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "2306950c03",
+      "reason": "Add original examples for the handle sense, which had none.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1508290; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "9c851c43f7",
+      "reason": "The examples use 御社 read おん and the interjection お, not the honorific prefix お; replace with original examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 2826528; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "26e15c1ade",
+      "reason": "The examples use 音 read おと, not the reading おん; use original compounds.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 2859161; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "c139bcdcb4",
+      "reason": "Add original examples for the card, which had none.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1036400; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "27db6f596b",
+      "reason": "The first example uses 額 meaning amount rather than picture frame; replace it.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1207500; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "a88999f659",
+      "reason": "The second example is the verb 貸す, not the noun 貸し; replace it.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1411110; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "d9627ee0f6",
+      "reason": "The first example uses 方々 read ほうぼう rather than かたがた; replace it.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1584100; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "b921696612",
+      "reason": "The first example uses 口を利く, not 効く; replace it.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1591100; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "9b26978fc7",
+      "reason": "Add original examples to the entry without examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1226960; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "def0fe1435",
+      "reason": "The English meanings and second example correspond to noun におい rather than adjective くさい; correct them.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1333150; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "14d9875a05",
+      "reason": "Add original examples for the entry without examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 2868440; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "e73cc9df41",
+      "reason": "Add original examples for the entry without examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1245020; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "53f7d1e6a9",
+      "reason": "The first example contains the unrelated word イングランド; replace it.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1046840; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "628ac894ab",
+      "reason": "Both examples contain the verb 暮れる, not the noun 暮れ; replace them.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1514950; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "3d9a6a01ea",
+      "reason": "JMdict includes the total sense shown in the second example.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1252050; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "970f95c9c4",
+      "reason": "Add original examples for the entry without examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1047880; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "3480dbdcdb",
+      "reason": "Add original examples for the entry without examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 2234080; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "9c3ddb98b7",
+      "reason": "JMdict identifies code/program, while cord and chord are separate homographic entries. Add original code examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1049010; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "4f77e1d360",
+      "reason": "Add original examples for the entry without examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1054230; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "8d527d10b8",
+      "reason": "Add original examples and the lower-back sense documented in JMdict.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1288340; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "1a796e4b69",
+      "reason": "Correct the English gloss to the crossing and passing-time senses in JMdict and both examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1175300; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "6cd948ec5d",
+      "reason": "The second example uses the noun 断り rather than the verb; replace it.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1419570; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "380bf1226c",
+      "reason": "The first example reads 今日 as きょう, not こんにち. Select the latter reading and add a matching example.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1579110; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "2a04aa688d",
+      "reason": "JMdict covers signature and sign, while sine is a different homographic entry. Add original examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1056230; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "9923ca40cb",
+      "reason": "JMdict and the examples show the transitive support sense; the upstream gloss describes another reading.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1310090; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "e4e0df7a25",
+      "reason": "JMdict includes the negative and hopeless senses shown by the examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1005210; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "94c462cd78",
+      "reason": "Add original examples for the entry without examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1585460; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "e79255ce69",
+      "reason": "Replace the awkward first sentence with an original clear example.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1291410; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "33abea1364",
+      "reason": "Replace malformed numeric furigana with the correct reading; Japanese and Tatoeba attribution are unchanged.",
+      "references": [
+        "Japanese context; 前 read まえ and 妻 read つま"
+      ]
+    },
+    {
+      "id": "a8a06b3e15",
+      "reason": "Replace malformed numeric furigana with the correct reading; Japanese and Tatoeba attribution are unchanged.",
+      "references": [
+        "Japanese context; 前 read まえ and 妻 read つま"
+      ]
+    },
+    {
+      "id": "33875d6135",
+      "reason": "Replace malformed numeric furigana with the correct reading; Japanese and Tatoeba attribution are unchanged.",
+      "references": [
+        "Japanese context; 前 read まえ and 妻 read つま"
+      ]
+    },
+    {
+      "id": "a32b605031",
+      "reason": "Replace malformed numeric furigana with the correct reading; Japanese and Tatoeba attribution are unchanged.",
+      "references": [
+        "Japanese context; 前 read まえ and 妻 read つま"
+      ]
+    },
+    {
+      "id": "60b9a40caa",
+      "reason": "Replace malformed numeric furigana with the correct reading; Japanese and Tatoeba attribution are unchanged.",
+      "references": [
+        "Japanese context; 前 read まえ and 妻 read つま"
+      ]
+    },
+    {
+      "id": "07ced3db7b",
+      "reason": "Correct English gloss to the clothing sash sense in the illustrated entry.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1410410; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "04e1e7a756",
+      "reason": "Add degree and condition senses illustrated by the examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1190080; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "95c33dd7eb",
+      "reason": "The entry also denotes an honorific invitation to come, illustrated by its examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1000920; checked local JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "8b180f444a",
+      "reason": "JMdict 1430690 lists directly, in person, firsthand for じかに; immediately is a different reading and is inconsistent with both examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1430690; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "e0d7c68759",
+      "reason": "JMdict 1305380 includes putting away, the sense used by the first example.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1305380; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "5d154c188d",
+      "reason": "JMdict 1065950 covers juice and soft drinks; the tennis sense belongs to a different entry.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1065950; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "b1905d8e82",
+      "reason": "JMdict 1334150 gives residence, not resident.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1334150; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "17c0d3a658",
+      "reason": "JMdict 1580290 defines a girl or young lady; daughter and virgin are unsupported for this entry.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1580290; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "4ee42f5330",
+      "reason": "JMdict 1366010 covers advancement to the next stage of education, not only university; the first example refers to graduate school.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1366010; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "1255ad0e6f",
+      "reason": "JMdict and the example sentences show senses omitted by the upstream English gloss.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1422570; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "6763e0f981",
+      "reason": "JMdict and the example sentences show senses omitted by the upstream English gloss.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1432920; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "a14ba106bc",
+      "reason": "JMdict and the example sentences show senses omitted by the upstream English gloss.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1198890; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "f57860a6ca",
+      "reason": "JMdict and the example sentences show senses omitted by the upstream English gloss.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1454510; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "ef97fe9600",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1241750; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "e957aa6df9",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1295040; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "87333c0d40",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1379430; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "e62a18d68e",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1160540; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "771ae04338",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 2855660; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "8d0f952e4c",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1434040; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "626076af0e",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1443320; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "5750d76e14",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1632200; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "0894c700f3",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1581790; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "dffd722c2c",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1317770; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "b7517a4f00",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1309560; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "7d18731cba",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1335230; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "622adb5718",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1005870; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "3963aabbaa",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1005600; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "99dc3e9d67",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1314270; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "7c391cdd2b",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1334210; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "96bec84032",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 2083540; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "9d02c51185",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1350340; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "2a534a4917",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1344200; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "5569286656",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1348900; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "cde24ec2dd",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1375260; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "735842741b",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1376590; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "e7e5bb3758",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1472650; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "f755485505",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1383030; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "f0070e59ed",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1406090; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "1655402893",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1006730; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "d90edf318b",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 2396190; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "7adaa6336c",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1949190; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "486445bd56",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1610160; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "59a9224bb4",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1414360; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "f1ff353185",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1597120; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "9cac7f9475",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 2068840; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "42fbc7ed06",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1240530; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "b30544a54e",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1240810; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "7433983c57",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1559260; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "c2946190ea",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1896380; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "56092bf6de",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1338400; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "f1250de70c",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1340570; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "3dbdf1b28b",
+      "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1008430; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "f8acb92221",
+      "reason": "Replace malformed dictionary identifier embedded as furigana with the contextual reading; Japanese text and Tatoeba attribution remain unchanged.",
+      "references": [
+        "Original Japanese example and contextual readings reviewed by Codex on 2026-10-28"
+      ]
+    },
+    {
+      "id": "34502f33ca",
+      "reason": "Replace malformed dictionary identifier embedded as furigana with the contextual reading; Japanese text and Tatoeba attribution remain unchanged.",
+      "references": [
+        "Original Japanese example and contextual readings reviewed by Codex on 2026-10-28"
+      ]
+    },
+    {
+      "id": "d83bc64e48",
+      "reason": "Replace malformed dictionary identifier embedded as furigana with the contextual reading; Japanese text and Tatoeba attribution remain unchanged.",
+      "references": [
+        "Original Japanese example and contextual readings reviewed by Codex on 2026-10-28"
+      ]
+    },
+    {
+      "id": "20119e5c9b",
+      "reason": "Replace malformed dictionary identifier embedded as furigana with the contextual reading; Japanese text and Tatoeba attribution remain unchanged.",
+      "references": [
+        "Original Japanese example and contextual readings reviewed by Codex on 2026-10-28"
+      ]
+    },
+    {
+      "id": "13aa7b864c",
+      "reason": "Both examples use the solve sense, which JMdict lists for 解ける but the upstream gloss omits.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1198910; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "d07f542720",
+      "reason": "The first example uses the causative flying sense, which is present in JMdict but missing from the gloss.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1485230; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "42d999cbab",
+      "reason": "Add two original examples for the truck and running-track senses.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1085760; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "58c5df73fd",
+      "reason": "Both examples use obtain or extract senses documented in JMdict but omitted from the gloss.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1326990; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "6556dc10d1",
+      "reason": "Add two original examples for a card without examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1457320; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "8a2b4c5ed1",
+      "reason": "An existing example illustrates a JMdict sense omitted from the English gloss.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1552120; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "b7b23bf678",
+      "reason": "An existing example illustrates a JMdict sense omitted from the English gloss.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1552140; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "04f80af544",
+      "reason": "An existing example illustrates a JMdict sense omitted from the English gloss.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1378450; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "5ae490b220",
+      "reason": "Correct or supplement a sense supported by JMdict and the examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1464250; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "d40e2575e0",
+      "reason": "Correct or supplement a sense supported by JMdict and the examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1478190; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "20b5089feb",
+      "reason": "Replace an unrelated or incorrect example with an original context-aligned sentence.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 2836242; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "e7a5df28c0",
+      "reason": "Correct or supplement a sense supported by JMdict and the examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1290020; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "c03a75fe96",
+      "reason": "Correct or supplement a sense supported by JMdict and the examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1467950; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "8ae84a079b",
+      "reason": "Correct or supplement a sense supported by JMdict and the examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1470120; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "a5cf314cf9",
+      "reason": "Replace an unrelated or incorrect example with an original context-aligned sentence.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1600260; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "9df259e377",
+      "reason": "Replace an unrelated or incorrect example with an original context-aligned sentence.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1352570; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "ee21222664",
+      "reason": "Add two original examples to a card without examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 2646460; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "242a0bb0ea",
+      "reason": "Add two original examples to a card without examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1101440; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "1038a70c3e",
+      "reason": "Correct or supplement a sense supported by JMdict and the examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1632430; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "c5af695d0b",
+      "reason": "Supplement an example sense documented in JMdict.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1427900; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "f675c4ff49",
+      "reason": "Replace an incorrect example with an original context-aligned sentence.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1612530; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "58e01c0b72",
+      "reason": "Replace an incorrect example with an original context-aligned sentence.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1489700; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "18ce3e646d",
+      "reason": "Add two original examples to a card without examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1107060; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "41e221bc4d",
+      "reason": "Add two original examples to a card without examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1922780; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "3dd04815d8",
+      "reason": "Supplement an example sense documented in JMdict.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1216880; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "91695e543a",
+      "reason": "Supplement a sense illustrated by the examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1509480; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "00b4506e25",
+      "reason": "Supplement a sense illustrated by the examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1123230; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "e11ef6d7e3",
+      "reason": "Add two original examples to a card without examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1121740; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "38dd5eb4a0",
+      "reason": "Add two original examples to a card without examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1123550; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "fa769c0e9b",
+      "reason": "Add two original examples to a card without examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1551940; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "1151601f8e",
+      "reason": "Add two original examples to a card without examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1522060; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "97ddf0dc45",
+      "reason": "Replace an unrelated or incorrect example with an original context-aligned sentence.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1126590; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "379f6158b5",
+      "reason": "Replace an unrelated or incorrect example with an original context-aligned sentence.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1376640; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "b718c116a2",
+      "reason": "Replace an unrelated or incorrect example with an original context-aligned sentence.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1490740; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "363e985c77",
+      "reason": "Supplement a sense illustrated by the examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1127970; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "62682a6308",
+      "reason": "Add two original examples to a card without examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1130650; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "98c8318e58",
+      "reason": "Supplement a sense illustrated by the example.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1277080; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "3fa9f114f2",
+      "reason": "Add two original examples to a card without examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 2863051; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "9054323c74",
+      "reason": "Replace an unrelated or incorrect example with an original context-aligned sentence.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1310600; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "908b44a04b",
+      "reason": "Replace an unrelated or incorrect example with an original context-aligned sentence.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1543200; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "0294bdc5ab",
+      "reason": "Add two original examples to a card without examples and correct the sense.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1137880; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "b0fe98d49c",
+      "reason": "Correct the English gloss to the sense supported by JMdict and the examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1550980; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "cd42c9314f",
+      "reason": "Add two original examples to a card without examples and correct the sense.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1147220; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "b440e7ed66",
+      "reason": "Add two original examples to a card without examples and correct the sense.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1575730; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "cb012edb7f",
+      "reason": "Select the vehicle sense: upstream points to the homophonous hairstyle entry and has no examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1100090 and 2849429; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "4850008747",
+      "reason": "Correct malformed dictionary identifiers in furigana readings; Japanese sentences and Tatoeba attribution are unchanged.",
+      "references": [
+        "Japanese reading reviewed by Codex"
+      ]
+    },
+    {
+      "id": "215a642747",
+      "reason": "Correct malformed dictionary identifiers in furigana readings; Japanese sentences and Tatoeba attribution are unchanged.",
+      "references": [
+        "Japanese reading reviewed by Codex"
+      ]
+    },
+    {
+      "id": "1ea7451e69",
+      "reason": "Correct malformed dictionary identifiers in furigana readings; Japanese sentences and Tatoeba attribution are unchanged.",
+      "references": [
+        "Japanese reading reviewed by Codex"
+      ]
+    },
+    {
+      "id": "44edce4345",
+      "reason": "Correct malformed dictionary identifiers in furigana readings; Japanese sentences and Tatoeba attribution are unchanged.",
+      "references": [
+        "Japanese reading reviewed by Codex"
+      ]
+    },
+    {
+      "id": "e7344aa7e1",
+      "reason": "Correct malformed dictionary identifiers in furigana readings; Japanese sentences and Tatoeba attribution are unchanged.",
+      "references": [
+        "Japanese reading reviewed by Codex"
+      ]
+    },
+    {
+      "id": "ba21b41503",
+      "reason": "Correct malformed dictionary identifiers in furigana readings; Japanese sentences and Tatoeba attribution are unchanged.",
+      "references": [
+        "Japanese reading reviewed by Codex"
+      ]
+    },
+    {
+      "id": "b434efd06b",
+      "reason": "Correct malformed dictionary identifiers in furigana readings; Japanese sentences and Tatoeba attribution are unchanged.",
+      "references": [
+        "Japanese reading reviewed by Codex"
+      ]
+    },
+    {
+      "id": "733b519a1e",
+      "reason": "Correct malformed dictionary identifiers in furigana readings; Japanese sentences and Tatoeba attribution are unchanged.",
+      "references": [
+        "Japanese reading reviewed by Codex"
       ]
     }
   ],
@@ -1671,139 +2822,6 @@
       "word": "湯",
       "ja": "日本人は寝る前に熱い湯につかるのが好きです。",
       "furigana": "{日本人|にほんじん}は{寝|ね}る{前|#1392580}に{熱|あつ}い{湯|ゆ}につかるのが{好|す}きです。",
-      "status": "needs_review"
-    },
-    {
-      "id": "33abea1364",
-      "word": "演説",
-      "ja": "彼はたくさんの人の前で演説した。",
-      "furigana": "{彼|かれ}はたくさんの{人|ひと}の{前|#1392580}で{演説|えんぜつ}した。",
-      "status": "needs_review"
-    },
-    {
-      "id": "a8a06b3e15",
-      "word": "男の人",
-      "ja": "若い男の人がドアの前で歌っています。",
-      "furigana": "{若|わか}い{男|おとこ}の{人|ひと}がドアの{前|#1392580}で{歌|うた}っています。",
-      "status": "needs_review"
-    },
-    {
-      "id": "33875d6135",
-      "word": "家事",
-      "ja": "妻の活動は家事に限られている。",
-      "furigana": "{妻|#1294330}の{活動|かつどう}は{家事|かじ}に{限|かぎ}られている。",
-      "status": "needs_review"
-    },
-    {
-      "id": "a32b605031",
-      "word": "交際",
-      "ja": "その男は妻と交際し始めた。",
-      "furigana": "その{男|おとこ}は{妻|#1294330}と{交際|こうさい}し{始|はじ}めた。",
-      "status": "needs_review"
-    },
-    {
-      "id": "60b9a40caa",
-      "word": "克服",
-      "ja": "彼は妻の死をまだ克服していない。",
-      "furigana": "{彼|かれ}は{妻|#1294330}の{死|し}をまだ{克服|こくふく}していない。",
-      "status": "needs_review"
-    },
-    {
-      "id": "f8acb92221",
-      "word": "事件",
-      "ja": "彼はその事件のことを妻に話した。",
-      "furigana": "{彼|かれ}はその{事件|じけん}のことを{妻|#1294330}に{話|はな}した。",
-      "status": "needs_review"
-    },
-    {
-      "id": "99dc3e9d67",
-      "word": "事務",
-      "ja": "退職する前に彼は事務を渡した。",
-      "furigana": "{退職|たいしょく}する{前|#1392580}に{彼|かれ}は{事務|じむ}を{渡|わた}した。",
-      "status": "needs_review"
-    },
-    {
-      "id": "34502f33ca",
-      "word": "週",
-      "ja": "それはその前の週に買ったものでした。",
-      "furigana": "それはその{前|#1392580}の{週|しゅう}に{買|か}ったものでした。",
-      "status": "needs_review"
-    },
-    {
-      "id": "d83bc64e48",
-      "word": "書斎",
-      "ja": "妻が寝た後、書斎で仕事をした。",
-      "furigana": "{妻|#1294330}が{寝|ね}た{後|あと}、{書斎|しょさい}で{仕事|しごと}をした。",
-      "status": "needs_review"
-    },
-    {
-      "id": "20119e5c9b",
-      "word": "倒す",
-      "ja": "シート横にあるノブを前に動かし、シートを倒します。",
-      "furigana": "シート{横|よこ}にあるノブを{前|#1392580}に{動|うご}かし、シートを{倒|たお}します。",
-      "status": "needs_review"
-    },
-    {
-      "id": "4850008747",
-      "word": "ノック",
-      "ja": "入る前にドアをノックして下さい。",
-      "furigana": "{入|はい}る{前|#1392580}にドアをノックして{下|くだ}さい。",
-      "status": "needs_review"
-    },
-    {
-      "id": "215a642747",
-      "word": "発車",
-      "ja": "駅に着く前に列車は発車していた。",
-      "furigana": "{駅|えき}に{着|つ}く{前|#1392580}に{列車|れっしゃ}は{発車|はっしゃ}していた。",
-      "status": "needs_review"
-    },
-    {
-      "id": "1ea7451e69",
-      "word": "瓶",
-      "ja": "使用する前に瓶を振ってください。",
-      "furigana": "{使用|しよう}する{前|#1392580}に{瓶|びん}を{振|ふ}ってください。",
-      "status": "needs_review"
-    },
-    {
-      "id": "44edce4345",
-      "word": "ベルト",
-      "ja": "彼女は腰に革のベルトをしている。",
-      "furigana": "{彼女|かのじょ}は{腰|#1288340}に{革|かわ}のベルトをしている。",
-      "status": "needs_review"
-    },
-    {
-      "id": "e7344aa7e1",
-      "word": "法",
-      "ja": "すべての人は法の前に平等です。",
-      "furigana": "すべての{人|ひと}は{法|ほう}の{前|#1392580}に{平等|びょうどう}です。",
-      "status": "needs_review"
-    },
-    {
-      "id": "ba21b41503",
-      "word": "飯",
-      "ja": "とにかくメシ・・・といきたいところだが、その前に用を足すことにした。",
-      "furigana": "とにかくメシ・・・といきたいところだが、その{前|#1392580}に{用|よう}を{足|た}すことにした。",
-      "status": "needs_review"
-    },
-    {
-      "id": "b434efd06b",
-      "word": "夜明け",
-      "ja": "私は、突然夜明け前に起こされた。",
-      "furigana": "{私|わたし}は、{突然|とつぜん}{夜明|よあ}け{前|#1392580}に{起|お}こされた。",
-      "status": "needs_review"
-    },
-    {
-      "id": "b434efd06b",
-      "word": "夜明け",
-      "ja": "登山者は夜明け前に目を覚ました。",
-      "furigana": "{登山者|とざんしゃ}は{夜明|よあ}け{前|#1392580}に{目|め}を{覚|さ}ました。",
-      "status": "needs_review"
-    },
-    {
-      "id": "733b519a1e",
-      "word": "楽",
-      "ja": "人手が多ければ仕事は楽になるんだ。",
-      "furigana": "{人手|#2825953}が{多|おお}ければ{仕事|しごと}は{楽|らく}になるんだ。",
       "status": "needs_review"
     },
     {

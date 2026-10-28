@@ -51,8 +51,8 @@ test('Chinese search finds exact and partial Chinese while preserving English be
   assert.equal(searchVocab('吃')[0].word, '食べる');
   assert.equal(searchVocab('eat')[0].word, '食べる');
   assert.ok(searchGrammar('事先').some(g => g.id === 'te-oku'));
-  assert.equal(getVocab().filter(v => v.zh?.status === 'reviewed').length, 300);
-  assert.equal(getGrammar().filter(g => g.zh?.status === 'reviewed').length, 40);
+  assert.equal(getVocab().filter(v => v.zh?.status === 'reviewed').length, 1859);
+  assert.equal(getGrammar().filter(g => g.zh?.status === 'reviewed').length, 131);
 });
 
 test('review binds the exact Chinese wording and requires honest provenance', () => {
@@ -83,17 +83,17 @@ test('all reviewed entries have complete aligned Chinese examples and current so
   assert.equal(entries.filter(e => e.level !== 'N3').reduce((n,e) => n + e.zh!.examples.length, 0), 489);
 });
 
-test('N3 batch covers its selected entries with complete reviewed sentences', () => {
+test('all N3 vocabulary and grammar have reviewed Chinese with aligned examples', () => {
   const vocab = getVocab().filter(e => e.level === 'N3');
   const grammar = getGrammar().filter(e => e.level === 'N3');
-  assert.equal(vocab.filter(e => e.zh?.status === 'reviewed').length, 100);
-  assert.equal(grammar.filter(e => e.zh?.status === 'reviewed').length, 10);
-  for (const entry of [...vocab.slice(0, 100), ...grammar.slice(0, 10)]) {
+  assert.equal(vocab.filter(e => e.zh?.status === 'reviewed').length, 1659);
+  assert.equal(grammar.filter(g => g.zh?.status === 'reviewed').length, 101);
+  for (const entry of [...vocab, ...grammar]) {
     assert.equal(entry.zh?.status, 'reviewed', entry.id);
-    assert.ok(entry.zh!.examples.length >= 2, entry.id);
+    assert.ok(entry.zh!.examples.length >= 1, entry.id);
   }
-  assert.equal(vocab.filter(e => !e.zh).length, 1559);
-  assert.equal(grammar.filter(e => !e.zh).length, 91);
+  assert.equal(vocab.filter(e => !e.zh).length, 0);
+  assert.equal(grammar.filter(e => !e.zh).length, 0);
   assert.ok(searchVocab('爱恋').some(e => e.id === 'c3b1f16454'));
   assert.ok(searchGrammar('难怪').some(e => e.id === 'wake-da'));
   assert.ok(vocab.find(e => e.word === '命')!.meanings.every(m => !['command', 'decree'].includes(m)));

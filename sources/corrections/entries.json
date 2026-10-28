@@ -1629,5 +1629,4521 @@
         }
       ]
     }
+  },
+  {
+    "id": "b73c4e0e07",
+    "word": "うがい",
+    "reading": "うがい",
+    "reason": "The examples did not contain うがい; replace them with original examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1577660; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "熱があるので家にいたほうがいい。",
+          "furigana": "{熱|ねつ}があるので{家|いえ}にいたほうがいい。",
+          "en": "As you have a fever, you'd better stay home.",
+          "tatoeba_id": 121904
+        },
+        {
+          "ja": "今は彼女と会わないほうがいいよ。",
+          "furigana": "{今|いま}は{彼女|かのじょ}と{会|あ}わないほうがいいよ。",
+          "en": "You'd better not see her now.",
+          "tatoeba_id": 177297
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "帰宅したら、手を洗ってうがいをします。",
+          "en": "When I get home, I wash my hands and gargle."
+        },
+        {
+          "ja": "水でうがいをしてください。",
+          "en": "Please gargle with water."
+        }
+      ]
+    }
+  },
+  {
+    "id": "215cb207d4",
+    "word": "撃つ",
+    "reading": "うつ",
+    "reason": "Add original examples for the verb, which had none.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1478010; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "猟師は鳥を撃った。",
+          "en": "The hunter shot a bird."
+        },
+        {
+          "ja": "兵士は銃を撃った。",
+          "en": "The soldier fired a gun."
+        }
+      ]
+    }
+  },
+  {
+    "id": "5e53fbc57d",
+    "word": "うなる",
+    "reading": "うなる",
+    "reason": "The second example used the related noun うなり声 rather than the verb; replace it.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1565300; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "その犬は小さな男の子に向かって唸った。",
+          "furigana": "その{犬|いぬ}は{小|ちい}さな{男|おとこ}の{子|こ}に{向|む}かって{唸|うな}った。",
+          "en": "The dog growled at a little boy.",
+          "tatoeba_id": 210970
+        },
+        {
+          "ja": "そのうなり声はだんだん大きくなった。",
+          "furigana": "そのうなり{声|こえ}はだんだん{大|おお}きくなった。",
+          "en": "The howls grew louder and louder.",
+          "tatoeba_id": 213368
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "その犬は小さな男の子に向かって唸った。",
+          "furigana": "その{犬|いぬ}は{小|ちい}さな{男|おとこ}の{子|こ}に{向|む}かって{唸|うな}った。",
+          "en": "The dog growled at a little boy.",
+          "tatoeba_id": 210970
+        },
+        {
+          "ja": "彼は痛みでうなった。",
+          "en": "He groaned in pain."
+        }
+      ]
+    }
+  },
+  {
+    "id": "9ce542fed7",
+    "word": "上",
+    "reading": "うわ",
+    "reason": "Add original examples for the prefix, which had none.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1352140; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "寒いので上着を着た。",
+          "en": "I put on a jacket because it was cold."
+        },
+        {
+          "ja": "箱の上側に名前を書いた。",
+          "en": "I wrote my name on the upper side of the box."
+        }
+      ]
+    }
+  },
+  {
+    "id": "2306950c03",
+    "word": "柄",
+    "reading": "え",
+    "reason": "Add original examples for the handle sense, which had none.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1508290; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "刀の柄を握った。",
+          "en": "I grasped the handle of the sword."
+        },
+        {
+          "ja": "傘の柄が折れた。",
+          "en": "The handle of the umbrella broke."
+        }
+      ]
+    }
+  },
+  {
+    "id": "9c851c43f7",
+    "word": "御",
+    "reading": "お",
+    "reason": "The examples use 御社 read おん and the interjection お, not the honorific prefix お; replace with original examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 2826528; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "御社のお考えを先におっしゃってください。",
+          "furigana": "{御社|おんしゃ}のお{考|かんが}えを{先|さき}におっしゃってください。",
+          "en": "Please let us know your company's thoughts on this matter first.",
+          "tatoeba_id": 76178
+        },
+        {
+          "ja": "お、タエ、このチーズいけるよ。",
+          "en": "Oh, Tae, this cheese is a winner!",
+          "tatoeba_id": 76834
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "お名前を教えてください。",
+          "en": "Please tell me your name."
+        },
+        {
+          "ja": "お茶をどうぞ。",
+          "en": "Please have some tea."
+        }
+      ]
+    }
+  },
+  {
+    "id": "26e15c1ade",
+    "word": "音",
+    "reading": "おん",
+    "reason": "The examples use 音 read おと, not the reading おん; use original compounds.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 2859161; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "音の出る辞書はもはや夢でない。",
+          "en": "A talking dictionary is no longer a fantasy.",
+          "tatoeba_id": 188319
+        },
+        {
+          "ja": "音を下げてくれないか。",
+          "en": "Can you keep the noise down?",
+          "tatoeba_id": 188309
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "この曲の音階は美しい。",
+          "en": "The scale of this piece is beautiful."
+        },
+        {
+          "ja": "この楽器は低音がよく響く。",
+          "en": "The low notes of this instrument resonate well."
+        }
+      ]
+    }
+  },
+  {
+    "id": "c139bcdcb4",
+    "word": "カード",
+    "reading": "カード",
+    "reason": "Add original examples for the card, which had none.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1036400; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "財布にカードを入れた。",
+          "en": "I put the card in my wallet."
+        },
+        {
+          "ja": "友達に誕生日カードを送った。",
+          "en": "I sent my friend a birthday card."
+        }
+      ]
+    }
+  },
+  {
+    "id": "27db6f596b",
+    "word": "額",
+    "reading": "がく",
+    "reason": "The first example uses 額 meaning amount rather than picture frame; replace it.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1207500; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "この額は税込みです。",
+          "furigana": "この{額|がく}は{税込|ぜいこ}みです。",
+          "en": "This amount includes tax.",
+          "tatoeba_id": 222592
+        },
+        {
+          "ja": "この額に入れると絵が引き立ちます。",
+          "furigana": "この{額|がく}に{入|い}れると{絵|え}が{引|ひ}き{立|た}ちます。",
+          "en": "This frame shows the painting to good advantage.",
+          "tatoeba_id": 222593
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "写真を額に入れて飾った。",
+          "en": "I framed and displayed the photograph."
+        },
+        {
+          "ja": "この額に入れると絵が引き立ちます。",
+          "furigana": "この{額|がく}に{入|い}れると{絵|え}が{引|ひ}き{立|た}ちます。",
+          "en": "This frame shows the painting to good advantage.",
+          "tatoeba_id": 222593
+        }
+      ]
+    }
+  },
+  {
+    "id": "a88999f659",
+    "word": "貸し",
+    "reading": "かし",
+    "reason": "The second example is the verb 貸す, not the noun 貸し; replace it.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1411110; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "でも、これで１つ貸しだね。",
+          "furigana": "でも、これで１つ{貸|か}しだね。",
+          "en": "But you're going to owe me one.",
+          "tatoeba_id": 202119
+        },
+        {
+          "ja": "ペンが必要でしたらお貸しいたします。",
+          "furigana": "ペンが{必要|ひつよう}でしたらお{貸|か}しいたします。",
+          "en": "If you want a pen, I will lend you one.",
+          "tatoeba_id": 196643
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "でも、これで１つ貸しだね。",
+          "furigana": "でも、これで１つ{貸|か}しだね。",
+          "en": "But you're going to owe me one.",
+          "tatoeba_id": 202119
+        },
+        {
+          "ja": "これは君への貸しにしておくよ。",
+          "en": "I will count this as a favor you owe me."
+        }
+      ]
+    }
+  },
+  {
+    "id": "d9627ee0f6",
+    "word": "方々",
+    "reading": "かたがた",
+    "reason": "The first example uses 方々 read ほうぼう rather than かたがた; replace it.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1584100; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "わからなかったら方々の人に聞いた方がいいよ。",
+          "furigana": "わからなかったら{方々|かたがた}の{人|ひと}に{聞|き}いた{方|ほう}がいいよ。",
+          "en": "If you don't know, you had better ask around.",
+          "tatoeba_id": 192039
+        },
+        {
+          "ja": "あの人たちが昨日あなたが会った方々ですか。",
+          "en": "Are those the people you saw yesterday?",
+          "tatoeba_id": 230802
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "会場には多くの方々が集まった。",
+          "en": "Many people gathered at the venue."
+        },
+        {
+          "ja": "あの人たちが昨日あなたが会った方々ですか。",
+          "en": "Are those the people you saw yesterday?",
+          "tatoeba_id": 230802
+        }
+      ]
+    }
+  },
+  {
+    "id": "b921696612",
+    "word": "効く",
+    "reading": "きく",
+    "reason": "The first example uses 口を利く, not 効く; replace it.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1591100; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "よくもまあ私にそんな口がきけるね。",
+          "furigana": "よくもまあ{私|わたし}にそんな{口|くち}がきけるね。",
+          "en": "How dare you speak to me like that?",
+          "tatoeba_id": 192806
+        },
+        {
+          "ja": "この薬は君にはおおいに効くと思う。",
+          "furigana": "この{薬|くすり}は{君|きみ}にはおおいに{効|き}くと{思|おも}う。",
+          "en": "I think this medicine will do you a lot of good.",
+          "tatoeba_id": 219287
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "この薬は頭痛によく効く。",
+          "en": "This medicine works well for headaches."
+        },
+        {
+          "ja": "この薬は君にはおおいに効くと思う。",
+          "furigana": "この{薬|くすり}は{君|きみ}にはおおいに{効|き}くと{思|おも}う。",
+          "en": "I think this medicine will do you a lot of good.",
+          "tatoeba_id": 219287
+        }
+      ]
+    }
+  },
+  {
+    "id": "9b26978fc7",
+    "word": "逆",
+    "reading": "ぎゃく",
+    "reason": "Add original examples to the entry without examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1226960; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "駅は逆の方向です。",
+          "en": "The station is in the opposite direction."
+        },
+        {
+          "ja": "私の意見は彼の意見と逆です。",
+          "en": "My opinion is the opposite of his."
+        }
+      ]
+    }
+  },
+  {
+    "id": "def0fe1435",
+    "word": "臭い",
+    "reading": "くさい",
+    "reason": "The English meanings and second example correspond to noun におい rather than adjective くさい; correct them.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1333150; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "odour",
+        "scent",
+        "smell",
+        "stench"
+      ],
+      "examples": [
+        {
+          "ja": "あいつが臭い。",
+          "furigana": "あいつが{臭|くさ}い。",
+          "en": "He looks suspicious.",
+          "tatoeba_id": 234678
+        },
+        {
+          "ja": "警察は犬にその臭いをかがせた。",
+          "furigana": "{警察|けいさつ}は{犬|いぬ}にその{臭|くさ}いをかがせた。",
+          "en": "The police set a dog on the scent.",
+          "tatoeba_id": 176191
+        }
+      ]
+    },
+    "set": {
+      "meanings": [
+        "stinking",
+        "smelly",
+        "suspicious"
+      ],
+      "examples": [
+        {
+          "ja": "あいつが臭い。",
+          "furigana": "あいつが{臭|くさ}い。",
+          "en": "He looks suspicious.",
+          "tatoeba_id": 234678
+        },
+        {
+          "ja": "この靴下は臭い。",
+          "en": "These socks smell bad."
+        }
+      ]
+    }
+  },
+  {
+    "id": "14d9875a05",
+    "word": "管",
+    "reading": "くだ",
+    "reason": "Add original examples for the entry without examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 2868440; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "水は管を通って流れる。",
+          "en": "Water flows through the pipe."
+        },
+        {
+          "ja": "この管は細くて長い。",
+          "en": "This tube is thin and long."
+        }
+      ]
+    }
+  },
+  {
+    "id": "e73cc9df41",
+    "word": "具体",
+    "reading": "ぐたい",
+    "reason": "Add original examples for the entry without examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1245020; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "具体例を一つ挙げてください。",
+          "en": "Please give one concrete example."
+        },
+        {
+          "ja": "計画を具体化しましょう。",
+          "en": "Let us make the plan concrete."
+        }
+      ]
+    }
+  },
+  {
+    "id": "53f7d1e6a9",
+    "word": "グランド",
+    "reading": "グランド",
+    "reason": "The first example contains the unrelated word イングランド; replace it.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1046840; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "イングランドはその試合に勝つだろう。",
+          "furigana": "イングランドはその{試合|しあい}に{勝|か}つだろう。",
+          "en": "England is going to win the match.",
+          "tatoeba_id": 228397
+        },
+        {
+          "ja": "グランドオープンはいつなの？",
+          "en": "When is the grand opening?",
+          "tatoeba_id": 12072710
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "店は明日グランドオープンします。",
+          "en": "The store has its grand opening tomorrow."
+        },
+        {
+          "ja": "グランドオープンはいつなの？",
+          "en": "When is the grand opening?",
+          "tatoeba_id": 12072710
+        }
+      ]
+    }
+  },
+  {
+    "id": "628ac894ab",
+    "word": "暮れ",
+    "reading": "くれ",
+    "reason": "Both examples contain the verb 暮れる, not the noun 暮れ; replace them.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1514950; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "彼女はどうして良いか途方に暮れた。",
+          "furigana": "{彼女|かのじょ}はどうして{良|よ}いか{途方|とほう}に{暮|く}れた。",
+          "en": "She was at a loss for what to do.",
+          "tatoeba_id": 92019
+        },
+        {
+          "ja": "彼は日が暮れてからそこに登場した。",
+          "furigana": "{彼|かれ}は{日|ひ}が{暮|く}れてからそこに{登場|とうじょう}した。",
+          "en": "He arrived there after dark.",
+          "tatoeba_id": 101503
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "年の暮れは忙しい。",
+          "en": "The end of the year is busy."
+        },
+        {
+          "ja": "暮れになると空が赤くなった。",
+          "en": "At dusk, the sky turned red."
+        }
+      ]
+    }
+  },
+  {
+    "id": "3d9a6a01ea",
+    "word": "計",
+    "reading": "けい",
+    "reason": "JMdict includes the total sense shown in the second example.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1252050; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "plan"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "plan",
+        "total"
+      ]
+    }
+  },
+  {
+    "id": "970f95c9c4",
+    "word": "ケース",
+    "reading": "ケース",
+    "reason": "Add original examples for the entry without examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1047880; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "眼鏡をケースに入れた。",
+          "en": "I put my glasses in the case."
+        },
+        {
+          "ja": "このケースでは医師に相談してください。",
+          "en": "In this case, please consult a doctor."
+        }
+      ]
+    }
+  },
+  {
+    "id": "3480dbdcdb",
+    "word": "けち",
+    "reading": "けち",
+    "reason": "Add original examples for the entry without examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 2234080; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "彼はけちで、お金を使いたがらない。",
+          "en": "He is stingy and does not like spending money."
+        },
+        {
+          "ja": "そんなけちなことを言わないで。",
+          "en": "Do not say something so petty."
+        }
+      ]
+    }
+  },
+  {
+    "id": "9c3ddb98b7",
+    "word": "コード",
+    "reading": "コード",
+    "reason": "JMdict identifies code/program, while cord and chord are separate homographic entries. Add original code examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1049010; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "code",
+        "cord",
+        "chord"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "code",
+        "program",
+        "regulation"
+      ],
+      "examples": [
+        {
+          "ja": "このコードには間違いがあります。",
+          "en": "There is an error in this code."
+        },
+        {
+          "ja": "新しいコードを書いた。",
+          "en": "I wrote new code."
+        }
+      ]
+    }
+  },
+  {
+    "id": "4f77e1d360",
+    "word": "ゴール",
+    "reading": "ゴール",
+    "reason": "Add original examples for the entry without examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1054230; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "選手がゴールを決めた。",
+          "en": "The player scored a goal."
+        },
+        {
+          "ja": "もうすぐゴールに着きます。",
+          "en": "We will reach the finish line soon."
+        }
+      ]
+    }
+  },
+  {
+    "id": "8d527d10b8",
+    "word": "腰",
+    "reading": "こし",
+    "reason": "Add original examples and the lower-back sense documented in JMdict.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1288340; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "hip"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "lower back",
+        "waist",
+        "hips"
+      ],
+      "examples": [
+        {
+          "ja": "重い荷物を持って腰が痛くなった。",
+          "en": "My lower back hurt after carrying a heavy load."
+        },
+        {
+          "ja": "腰に手を当てた。",
+          "en": "I put my hands on my hips."
+        }
+      ]
+    }
+  },
+  {
+    "id": "1a796e4b69",
+    "word": "越す",
+    "reading": "こす",
+    "reason": "Correct the English gloss to the crossing and passing-time senses in JMdict and both examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1175300; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "to go over (e.g. with audience)"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "to cross",
+        "to get over",
+        "to pass (time)"
+      ]
+    }
+  },
+  {
+    "id": "6cd948ec5d",
+    "word": "断る",
+    "reading": "ことわる",
+    "reason": "The second example uses the noun 断り rather than the verb; replace it.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1419570; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "なぜ彼の申し出を断ったのですか。",
+          "furigana": "なぜ{彼|かれ}の{申|もう}し{出|で}を{断|ことわ}ったのですか。",
+          "en": "Why did you turn down his offer?",
+          "tatoeba_id": 199149
+        },
+        {
+          "ja": "彼は断りなく私の部屋に入ってきた。",
+          "en": "He entered my room without permission.",
+          "tatoeba_id": 102265
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "なぜ彼の申し出を断ったのですか。",
+          "furigana": "なぜ{彼|かれ}の{申|もう}し{出|で}を{断|ことわ}ったのですか。",
+          "en": "Why did you turn down his offer?",
+          "tatoeba_id": 199149
+        },
+        {
+          "ja": "都合が悪いので誘いを断った。",
+          "en": "I declined the invitation because it was inconvenient."
+        }
+      ]
+    }
+  },
+  {
+    "id": "380bf1226c",
+    "word": "今日",
+    "reading": "こんにち",
+    "reason": "The first example reads 今日 as きょう, not こんにち. Select the latter reading and add a matching example.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1579110; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "today",
+        "this day"
+      ],
+      "examples": [
+        {
+          "ja": "彼は宿題を今日終えねばならない。",
+          "en": "He must finish his homework today.",
+          "tatoeba_id": 104312
+        },
+        {
+          "ja": "彼がその会社を今日の会社にした。",
+          "en": "He has made the company what it is today.",
+          "tatoeba_id": 120918
+        }
+      ]
+    },
+    "set": {
+      "meanings": [
+        "nowadays",
+        "the present day"
+      ],
+      "examples": [
+        {
+          "ja": "今日では多くの人がスマートフォンを使う。",
+          "en": "Nowadays many people use smartphones."
+        },
+        {
+          "ja": "彼がその会社を今日の会社にした。",
+          "en": "He has made the company what it is today.",
+          "tatoeba_id": 120918
+        }
+      ]
+    }
+  },
+  {
+    "id": "2a04aa688d",
+    "word": "サイン",
+    "reading": "サイン",
+    "reason": "JMdict covers signature and sign, while sine is a different homographic entry. Add original examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1056230; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "autograph",
+        "sign",
+        "sine"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "signature",
+        "autograph",
+        "sign"
+      ],
+      "examples": [
+        {
+          "ja": "ここにサインをお願いします。",
+          "en": "Please sign here."
+        },
+        {
+          "ja": "選手にサインをもらった。",
+          "en": "I got the player’s autograph."
+        }
+      ]
+    }
+  },
+  {
+    "id": "9923ca40cb",
+    "word": "支える",
+    "reading": "ささえる",
+    "reason": "JMdict and the examples show the transitive support sense; the upstream gloss describes another reading.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1310090; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "to be blocked",
+        "to choke",
+        "to be obstructed"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "to support",
+        "to sustain",
+        "to hold at bay"
+      ]
+    }
+  },
+  {
+    "id": "e4e0df7a25",
+    "word": "さっぱり",
+    "reading": "さっぱり",
+    "reason": "JMdict includes the negative and hopeless senses shown by the examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1005210; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "feeling refreshed",
+        "feeling relieved",
+        "neat",
+        "trimmed"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "refreshed",
+        "neat",
+        "not at all",
+        "hopeless"
+      ]
+    }
+  },
+  {
+    "id": "94c462cd78",
+    "word": "さて",
+    "reading": "さて",
+    "reason": "Add original examples for the entry without examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1585460; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "さて、次の問題に進みましょう。",
+          "en": "Now, let us move on to the next question."
+        },
+        {
+          "ja": "さて、何を食べようかな。",
+          "en": "Now, what shall I eat?"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e79255ce69",
+    "word": "差別",
+    "reading": "さべつ",
+    "reason": "Replace the awkward first sentence with an original clear example.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1291410; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "その週間は差別とは関係がなかった。",
+          "en": "That week had nothing to do with discrimination.",
+          "tatoeba_id": 209436
+        },
+        {
+          "ja": "人を人種で差別するのは間違っている。",
+          "furigana": "{人|ひと}を{人種|じんしゅ}で{差別|さべつ}するのは{間違|まちが}っている。",
+          "en": "It is wrong of you to discriminate against people because of their race.",
+          "tatoeba_id": 144387
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "差別をなくすために話し合った。",
+          "en": "We discussed how to eliminate discrimination."
+        },
+        {
+          "ja": "人を人種で差別するのは間違っている。",
+          "furigana": "{人|ひと}を{人種|じんしゅ}で{差別|さべつ}するのは{間違|まちが}っている。",
+          "en": "It is wrong of you to discriminate against people because of their race.",
+          "tatoeba_id": 144387
+        }
+      ]
+    }
+  },
+  {
+    "id": "33abea1364",
+    "word": "演説",
+    "reading": "えんぜつ",
+    "reason": "Replace malformed numeric furigana with the correct reading; Japanese and Tatoeba attribution are unchanged.",
+    "references": [
+      "Japanese context; 前 read まえ and 妻 read つま"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "彼女たちの演説はすばらしかった。",
+          "furigana": "{彼女|かのじょ}たちの{演説|えんぜつ}はすばらしかった。",
+          "en": "Her speech was excellent.",
+          "tatoeba_id": 95140
+        },
+        {
+          "ja": "彼はたくさんの人の前で演説した。",
+          "furigana": "{彼|かれ}はたくさんの{人|ひと}の{前|#1392580}で{演説|えんぜつ}した。",
+          "en": "He made a speech in front of many people.",
+          "tatoeba_id": 112063
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "彼女たちの演説はすばらしかった。",
+          "furigana": "{彼女|かのじょ}たちの{演説|えんぜつ}はすばらしかった。",
+          "en": "Her speech was excellent.",
+          "tatoeba_id": 95140
+        },
+        {
+          "ja": "彼はたくさんの人の前で演説した。",
+          "furigana": "{彼|かれ}はたくさんの{人|ひと}の{前|まえ}で{演説|えんぜつ}した。",
+          "en": "He made a speech in front of many people.",
+          "tatoeba_id": 112063
+        }
+      ]
+    }
+  },
+  {
+    "id": "a8a06b3e15",
+    "word": "男の人",
+    "reading": "おとこのひと",
+    "reason": "Replace malformed numeric furigana with the correct reading; Japanese and Tatoeba attribution are unchanged.",
+    "references": [
+      "Japanese context; 前 read まえ and 妻 read つま"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "若い男の人がドアの前で歌っています。",
+          "furigana": "{若|わか}い{男|おとこ}の{人|ひと}がドアの{前|#1392580}で{歌|うた}っています。",
+          "en": "A young man is singing in front of the door.",
+          "tatoeba_id": 148779
+        },
+        {
+          "ja": "写真のこの男の人を知っていますか。",
+          "furigana": "{写真|しゃしん}のこの{男|おとこ}の{人|ひと}を{知|し}っていますか。",
+          "en": "Do you know this man in the picture?",
+          "tatoeba_id": 149256
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "若い男の人がドアの前で歌っています。",
+          "furigana": "{若|わか}い{男|おとこ}の{人|ひと}がドアの{前|まえ}で{歌|うた}っています。",
+          "en": "A young man is singing in front of the door.",
+          "tatoeba_id": 148779
+        },
+        {
+          "ja": "写真のこの男の人を知っていますか。",
+          "furigana": "{写真|しゃしん}のこの{男|おとこ}の{人|ひと}を{知|し}っていますか。",
+          "en": "Do you know this man in the picture?",
+          "tatoeba_id": 149256
+        }
+      ]
+    }
+  },
+  {
+    "id": "33875d6135",
+    "word": "家事",
+    "reading": "かじ",
+    "reason": "Replace malformed numeric furigana with the correct reading; Japanese and Tatoeba attribution are unchanged.",
+    "references": [
+      "Japanese context; 前 read まえ and 妻 read つま"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "私は両親が家事をするのを手伝った。",
+          "furigana": "{私|わたし}は{両親|りょうしん}が{家事|かじ}をするのを{手伝|てつだ}った。",
+          "en": "I helped my parents with the housework.",
+          "tatoeba_id": 152333
+        },
+        {
+          "ja": "妻の活動は家事に限られている。",
+          "furigana": "{妻|#1294330}の{活動|かつどう}は{家事|かじ}に{限|かぎ}られている。",
+          "en": "A wife's activities are confined to domestic matters.",
+          "tatoeba_id": 170362
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "私は両親が家事をするのを手伝った。",
+          "furigana": "{私|わたし}は{両親|りょうしん}が{家事|かじ}をするのを{手伝|てつだ}った。",
+          "en": "I helped my parents with the housework.",
+          "tatoeba_id": 152333
+        },
+        {
+          "ja": "妻の活動は家事に限られている。",
+          "furigana": "{妻|つま}の{活動|かつどう}は{家事|かじ}に{限|かぎ}られている。",
+          "en": "A wife's activities are confined to domestic matters.",
+          "tatoeba_id": 170362
+        }
+      ]
+    }
+  },
+  {
+    "id": "a32b605031",
+    "word": "交際",
+    "reading": "こうさい",
+    "reason": "Replace malformed numeric furigana with the correct reading; Japanese and Tatoeba attribution are unchanged.",
+    "references": [
+      "Japanese context; 前 read まえ and 妻 read つま"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "その男は妻と交際し始めた。",
+          "furigana": "その{男|おとこ}は{妻|#1294330}と{交際|こうさい}し{始|はじ}めた。",
+          "en": "The man took up with his wife.",
+          "tatoeba_id": 208065
+        },
+        {
+          "ja": "妹は彼らとの交際を望んでいない。",
+          "furigana": "{妹|いもうと}は{彼|かれ}らとの{交際|こうさい}を{望|のぞ}んでいない。",
+          "en": "My sister doesn't wish to associate with them.",
+          "tatoeba_id": 81371
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "その男は妻と交際し始めた。",
+          "furigana": "その{男|おとこ}は{妻|つま}と{交際|こうさい}し{始|はじ}めた。",
+          "en": "The man took up with his wife.",
+          "tatoeba_id": 208065
+        },
+        {
+          "ja": "妹は彼らとの交際を望んでいない。",
+          "furigana": "{妹|いもうと}は{彼|かれ}らとの{交際|こうさい}を{望|のぞ}んでいない。",
+          "en": "My sister doesn't wish to associate with them.",
+          "tatoeba_id": 81371
+        }
+      ]
+    }
+  },
+  {
+    "id": "60b9a40caa",
+    "word": "克服",
+    "reading": "こくふく",
+    "reason": "Replace malformed numeric furigana with the correct reading; Japanese and Tatoeba attribution are unchanged.",
+    "references": [
+      "Japanese context; 前 read まえ and 妻 read つま"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "彼は多くの困難を克服した。",
+          "furigana": "{彼|かれ}は{多|おお}くの{困難|こんなん}を{克服|こくふく}した。",
+          "en": "He has overcome many obstacles.",
+          "tatoeba_id": 102591
+        },
+        {
+          "ja": "彼は妻の死をまだ克服していない。",
+          "furigana": "{彼|かれ}は{妻|#1294330}の{死|し}をまだ{克服|こくふく}していない。",
+          "en": "He hasn't got over the death of his wife yet.",
+          "tatoeba_id": 106891
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "彼は多くの困難を克服した。",
+          "furigana": "{彼|かれ}は{多|おお}くの{困難|こんなん}を{克服|こくふく}した。",
+          "en": "He has overcome many obstacles.",
+          "tatoeba_id": 102591
+        },
+        {
+          "ja": "彼は妻の死をまだ克服していない。",
+          "furigana": "{彼|かれ}は{妻|つま}の{死|し}をまだ{克服|こくふく}していない。",
+          "en": "He hasn't got over the death of his wife yet.",
+          "tatoeba_id": 106891
+        }
+      ]
+    }
+  },
+  {
+    "id": "07ced3db7b",
+    "word": "帯",
+    "reading": "おび",
+    "reason": "Correct English gloss to the clothing sash sense in the illustrated entry.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1410410; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "band (e.g. conduction, valence)"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "obi",
+        "sash",
+        "belt"
+      ]
+    }
+  },
+  {
+    "id": "04e1e7a756",
+    "word": "加減",
+    "reading": "かげん",
+    "reason": "Add degree and condition senses illustrated by the examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1190080; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "addition and subtraction",
+        "allowance for"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "degree",
+        "condition",
+        "adjustment"
+      ]
+    }
+  },
+  {
+    "id": "95c33dd7eb",
+    "word": "いらっしゃい",
+    "reading": "いらっしゃい",
+    "reason": "The entry also denotes an honorific invitation to come, illustrated by its examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1000920; checked local JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "welcome"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "welcome",
+        "please come"
+      ]
+    }
+  },
+  {
+    "id": "8b180f444a",
+    "word": "直に",
+    "reading": "じかに",
+    "reason": "JMdict 1430690 lists directly, in person, firsthand for じかに; immediately is a different reading and is inconsistent with both examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1430690; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "immediately",
+        "readily",
+        "directly"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "directly",
+        "in person",
+        "firsthand"
+      ]
+    }
+  },
+  {
+    "id": "e0d7c68759",
+    "word": "しまう",
+    "reading": "しまう",
+    "reason": "JMdict 1305380 includes putting away, the sense used by the first example.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1305380; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "to finish",
+        "to close",
+        "to do something completely"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "to put away",
+        "to finish",
+        "to do something completely"
+      ]
+    }
+  },
+  {
+    "id": "5d154c188d",
+    "word": "ジュース",
+    "reading": "ジュース",
+    "reason": "JMdict 1065950 covers juice and soft drinks; the tennis sense belongs to a different entry.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1065950; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "juice",
+        "soft drink",
+        "deuce"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "juice",
+        "soft drink"
+      ]
+    }
+  },
+  {
+    "id": "b1905d8e82",
+    "word": "住宅",
+    "reading": "じゅうたく",
+    "reason": "JMdict 1334150 gives residence, not resident.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1334150; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "resident",
+        "housing"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "residence",
+        "housing"
+      ]
+    }
+  },
+  {
+    "id": "17c0d3a658",
+    "word": "少女",
+    "reading": "しょうじょ",
+    "reason": "JMdict 1580290 defines a girl or young lady; daughter and virgin are unsupported for this entry.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1580290; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "daughter",
+        "young lady",
+        "virgin",
+        "maiden",
+        "little girl"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "girl",
+        "young lady"
+      ]
+    }
+  },
+  {
+    "id": "4ee42f5330",
+    "word": "進学",
+    "reading": "しんがく",
+    "reason": "JMdict 1366010 covers advancement to the next stage of education, not only university; the first example refers to graduate school.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1366010; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "going on to university"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "advancing to the next stage of education"
+      ]
+    }
+  },
+  {
+    "id": "1255ad0e6f",
+    "word": "茶",
+    "reading": "ちゃ",
+    "reason": "JMdict and the example sentences show senses omitted by the upstream English gloss.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1422570; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "tea"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "tea",
+        "brown"
+      ]
+    }
+  },
+  {
+    "id": "6763e0f981",
+    "word": "通り",
+    "reading": "とおり",
+    "reason": "JMdict and the example sentences show senses omitted by the upstream English gloss.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1432920; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "in accordance with ~",
+        "following ~",
+        "~ Street",
+        "~ Avenue"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "street",
+        "traffic",
+        "flow",
+        "in accordance with"
+      ]
+    }
+  },
+  {
+    "id": "a14ba106bc",
+    "word": "解く",
+    "reading": "とく",
+    "reason": "JMdict and the example sentences show senses omitted by the upstream English gloss.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1198890; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "to unfasten"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "to untie",
+        "to unfasten",
+        "to solve",
+        "to relieve of a duty"
+      ]
+    }
+  },
+  {
+    "id": "f57860a6ca",
+    "word": "得意",
+    "reading": "とくい",
+    "reason": "JMdict and the example sentences show senses omitted by the upstream English gloss.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1454510; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "pride",
+        "triumph",
+        "prosperity"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "one’s strong point",
+        "being good at",
+        "pride"
+      ]
+    }
+  },
+  {
+    "id": "ef97fe9600",
+    "word": "筋",
+    "reading": "すじ",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1241750; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "muscle",
+        "string",
+        "line"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "muscle",
+        "line",
+        "plot",
+        "source of information"
+      ]
+    }
+  },
+  {
+    "id": "e957aa6df9",
+    "word": "済ませる",
+    "reading": "すませる",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1295040; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "to be finished"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "to finish",
+        "to get through with"
+      ]
+    }
+  },
+  {
+    "id": "87333c0d40",
+    "word": "生物",
+    "reading": "せいぶつ",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1379430; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "living thing",
+        "organism",
+        "creature",
+        "life"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "living thing",
+        "organism",
+        "biology"
+      ]
+    }
+  },
+  {
+    "id": "e62a18d68e",
+    "word": "育つ",
+    "reading": "そだつ",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1160540; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "to raise (child)",
+        "to be brought up",
+        "to grow (up)"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "to be raised",
+        "to grow up"
+      ]
+    }
+  },
+  {
+    "id": "771ae04338",
+    "word": "ダイヤ",
+    "reading": "ダイヤ",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 2855660; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "dyer",
+        "diagram",
+        "(railway) schedule",
+        "diamond"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "railway schedule",
+        "diamond"
+      ]
+    }
+  },
+  {
+    "id": "8d0f952e4c",
+    "word": "釣",
+    "reading": "つり",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1434040; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "fishing",
+        "angling"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "fishing",
+        "change"
+      ]
+    }
+  },
+  {
+    "id": "626076af0e",
+    "word": "電子",
+    "reading": "でんし",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1443320; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "electron"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "electron",
+        "electronic"
+      ]
+    }
+  },
+  {
+    "id": "5750d76e14",
+    "word": "どうか",
+    "reading": "どうか",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1632200; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "copper coin"
+      ],
+      "jmdict_id": 1454350
+    },
+    "set": {
+      "meanings": [
+        "please",
+        "somehow",
+        "whether or not"
+      ],
+      "jmdict_id": 1632200
+    }
+  },
+  {
+    "id": "0894c700f3",
+    "word": "直",
+    "reading": "じき",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1581790; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "彼女はじきよくなるだろう。",
+          "furigana": "{彼女|かのじょ}はじきよくなるだろう。",
+          "en": "She will get well soon.",
+          "tatoeba_id": 92820
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "雨はじきにやむでしょう。",
+          "en": "The rain will stop soon."
+        },
+        {
+          "ja": "母はじきに帰ります。",
+          "en": "My mother will be back soon."
+        }
+      ]
+    }
+  },
+  {
+    "id": "dffd722c2c",
+    "word": "自殺",
+    "reading": "じさつ",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1317770; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "自殺を防ぐ相談窓口がある。",
+          "en": "There is a counseling service for suicide prevention."
+        },
+        {
+          "ja": "自殺の原因は一つとは限らない。",
+          "en": "Suicide does not necessarily have a single cause."
+        }
+      ]
+    }
+  },
+  {
+    "id": "b7517a4f00",
+    "word": "思想",
+    "reading": "しそう",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1309560; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "彼には思想の理想がかけている。",
+          "furigana": "{彼|かれ}には{思想|しそう}の{理想|りそう}がかけている。",
+          "en": "His thoughts are empty of idea.",
+          "tatoeba_id": 118840
+        },
+        {
+          "ja": "思想は言葉によって表現されている。",
+          "furigana": "{思想|しそう}は{言葉|ことば}によって{表現|ひょうげん}されている。",
+          "en": "Thoughts are expressed by means of words.",
+          "tatoeba_id": 168254
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "彼の思想は多くの人に影響を与えた。",
+          "en": "His ideas influenced many people."
+        },
+        {
+          "ja": "この本で平和についての思想を学んだ。",
+          "en": "I learned about ideas on peace in this book."
+        }
+      ]
+    }
+  },
+  {
+    "id": "7d18731cba",
+    "word": "したがって",
+    "reading": "したがって",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1335230; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "君は能力にしたがって上達する。",
+          "furigana": "{君|きみ}は{能力|のうりょく}にしたがって{上達|じょうたつ}する。",
+          "en": "You will progress in proportion to your abilities.",
+          "tatoeba_id": 177014
+        },
+        {
+          "ja": "新しいルールにしたがって試合をした。",
+          "furigana": "{新|あたら}しいルールにしたがって{試合|しあい}をした。",
+          "en": "We played the game in accordance with the new rules.",
+          "tatoeba_id": 145460
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "雨が強い。したがって、試合は中止だ。",
+          "en": "The rain is heavy; therefore, the game is canceled."
+        },
+        {
+          "ja": "彼は条件を満たした。したがって、応募できる。",
+          "en": "He met the requirements and can therefore apply."
+        }
+      ]
+    }
+  },
+  {
+    "id": "622adb5718",
+    "word": "じっと",
+    "reading": "じっと",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1005870; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "小さいおうちはお金で売れなかったのでじーとそこにとどまったままながめつづけていました。",
+          "furigana": "{小|ちい}さいおうちはお{金|かね}で{売|う}れなかったのでじーとそこにとどまったままながめつづけていました。",
+          "en": "She couldn't be sold for gold or silver, so she just stayed there and watched.",
+          "tatoeba_id": 147049
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "猫は窓の外をじっと見ている。",
+          "en": "The cat is staring out of the window."
+        },
+        {
+          "ja": "その子は椅子にじっと座っていた。",
+          "en": "The child sat still in the chair."
+        }
+      ]
+    }
+  },
+  {
+    "id": "3963aabbaa",
+    "word": "しまった",
+    "reading": "しまった",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1005600; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "しまった！ウッカリして、携帯電話をお店に忘れてきちゃった。",
+          "furigana": "しまった！ウッカリして、{携帯電話|けいたいでんわ}をお{店|みせ}に{忘|わす}れてきちゃった。",
+          "en": "Oh no! I wasn't paying attention and left my cell phone in the restaurant!",
+          "tatoeba_id": 216081
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "しまった、鍵を家に忘れた。",
+          "en": "Oh no, I left my key at home."
+        },
+        {
+          "ja": "しまった、電車に乗り遅れた。",
+          "en": "Oh no, I missed the train."
+        }
+      ]
+    }
+  },
+  {
+    "id": "99dc3e9d67",
+    "word": "事務",
+    "reading": "じむ",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1314270; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "退職する前に彼は事務を渡した。",
+          "furigana": "{退職|たいしょく}する{前|#1392580}に{彼|かれ}は{事務|じむ}を{渡|わた}した。",
+          "en": "Before he retired, he had handed over charge of his office.",
+          "tatoeba_id": 137867
+        },
+        {
+          "ja": "彼は事務に従事している。",
+          "furigana": "{彼|かれ}は{事務|じむ}に{従事|じゅうじ}している。",
+          "en": "He is engaged in business.",
+          "tatoeba_id": 105340
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "彼女は事務の仕事を担当している。",
+          "en": "She handles office work."
+        },
+        {
+          "ja": "事務の手続きを明日済ませます。",
+          "en": "I will complete the paperwork tomorrow."
+        }
+      ]
+    }
+  },
+  {
+    "id": "7c391cdd2b",
+    "word": "住民",
+    "reading": "じゅうみん",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1334210; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "住民の半数以上はその計画に反対だ。",
+          "furigana": "{住民|じゅうみん}の{半数|はんすう}{以上|いじょう}はその{計画|けいかく}に{反対|はんたい}だ。",
+          "en": "More than half the residents are opposed to the plan.",
+          "tatoeba_id": 148078
+        },
+        {
+          "ja": "住民は当事者に背いた。",
+          "furigana": "{住民|じゅうみん}は{当事者|とうじしゃ}に{背|そむ}いた。",
+          "en": "The inhabitants rebelled against the ruler.",
+          "tatoeba_id": 148076
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "住民の多くが新しい公園を歓迎した。",
+          "en": "Many residents welcomed the new park."
+        },
+        {
+          "ja": "住民に避難の案内が届いた。",
+          "en": "Residents received evacuation instructions."
+        }
+      ]
+    }
+  },
+  {
+    "id": "96bec84032",
+    "word": "小",
+    "reading": "しょう",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 2083540; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "大か、小か。",
+          "furigana": "{大|だい}か、{小|しょう}か。",
+          "en": "Large or small?",
+          "tatoeba_id": 137762
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "サイズは小を選びました。",
+          "en": "I chose the small size."
+        },
+        {
+          "ja": "この箱は大と小があります。",
+          "en": "This box comes in large and small sizes."
+        }
+      ]
+    }
+  },
+  {
+    "id": "9d02c51185",
+    "word": "消防",
+    "reading": "しょうぼう",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1350340; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "彼が言うには、消防の仕事というのは大忙しか全く暇かのいずれかだそうだ。",
+          "en": "He says firefighting is a feast or famine job.",
+          "tatoeba_id": 120412
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "消防の仕事は人々の安全を守る。",
+          "en": "Firefighting work protects people’s safety."
+        },
+        {
+          "ja": "火事を見て消防に連絡した。",
+          "en": "I contacted the fire department after seeing the fire."
+        }
+      ]
+    }
+  },
+  {
+    "id": "2a534a4917",
+    "word": "書類",
+    "reading": "しょるい",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1344200; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "この手紙を書類にしてもらいたい。",
+          "furigana": "この{手紙|てがみ}を{書類|しょるい}にしてもらいたい。",
+          "en": "I want this letter registered.",
+          "tatoeba_id": 221314
+        },
+        {
+          "ja": "彼はその書類を見る地位にあった。",
+          "furigana": "{彼|かれ}はその{書類|しょるい}を{見|み}る{地位|ちい}にあった。",
+          "en": "He had access to the papers.",
+          "tatoeba_id": 112674
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "必要な書類を受付に提出した。",
+          "en": "I submitted the required documents at reception."
+        },
+        {
+          "ja": "書類に名前と住所を書いてください。",
+          "en": "Please write your name and address on the document."
+        }
+      ]
+    }
+  },
+  {
+    "id": "5569286656",
+    "word": "少しも",
+    "reading": "すこしも",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1348900; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "コックさんは少しもかけていない。",
+          "furigana": "コックさんは{少|すこ}しもかけていない。",
+          "en": "The cook hasn't put any on it.",
+          "tatoeba_id": 224138
+        },
+        {
+          "ja": "私は少しもお金を持っていません。",
+          "furigana": "{私|わたし}は{少|すこ}しもお{金|かね}を{持|も}っていません。",
+          "en": "I don't have any money.",
+          "tatoeba_id": 155879
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "今日は少しも寒くない。",
+          "en": "It is not cold at all today."
+        },
+        {
+          "ja": "彼は少しも怒っていない。",
+          "en": "He is not angry at all."
+        }
+      ]
+    }
+  },
+  {
+    "id": "cde24ec2dd",
+    "word": "性",
+    "reading": "せい",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1375260; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "習い性となる。",
+          "furigana": "{習|なら}い{性|せい}となる。",
+          "en": "Habit is second nature.",
+          "tatoeba_id": 148162
+        },
+        {
+          "ja": "アクリル性のペンキを使いなさい。",
+          "en": "Use acrylic paint.",
+          "tatoeba_id": 76911
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "この調査では性について答える必要はない。",
+          "en": "You do not need to answer about your sex in this survey."
+        },
+        {
+          "ja": "性は生物学でも研究される。",
+          "en": "Sex is also studied in biology."
+        }
+      ]
+    }
+  },
+  {
+    "id": "735842741b",
+    "word": "正",
+    "reading": "せい",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1376590; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "彼の言ったことは全て正しかった。",
+          "en": "All what he said was right.",
+          "tatoeba_id": 117575
+        },
+        {
+          "ja": "もし間違っていたら正して下さい。",
+          "en": "Correct me if I am wrong.",
+          "tatoeba_id": 193740
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "この数は正です。",
+          "en": "This number is positive."
+        },
+        {
+          "ja": "正の数と負の数を比べる。",
+          "en": "Compare positive and negative numbers."
+        }
+      ]
+    }
+  },
+  {
+    "id": "e7e5bb3758",
+    "word": "背",
+    "reading": "せい",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1472650; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "兄は私より背が高い。",
+          "en": "My older brother is taller than I am."
+        },
+        {
+          "ja": "背の高い木が庭にある。",
+          "en": "There is a tall tree in the garden."
+        }
+      ]
+    }
+  },
+  {
+    "id": "f755485505",
+    "word": "積極的",
+    "reading": "せっきょくてき",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1383030; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "彼に父の持っている積極的が全然ない。",
+          "furigana": "{彼|かれ}に{父|ちち}の{持|も}っている{積極的|せっきょくてき}が{全然|ぜんぜん}ない。",
+          "en": "He has none of his father's aggressiveness.",
+          "tatoeba_id": 118488
+        },
+        {
+          "ja": "あの学生はとても積極的だ。",
+          "furigana": "あの{学生|がくせい}はとても{積極的|せっきょくてき}だ。",
+          "en": "That student is very active.",
+          "tatoeba_id": 231115
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "彼女は会議で積極的に発言した。",
+          "en": "She actively contributed to the meeting."
+        },
+        {
+          "ja": "新しい仕事に積極的に取り組む。",
+          "en": "I work proactively on new tasks."
+        }
+      ]
+    }
+  },
+  {
+    "id": "f0070e59ed",
+    "word": "そこで",
+    "reading": "そこで",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1406090; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "そこで他人との相互作用が大切になる。",
+          "furigana": "そこで{他人|たにん}との{相互作用|そうごさよう}が{大切|たいせつ}になる。",
+          "en": "Then interaction with others becomes important.",
+          "tatoeba_id": 213715
+        },
+        {
+          "ja": "そして、そこでその男は入ってきました。",
+          "furigana": "そして、そこでその{男|おとこ}は{入|はい}ってきました。",
+          "en": "And so the man came in.",
+          "tatoeba_id": 213552
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "雨が降った。そこで、家に帰った。",
+          "en": "It rained, so I went home."
+        },
+        {
+          "ja": "道に迷った。そこで、駅員に聞いた。",
+          "en": "I got lost, so I asked a station attendant."
+        }
+      ]
+    }
+  },
+  {
+    "id": "1655402893",
+    "word": "そして",
+    "reading": "そして",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1006730; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "そして世はこの方によって造られた。",
+          "en": "And the world was made through him.",
+          "tatoeba_id": 143466
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "朝ご飯を食べた。そして、学校へ行った。",
+          "en": "I ate breakfast and then went to school."
+        },
+        {
+          "ja": "彼女は親切だ。そして、仕事も丁寧だ。",
+          "en": "She is kind, and she works carefully too."
+        }
+      ]
+    }
+  },
+  {
+    "id": "d90edf318b",
+    "word": "それと",
+    "reading": "それと",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 2396190; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "それと俺がホモだとしたら、罪になるわけ？",
+          "furigana": "それと{俺|おれ}がホモだとしたら、{罪|つみ}になるわけ？",
+          "en": "And if I were gay, would that be a crime?",
+          "tatoeba_id": 531277
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "パンをください。それと、牛乳もお願いします。",
+          "en": "Bread, please. And milk as well."
+        },
+        {
+          "ja": "明日は本を持ってきて。それと、ノートも。",
+          "en": "Bring your book tomorrow, and your notebook too."
+        }
+      ]
+    }
+  },
+  {
+    "id": "7adaa6336c",
+    "word": "他",
+    "reading": "た",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1949190; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "彼女は彼を他の誰かとまちがえた。",
+          "furigana": "{彼女|かのじょ}は{彼|かれ}を{他|た}の{誰|だれ}かとまちがえた。",
+          "en": "She mixed him up with someone else.",
+          "tatoeba_id": 87193
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "他の方法を考えましょう。",
+          "en": "Let us consider another method."
+        },
+        {
+          "ja": "他の人にも聞いてみます。",
+          "en": "I will ask other people too."
+        }
+      ]
+    }
+  },
+  {
+    "id": "486445bd56",
+    "word": "対する",
+    "reading": "たいする",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1610160; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "原子力事故に対して最大限の努力を尽くしております。",
+          "en": "We are making all efforts possible to deal with the nuclear crisis.",
+          "tatoeba_id": 170390
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "質問に対して丁寧に答えた。",
+          "en": "I answered the question politely."
+        },
+        {
+          "ja": "政府は災害に対して支援を行った。",
+          "en": "The government provided support in response to the disaster."
+        }
+      ]
+    }
+  },
+  {
+    "id": "59a9224bb4",
+    "word": "大戦",
+    "reading": "たいせん",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1414360; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "あの家の繁栄は大戦中からのことだ。",
+          "en": "The prosperity of the family dates from the Great War.",
+          "tatoeba_id": 231180
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "祖父は大戦中に生まれた。",
+          "en": "My grandfather was born during the war."
+        },
+        {
+          "ja": "その建物は大戦で壊された。",
+          "en": "The building was destroyed in the great war."
+        }
+      ]
+    }
+  },
+  {
+    "id": "f1ff353185",
+    "word": "たとえ",
+    "reading": "たとえ",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1597120; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "たとえどんなことがあってもあきらめません。",
+          "en": "No matter what happens, I won't give up.",
+          "tatoeba_id": 77717
+        },
+        {
+          "ja": "英語には２つのつづりのある語がいくつかある。たとえはｇｒａｙとｇｒｅｙのようにだ。",
+          "furigana": "{英語|えいご}には２つのつづりのある{語|ご}がいくつかある。たとえはｇｒａｙとｇｒｅｙのようにだ。",
+          "en": "Some English words have two spellings - \"gray\" and \"grey\", for example.",
+          "tatoeba_id": 189199
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "先生は分かりやすいたとえを使った。",
+          "en": "The teacher used an easy-to-understand analogy."
+        },
+        {
+          "ja": "その話はよいたとえになる。",
+          "en": "That story makes a good analogy."
+        }
+      ]
+    }
+  },
+  {
+    "id": "9cac7f9475",
+    "word": "偶",
+    "reading": "たま",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 2068840; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "友理子はたまの逢瀬を心行くまで楽しんでしまいました。",
+          "en": "Yuriko thoroughly enjoyed her occasional secret meetings with her lover.",
+          "tatoeba_id": 75682
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "たまの休みにはゆっくり眠りたい。",
+          "en": "On an occasional day off, I want to sleep in."
+        },
+        {
+          "ja": "たまの外食を楽しんだ。",
+          "en": "I enjoyed an occasional meal out."
+        }
+      ]
+    }
+  },
+  {
+    "id": "42fbc7ed06",
+    "word": "弾",
+    "reading": "たま",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1240530; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "弾が彼の頬をかすめた。",
+          "en": "The bullet grazed his cheek.",
+          "tatoeba_id": 127330
+        },
+        {
+          "ja": "ニッケルは５セント玉です。",
+          "en": "A nickel is a five-cent coin.",
+          "tatoeba_id": 198775
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "弾が壁に当たった。",
+          "en": "The bullet hit the wall."
+        },
+        {
+          "ja": "銃に弾が入っている。",
+          "en": "There are bullets in the gun."
+        }
+      ]
+    }
+  },
+  {
+    "id": "b30544a54e",
+    "word": "務め",
+    "reading": "つとめ",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1240810; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "お勤めはどちらですか。",
+          "furigana": "お{勤|つと}めはどちらですか。",
+          "en": "Who do you work for?",
+          "tatoeba_id": 227297
+        },
+        {
+          "ja": "勉強するのは学生の務め。",
+          "en": "It's a student's business to study.",
+          "tatoeba_id": 83312
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "勉強するのは学生の務めだ。",
+          "en": "It is a student’s duty to study."
+        },
+        {
+          "ja": "安全を守るのが私たちの務めです。",
+          "en": "It is our duty to protect safety."
+        }
+      ]
+    }
+  },
+  {
+    "id": "7433983c57",
+    "word": "連れ",
+    "reading": "つれ",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1559260; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "駅までお連れいたしましょう。",
+          "en": "I'll show you to the station.",
+          "tatoeba_id": 188859
+        },
+        {
+          "ja": "私の連れは疲れすぎていて走るのはおろか、歩くこともできない、と言った。",
+          "en": "My companion said that she was too tired to walk, let alone run.",
+          "tatoeba_id": 162410
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "私の連れは先に駅へ行った。",
+          "en": "My companion went to the station first."
+        },
+        {
+          "ja": "連れと一緒に食事をした。",
+          "en": "I ate with my companion."
+        }
+      ]
+    }
+  },
+  {
+    "id": "c2946190ea",
+    "word": "で",
+    "reading": "で",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1896380; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "そこは風景が美しいことで有名だ。",
+          "furigana": "そこは{風景|ふうけい}が{美|うつく}しいことで{有名|ゆうめい}だ。",
+          "en": "This place is famous for its scenic beauty.",
+          "tatoeba_id": 213607
+        },
+        {
+          "ja": "あなたの意見をさしはさまないで。",
+          "furigana": "あなたの{意見|いけん}をさしはさまないで。",
+          "en": "Don't cut in with your remarks.",
+          "tatoeba_id": 233461
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "彼は大阪の大学の出だ。",
+          "en": "He is a graduate of a university in Osaka."
+        },
+        {
+          "ja": "彼の舞台への出は次です。",
+          "en": "He is next to appear on stage."
+        }
+      ]
+    }
+  },
+  {
+    "id": "56092bf6de",
+    "word": "出会い",
+    "reading": "であい",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1338400; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "私たちの出会いはまったくの偶然でした。",
+          "furigana": "{私|わたし}たちの{出会|であ}いはまったくの{偶然|ぐうぜん}でした。",
+          "en": "Our meeting was quite accidental.",
+          "tatoeba_id": 166942
+        },
+        {
+          "ja": "彼女との出会いが始まった。",
+          "furigana": "{彼女|かのじょ}との{出会|であ}いが{始|はじ}まった。",
+          "en": "I began a meeting with her.",
+          "tatoeba_id": 95117
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "私たちの出会いは偶然だった。",
+          "en": "Our meeting was accidental."
+        },
+        {
+          "ja": "旅先での出会いを大切にしている。",
+          "en": "I treasure the encounters I have while traveling."
+        }
+      ]
+    }
+  },
+  {
+    "id": "f1250de70c",
+    "word": "出来事",
+    "reading": "できごと",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1340570; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "このようのしてその出来事は起こった。",
+          "furigana": "このようのしてその{出来事|できごと}は{起|お}こった。",
+          "en": "This is how the incident happened.",
+          "tatoeba_id": 223044
+        },
+        {
+          "ja": "それは悪夢のような出来事だった。",
+          "furigana": "それは{悪夢|あくむ}のような{出来事|できごと}だった。",
+          "en": "It was a nightmare.",
+          "tatoeba_id": 205344
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "昨日の出来事を日記に書いた。",
+          "en": "I wrote about yesterday’s events in my diary."
+        },
+        {
+          "ja": "その出来事を今も覚えている。",
+          "en": "I still remember that incident."
+        }
+      ]
+    }
+  },
+  {
+    "id": "3dbdf1b28b",
+    "word": "ですから",
+    "reading": "ですから",
+    "reason": "Original examples were missing or did not illustrate the entry, or glosses omitted the illustrated sense; replacement sentences are original.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1008430; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "いいえ、結構です。お腹が一杯ですから。",
+          "furigana": "いいえ、{結構|けっこう}です。お{腹|なか}が{一杯|いっぱい}ですから。",
+          "en": "No, thank you. I've had enough.",
+          "tatoeba_id": 229459
+        },
+        {
+          "ja": "お酒の好みは人それぞれですからね。",
+          "furigana": "お{酒|さけ}の{好|この}みは{人|ひと}それぞれですからね。",
+          "en": "Everybody has their favorite drink.",
+          "tatoeba_id": 227040
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "雨です。ですから、家にいます。",
+          "en": "It is raining, so I will stay home."
+        },
+        {
+          "ja": "明日は休みです。ですから、学校はありません。",
+          "en": "Tomorrow is a holiday, so there is no school."
+        }
+      ]
+    }
+  },
+  {
+    "id": "f8acb92221",
+    "word": "事件",
+    "reading": "じけん",
+    "reason": "Replace malformed dictionary identifier embedded as furigana with the contextual reading; Japanese text and Tatoeba attribution remain unchanged.",
+    "references": [
+      "Original Japanese example and contextual readings reviewed by Codex on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "この事件に手を貸してください。",
+          "furigana": "この{事件|じけん}に{手|て}を{貸|か}してください。",
+          "en": "Give me a hand with this case.",
+          "tatoeba_id": 221665
+        },
+        {
+          "ja": "彼はその事件のことを妻に話した。",
+          "furigana": "{彼|かれ}はその{事件|じけん}のことを{妻|#1294330}に{話|はな}した。",
+          "en": "He mentioned the incident to his wife.",
+          "tatoeba_id": 112776
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "この事件に手を貸してください。",
+          "furigana": "この{事件|じけん}に{手|て}を{貸|か}してください。",
+          "en": "Give me a hand with this case.",
+          "tatoeba_id": 221665
+        },
+        {
+          "ja": "彼はその事件のことを妻に話した。",
+          "furigana": "{彼|かれ}はその{事件|じけん}のことを{妻|つま}に{話|はな}した。",
+          "en": "He mentioned the incident to his wife.",
+          "tatoeba_id": 112776
+        }
+      ]
+    }
+  },
+  {
+    "id": "34502f33ca",
+    "word": "週",
+    "reading": "しゅう",
+    "reason": "Replace malformed dictionary identifier embedded as furigana with the contextual reading; Japanese text and Tatoeba attribution remain unchanged.",
+    "references": [
+      "Original Japanese example and contextual readings reviewed by Codex on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "それはその前の週に買ったものでした。",
+          "furigana": "それはその{前|#1392580}の{週|しゅう}に{買|か}ったものでした。",
+          "en": "I had bought it the week before.",
+          "tatoeba_id": 205482
+        },
+        {
+          "ja": "週に一度でいいから運動しなさい。",
+          "furigana": "{週|しゅう}に{一度|いちど}でいいから{運動|うんどう}しなさい。",
+          "en": "Try to exercise at least once a week.",
+          "tatoeba_id": 148148
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "それはその前の週に買ったものでした。",
+          "furigana": "それはその{前|まえ}の{週|しゅう}に{買|か}ったものでした。",
+          "en": "I had bought it the week before.",
+          "tatoeba_id": 205482
+        },
+        {
+          "ja": "週に一度でいいから運動しなさい。",
+          "furigana": "{週|しゅう}に{一度|いちど}でいいから{運動|うんどう}しなさい。",
+          "en": "Try to exercise at least once a week.",
+          "tatoeba_id": 148148
+        }
+      ]
+    }
+  },
+  {
+    "id": "d83bc64e48",
+    "word": "書斎",
+    "reading": "しょさい",
+    "reason": "Replace malformed dictionary identifier embedded as furigana with the contextual reading; Japanese text and Tatoeba attribution remain unchanged.",
+    "references": [
+      "Original Japanese example and contextual readings reviewed by Codex on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "このドアは書斎に通じている。",
+          "furigana": "このドアは{書斎|しょさい}に{通|つう}じている。",
+          "en": "This door leads to the study.",
+          "tatoeba_id": 223480
+        },
+        {
+          "ja": "妻が寝た後、書斎で仕事をした。",
+          "furigana": "{妻|#1294330}が{寝|ね}た{後|あと}、{書斎|しょさい}で{仕事|しごと}をした。",
+          "en": "I worked in my study after my wife had gone to bed.",
+          "tatoeba_id": 170376
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "このドアは書斎に通じている。",
+          "furigana": "このドアは{書斎|しょさい}に{通|つう}じている。",
+          "en": "This door leads to the study.",
+          "tatoeba_id": 223480
+        },
+        {
+          "ja": "妻が寝た後、書斎で仕事をした。",
+          "furigana": "{妻|つま}が{寝|ね}た{後|あと}、{書斎|しょさい}で{仕事|しごと}をした。",
+          "en": "I worked in my study after my wife had gone to bed.",
+          "tatoeba_id": 170376
+        }
+      ]
+    }
+  },
+  {
+    "id": "20119e5c9b",
+    "word": "倒す",
+    "reading": "たおす",
+    "reason": "Replace malformed dictionary identifier embedded as furigana with the contextual reading; Japanese text and Tatoeba attribution remain unchanged.",
+    "references": [
+      "Original Japanese example and contextual readings reviewed by Codex on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "シート横にあるノブを前に動かし、シートを倒します。",
+          "furigana": "シート{横|よこ}にあるノブを{前|#1392580}に{動|うご}かし、シートを{倒|たお}します。",
+          "en": "Move the knob at the side of the seat forwards, collapse the seat.",
+          "tatoeba_id": 216590
+        },
+        {
+          "ja": "座席の背を倒してもいいですか。",
+          "furigana": "{座席|ざせき}の{背|せ}を{倒|たお}してもいいですか。",
+          "en": "May I put my seat back?",
+          "tatoeba_id": 170837
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "シート横にあるノブを前に動かし、シートを倒します。",
+          "furigana": "シート{横|よこ}にあるノブを{前|まえ}に{動|うご}かし、シートを{倒|たお}します。",
+          "en": "Move the knob at the side of the seat forwards, collapse the seat.",
+          "tatoeba_id": 216590
+        },
+        {
+          "ja": "座席の背を倒してもいいですか。",
+          "furigana": "{座席|ざせき}の{背|せ}を{倒|たお}してもいいですか。",
+          "en": "May I put my seat back?",
+          "tatoeba_id": 170837
+        }
+      ]
+    }
+  },
+  {
+    "id": "13aa7b864c",
+    "word": "解ける",
+    "reading": "とける",
+    "reason": "Both examples use the solve sense, which JMdict lists for 解ける but the upstream gloss omits.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1198910; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "to come untied",
+        "to come apart"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "to be solved",
+        "to come untied",
+        "to come apart"
+      ]
+    }
+  },
+  {
+    "id": "d07f542720",
+    "word": "飛ばす",
+    "reading": "とばす",
+    "reason": "The first example uses the causative flying sense, which is present in JMdict but missing from the gloss.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1485230; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "to skip over",
+        "to omit"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "to make fly",
+        "to skip over",
+        "to omit"
+      ]
+    }
+  },
+  {
+    "id": "42d999cbab",
+    "word": "トラック",
+    "reading": "トラック",
+    "reason": "Add two original examples for the truck and running-track senses.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1085760; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "トラックが荷物を運んでいます。",
+          "en": "The truck is carrying cargo."
+        },
+        {
+          "ja": "選手がトラックを走っています。",
+          "en": "The athlete is running on the track."
+        }
+      ]
+    }
+  },
+  {
+    "id": "58c5df73fd",
+    "word": "取れる",
+    "reading": "とれる",
+    "reason": "Both examples use obtain or extract senses documented in JMdict but omitted from the gloss.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1326990; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "to come off",
+        "to be taken off",
+        "to be removed"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "to come off",
+        "to be removed",
+        "to be obtained",
+        "to be extracted"
+      ]
+    }
+  },
+  {
+    "id": "6556dc10d1",
+    "word": "トン",
+    "reading": "トン",
+    "reason": "Add two original examples for a card without examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1457320; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "このトラックは二トンまで荷物を積めます。",
+          "en": "This truck can carry up to two tonnes of cargo."
+        },
+        {
+          "ja": "この石は約一トンの重さです。",
+          "en": "This stone weighs about one tonne."
+        }
+      ]
+    }
+  },
+  {
+    "id": "8a2b4c5ed1",
+    "word": "流す",
+    "reading": "ながす",
+    "reason": "An existing example illustrates a JMdict sense omitted from the English gloss.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1552120; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "to drain",
+        "to float",
+        "to shed (blood, tears)",
+        "to cruise (e.g. taxi)"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "to drain",
+        "to float",
+        "to shed (blood, tears)",
+        "to wash away",
+        "to cruise (e.g. taxi)"
+      ]
+    }
+  },
+  {
+    "id": "b7b23bf678",
+    "word": "流れる",
+    "reading": "ながれる",
+    "reason": "An existing example illustrates a JMdict sense omitted from the English gloss.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1552140; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "to stream",
+        "to flow",
+        "to run (ink)",
+        "to be washed away"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "to stream",
+        "to flow",
+        "to run (ink)",
+        "to be washed away",
+        "to be broadcast"
+      ]
+    }
+  },
+  {
+    "id": "04f80af544",
+    "word": "生",
+    "reading": "なま",
+    "reason": "An existing example illustrates a JMdict sense omitted from the English gloss.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1378450; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "draft (beer)",
+        "raw",
+        "unprocessed"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "draft (beer)",
+        "raw",
+        "unprocessed",
+        "unprotected (sex)"
+      ]
+    }
+  },
+  {
+    "id": "5ae490b220",
+    "word": "日中",
+    "reading": "にっちゅう",
+    "reason": "Correct or supplement a sense supported by JMdict and the examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1464250; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "daytime",
+        "broad daylight"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "daytime",
+        "broad daylight",
+        "Japan and China"
+      ]
+    }
+  },
+  {
+    "id": "d40e2575e0",
+    "word": "抜く",
+    "reading": "ぬく",
+    "reason": "Correct or supplement a sense supported by JMdict and the examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1478190; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "to extract",
+        "to omit",
+        "to surpass",
+        "to draw out",
+        "to unplug"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "to extract",
+        "to omit",
+        "to surpass",
+        "to draw out",
+        "to unplug",
+        "to do to the end"
+      ]
+    }
+  },
+  {
+    "id": "20b5089feb",
+    "word": "ね",
+    "reading": "ね",
+    "reason": "Replace an unrelated or incorrect example with an original context-aligned sentence.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 2836242; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "彼はその絵にたいへん高い値をつけた。",
+          "furigana": "{彼|かれ}はその{絵|え}にたいへん{高|たか}い{値|ね}をつけた。",
+          "en": "He put the painting at a very high price.",
+          "tatoeba_id": 113046
+        },
+        {
+          "ja": "ねぇ、お願い。",
+          "furigana": "ねぇ、お{願|ねが}い。",
+          "en": "Oh, have a heart.",
+          "tatoeba_id": 198647
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "彼はその絵にたいへん高い値をつけた。",
+          "furigana": "{彼|かれ}はその{絵|え}にたいへん{高|たか}い{値|ね}をつけた。",
+          "en": "He put the painting at a very high price.",
+          "tatoeba_id": 113046
+        },
+        {
+          "ja": "この商品の値が上がりました。",
+          "en": "The price of this product has risen."
+        }
+      ]
+    }
+  },
+  {
+    "id": "e7a5df28c0",
+    "word": "根",
+    "reading": "ね",
+    "reason": "Correct or supplement a sense supported by JMdict and the examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1290020; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "root"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "root",
+        "one’s true nature"
+      ]
+    }
+  },
+  {
+    "id": "c03a75fe96",
+    "word": "熱中",
+    "reading": "ねっちゅう",
+    "reason": "Correct or supplement a sense supported by JMdict and the examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1467950; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "nuts!",
+        "enthusiasm",
+        "zeal",
+        "mania"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "enthusiasm",
+        "being absorbed in"
+      ]
+    }
+  },
+  {
+    "id": "8ae84a079b",
+    "word": "能",
+    "reading": "のう",
+    "reason": "Correct or supplement a sense supported by JMdict and the examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1470120; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "being skilled in",
+        "nicely",
+        "properly"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "ability",
+        "noh theater"
+      ]
+    }
+  },
+  {
+    "id": "a5cf314cf9",
+    "word": "残す",
+    "reading": "のこす",
+    "reason": "Replace an unrelated or incorrect example with an original context-aligned sentence.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1600260; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "これは父が私に残してくれたものが一つある。",
+          "furigana": "これは{父|ちち}が{私|わたし}に{残|のこ}してくれたものが{一|ひと}つある。",
+          "en": "This is one thing my father left to me.",
+          "tatoeba_id": 84864
+        },
+        {
+          "ja": "私達は彼に少しケーキを残してあげた。",
+          "en": "We left him some cake.",
+          "tatoeba_id": 151347
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "父は私に本を一冊残してくれた。",
+          "en": "My father left me a book."
+        },
+        {
+          "ja": "私達は彼に少しケーキを残してあげた。",
+          "en": "We left him some cake.",
+          "tatoeba_id": 151347
+        }
+      ]
+    }
+  },
+  {
+    "id": "9df259e377",
+    "word": "昇る",
+    "reading": "のぼる",
+    "reason": "Replace an unrelated or incorrect example with an original context-aligned sentence.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1352570; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "そのとき太陽がのぼるところだった。",
+          "furigana": "そのとき{太陽|たいよう}がのぼるところだった。",
+          "en": "The sun was coming up then.",
+          "tatoeba_id": 212895
+        },
+        {
+          "ja": "猫は木に登れるが、犬は昇れない。",
+          "en": "Cats can climb trees, but dogs can't.",
+          "tatoeba_id": 121929
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "そのとき太陽がのぼるところだった。",
+          "furigana": "そのとき{太陽|たいよう}がのぼるところだった。",
+          "en": "The sun was coming up then.",
+          "tatoeba_id": 212895
+        },
+        {
+          "ja": "太陽は東から昇ります。",
+          "en": "The sun rises in the east."
+        }
+      ]
+    }
+  },
+  {
+    "id": "ee21222664",
+    "word": "吐く",
+    "reading": "はく",
+    "reason": "Add two original examples to a card without examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 2646460; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "彼は深く息を吸って、ゆっくり吐いた。",
+          "en": "He took a deep breath and breathed out slowly."
+        },
+        {
+          "ja": "子どもは具合が悪くて吐いた。",
+          "en": "The child vomited because they felt unwell."
+        }
+      ]
+    }
+  },
+  {
+    "id": "242a0bb0ea",
+    "word": "パス",
+    "reading": "パス",
+    "reason": "Add two original examples to a card without examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1101440; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "path",
+        "pass (in games)"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "to pass (an examination)",
+        "pass (of a ball)",
+        "pass (for admission)"
+      ],
+      "examples": [
+        {
+          "ja": "彼女は試験にパスした。",
+          "en": "She passed the examination."
+        },
+        {
+          "ja": "彼は味方にボールをパスした。",
+          "en": "He passed the ball to a teammate."
+        }
+      ]
+    }
+  },
+  {
+    "id": "1038a70c3e",
+    "word": "ばったり",
+    "reading": "ばったり",
+    "reason": "Correct or supplement a sense supported by JMdict and the examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1632430; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "with a clash (thud)",
+        "with a bang",
+        "plump",
+        "flop"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "unexpectedly (meeting someone)",
+        "with a thud",
+        "suddenly"
+      ]
+    }
+  },
+  {
+    "id": "c5af695d0b",
+    "word": "張る",
+    "reading": "はる",
+    "reason": "Supplement an example sense documented in JMdict.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1427900; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "to stick",
+        "to paste"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "to stick",
+        "to paste",
+        "to stretch",
+        "to put up (a tent)"
+      ]
+    }
+  },
+  {
+    "id": "f675c4ff49",
+    "word": "一人一人",
+    "reading": "ひとりひとり",
+    "reason": "Replace an incorrect example with an original context-aligned sentence.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1612530; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "メイドは客を一人一人大声でとりついた。",
+          "furigana": "メイドは{客|きゃく}を{一人一人|ひとりひとり}{大声|おおごえ}でとりついた。",
+          "en": "The maid announced each guest.",
+          "tatoeba_id": 194689
+        },
+        {
+          "ja": "彼は息子たち一人一人にお金をやった。",
+          "furigana": "{彼|かれ}は{息子|むすこ}たち{一人一人|ひとりひとり}にお{金|かね}をやった。",
+          "en": "He gave money to each of his sons.",
+          "tatoeba_id": 102750
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "先生は学生の名前を一人一人呼んだ。",
+          "en": "The teacher called each student by name."
+        },
+        {
+          "ja": "彼は息子たち一人一人にお金をやった。",
+          "furigana": "{彼|かれ}は{息子|むすこ}たち{一人一人|ひとりひとり}にお{金|かね}をやった。",
+          "en": "He gave money to each of his sons.",
+          "tatoeba_id": 102750
+        }
+      ]
+    }
+  },
+  {
+    "id": "58e01c0b72",
+    "word": "表情",
+    "reading": "ひょうじょう",
+    "reason": "Replace an incorrect example with an original context-aligned sentence.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1489700; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "彼の頭がさっと怒りの表情に変わるのを見た。",
+          "en": "I saw his face switch to anger.",
+          "tatoeba_id": 116408
+        },
+        {
+          "ja": "彼女は悲しそうな表情をしていた。",
+          "furigana": "{彼女|かのじょ}は{悲|かな}しそうな{表情|ひょうじょう}をしていた。",
+          "en": "She wore a sad expression.",
+          "tatoeba_id": 87166
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "彼の顔がさっと怒りの表情に変わるのを見た。",
+          "en": "I saw his face suddenly take on an angry expression."
+        },
+        {
+          "ja": "彼女は悲しそうな表情をしていた。",
+          "furigana": "{彼女|かのじょ}は{悲|かな}しそうな{表情|ひょうじょう}をしていた。",
+          "en": "She wore a sad expression.",
+          "tatoeba_id": 87166
+        }
+      ]
+    }
+  },
+  {
+    "id": "18ce3e646d",
+    "word": "ピン",
+    "reading": "ピン",
+    "reason": "Add two original examples to a card without examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1107060; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "彼女はピンで布を留めた。",
+          "en": "She fastened the fabric with a pin."
+        },
+        {
+          "ja": "彼はピンで紙を壁に留めた。",
+          "en": "He pinned the paper to the wall."
+        }
+      ]
+    }
+  },
+  {
+    "id": "41e221bc4d",
+    "word": "不",
+    "reading": "ふ",
+    "reason": "Add two original examples to a card without examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1922780; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "不安は心が落ち着かないことです。",
+          "en": "Fuan means a feeling of unease."
+        },
+        {
+          "ja": "不可能はできないという意味です。",
+          "en": "Fukanō means impossible."
+        }
+      ]
+    }
+  },
+  {
+    "id": "3dd04815d8",
+    "word": "含む",
+    "reading": "ふくむ",
+    "reason": "Supplement an example sense documented in JMdict.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1216880; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "to hold in the mouth",
+        "to bear in mind"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "to contain",
+        "to include",
+        "to hold in the mouth",
+        "to bear in mind"
+      ]
+    }
+  },
+  {
+    "id": "91695e543a",
+    "word": "別に",
+    "reading": "べつに",
+    "reason": "Supplement a sense illustrated by the examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1509480; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "(not) particularly",
+        "nothing"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "(not) particularly",
+        "separately"
+      ]
+    }
+  },
+  {
+    "id": "00b4506e25",
+    "word": "ボーイ",
+    "reading": "ボーイ",
+    "reason": "Supplement a sense illustrated by the examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1123230; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "boy"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "boy",
+        "waiter",
+        "bellboy"
+      ]
+    }
+  },
+  {
+    "id": "e11ef6d7e3",
+    "word": "ホーム",
+    "reading": "ホーム",
+    "reason": "Add two original examples to a card without examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1121740; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "三番ホームでお待ちください。",
+          "en": "Please wait on platform three."
+        },
+        {
+          "ja": "電車がホームに入ります。",
+          "en": "The train is entering the platform."
+        }
+      ]
+    }
+  },
+  {
+    "id": "38dd5eb4a0",
+    "word": "ボール",
+    "reading": "ボール",
+    "reason": "Add two original examples to a card without examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1123550; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "子どもが公園でボールを蹴る。",
+          "en": "A child kicks a ball in the park."
+        },
+        {
+          "ja": "彼は友達にボールを渡した。",
+          "en": "He passed the ball to a friend."
+        }
+      ]
+    }
+  },
+  {
+    "id": "fa769c0e9b",
+    "word": "ほぼ",
+    "reading": "ほぼ",
+    "reason": "Add two original examples to a card without examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1551940; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "準備はほぼ終わりました。",
+          "en": "The preparations are nearly finished."
+        },
+        {
+          "ja": "参加者はほぼ百人でした。",
+          "en": "There were approximately one hundred participants."
+        }
+      ]
+    }
+  },
+  {
+    "id": "1151601f8e",
+    "word": "濠",
+    "reading": "ほり",
+    "reason": "Add two original examples to a card without examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1522060; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "城の周りに濠があります。",
+          "en": "There is a moat around the castle."
+        },
+        {
+          "ja": "濠には水が入っています。",
+          "en": "There is water in the moat."
+        }
+      ]
+    }
+  },
+  {
+    "id": "97ddf0dc45",
+    "word": "マイク",
+    "reading": "マイク",
+    "reason": "Replace an unrelated or incorrect example with an original context-aligned sentence.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1126590; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "さっきなぜかマイクが入らなかった。",
+          "furigana": "さっきなぜかマイクが{入|はい}らなかった。",
+          "en": "For some reason the microphone didn't work earlier.",
+          "tatoeba_id": 75173
+        },
+        {
+          "ja": "これ、あなたの本なの、マイク？",
+          "furigana": "これ、あなたの{本|ほん}なの、マイク？",
+          "en": "Is this your book, Mike?",
+          "tatoeba_id": 219034
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "さっきなぜかマイクが入らなかった。",
+          "furigana": "さっきなぜかマイクが{入|はい}らなかった。",
+          "en": "For some reason the microphone didn't work earlier.",
+          "tatoeba_id": 75173
+        },
+        {
+          "ja": "マイクを使って話してください。",
+          "en": "Please speak using the microphone."
+        }
+      ]
+    }
+  },
+  {
+    "id": "379f6158b5",
+    "word": "まさに",
+    "reading": "まさに",
+    "reason": "Replace an unrelated or incorrect example with an original context-aligned sentence.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1376640; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "あなたの電話が鳴ったときまさに出かけようとするところだった。",
+          "furigana": "あなたの{電話|でんわ}が{鳴|な}ったときまさに{出|で}かけようとするところだった。",
+          "en": "I was about to leave when you telephoned.",
+          "tatoeba_id": 233082
+        },
+        {
+          "ja": "彼女まさに出発しようとしていた。",
+          "furigana": "{彼女|かのじょ}まさに{出発|しゅっぱつ}しようとしていた。",
+          "en": "She was about to start.",
+          "tatoeba_id": 86169
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "あなたの電話が鳴ったときまさに出かけようとするところだった。",
+          "furigana": "あなたの{電話|でんわ}が{鳴|な}ったときまさに{出|で}かけようとするところだった。",
+          "en": "I was about to leave when you telephoned.",
+          "tatoeba_id": 233082
+        },
+        {
+          "ja": "彼女はまさに出発しようとしていた。",
+          "en": "She was just about to leave."
+        }
+      ]
+    }
+  },
+  {
+    "id": "b718c116a2",
+    "word": "貧しい",
+    "reading": "まずしい",
+    "reason": "Replace an unrelated or incorrect example with an original context-aligned sentence.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1490740; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "われわれは貧しい人あざ笑ってはいけない。",
+          "furigana": "われわれは{貧|まず}しい{人|ひと}あざ{笑|わら}ってはいけない。",
+          "en": "We must not laugh at the poor.",
+          "tatoeba_id": 191591
+        },
+        {
+          "ja": "貧しい人をさげすんではならない。",
+          "furigana": "{貧|まず}しい{人|ひと}をさげすんではならない。",
+          "en": "You should not look down upon the poor.",
+          "tatoeba_id": 85192
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "われわれは貧しい人をあざ笑ってはいけない。",
+          "en": "We must not mock poor people."
+        },
+        {
+          "ja": "貧しい人をさげすんではならない。",
+          "furigana": "{貧|まず}しい{人|ひと}をさげすんではならない。",
+          "en": "You should not look down upon the poor.",
+          "tatoeba_id": 85192
+        }
+      ]
+    }
+  },
+  {
+    "id": "363e985c77",
+    "word": "マスター",
+    "reading": "マスター",
+    "reason": "Supplement a sense illustrated by the examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1127970; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "proprietor",
+        "manager",
+        "barowner",
+        "master (e.g. arts, science)"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "to master (a skill)",
+        "proprietor",
+        "manager"
+      ]
+    }
+  },
+  {
+    "id": "62682a6308",
+    "word": "ミス",
+    "reading": "ミス",
+    "reason": "Add two original examples to a card without examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1130650; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "miss (mistake, error, failure)",
+        "Miss"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "mistake",
+        "error"
+      ],
+      "examples": [
+        {
+          "ja": "計算でミスをしました。",
+          "en": "I made a mistake in the calculation."
+        },
+        {
+          "ja": "ミスをしたら教えてください。",
+          "en": "Please tell me if you make a mistake."
+        }
+      ]
+    }
+  },
+  {
+    "id": "98c8318e58",
+    "word": "向く",
+    "reading": "むく",
+    "reason": "Supplement a sense illustrated by the example.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1277080; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "to face"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "to face",
+        "to be suited to"
+      ]
+    }
+  },
+  {
+    "id": "3fa9f114f2",
+    "word": "夕べ",
+    "reading": "ゆうべ",
+    "reason": "Add two original examples to a card without examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 2863051; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "夕べは雨が降りました。",
+          "en": "It rained last night."
+        },
+        {
+          "ja": "夕べには美しい空が見えます。",
+          "en": "A beautiful sky can be seen in the evening."
+        }
+      ]
+    }
+  },
+  {
+    "id": "9054323c74",
+    "word": "止す",
+    "reading": "よす",
+    "reason": "Replace an unrelated or incorrect example with an original context-aligned sentence.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1310600; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "そんな難しい質問はよしてくれよ。",
+          "furigana": "そんな{難|むずか}しい{質問|しつもん}はよしてくれよ。",
+          "en": "Don't ask me such a hard question.",
+          "tatoeba_id": 204058
+        },
+        {
+          "ja": "物を有るがままにみようよしなさい。",
+          "furigana": "{物|もの}を{有|あ}るがままにみようよしなさい。",
+          "en": "Try to see things as they really are.",
+          "tatoeba_id": 83822
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "そんな難しい質問はよしてくれよ。",
+          "furigana": "そんな{難|むずか}しい{質問|しつもん}はよしてくれよ。",
+          "en": "Don't ask me such a hard question.",
+          "tatoeba_id": 204058
+        },
+        {
+          "ja": "雨だから、公園に行くのはよそう。",
+          "en": "It is raining, so let us not go to the park."
+        }
+      ]
+    }
+  },
+  {
+    "id": "908b44a04b",
+    "word": "予測",
+    "reading": "よそく",
+    "reason": "Replace an unrelated or incorrect example with an original context-aligned sentence.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1543200; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "何が起こるか予測できない。",
+          "en": "We cannot predict what will happen.",
+          "tatoeba_id": 188002
+        },
+        {
+          "ja": "明日の天気がどうなるかを予想するのは難しい。",
+          "en": "It's hard to predict what the weather will be like tomorrow.",
+          "tatoeba_id": 80505
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "何が起こるか予測できない。",
+          "en": "We cannot predict what will happen.",
+          "tatoeba_id": 188002
+        },
+        {
+          "ja": "明日の天気を予測するのは難しい。",
+          "en": "It is difficult to predict tomorrow’s weather."
+        }
+      ]
+    }
+  },
+  {
+    "id": "0294bdc5ab",
+    "word": "ライター",
+    "reading": "ライター",
+    "reason": "Add two original examples to a card without examples and correct the sense.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1137880; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "lighter",
+        "rider",
+        "writer"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "lighter"
+      ],
+      "examples": [
+        {
+          "ja": "ライターでろうそくに火をつけた。",
+          "en": "I lit the candle with a lighter."
+        },
+        {
+          "ja": "ライターを貸してください。",
+          "en": "Please lend me your lighter."
+        }
+      ]
+    }
+  },
+  {
+    "id": "b0fe98d49c",
+    "word": "陸",
+    "reading": "りく",
+    "reason": "Correct the English gloss to the sense supported by JMdict and the examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1550980; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "six (used in legal documents)"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "land",
+        "shore"
+      ]
+    }
+  },
+  {
+    "id": "cd42c9314f",
+    "word": "ロケット",
+    "reading": "ロケット",
+    "reason": "Add two original examples to a card without examples and correct the sense.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1147220; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "locket",
+        "rocket"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "rocket"
+      ],
+      "examples": [
+        {
+          "ja": "ロケットが空へ上がった。",
+          "en": "The rocket rose into the sky."
+        },
+        {
+          "ja": "子どもたちはロケットの模型を作った。",
+          "en": "The children made a model rocket."
+        }
+      ]
+    }
+  },
+  {
+    "id": "b440e7ed66",
+    "word": "悪口",
+    "reading": "わるくち",
+    "reason": "Add two original examples to a card without examples and correct the sense.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1575730; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {},
+    "set": {
+      "examples": [
+        {
+          "ja": "人の悪口を言ってはいけません。",
+          "en": "You should not speak ill of others."
+        },
+        {
+          "ja": "彼は友達の悪口を陰で言った。",
+          "en": "He spoke ill of his friend behind their back."
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb012edb7f",
+    "word": "バン",
+    "reading": "バン",
+    "reason": "Select the vehicle sense: upstream points to the homophonous hairstyle entry and has no examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1100090 and 2849429; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "bun",
+        "van (caravan)",
+        "VAN (value-added network)"
+      ],
+      "jmdict_id": 1100090
+    },
+    "set": {
+      "meanings": [
+        "van",
+        "delivery van"
+      ],
+      "jmdict_id": 2849429,
+      "examples": [
+        {
+          "ja": "バンに荷物を積みました。",
+          "en": "We loaded the van with luggage."
+        },
+        {
+          "ja": "店の前に白いバンが止まっています。",
+          "en": "A white van is parked in front of the shop."
+        }
+      ]
+    }
+  },
+  {
+    "id": "4850008747",
+    "word": "ノック",
+    "reading": "ノック",
+    "reason": "Correct malformed dictionary identifiers in furigana readings; Japanese sentences and Tatoeba attribution are unchanged.",
+    "references": [
+      "Japanese reading reviewed by Codex"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "入る前にドアをノックして下さい。",
+          "furigana": "{入|はい}る{前|#1392580}にドアをノックして{下|くだ}さい。",
+          "en": "Please knock on the door before you enter.",
+          "tatoeba_id": 122091
+        },
+        {
+          "ja": "誰かがドアをノックした。",
+          "furigana": "{誰|だれ}かがドアをノックした。",
+          "en": "Someone knocked on the door.",
+          "tatoeba_id": 137114
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "入る前にドアをノックして下さい。",
+          "furigana": "{入|はい}る{前|まえ}にドアをノックして{下|くだ}さい。",
+          "en": "Please knock on the door before you enter.",
+          "tatoeba_id": 122091
+        },
+        {
+          "ja": "誰かがドアをノックした。",
+          "furigana": "{誰|だれ}かがドアをノックした。",
+          "en": "Someone knocked on the door.",
+          "tatoeba_id": 137114
+        }
+      ]
+    }
+  },
+  {
+    "id": "215a642747",
+    "word": "発車",
+    "reading": "はっしゃ",
+    "reason": "Correct malformed dictionary identifiers in furigana readings; Japanese sentences and Tatoeba attribution are unchanged.",
+    "references": [
+      "Japanese reading reviewed by Codex"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "バスは五分後に発車します。",
+          "furigana": "バスは{五分|ごふん}{後|ご}に{発車|はっしゃ}します。",
+          "en": "The bus leaves in five minutes.",
+          "tatoeba_id": 198114
+        },
+        {
+          "ja": "駅に着く前に列車は発車していた。",
+          "furigana": "{駅|えき}に{着|つ}く{前|#1392580}に{列車|れっしゃ}は{発車|はっしゃ}していた。",
+          "en": "The train left before we got to the station.",
+          "tatoeba_id": 188914
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "バスは五分後に発車します。",
+          "furigana": "バスは{五分|ごふん}{後|ご}に{発車|はっしゃ}します。",
+          "en": "The bus leaves in five minutes.",
+          "tatoeba_id": 198114
+        },
+        {
+          "ja": "駅に着く前に列車は発車していた。",
+          "furigana": "{駅|えき}に{着|つ}く{前|まえ}に{列車|れっしゃ}は{発車|はっしゃ}していた。",
+          "en": "The train left before we got to the station.",
+          "tatoeba_id": 188914
+        }
+      ]
+    }
+  },
+  {
+    "id": "1ea7451e69",
+    "word": "瓶",
+    "reading": "びん",
+    "reason": "Correct malformed dictionary identifiers in furigana readings; Japanese sentences and Tatoeba attribution are unchanged.",
+    "references": [
+      "Japanese reading reviewed by Codex"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "使用する前に瓶を振ってください。",
+          "furigana": "{使用|しよう}する{前|#1392580}に{瓶|びん}を{振|ふ}ってください。",
+          "en": "Shake the bottle before using.",
+          "tatoeba_id": 168994
+        },
+        {
+          "ja": "その瓶を水でいっぱいにしなさい。",
+          "furigana": "その{瓶|びん}を{水|みず}でいっぱいにしなさい。",
+          "en": "Fill the bottle with water.",
+          "tatoeba_id": 207041
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "使用する前に瓶を振ってください。",
+          "furigana": "{使用|しよう}する{前|まえ}に{瓶|びん}を{振|ふ}ってください。",
+          "en": "Shake the bottle before using.",
+          "tatoeba_id": 168994
+        },
+        {
+          "ja": "その瓶を水でいっぱいにしなさい。",
+          "furigana": "その{瓶|びん}を{水|みず}でいっぱいにしなさい。",
+          "en": "Fill the bottle with water.",
+          "tatoeba_id": 207041
+        }
+      ]
+    }
+  },
+  {
+    "id": "44edce4345",
+    "word": "ベルト",
+    "reading": "ベルト",
+    "reason": "Correct malformed dictionary identifiers in furigana readings; Japanese sentences and Tatoeba attribution are unchanged.",
+    "references": [
+      "Japanese reading reviewed by Codex"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "彼女は腰に革のベルトをしている。",
+          "furigana": "{彼女|かのじょ}は{腰|#1288340}に{革|かわ}のベルトをしている。",
+          "en": "She is wearing a leather belt around her waist.",
+          "tatoeba_id": 90069
+        },
+        {
+          "ja": "忘れずに安全ベルトを閉めなさい。",
+          "furigana": "{忘|わす}れずに{安全|あんぜん}ベルトを{閉|し}めなさい。",
+          "en": "Don't forget to fasten your safety belts.",
+          "tatoeba_id": 82580
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "彼女は腰に革のベルトをしている。",
+          "furigana": "{彼女|かのじょ}は{腰|こし}に{革|かわ}のベルトをしている。",
+          "en": "She is wearing a leather belt around her waist.",
+          "tatoeba_id": 90069
+        },
+        {
+          "ja": "忘れずに安全ベルトを閉めなさい。",
+          "furigana": "{忘|わす}れずに{安全|あんぜん}ベルトを{閉|し}めなさい。",
+          "en": "Don't forget to fasten your safety belts.",
+          "tatoeba_id": 82580
+        }
+      ]
+    }
+  },
+  {
+    "id": "e7344aa7e1",
+    "word": "法",
+    "reading": "ほう",
+    "reason": "Correct malformed dictionary identifiers in furigana readings; Japanese sentences and Tatoeba attribution are unchanged.",
+    "references": [
+      "Japanese reading reviewed by Codex"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "すべての人は法の前に平等です。",
+          "furigana": "すべての{人|ひと}は{法|ほう}の{前|#1392580}に{平等|びょうどう}です。",
+          "en": "Everybody is equal before the law.",
+          "tatoeba_id": 214428
+        },
+        {
+          "ja": "法のもとではすべての人は平等だ。",
+          "furigana": "{法|ほう}のもとではすべての{人|ひと}は{平等|びょうどう}だ。",
+          "en": "All men are equal under the law.",
+          "tatoeba_id": 82698
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "すべての人は法の前に平等です。",
+          "furigana": "すべての{人|ひと}は{法|ほう}の{前|まえ}に{平等|びょうどう}です。",
+          "en": "Everybody is equal before the law.",
+          "tatoeba_id": 214428
+        },
+        {
+          "ja": "法のもとではすべての人は平等だ。",
+          "furigana": "{法|ほう}のもとではすべての{人|ひと}は{平等|びょうどう}だ。",
+          "en": "All men are equal under the law.",
+          "tatoeba_id": 82698
+        }
+      ]
+    }
+  },
+  {
+    "id": "ba21b41503",
+    "word": "飯",
+    "reading": "めし",
+    "reason": "Correct malformed dictionary identifiers in furigana readings; Japanese sentences and Tatoeba attribution are unchanged.",
+    "references": [
+      "Japanese reading reviewed by Codex"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "とにかくメシ・・・といきたいところだが、その前に用を足すことにした。",
+          "furigana": "とにかくメシ・・・といきたいところだが、その{前|#1392580}に{用|よう}を{足|た}すことにした。",
+          "en": "Anyhow, lunch ... is where I wanted to go but I decided to go to the toilet first.",
+          "tatoeba_id": 76513
+        },
+        {
+          "ja": "一週間メシ抜きだったよ。",
+          "furigana": "{一週間|いっしゅうかん}メシ{抜|ぬ}きだったよ。",
+          "en": "I went without food for a week.",
+          "tatoeba_id": 190566
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "とにかくメシ・・・といきたいところだが、その前に用を足すことにした。",
+          "furigana": "とにかくメシ・・・といきたいところだが、その{前|まえ}に{用|よう}を{足|た}すことにした。",
+          "en": "Anyhow, lunch ... is where I wanted to go but I decided to go to the toilet first.",
+          "tatoeba_id": 76513
+        },
+        {
+          "ja": "一週間メシ抜きだったよ。",
+          "furigana": "{一週間|いっしゅうかん}メシ{抜|ぬ}きだったよ。",
+          "en": "I went without food for a week.",
+          "tatoeba_id": 190566
+        }
+      ]
+    }
+  },
+  {
+    "id": "b434efd06b",
+    "word": "夜明け",
+    "reading": "よあけ",
+    "reason": "Correct malformed dictionary identifiers in furigana readings; Japanese sentences and Tatoeba attribution are unchanged.",
+    "references": [
+      "Japanese reading reviewed by Codex"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "私は、突然夜明け前に起こされた。",
+          "furigana": "{私|わたし}は、{突然|とつぜん}{夜明|よあ}け{前|#1392580}に{起|お}こされた。",
+          "en": "I was woken up suddenly at dawn.",
+          "tatoeba_id": 162206
+        },
+        {
+          "ja": "登山者は夜明け前に目を覚ました。",
+          "furigana": "{登山者|とざんしゃ}は{夜明|よあ}け{前|#1392580}に{目|め}を{覚|さ}ました。",
+          "en": "The climbers awoke before daybreak.",
+          "tatoeba_id": 124599
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "私は、突然夜明け前に起こされた。",
+          "furigana": "{私|わたし}は、{突然|とつぜん}{夜明|よあ}け{前|まえ}に{起|お}こされた。",
+          "en": "I was woken up suddenly at dawn.",
+          "tatoeba_id": 162206
+        },
+        {
+          "ja": "登山者は夜明け前に目を覚ました。",
+          "furigana": "{登山者|とざんしゃ}は{夜明|よあ}け{前|まえ}に{目|め}を{覚|さ}ました。",
+          "en": "The climbers awoke before daybreak.",
+          "tatoeba_id": 124599
+        }
+      ]
+    }
+  },
+  {
+    "id": "733b519a1e",
+    "word": "楽",
+    "reading": "らく",
+    "reason": "Correct malformed dictionary identifiers in furigana readings; Japanese sentences and Tatoeba attribution are unchanged.",
+    "references": [
+      "Japanese reading reviewed by Codex"
+    ],
+    "before": {
+      "examples": [
+        {
+          "ja": "人手が多ければ仕事は楽になるんだ。",
+          "furigana": "{人手|#2825953}が{多|おお}ければ{仕事|しごと}は{楽|らく}になるんだ。",
+          "en": "Many hands make light work.",
+          "tatoeba_id": 144193
+        },
+        {
+          "ja": "私は楽ではない生き方をすると思う。",
+          "furigana": "{私|わたし}は{楽|らく}ではない{生|い}き{方|かた}をすると{思|おも}う。",
+          "en": "I have a fancy to live the hard way.",
+          "tatoeba_id": 157828
+        }
+      ]
+    },
+    "set": {
+      "examples": [
+        {
+          "ja": "人手が多ければ仕事は楽になるんだ。",
+          "furigana": "{人手|ひとで}が{多|おお}ければ{仕事|しごと}は{楽|らく}になるんだ。",
+          "en": "Many hands make light work.",
+          "tatoeba_id": 144193
+        },
+        {
+          "ja": "私は楽ではない生き方をすると思う。",
+          "furigana": "{私|わたし}は{楽|らく}ではない{生|い}き{方|かた}をすると{思|おも}う。",
+          "en": "I have a fancy to live the hard way.",
+          "tatoeba_id": 157828
+        }
+      ]
+    }
   }
 ]

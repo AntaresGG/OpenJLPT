@@ -51,6 +51,14 @@ def test_site_chinese_search_downloads_and_mobile():
                 page.goto("http://127.0.0.1:8765/vocab/愛.html")
                 sync.expect(page.locator("main")).to_contain_text("爱恋")
                 sync.expect(page.locator("main")).to_contain_text("爱就是连梦里都会见到她")
+                for kind, meaning_column in (("vocab", 4), ("grammar", 3)):
+                    cards = page.request.get(f"http://127.0.0.1:8765/data/{kind}-n3.json").json()
+                    dataset = page.request.get(f"http://127.0.0.1:8765/dataset/json/{kind}/n3.json").json()
+                    translations = {row['id']: row['zh'] for row in dataset}
+                    assert len(cards) == len(translations)
+                    for card in cards:
+                        assert card[meaning_column].startswith('；'.join(translations[card[0]]['meanings']) + ' / ')
+                        assert not hidden_metadata.search(card[meaning_column])
                 page.set_viewport_size({"width": 390, "height": 844})
                 assert page.evaluate("document.documentElement.scrollWidth <= innerWidth + 1")
                 page.goto("http://127.0.0.1:8765/data.html")

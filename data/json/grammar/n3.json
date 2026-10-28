@@ -661,7 +661,40 @@
       "decision",
       "tendency"
     ],
-    "notes": "A personal rule the speaker (or subject) decided on and keeps. Compare 〜ことになっている, a rule or plan set by others."
+    "notes": "A personal rule the speaker (or subject) decided on and keeps. Compare 〜ことになっている, a rule or plan set by others.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "fcbc2f4234a60a1a171c9d35960f01591ed29beb116dd74b1b6686228e547b6b",
+      "meanings": [
+        "习惯于",
+        "规定自己"
+      ],
+      "formation": "动词辞书形／ない形＋ことにしている",
+      "explanation": "表示自己决定并持续遵守的习惯或做法。",
+      "notes": "与表示外部规则或安排的ことになっている不同。",
+      "examples": [
+        {
+          "ja": "健康のために、週に三回はジムに通うことにしている。",
+          "zh": "为了健康，我规定自己每周去三次健身房。"
+        },
+        {
+          "ja": "夜十時以降は、スマホを見ないことにしています。",
+          "zh": "我规定自己晚上十点以后不看手机。"
+        },
+        {
+          "ja": "父は、給料日には家族を外食に連れていくことにしている。",
+          "zh": "父亲规定自己每到发薪日就带家人出去吃饭。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#koto-ni-shite-iru",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "aad79e745b4674b8aa6d0241fdb91681c76d3580b4ee239642da09c6076f23e0"
+    }
   },
   {
     "id": "koto-ni-natte-iru",
@@ -691,7 +724,41 @@
       "decision",
       "obligation"
     ],
-    "notes": "Rules, customs or plans decided by others (a company, school, society), not a personal choice. Compare 〜ことにしている."
+    "notes": "Rules, customs or plans decided by others (a company, school, society), not a personal choice. Compare 〜ことにしている.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "01bd5e95158f91f1df2cd1f0e078a9ac72df23645fa10f529414db62ab54aacc",
+      "meanings": [
+        "规定",
+        "安排",
+        "按理应该"
+      ],
+      "formation": "动词辞书形／ない形＋ことになっている",
+      "explanation": "表示已确定的规则、惯例或安排。",
+      "notes": "不强调个人决定；对比ことにしている。",
+      "examples": [
+        {
+          "ja": "この寮では、夜十一時までに戻ることになっている。",
+          "zh": "这座宿舍规定晚上十一点之前回来。"
+        },
+        {
+          "ja": "来月から大阪の支社で働くことになっています。",
+          "zh": "已安排我从下个月起在大阪分公司工作。"
+        },
+        {
+          "ja": "図書館の中では、飲み物を飲んではいけないことになっている。",
+          "zh": "图书馆里规定不能喝饮料。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#koto-ni-natte-iru",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "f65bd5c027d016480a85bdafbee7bac1aa4338fd5a0a9195290bb68f2c412530"
+    }
   },
   {
     "id": "koto-instruction",
@@ -722,7 +789,40 @@
       "written",
       "obligation"
     ],
-    "notes": "Ends a sentence with こと to state a rule. Found in notices, regulations and teacher-to-student instructions. Impersonal; not used toward superiors."
+    "notes": "Ends a sentence with こと to state a rule. Found in notices, regulations and teacher-to-student instructions. Impersonal; not used toward superiors.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "281c84f182f337e8fbf57d6ffff8424fee2f9f7e78468d1345d2bb212e8e6f5a",
+      "meanings": [
+        "必须",
+        "不得（书面规定）"
+      ],
+      "formation": "动词辞书形／ない形＋こと",
+      "explanation": "句末用こと表示规则或指示。",
+      "notes": "常见于通知、规章或教师给学生的指示，不用于命令上级。",
+      "examples": [
+        {
+          "ja": "レポートは、来週の金曜日までに提出すること。",
+          "zh": "报告必须在下周五之前提交。"
+        },
+        {
+          "ja": "図書館の本に、線を引かないこと。",
+          "zh": "不得在图书馆的书上画线。"
+        },
+        {
+          "ja": "試験中は、スマホの電源を切っておくこと。",
+          "zh": "考试期间必须关闭手机电源。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#koto-instruction",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "d74d516e37e5b06386451681e81b7e27bb96f87edf66e742b45444f3b86e64b3"
+    }
   },
   {
     "id": "you-ni-iu-you-ni-tanomu",
@@ -754,7 +854,40 @@
       "command",
       "quotation"
     ],
-    "notes": "Reports an instruction or request indirectly. Works with other verbs too: 伝える, 注意する, お願いする. Direct-quote version: 「〜てください」と言う."
+    "notes": "Reports an instruction or request indirectly. Works with other verbs too: 伝える, 注意する, お願いする. Direct-quote version: 「〜てください」と言う.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "7207dfb1fa5d92d6f25ee7fe4b1ab05a8ef3a910c86d3cbb7f61488ebbe75abd",
+      "meanings": [
+        "告诉某人做",
+        "请求某人做"
+      ],
+      "formation": "动词辞书形／ない形＋ように言う／頼む",
+      "explanation": "间接转述指示、请求或提醒。",
+      "notes": "也可接伝える、注意する等动词。",
+      "examples": [
+        {
+          "ja": "医者に、お酒を飲みすぎないように言われた。",
+          "zh": "医生告诉我不要喝太多酒。"
+        },
+        {
+          "ja": "隣の部屋の人に、夜は音楽の音を小さくするように頼んだ。",
+          "zh": "我请隔壁房间的人晚上把音乐音量调小。"
+        },
+        {
+          "ja": "山下さんに、明日の会議に遅れないように伝えてください。",
+          "zh": "请转告山下先生不要迟到明天的会议。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#you-ni-iu-you-ni-tanomu",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "12ed7759cc61acf673bfde9eae318b32e071d38543fca2fe0def4f447d3348ce"
+    }
   },
   {
     "id": "you-to-suru",
@@ -784,7 +917,40 @@
       "attempt",
       "intention"
     ],
-    "notes": "Often an attempt that fails or is interrupted. 〜ようとしない = 'won't even try' (unwillingness). Compare 〜てみる, which means actually doing something to see how it goes."
+    "notes": "Often an attempt that fails or is interrupted. 〜ようとしない = 'won't even try' (unwillingness). Compare 〜てみる, which means actually doing something to see how it goes.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "534f8a962d67ae89d8f9c6828445a7ba1ddaccd66e75a3fe5c3077e8e50a2c0b",
+      "meanings": [
+        "试图",
+        "正要"
+      ],
+      "formation": "动词意志形＋とする",
+      "explanation": "表示试图做某事，或动作即将发生。",
+      "notes": "〜ようとしない表示不肯或不打算尝试。",
+      "examples": [
+        {
+          "ja": "ドアを開けようとしたが、鍵がかかっていて開かなかった。",
+          "zh": "我想开门，可门锁着，打不开。"
+        },
+        {
+          "ja": "家を出ようとしたとき、急に雨が降り出した。",
+          "zh": "正要出门时，突然下起雨来。"
+        },
+        {
+          "ja": "弟は何度注意しても、部屋を片付けようとしない。",
+          "zh": "无论提醒多少次，弟弟都不肯收拾房间。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#you-to-suru",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "4064fef322308e30d104b3d8a8ee73702f1a36f796272f53c0716fe66869bf48"
+    }
   },
   {
     "id": "sou-ni-nai-sou-mo-nai",
@@ -815,7 +981,40 @@
       "negation",
       "possibility"
     ],
-    "notes": "Negative of the appearance 〜そうだ with verbs, based on what the speaker observes. More emphatic: 〜そうにもない. With adjectives use 〜なさそうだ instead."
+    "notes": "Negative of the appearance 〜そうだ with verbs, based on what the speaker observes. More emphatic: 〜そうにもない. With adjectives use 〜なさそうだ instead.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "41e78d3b62fdc90ed8ce36ac6760cb6b260b51752ebdcb6d92197f9f7d929d2c",
+      "meanings": [
+        "看来不会",
+        "不太可能"
+      ],
+      "formation": "动词ます形去ます＋そうにない／そうもない",
+      "explanation": "根据眼前情况判断某事似乎不会发生。",
+      "notes": "形容词的否定外观常用なさそうだ。",
+      "examples": [
+        {
+          "ja": "この雨は、夕方までやみそうにない。",
+          "zh": "这场雨看起来到傍晚也不会停。"
+        },
+        {
+          "ja": "仕事が多すぎて、今日中には終わりそうもない。",
+          "zh": "工作太多，今天之内看来做不完。"
+        },
+        {
+          "ja": "こんなにたくさんの料理、二人では食べきれそうにないね。",
+          "zh": "这么多菜，两个人看来吃不完啊。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#sou-ni-nai-sou-mo-nai",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "68b4cb486c9ebefb7156a923ee85578d567a2fa7e3fd17f06d58d37f11e1c315"
+    }
   },
   {
     "id": "ippou-da",
@@ -846,7 +1045,40 @@
       "change",
       "tendency"
     ],
-    "notes": "Steady change in one direction, usually (not always) for the worse. Used with verbs of change such as 増える, 減る, 上がる, 悪くなる."
+    "notes": "Steady change in one direction, usually (not always) for the worse. Used with verbs of change such as 増える, 減る, 上がる, 悪くなる.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "fa97b0b232cfae23702c681a94926d7e37e7fa58c3f4c3872b919e9cafa12ccb",
+      "meanings": [
+        "不断",
+        "越来越"
+      ],
+      "formation": "动词辞书形＋一方だ",
+      "explanation": "表示某种变化持续朝一个方向发展。",
+      "notes": "常用于増える、減る等变化动词，多用于不理想的变化。",
+      "examples": [
+        {
+          "ja": "この町の人口は、減る一方だ。",
+          "zh": "这个城镇的人口不断减少。"
+        },
+        {
+          "ja": "物価は上がる一方なのに、給料は全然上がらない。",
+          "zh": "物价不断上涨，工资却完全不涨。"
+        },
+        {
+          "ja": "勉強をさぼっていたら、成績は下がる一方だった。",
+          "zh": "因为一直偷懒不学习，成绩不断下降。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#ippou-da",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "034fb07dfdabd85e2dee924628d7748363c0ee6d39429862e590e7e12e9619bb"
+    }
   },
   {
     "id": "ippou-de",
@@ -877,7 +1109,40 @@
       "contrast",
       "simultaneity"
     ],
-    "notes": "Presents two sides of one thing, or two parallel activities. Compare 〜に対して, which contrasts two different subjects."
+    "notes": "Presents two sides of one thing, or two parallel activities. Compare 〜に対して, which contrasts two different subjects.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "89cdc32e504d3c86cf207c4f7515ed91e443f5734f3d8d4c6cc97ef77a58a24c",
+      "meanings": [
+        "一方面",
+        "同时"
+      ],
+      "formation": "动词普通形／い形容词普通形／な形容词词干＋な／名词＋である＋一方で",
+      "explanation": "表示同一事物的两个方面，或同时进行的活动。",
+      "notes": "语境也可以用于对照不同事物。",
+      "examples": [
+        {
+          "ja": "インターネットは便利な一方で、危険な面もある。",
+          "zh": "互联网虽然方便，但也有危险的一面。"
+        },
+        {
+          "ja": "この会社は給料が高い一方で、休みがとても少ない。",
+          "zh": "这家公司的工资高，但休假非常少。"
+        },
+        {
+          "ja": "彼女は会社で働く一方で、夜は大学院に通っている。",
+          "zh": "她一边在公司工作，晚上还去读研究生。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#ippou-de",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "42d070d0ed1f7d5299bcba0f790c6d9e2f97502b4edb24f8d29575328356dd49"
+    }
   },
   {
     "id": "ni-taishite",
@@ -908,7 +1173,41 @@
       "relation",
       "contrast"
     ],
-    "notes": "Marks the target of an action, attitude or feeling, or contrasts two things. Compare 〜について, which marks the topic being discussed rather than a target."
+    "notes": "Marks the target of an action, attitude or feeling, or contrasts two things. Compare 〜について, which marks the topic being discussed rather than a target.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "495cfde5ce56fbc9628ae3e35a7e0dbd77e1e3fe743724b14f9703571932b5bf",
+      "meanings": [
+        "对",
+        "针对",
+        "与……相比"
+      ],
+      "formation": "名词＋に対して／名词＋に対する＋名词；普通形＋のに対して",
+      "explanation": "表示动作或态度的对象，也可表示对比。",
+      "notes": "名词和な形容词作对比时可用なのに対して。",
+      "examples": [
+        {
+          "ja": "お客様に対して、そんな言い方をしてはいけない。",
+          "zh": "不能对顾客那样说话。"
+        },
+        {
+          "ja": "新しい税金に対する反対の声が高まっている。",
+          "zh": "反对新税的呼声越来越高。"
+        },
+        {
+          "ja": "東京は晴れているのに対して、大阪は朝から大雨だ。",
+          "zh": "东京晴天，相比之下大阪从早上起就下大雨。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#ni-taishite",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "67ab5f81ea4ea9c3a3411c1fc92c1d61ccb9e5b334c1b82ce2e5c5d43a119f60"
+    }
   },
   {
     "id": "ni-tsuite",
@@ -938,7 +1237,39 @@
       "topic",
       "relation"
     ],
-    "notes": "Marks the topic of speaking, thinking or research. More formal: 〜に関して. Compare 〜に対して (the target of an attitude or action)."
+    "notes": "Marks the topic of speaking, thinking or research. More formal: 〜に関して. Compare 〜に対して (the target of an attitude or action).",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "bea507ecc33b9a53e7463f023f16300e6603a3366fd7504d106f93a0ee6a4c04",
+      "meanings": [
+        "关于"
+      ],
+      "formation": "名词＋について／についての＋名词",
+      "explanation": "表示说话、思考或研究的话题。",
+      "notes": "に関して语气较正式；に対して常表示对象或对比。",
+      "examples": [
+        {
+          "ja": "今日の授業では、日本の食文化について話し合いました。",
+          "zh": "今天的课上我们讨论了日本的饮食文化。"
+        },
+        {
+          "ja": "新しい商品についての質問は、こちらのメールアドレスまでお送りください。",
+          "zh": "关于新商品的问题，请发到这个电子邮箱。"
+        },
+        {
+          "ja": "その事件について、警察はまだ何も発表していない。",
+          "zh": "警方关于那起事件还没有发布任何消息。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#ni-tsuite",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "a21baaebb2874ce51293b6b7a9aa7be838e98b40cd2ca05ac2b9aa2c86d156e6"
+    }
   },
   {
     "id": "ni-yotte-ni-yoru",
@@ -969,7 +1300,42 @@
       "reason",
       "voice"
     ],
-    "notes": "Uses: agent of a passive (formal, for creating or discovering), cause, means, and 'varies by'. 〜によっては = 'in some cases, depending on'."
+    "notes": "Uses: agent of a passive (formal, for creating or discovering), cause, means, and 'varies by'. 〜によっては = 'in some cases, depending on'.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "619039c58b383ec3a94654992d3eb1ac15810a247c494af433c050429448f91c",
+      "meanings": [
+        "由",
+        "由于",
+        "通过",
+        "因……而异"
+      ],
+      "formation": "名词＋によって／による＋名词",
+      "explanation": "表示行为者、原因、手段或差异的依据。",
+      "notes": "によっては表示视情况而定或在某些情况下。",
+      "examples": [
+        {
+          "ja": "この橋は、有名な建築家によって設計された。",
+          "zh": "这座桥是由著名建筑师设计的。"
+        },
+        {
+          "ja": "台風による被害は、まだ正確には分かっていない。",
+          "zh": "台风造成的损失还不清楚确切情况。"
+        },
+        {
+          "ja": "国によって、食事のマナーはずいぶん違う。",
+          "zh": "各国的用餐礼仪有很大差异。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#ni-yotte-ni-yoru",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "445528963ab6a1577e6be8a9c22298f09f84b10dee64104be3cb6d87e9038f62"
+    }
   },
   {
     "id": "ni-yoru-to-ni-yoreba",
@@ -998,7 +1364,40 @@
     "tags": [
       "hearsay"
     ],
-    "notes": "Names the source of information. The sentence usually ends in a hearsay expression such as 〜そうだ, 〜らしい or 〜ということだ."
+    "notes": "Names the source of information. The sentence usually ends in a hearsay expression such as 〜そうだ, 〜らしい or 〜ということだ.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "d05b61f1c199f1579576f73e738bd0daff8fcc34fa94690f87ca1110ced71bbd",
+      "meanings": [
+        "据",
+        "根据"
+      ],
+      "formation": "名词＋によると／によれば",
+      "explanation": "指出信息的来源。",
+      "notes": "后项常用そうだ、らしい或ということだ等转述形式。",
+      "examples": [
+        {
+          "ja": "天気予報によると、週末は大雪になるそうだ。",
+          "zh": "据天气预报，周末会下大雪。"
+        },
+        {
+          "ja": "ニュースによれば、事故の原因はまだ分かっていないらしい。",
+          "zh": "据新闻报道，事故原因似乎尚不清楚。"
+        },
+        {
+          "ja": "姉の話によると、あのレストランは予約がないと入れないということだ。",
+          "zh": "据姐姐说，那家餐厅不预约就进不去。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#ni-yoru-to-ni-yoreba",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "1ed4a3a675427b361ebd3968bd8f41290a73c5a8555b0f6bf6c12d9f868fe571"
+    }
   },
   {
     "id": "bakari-de-naku",
@@ -1027,7 +1426,40 @@
     "tags": [
       "addition"
     ],
-    "notes": "Same meaning as 〜だけでなく but a little more formal. The second part usually contains も or まで."
+    "notes": "Same meaning as 〜だけでなく but a little more formal. The second part usually contains も or まで.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "7122eaafe6ca291af7a44a08f5633b59709ec2ded304ee19ff1954069c6edf77",
+      "meanings": [
+        "不但",
+        "而且"
+      ],
+      "formation": "动词普通形／い形容词普通形／な形容词词干＋な／名词＋ばかりでなく",
+      "explanation": "在列举一项之外，再添加另一项。",
+      "notes": "比だけでなく稍正式，后项常有も。",
+      "examples": [
+        {
+          "ja": "この映画は子どもばかりでなく、大人も楽しめる。",
+          "zh": "这部电影不但孩子喜欢，大人也能享受。"
+        },
+        {
+          "ja": "新しいスマホは画面が大きいばかりでなく、電池も長持ちする。",
+          "zh": "新手机不但屏幕大，电池也很耐用。"
+        },
+        {
+          "ja": "運動は体にいいばかりでなく、ストレスを減らす効果もある。",
+          "zh": "运动不仅对身体有益，还有减轻压力的效果。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#bakari-de-naku",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "2886443558e37c37b68f9771f8dfa50189951adbec93cab0e0e5147c1e730340"
+    }
   },
   {
     "id": "dake-de-naku",
@@ -1056,7 +1488,40 @@
     "tags": [
       "addition"
     ],
-    "notes": "Common in both speech and writing. Casual: 〜だけじゃなくて. Slightly less formal than 〜ばかりでなく."
+    "notes": "Common in both speech and writing. Casual: 〜だけじゃなくて. Slightly less formal than 〜ばかりでなく.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "a8200ef51bcb1f9e87d0b748914f2f33d1a0b13851270b2df0da813b40a6a3f5",
+      "meanings": [
+        "不但",
+        "而且"
+      ],
+      "formation": "动词普通形／い形容词普通形／な形容词词干＋な／名词＋だけでなく",
+      "explanation": "表示除了前项之外，后项也成立。",
+      "notes": "口语可说だけじゃなくて。",
+      "examples": [
+        {
+          "ja": "この店は料理がおいしいだけでなく、値段も安い。",
+          "zh": "这家店不仅饭菜好吃，价格也便宜。"
+        },
+        {
+          "ja": "地震の後、水だけでなく電気も止まってしまった。",
+          "zh": "地震后不但停水，也停电了。"
+        },
+        {
+          "ja": "彼女は歌が上手なだけでなく、自分で曲も作っている。",
+          "zh": "她不仅擅长唱歌，还自己作曲。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#dake-de-naku",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "5f24564dbb05a4bcb204efc70c0b0c285fd8e1a0c7559c6ced86944f61a172a2"
+    }
   },
   {
     "id": "mo-ba-mo",
@@ -1085,7 +1550,39 @@
     "tags": [
       "addition"
     ],
-    "notes": "Lists two facts of the same kind for emphasis; contrasting pairs (いいときも悪いときも) are very common. Compare 〜し, which lists reasons."
+    "notes": "Lists two facts of the same kind for emphasis; contrasting pairs (いいときも悪いときも) are very common. Compare 〜し, which lists reasons.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "ea26f7a6e0509a016609c9484727286f8e942b4322f58d2c37f99768a5fbbcf1",
+      "meanings": [
+        "既……又……"
+      ],
+      "formation": "名词＋も＋动词ば形＋名词＋も；名词＋も＋い形容词词干＋ければ＋名词＋も",
+      "explanation": "并列两个事实，加以强调。",
+      "notes": "也常列举相反的情况。",
+      "examples": [
+        {
+          "ja": "彼女は歌も歌えば、ピアノも弾く。",
+          "zh": "她既唱歌，也弹钢琴。"
+        },
+        {
+          "ja": "この町には、海もあれば山もある。",
+          "zh": "这个城镇既有海也有山。"
+        },
+        {
+          "ja": "人生には、いいときもあれば悪いときもある。",
+          "zh": "人生既有好时候，也有坏时候。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#mo-ba-mo",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "c5000a955fb4a79f4ee1a77f31fa781ffa8d925fffc7000c3d998cfd6c76a6ed"
+    }
   },
   {
     "id": "rashii-typical-of",
@@ -1115,7 +1612,40 @@
       "appearance",
       "manner"
     ],
-    "notes": "Having the qualities you expect of the noun. Negative: 〜らしくない ('not like'). Differs from the hearsay 〜らしい (N4) and from 〜っぽい (looks like X but isn't)."
+    "notes": "Having the qualities you expect of the noun. Negative: 〜らしくない ('not like'). Differs from the hearsay 〜らしい (N4) and from 〜っぽい (looks like X but isn't).",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "875e416464bfb3283a68401a7851f50f13dc34e13c37d942f244546b7e43b46a",
+      "meanings": [
+        "有……的特点",
+        "像……应有的样子"
+      ],
+      "formation": "名词＋らしい",
+      "explanation": "表示具有该名词所典型具备的特征。",
+      "notes": "らしくない表示不像；与传闻、推测的らしい不同。",
+      "examples": [
+        {
+          "ja": "今日は春らしい暖かい一日だった。",
+          "zh": "今天是温暖得像春天一样的一天。"
+        },
+        {
+          "ja": "文句ばかり言うなんて、君らしくないね。",
+          "zh": "你光抱怨可不像你啊。"
+        },
+        {
+          "ja": "もっと学生らしい服装で来てください。",
+          "zh": "请穿得更像学生一些再来。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#rashii-typical-of",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "2e33bd1a8ced63164bbfa88196e8f62d15d7603c12d38698b3860d316b7e39e3"
+    }
   },
   {
     "id": "ppoi",
@@ -1146,7 +1676,40 @@
       "tendency",
       "casual"
     ],
-    "notes": "Noun + っぽい: seems like X though it isn't (大人っぽい). Verb-stem + っぽい: tends to (怒りっぽい). Compare 〜らしい, which means truly typical of X."
+    "notes": "Noun + っぽい: seems like X though it isn't (大人っぽい). Verb-stem + っぽい: tends to (怒りっぽい). Compare 〜らしい, which means truly typical of X.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "7e86d0ddbdb001440777688cf7a542ba9f796ee535833588a4eb4674fa4893ca",
+      "meanings": [
+        "像……的",
+        "容易……的"
+      ],
+      "formation": "名词／动词ます形去ます／い形容词词干＋っぽい",
+      "explanation": "表示外观或性质像某物，或者容易出现某种倾向。",
+      "notes": "语气较口语；怒りっぽい指容易生气。",
+      "examples": [
+        {
+          "ja": "この服はちょっと子どもっぽいから、別のにしよう。",
+          "zh": "这件衣服有点孩子气，换别的吧。"
+        },
+        {
+          "ja": "最近忘れっぽくなって、困っている。",
+          "zh": "最近容易忘事，让我很困扰。"
+        },
+        {
+          "ja": "あの白っぽいビルが、新しい市役所です。",
+          "zh": "那栋发白的楼就是新市政府。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#ppoi",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "365a7118a81f2ec8ca8a2de40e3b9057d41fce95daefb4ce337656b79a903696"
+    }
   },
   {
     "id": "teki",
@@ -1177,7 +1740,40 @@
       "manner",
       "standpoint"
     ],
-    "notes": "Turns a (usually kanji) noun into a na-adjective: 的な before nouns, 的に before verbs and adjectives. Many are best learned as words: 具体的, 基本的, 積極的."
+    "notes": "Turns a (usually kanji) noun into a na-adjective: 的な before nouns, 的に before verbs and adjectives. Many are best learned as words: 具体的, 基本的, 積極的.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "f02ad38a6fbca499acee242905cffd01b5ca5f3125efaf33b6cf8696dff91146",
+      "meanings": [
+        "……的",
+        "从……角度"
+      ],
+      "formation": "名词＋的な＋名词／名词＋的に",
+      "explanation": "接名词构成形容动词性表达。",
+      "notes": "的な修饰名词，的に修饰动词或形容词。",
+      "examples": [
+        {
+          "ja": "日本の伝統的な料理を食べてみたい。",
+          "zh": "我想尝尝日本传统料理。"
+        },
+        {
+          "ja": "この問題は、経済的な理由で解決が難しい。",
+          "zh": "这个问题因经济原因难以解决。"
+        },
+        {
+          "ja": "個人的には、この案に賛成です。",
+          "zh": "就我个人而言，我赞成这个方案。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#teki",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "2e2fe7198f23aebbc8f950dd43b0f0674f6bb6264c620fbc8d78b1e96e80db3b"
+    }
   },
   {
     "id": "you-na-you-ni-like",
@@ -1208,7 +1804,40 @@
       "example",
       "manner"
     ],
-    "notes": "ような comes before nouns, ように before verbs and adjectives. AのようなB can also mean 'B such as A'. Casual: 〜みたいな / 〜みたいに."
+    "notes": "ような comes before nouns, ように before verbs and adjectives. AのようなB can also mean 'B such as A'. Casual: 〜みたいな / 〜みたいに.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "b11fc9c7208f6eff9626bb46447f4356d5b75f36854d2cd6824d04d9a0998857",
+      "meanings": [
+        "像……的",
+        "像……一样"
+      ],
+      "formation": "动词普通形／名词＋の＋ような／ように",
+      "explanation": "表示比喻或举例；ような修饰名词，ように修饰谓语。",
+      "notes": "口语中常用みたいな、みたいに。",
+      "examples": [
+        {
+          "ja": "私も、あなたのような優しい看護師になりたいです。",
+          "zh": "我也想成为像你一样温柔的护士。"
+        },
+        {
+          "ja": "先生が言ったように、この文法はテストによく出る。",
+          "zh": "正如老师所说，这个语法经常在考试中出现。"
+        },
+        {
+          "ja": "東京のような大きな都市では、家賃がとても高い。",
+          "zh": "像东京这样的大城市，房租很高。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#you-na-you-ni-like",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "aa1f9798a7a0b44fcc43fbd307d5b553097238462cd756327b395022b45395f4"
+    }
   },
   {
     "id": "marude-you-da",
@@ -1238,7 +1867,40 @@
       "comparison",
       "appearance"
     ],
-    "notes": "まるで signals a figurative comparison: it only seems so. Casual: まるで〜みたいだ. Compare N2 〜かのようだ."
+    "notes": "まるで signals a figurative comparison: it only seems so. Casual: まるで〜みたいだ. Compare N2 〜かのようだ.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "799835d6df1d5cac393a39fe1acfed116f6b2e7f1600f2a3907ecf47536806d2",
+      "meanings": [
+        "简直像",
+        "仿佛"
+      ],
+      "formation": "まるで＋动词普通形／名词＋の＋ようだ",
+      "explanation": "以まるで加强比喻，表示看起来像另一事物。",
+      "notes": "口语也可用まるで〜みたいだ。",
+      "examples": [
+        {
+          "ja": "この部屋は広くて明るくて、まるでホテルのようだ。",
+          "zh": "这个房间又宽敞又明亮，简直像酒店。"
+        },
+        {
+          "ja": "久しぶりに会った友達は、まるで別人のように変わっていた。",
+          "zh": "久别重逢的朋友变得简直像另一个人。"
+        },
+        {
+          "ja": "三月なのに、今日はまるで真夏のように暑い。",
+          "zh": "虽然是三月，今天却热得像盛夏一样。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#marude-you-da",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "de77e68917ff66e1e282d2b55443c8ee3b6b722c831363a13d787aee596c0fea"
+    }
   },
   {
     "id": "ni-chigai-nai",
@@ -1269,7 +1931,40 @@
       "conjecture",
       "emphasis"
     ],
-    "notes": "Strong conviction based on evidence or intuition; a slightly written tone. Compare 〜に決まっている, which is more subjective and conversational."
+    "notes": "Strong conviction based on evidence or intuition; a slightly written tone. Compare 〜に決まっている, which is more subjective and conversational.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "6fb27948ae67d7c3dd5a13b71aac0a7dc791ded217edbd840a26e7c91883935f",
+      "meanings": [
+        "一定",
+        "肯定"
+      ],
+      "formation": "动词普通形／い形容词普通形／な形容词词干／名词＋に違いない",
+      "explanation": "根据线索或直觉作出强烈推断。",
+      "notes": "语气较郑重；并不表示事实已被证实。",
+      "examples": [
+        {
+          "ja": "隣の家は何日も電気が消えている。家族で旅行に出かけたに違いない。",
+          "zh": "邻居家好几天没亮灯了，一定是全家出去旅行了。"
+        },
+        {
+          "ja": "こんなに人が並んでいるんだから、この店のラーメンはおいしいに違いない。",
+          "zh": "排了这么多人，这家店的拉面一定很好吃。"
+        },
+        {
+          "ja": "この手紙の字は、父の字に違いない。",
+          "zh": "这封信的字一定是父亲的。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#ni-chigai-nai",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "1b672aa41bcf1a1d083c6c1094bdde4228d7c473c0a535437fedcb04c80a3fd7"
+    }
   },
   {
     "id": "ni-kimatte-iru",
@@ -1301,7 +1996,40 @@
       "emphasis",
       "casual"
     ],
-    "notes": "A very confident, subjective judgment, common in conversation (〜に決まってる). More assertive than 〜に違いない and not suited to formal writing."
+    "notes": "A very confident, subjective judgment, common in conversation (〜に決まってる). More assertive than 〜に違いない and not suited to formal writing.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "bee01fc0b62ba9c3a72ebade2f76780882951dc50e39795cb422e141537f7d20",
+      "meanings": [
+        "肯定",
+        "一定"
+      ],
+      "formation": "动词普通形／い形容词普通形／な形容词词干／名词＋に決まっている",
+      "explanation": "表达说话人很有把握的主观判断。",
+      "notes": "口语常缩为に決まってる，语气较强。",
+      "examples": [
+        {
+          "ja": "練習もしないで試合に出たら、負けるに決まっている。",
+          "zh": "不练习就去比赛，肯定会输。"
+        },
+        {
+          "ja": "一人で富士山に登るなんて、お母さんが心配するに決まってるでしょう。",
+          "zh": "一个人爬富士山，妈妈肯定会担心的吧。"
+        },
+        {
+          "ja": "そんなうまい話、うそに決まっているよ。",
+          "zh": "那么好的事肯定是假的。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#ni-kimatte-iru",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "fb4b3ed7d911a9d01acf56a4793d13339a0d4a6bb7c950a26ae62dd4d3fc41f1"
+    }
   },
   {
     "id": "ki-ga-suru",
@@ -1332,7 +2060,40 @@
       "conjecture",
       "emotion"
     ],
-    "notes": "A vague, intuitive impression rather than a firm judgment; ような気がする is even softer. Different from N4 〜がする (a smell, sound or taste)."
+    "notes": "A vague, intuitive impression rather than a firm judgment; ような気がする is even softer. Different from N4 〜がする (a smell, sound or taste).",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "390cebb51d3094dca8a6e13467cedbf9aa9c17e90147069ca5cd3305c12b4d41",
+      "meanings": [
+        "感觉",
+        "觉得好像"
+      ],
+      "formation": "动词普通形／い形容词普通形／な形容词词干＋な＋気がする；普通形／名词＋の＋ような気がする",
+      "explanation": "表达不十分确定的直觉或印象。",
+      "notes": "ような気がする语气更委婉。",
+      "examples": [
+        {
+          "ja": "この人とは、どこかで会ったことがある気がする。",
+          "zh": "我觉得好像在哪里见过这个人。"
+        },
+        {
+          "ja": "今日は何か、いいことがありそうな気がする。",
+          "zh": "我感觉今天好像会有什么好事。"
+        },
+        {
+          "ja": "ドアの鍵をかけ忘れたような気がして、家に戻った。",
+          "zh": "我觉得好像忘了锁门，于是回家了。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#ki-ga-suru",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "5c43ce9a49f0c8079711664f88230fbe67bb63d36c86473acf41f76df7aa7abb"
+    }
   },
   {
     "id": "zu-ni",
@@ -1363,7 +2124,39 @@
       "manner",
       "written"
     ],
-    "notes": "More formal, written-style equivalent of 〜ないで. Irregular: する → せずに (not しずに), 来る → 来ずに (こずに)."
+    "notes": "More formal, written-style equivalent of 〜ないで. Irregular: する → せずに (not しずに), 来る → 来ずに (こずに).",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "c1ba96f258eac8b1d76eb6774dddd9d2d00c3d2c9309a325785166d979595ab9",
+      "meanings": [
+        "不……而"
+      ],
+      "formation": "动词ない形去ない＋ずに",
+      "explanation": "表示不做某动作而做另一动作。",
+      "notes": "する变为せずに；来る变为来ずに（こずに）。",
+      "examples": [
+        {
+          "ja": "けさは朝ご飯を食べずに家を出た。",
+          "zh": "今天早上没吃早饭就出了门。"
+        },
+        {
+          "ja": "辞書を使わずに、この新聞記事が読めますか。",
+          "zh": "不查词典能读这篇新闻报道吗？"
+        },
+        {
+          "ja": "彼は誰にも相談せずに、会社を辞めてしまった。",
+          "zh": "他没有和任何人商量就辞掉了工作。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#zu-ni",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "877d09f1130998046d0160b0bea1e0aa5ed400c93301c406409fb5dd23fdd0c9"
+    }
   },
   {
     "id": "mama",
@@ -1393,7 +2186,40 @@
       "state",
       "manner"
     ],
-    "notes": "An expected change hasn't happened and the state continues. Often suggests something unusual or undesirable (leaving the lights on, shoes on indoors)."
+    "notes": "An expected change hasn't happened and the state continues. Often suggests something unusual or undesirable (leaving the lights on, shoes on indoors).",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "4ae00069b71eb985e6d623bbc4cdac3995b1d0e665904f6317b12edeeb6629ea",
+      "meanings": [
+        "保持原样",
+        "仍然"
+      ],
+      "formation": "动词た形／ない形／い形容词普通形／な形容词词干＋な／名词＋の＋まま",
+      "explanation": "表示状态保持不变。",
+      "notes": "常用于描述本应改变的状态仍在持续。",
+      "examples": [
+        {
+          "ja": "エアコンをつけたまま寝てしまい、風邪をひいた。",
+          "zh": "开着空调睡着了，结果感冒了。"
+        },
+        {
+          "ja": "この町は、私が子どもだったころのままだ。",
+          "zh": "这个城镇还是我小时候的样子。"
+        },
+        {
+          "ja": "靴のまま部屋に入らないでください。",
+          "zh": "请不要穿着鞋进房间。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#mama",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "7c9a04ebd92883c149933695d2034fe1eeaf841b1e3864697c12128a659f0db3"
+    }
   },
   {
     "id": "uchi-ni",
@@ -1423,7 +2249,40 @@
       "time",
       "simultaneity"
     ],
-    "notes": "Do something while a condition lasts, before it changes; or a change that happens unnoticed during an activity. Compare 〜間に, which marks a fixed period without that urgency."
+    "notes": "Do something while a condition lasts, before it changes; or a change that happens unnoticed during an activity. Compare 〜間に, which marks a fixed period without that urgency.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "6c9122d1fe1b49ffbc78e17954423de4d7e3f66689cf30d158aad2d75819fae0",
+      "meanings": [
+        "趁着",
+        "在……期间"
+      ],
+      "formation": "动词辞书形／ている形／ない形／い形容词普通形／な形容词词干＋な／名词＋の＋うちに",
+      "explanation": "表示趁状态尚未改变时行动，或在持续过程中发生变化。",
+      "notes": "前者常带有时机可能消失的意味。",
+      "examples": [
+        {
+          "ja": "若いうちに、いろいろな国を旅行したほうがいい。",
+          "zh": "趁年轻最好去不同国家旅行。"
+        },
+        {
+          "ja": "スープが冷めないうちに、どうぞ召し上がってください。",
+          "zh": "请趁汤还没凉喝吧。"
+        },
+        {
+          "ja": "音楽を聞いているうちに、いつの間にか眠ってしまった。",
+          "zh": "听着音乐，不知不觉就睡着了。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#uchi-ni",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "99033871a69fc8fed6fa01882b294bfedc107bf25db4bbf9927e1070b8eaf6b6"
+    }
   },
   {
     "id": "tokoro-ni-tokoro-e-tokoro-o",
@@ -1452,7 +2311,40 @@
     "tags": [
       "time"
     ],
-    "notes": "ところに/へ: something happens or someone arrives at that moment, often interrupting. ところを: the scene is the object of a verb like 見る, 見つかる, 助ける. Set phrase: お忙しいところを."
+    "notes": "ところに/へ: something happens or someone arrives at that moment, often interrupting. ところを: the scene is the object of a verb like 見る, 見つかる, 助ける. Set phrase: お忙しいところを.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "9ef6332efcc51c66b7b711e6383a24c3c2b219f9f01a9a60465c3c91569e463b",
+      "meanings": [
+        "正当……时",
+        "正在……的时候"
+      ],
+      "formation": "动词辞书形／ている形／た形＋ところに／へ／を",
+      "explanation": "表示某时刻发生另一件事，或某情景成为后续动作的对象。",
+      "notes": "ところを常接看到、发现等动词。",
+      "examples": [
+        {
+          "ja": "出かけようとしているところに、友達から電話がかかってきた。",
+          "zh": "正要出门时，朋友打来了电话。"
+        },
+        {
+          "ja": "みんなで君の話をしているところへ、ちょうど君が来た。",
+          "zh": "大家正在谈论你，你恰好就来了。"
+        },
+        {
+          "ja": "授業中にスマホを見ているところを、先生に見られてしまった。",
+          "zh": "上课时看手机，被老师看见了。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#tokoro-ni-tokoro-e-tokoro-o",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "3be7870db49e96d3bc97ebfb3fd8f3d1ec00becffad03674cdb0a06a73dbacb8"
+    }
   },
   {
     "id": "ba-hodo",
@@ -1483,7 +2375,39 @@
       "degree",
       "change"
     ],
-    "notes": "The same word is repeated, first in the ば/なら form, then in plain form. The first part can be dropped: 考えるほど分からなくなる."
+    "notes": "The same word is repeated, first in the ば/なら form, then in plain form. The first part can be dropped: 考えるほど分からなくなる.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "4801fa900e9b629eb6884ba32157a20d063f3c3cb4415fb22fba23d7c83d4052",
+      "meanings": [
+        "越……越……"
+      ],
+      "formation": "动词ば形＋辞书形＋ほど／い形容词ければ形＋原形＋ほど／な形容词なら＋词干＋な＋ほど",
+      "explanation": "表示一方程度变化时，另一方也随之变化。",
+      "notes": "通常重复同一个词，也可省略前面的ば形。",
+      "examples": [
+        {
+          "ja": "日本語は、勉強すればするほど面白くなる。",
+          "zh": "日语越学越有意思。"
+        },
+        {
+          "ja": "スマホの画面は大きければ大きいほど見やすいが、持ち歩くのは大変だ。",
+          "zh": "手机屏幕越大越容易看，但携带也更麻烦。"
+        },
+        {
+          "ja": "部屋が静かなら静かなほど、よく眠れる。",
+          "zh": "房间越安静，就睡得越好。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#ba-hodo",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "54def3eb6a3055083680010e344b2937431cb306c8d3cdf49653955c526ee7e9"
+    }
   },
   {
     "id": "hodo",
@@ -1512,7 +2436,39 @@
     "tags": [
       "degree"
     ],
-    "notes": "Shows degree with an example or comparison. Often interchangeable with 〜くらい, but ほど sounds more formal and suits high degrees; it can't mark something as minimal."
+    "notes": "Shows degree with an example or comparison. Often interchangeable with 〜くらい, but ほど sounds more formal and suits high degrees; it can't mark something as minimal.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "5c886b784e7b73b2e12933d766eefe52717a1692e6f19ce85eff283a4e81dd7a",
+      "meanings": [
+        "到……的程度"
+      ],
+      "formation": "动词普通形／い形容词普通形／な形容词词干＋な／名词＋ほど",
+      "explanation": "通过事例说明程度。",
+      "notes": "与くらい意思相近；ほど通常语气较正式。",
+      "examples": [
+        {
+          "ja": "昨日は、立っていられないほど疲れていた。",
+          "zh": "昨天累得连站都站不住了。"
+        },
+        {
+          "ja": "試験に合格したと聞いて、涙が出るほどうれしかった。",
+          "zh": "听说通过考试后，高兴得眼泪都出来了。"
+        },
+        {
+          "ja": "このあたりは、夜になると怖いほど静かだ。",
+          "zh": "这一带到了晚上安静得令人害怕。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#hodo",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "5ffa0bac834ad75a14bad90fdeeff82c1d9dfccbcbd22f8c2e032e34f7dc6e3f"
+    }
   },
   {
     "id": "kurai-gurai-extent",
@@ -1542,7 +2498,40 @@
       "degree",
       "emphasis"
     ],
-    "notes": "Like 〜ほど, shows degree. くらい can also mark something as small or easy ('at least; such a simple thing as'), a use ほど doesn't have."
+    "notes": "Like 〜ほど, shows degree. くらい can also mark something as small or easy ('at least; such a simple thing as'), a use ほど doesn't have.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "bef058a447709f78ae0e1b69bc0bc4f3af5fcc233ee1f1a2d58f4fe1b8fd9826",
+      "meanings": [
+        "到……的程度",
+        "至少"
+      ],
+      "formation": "动词普通形／い形容词普通形／な形容词词干＋な／名词＋くらい／ぐらい",
+      "explanation": "表示程度，也可指出最低限度。",
+      "notes": "くらい可表示至少做到某事；ほど一般不用作此义。",
+      "examples": [
+        {
+          "ja": "おなかが痛くて、歩けないくらいだった。",
+          "zh": "肚子疼得几乎走不了路。"
+        },
+        {
+          "ja": "隣の部屋の音楽がうるさくて、自分の声も聞こえないぐらいだ。",
+          "zh": "隔壁房间的音乐吵得连自己的声音都听不见。"
+        },
+        {
+          "ja": "自分の部屋ぐらい、自分で掃除しなさい。",
+          "zh": "至少自己的房间自己打扫。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#kurai-gurai-extent",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "5b70331d371a69b568a4bc3af3c1f42f537b151767385d255154bbed24bdd5b2"
+    }
   },
   {
     "id": "sae",
@@ -1571,7 +2560,40 @@
     "tags": [
       "emphasis"
     ],
-    "notes": "Gives an extreme example, implying 'so naturally the others too'. More formal than 〜も or 〜でも in this sense. As a subject: 〜でさえ. Compare N1 〜すら."
+    "notes": "Gives an extreme example, implying 'so naturally the others too'. More formal than 〜も or 〜でも in this sense. As a subject: 〜でさえ. Compare N1 〜すら.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "5d01d06e77fd6916966255499b220b9e2f0418857783a630a57421d11b5daebc",
+      "meanings": [
+        "连",
+        "甚至"
+      ],
+      "formation": "名词＋さえ／でさえ／にさえ",
+      "explanation": "举出极端例子，暗示其他情况更不必说。",
+      "notes": "でさえ可提示例举的主语。",
+      "examples": [
+        {
+          "ja": "忙しくて、昼ご飯を食べる時間さえなかった。",
+          "zh": "忙得连吃午饭的时间都没有。"
+        },
+        {
+          "ja": "こんな簡単な問題は、小学生でさえ解ける。",
+          "zh": "这么简单的问题连小学生都能解出来。"
+        },
+        {
+          "ja": "彼女は親友にさえ本当のことを話さなかった。",
+          "zh": "她连最好的朋友都没有告诉真相。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#sae",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "541debed281e053cfad2d32cd8b26e22d23eb89c0fcad10992df9c073c861835"
+    }
   },
   {
     "id": "sae-ba",
@@ -1601,7 +2623,40 @@
       "condition",
       "emphasis"
     ],
-    "notes": "Stresses that this one condition is enough by itself, or is the only thing missing."
+    "notes": "Stresses that this one condition is enough by itself, or is the only thing missing.",
+    "zh": {
+      "source_hash": "e5f5ad4d6702acc7fe0790d275afba57b07cfcdd03de11e129fc678e760b6b57",
+      "meanings": [
+        "只要",
+        "只需"
+      ],
+      "formation": "名词＋さえ＋动词ば形；动词ます形去ます＋さえすれば；动词て形＋さえいれば",
+      "explanation": "强调满足这一条件就足够，或只缺少这一条件。",
+      "notes": "也可表达难以实现的愿望。",
+      "examples": [
+        {
+          "ja": "このアプリさえあれば、どこでも日本語の勉強ができる。",
+          "zh": "只要有这个应用，就能在任何地方学习日语。"
+        },
+        {
+          "ja": "時間さえあれば、もっと旅行に行きたいんですが。",
+          "zh": "要是有时间，我真想多去旅行。"
+        },
+        {
+          "ja": "薬を飲んで寝てさえいれば、すぐに治りますよ。",
+          "zh": "只要吃药并躺着休息，很快就会好起来的。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#sae-ba",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "84d90416c68c20eed3c0378ae7c160f0b0447efa7c1fa0bae92d24422cdce0a6"
+    }
   },
   {
     "id": "koso",
@@ -1629,7 +2684,40 @@
     "tags": [
       "emphasis"
     ],
-    "notes": "Singles out one thing as the very one that matters. こちらこそ is a set reply: 'the thanks/pleasure is mine'. Related N2 forms: 〜からこそ, 〜てこそ."
+    "notes": "Singles out one thing as the very one that matters. こちらこそ is a set reply: 'the thanks/pleasure is mine'. Related N2 forms: 〜からこそ, 〜てこそ.",
+    "zh": {
+      "source_hash": "14c1c1175d474d07e91e1f64a0bb04fef44b0afa706391ec2ebfed25679f5aef",
+      "meanings": [
+        "正是",
+        "才"
+      ],
+      "formation": "名词＋こそ",
+      "explanation": "突出特别重要的对象。",
+      "notes": "こちらこそ是固定应答，表示“我才要感谢你”等。",
+      "examples": [
+        {
+          "ja": "「いつもありがとう。」「いえ、こちらこそ。」",
+          "zh": "“一直以来谢谢你。”“哪里，我才要谢谢你。”"
+        },
+        {
+          "ja": "今年こそ、たばこをやめるつもりだ。",
+          "zh": "今年我一定要戒烟。"
+        },
+        {
+          "ja": "毎日の小さな努力こそが、大きな成功につながる。",
+          "zh": "正是每天一点一滴的努力带来巨大的成功。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#koso",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "f8a620bc87c16f9faa7aa7dee766bd0fc3104b72df5ce9a72ef97a3220847d22"
+    }
   },
   {
     "id": "to-shite",
@@ -1659,7 +2747,40 @@
       "standpoint",
       "relation"
     ],
-    "notes": "States a role, status or category. Compare 〜にとって, which states from whose point of view a judgment is made."
+    "notes": "States a role, status or category. Compare 〜にとって, which states from whose point of view a judgment is made.",
+    "zh": {
+      "source_hash": "9374806634110a17187fe0e171c1f56ed1577bd48321296bdf2fdb8b6059595c",
+      "meanings": [
+        "作为",
+        "以……身份"
+      ],
+      "formation": "名词＋として；名词＋としての＋名词",
+      "explanation": "表示身份、角色或类别。",
+      "notes": "にとって侧重评价的立场。",
+      "examples": [
+        {
+          "ja": "兄は、エンジニアとしてアメリカの会社で働いている。",
+          "zh": "哥哥作为工程师在一家美国公司工作。"
+        },
+        {
+          "ja": "この町は、温泉地として有名です。",
+          "zh": "这个小镇作为温泉胜地很有名。"
+        },
+        {
+          "ja": "社会人としての責任を持って行動してください。",
+          "zh": "请以社会人士应有的责任感行事。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#to-shite",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "67a3cb3dd21b14f8f98b79c3565798206359118734c07752ee804b9c335a9edb"
+    }
   },
   {
     "id": "ni-totte",
@@ -1688,7 +2809,39 @@
     "tags": [
       "standpoint"
     ],
-    "notes": "Followed by an evaluation (大切だ, 難しい, 便利だ). Not for actions or attitudes toward someone; use 〜に対して for those."
+    "notes": "Followed by an evaluation (大切だ, 難しい, 便利だ). Not for actions or attitudes toward someone; use 〜に対して for those.",
+    "zh": {
+      "source_hash": "1b1249c47bcf7ac7eefcf9d6511aca66eaff6761d555ef3c69553dc51bd79a8b",
+      "meanings": [
+        "对……来说"
+      ],
+      "formation": "名词＋にとって；名词＋にとっての＋名词",
+      "explanation": "表示评价所依据的人的立场。",
+      "notes": "后面常接重要、困难、方便等评价；表示针对某人的行动或态度时用に対して。",
+      "examples": [
+        {
+          "ja": "私にとって、家族は何よりも大切なものです。",
+          "zh": "对我来说，家人比什么都重要。"
+        },
+        {
+          "ja": "このあたりの坂道は、お年寄りにとってはかなり大変だ。",
+          "zh": "这一带的坡路对老人来说相当吃力。"
+        },
+        {
+          "ja": "留学は、彼にとっていい経験になったようだ。",
+          "zh": "留学对他来说似乎是一次很好的经历。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#ni-totte",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "d01c85c0b2cf791403caf0fd85739bcf9c0b80ef7889a716f8bcbc8d47d15d33"
+    }
   },
   {
     "id": "ni-shite-wa",
@@ -1718,7 +2871,40 @@
       "contrast",
       "concession"
     ],
-    "notes": "The result is different from what you'd expect of X. Doesn't follow adjectives; compare 〜わりに, which can and focuses on degree (price, age, effort)."
+    "notes": "The result is different from what you'd expect of X. Doesn't follow adjectives; compare 〜わりに, which can and focuses on degree (price, age, effort).",
+    "zh": {
+      "source_hash": "d15b86ef43f9e089c6439489966a86d8663c3b108c5c7b707c3d9cb5e7658bb0",
+      "meanings": [
+        "就……而言却",
+        "按……来说"
+      ],
+      "formation": "动词普通形／名词＋にしては",
+      "explanation": "实际情况与根据前项产生的预期不一致。",
+      "notes": "一般不直接接形容词；わりに也可接形容词。",
+      "examples": [
+        {
+          "ja": "初めて作ったにしては、このケーキはよくできている。",
+          "zh": "作为第一次做的蛋糕，这个做得很好。"
+        },
+        {
+          "ja": "彼は小学生にしては、ずいぶん難しい言葉を知っている。",
+          "zh": "他作为小学生，知道的难词还真不少。"
+        },
+        {
+          "ja": "十月にしては、今日はずいぶん暑いね。",
+          "zh": "都十月了，今天还真热啊。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#ni-shite-wa",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "95d26dbdad26e2629b8eaa3407dd245f8ed11ae0816af761b26024e318c17fec"
+    }
   },
   {
     "id": "ni-shite-mo",
@@ -1747,7 +2933,40 @@
     "tags": [
       "concession"
     ],
-    "notes": "Accepts a point, then says it doesn't change the speaker's view. Often accepts a fact; compare 〜としても, which is more purely hypothetical."
+    "notes": "Accepts a point, then says it doesn't change the speaker's view. Often accepts a fact; compare 〜としても, which is more purely hypothetical.",
+    "zh": {
+      "source_hash": "f000f6289db809e862799c62e16659ed56c80b1e8e989018dc449b79ef4e5ba8",
+      "meanings": [
+        "即使",
+        "就算"
+      ],
+      "formation": "动词、い形容词普通形／な形容词词干／名词＋にしても",
+      "explanation": "即使承认或假设前项，后项的判断也不变。",
+      "notes": "可用于已经发生的事实，也可用于假设。",
+      "examples": [
+        {
+          "ja": "忙しかったにしても、電話一本ぐらいできたでしょう。",
+          "zh": "即使你当时很忙，至少也能打个电话吧。"
+        },
+        {
+          "ja": "冗談にしても、そんな言い方はひどいよ。",
+          "zh": "即使是开玩笑，那样说也太过分了。"
+        },
+        {
+          "ja": "引っ越すにしても、来年の春以降になると思います。",
+          "zh": "即使要搬家，我想也会在明年春天以后。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#ni-shite-mo",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "15b1149b7b2b7add6a61ab37e549264f94201dabcbb4b2dc42d87637ebd0e218"
+    }
   },
   {
     "id": "ni-kanshite-ni-kansuru",
@@ -1778,7 +2997,40 @@
       "topic",
       "formal"
     ],
-    "notes": "More formal than 〜について; common in business, news and writing. Before a noun, use に関する (or に関しての)."
+    "notes": "More formal than 〜について; common in business, news and writing. Before a noun, use に関する (or に関しての).",
+    "zh": {
+      "source_hash": "9e3416de9fc0c89a79d0b519b64482c3075852bdb5510bdcc09faee7f6e2b291",
+      "meanings": [
+        "关于",
+        "有关"
+      ],
+      "formation": "名词＋に関して；名词＋に関する＋名词",
+      "explanation": "表示谈论或涉及的主题。",
+      "notes": "比について正式，修饰名词也可用に関しての。",
+      "examples": [
+        {
+          "ja": "新しいサービスに関してご質問がある方は、受付までどうぞ。",
+          "zh": "对新服务有疑问的各位请到接待处咨询。"
+        },
+        {
+          "ja": "彼は日本の歴史に関する本をたくさん持っている。",
+          "zh": "他有很多关于日本历史的书。"
+        },
+        {
+          "ja": "事故の原因に関しては、現在調査中です。",
+          "zh": "关于事故原因，目前正在调查中。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#ni-kanshite-ni-kansuru",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "e8197ba32f17185e66435d79869cffe249114ef390be50e5a65d1adbfab02c44"
+    }
   },
   {
     "id": "ni-kurabete",
@@ -1808,7 +3060,39 @@
     "tags": [
       "comparison"
     ],
-    "notes": "Also 〜と比べて, 〜に比べると and 〜に比べれば. Sets two things side by side more explicitly than 〜より."
+    "notes": "Also 〜と比べて, 〜に比べると and 〜に比べれば. Sets two things side by side more explicitly than 〜より.",
+    "zh": {
+      "source_hash": "743fb7f06470b0f7dba9da0fccff61440572c83aef7b4f18cf91cef7792e3ba3",
+      "meanings": [
+        "与……相比"
+      ],
+      "formation": "名词＋に比べて；动词辞书形＋のに比べて",
+      "explanation": "以某事物为参照进行比较。",
+      "notes": "也可说と比べて、に比べると。",
+      "examples": [
+        {
+          "ja": "今年の夏は、去年に比べてずいぶん涼しい。",
+          "zh": "今年夏天比去年凉快多了。"
+        },
+        {
+          "ja": "都会に比べて、田舎は家賃が安い。",
+          "zh": "与城市相比，乡下的房租便宜。"
+        },
+        {
+          "ja": "電車で行くのに比べて、車で行くと三十分ほど長くかかる。",
+          "zh": "与坐电车相比，开车要多花大约三十分钟。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#ni-kurabete",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "32af870da8d272fb901561a4354ecca0096ac90c34d08ec1694354e4f7267bf0"
+    }
   },
   {
     "id": "ni-kawatte",
@@ -1839,7 +3123,40 @@
       "relation",
       "change"
     ],
-    "notes": "Someone acts for another person, or something new replaces something old. Written form: 〜に代わり. Compare 〜代わりに (instead of doing; in exchange for)."
+    "notes": "Someone acts for another person, or something new replaces something old. Written form: 〜に代わり. Compare 〜代わりに (instead of doing; in exchange for).",
+    "zh": {
+      "source_hash": "8be6a37732f5459e75b705c2cd4c01c7c9c58f4eeced5db883888508081701ca",
+      "meanings": [
+        "代替",
+        "代表"
+      ],
+      "formation": "名词＋に代わって／に代わり",
+      "explanation": "表示代替某人行动，或新事物取代旧事物。",
+      "notes": "に代わり较书面；代わりに还有交换、补偿之意。",
+      "examples": [
+        {
+          "ja": "入院中の社長に代わって、副社長があいさつをした。",
+          "zh": "副社长代替住院的社长致辞。"
+        },
+        {
+          "ja": "最近は、紙の新聞に代わって、スマホでニュースを読む人が増えている。",
+          "zh": "近来用手机而不是纸质报纸读新闻的人越来越多。"
+        },
+        {
+          "ja": "父に代わって、私が町内会の会議に出席しました。",
+          "zh": "我代替父亲出席了街区自治会的会议。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#ni-kawatte",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "1ec6f1d11cb44686c86e83c5dcaf70c455b04f65a6049b5b0b81b48d4d36c4ca"
+    }
   },
   {
     "id": "kawari-ni",
@@ -1870,7 +3187,41 @@
       "contrast",
       "relation"
     ],
-    "notes": "Three uses: substitution (instead of), exchange (in return for), and compensation (a downside balanced by an upside)."
+    "notes": "Three uses: substitution (instead of), exchange (in return for), and compensation (a downside balanced by an upside).",
+    "zh": {
+      "source_hash": "7f0bc9da8a3e4dca70e67453c00c8b504fde05a4079f8c41b18f327fcc27cb5e",
+      "meanings": [
+        "代替",
+        "作为交换",
+        "作为补偿"
+      ],
+      "formation": "动词普通形／い形容词／な形容词＋な／名词＋の＋代わりに",
+      "explanation": "表示替代、交换，或一方面的缺点由另一方面补偿。",
+      "notes": "根据上下文区分三种用法。",
+      "examples": [
+        {
+          "ja": "今日は外で食べる代わりに、家でカレーを作った。",
+          "zh": "今天没有在外面吃，而是在家做了咖喱。"
+        },
+        {
+          "ja": "友達に英語を教える代わりに、ギターを教えてもらっている。",
+          "zh": "我教朋友英语，作为交换，他教我弹吉他。"
+        },
+        {
+          "ja": "このアパートは駅から遠い代わりに、家賃が安い。",
+          "zh": "这间公寓离车站远，不过房租便宜。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#kawari-ni",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "1e1fe02f3ec0912c0b1140e3fea9dff229fdae2dbf1944cf5b57d094c108e554"
+    }
   },
   {
     "id": "ni-shitagatte",
@@ -1901,7 +3252,40 @@
       "relation",
       "change"
     ],
-    "notes": "With nouns such as rules or instructions: 'following, obeying'. With Verb-dict: proportional change like 〜につれて, in a more formal tone."
+    "notes": "With nouns such as rules or instructions: 'following, obeying'. With Verb-dict: proportional change like 〜につれて, in a more formal tone.",
+    "zh": {
+      "source_hash": "2ea0e8db66910763a97a0d4d7bdc145c05be3dc35fee44c26840181833ce920e",
+      "meanings": [
+        "按照",
+        "随着"
+      ],
+      "formation": "名词／动词辞书形＋に従って",
+      "explanation": "接规则、指示等表示遵循；接变化动词表示随之变化。",
+      "notes": "表示伴随变化时语气较正式。",
+      "examples": [
+        {
+          "ja": "係の人の指示に従って、落ち着いて避難してください。",
+          "zh": "请按照工作人员的指示，冷静避难。"
+        },
+        {
+          "ja": "高く登るに従って、気温が下がっていった。",
+          "zh": "随着越爬越高，气温渐渐下降。"
+        },
+        {
+          "ja": "町が大きくなるに従って、交通の問題も増えてきた。",
+          "zh": "随着城镇扩大，交通问题也增加了。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#ni-shitagatte",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "f69110f26f93a4eba25218dc19277c7632d2561ad7dbc3529c54b70309b57591"
+    }
   },
   {
     "id": "ni-tsurete",
@@ -1931,7 +3315,39 @@
       "change",
       "relation"
     ],
-    "notes": "Both halves describe gradual change. The main clause can't be a request or the speaker's intention. Close to 〜に従って and 〜とともに."
+    "notes": "Both halves describe gradual change. The main clause can't be a request or the speaker's intention. Close to 〜に従って and 〜とともに.",
+    "zh": {
+      "source_hash": "dd1401c0c8f1d377b11a3166c82cf823758b5ea278e3859803682ad458a0498b",
+      "meanings": [
+        "随着"
+      ],
+      "formation": "动词辞书形／名词＋につれて",
+      "explanation": "一方面逐渐变化时，另一方面也随之变化。",
+      "notes": "后句通常不能是请求或说话人的意志。",
+      "examples": [
+        {
+          "ja": "年をとるにつれて、朝早く目が覚めるようになった。",
+          "zh": "随着年龄增长，我开始早上很早就醒来。"
+        },
+        {
+          "ja": "日本での生活に慣れるにつれて、友達も増えていった。",
+          "zh": "随着逐渐习惯日本的生活，我的朋友也越来越多。"
+        },
+        {
+          "ja": "時間がたつにつれて、その事故のことは忘れられていった。",
+          "zh": "随着时间流逝，那场事故渐渐被人们遗忘了。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#ni-tsurete",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "f1251e93eb443e32628d9e0ff2d6990e30dd0b6bc1d3d553139ac00fe0bc62ad"
+    }
   },
   {
     "id": "to-tomo-ni",
@@ -1962,7 +3378,41 @@
       "change",
       "formal"
     ],
-    "notes": "Formal version of 〜と一緒に. Also marks events happening at the same moment, or proportional change like 〜につれて."
+    "notes": "Formal version of 〜と一緒に. Also marks events happening at the same moment, or proportional change like 〜につれて.",
+    "zh": {
+      "source_hash": "d3843c756c376a8a299c8527ee1884c4d5468b6209c08f5c0e5caa682226f670",
+      "meanings": [
+        "与……一起",
+        "随着",
+        "同时"
+      ],
+      "formation": "名词／动词辞书形＋とともに",
+      "explanation": "表示共同、伴随变化或同时发生。",
+      "notes": "较正式；可根据语境译为“一起”“随着”或“同时”。",
+      "examples": [
+        {
+          "ja": "社長は、社員とともに新しい工場の完成を喜んだ。",
+          "zh": "社长与员工一起为新工厂落成而高兴。"
+        },
+        {
+          "ja": "経済の発展とともに、人々の生活も大きく変わった。",
+          "zh": "随着经济发展，人们的生活也发生了很大变化。"
+        },
+        {
+          "ja": "ベルが鳴るとともに、学生たちは教室を飛び出した。",
+          "zh": "铃声一响，学生们就冲出了教室。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#to-tomo-ni",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "87689d84746d9d9b9eaf4b36e445f2e64f2ffa353f48d35a9dd3912fc73ea67e"
+    }
   },
   {
     "id": "tabi-ni",
@@ -1992,7 +3442,40 @@
       "time",
       "tendency"
     ],
-    "notes": "Each time A happens, B happens too. More emphatic than 〜と or 〜ときはいつも."
+    "notes": "Each time A happens, B happens too. More emphatic than 〜と or 〜ときはいつも.",
+    "zh": {
+      "source_hash": "1bee0de1c01eff54d79a8ddbc5332e53dc0b15f0bf2a325eb11c01965306a29f",
+      "meanings": [
+        "每当",
+        "每次"
+      ],
+      "formation": "动词辞书形／名词＋の＋たびに",
+      "explanation": "每次发生前项时，后项也发生。",
+      "notes": "强调反复发生。",
+      "examples": [
+        {
+          "ja": "この写真を見るたびに、大学時代を思い出す。",
+          "zh": "每次看到这张照片，我都会想起大学时代。"
+        },
+        {
+          "ja": "姉は出張のたびに、お土産を買ってきてくれる。",
+          "zh": "姐姐每次出差都会给我带礼物回来。"
+        },
+        {
+          "ja": "この川は、大雨が降るたびにあふれて、道が通れなくなる。",
+          "zh": "这条河每逢大雨就泛滥，道路便无法通行。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#tabi-ni",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "e233350a3ecdeb56d105b2b27c4b914ae5446d67209e3c3674daa9174440cd21"
+    }
   },
   {
     "id": "goto-ni",
@@ -2022,7 +3505,40 @@
       "time",
       "quantity"
     ],
-    "notes": "Regular repetition, or each unit in turn. With Verb-dict it's close to 〜たびに. Careful: 一日ごとに = every day, but 一日おきに (N4) = every other day."
+    "notes": "Regular repetition, or each unit in turn. With Verb-dict it's close to 〜たびに. Careful: 一日ごとに = every day, but 一日おきに (N4) = every other day.",
+    "zh": {
+      "source_hash": "b263a21e8d75a11b420773bd0bfb678b1dcc8205a5daa48b2a31721d47384302",
+      "meanings": [
+        "每",
+        "每隔"
+      ],
+      "formation": "名词／动词辞书形＋ごとに",
+      "explanation": "表示按固定间隔重复，或逐一按单位进行。",
+      "notes": "一日ごとに指每一天；一日おきに指隔一天。",
+      "examples": [
+        {
+          "ja": "このバスは十五分ごとに出ています。",
+          "zh": "这趟公交车每十五分钟一班。"
+        },
+        {
+          "ja": "季節ごとに、店の飾りが変わる。",
+          "zh": "店里的装饰每个季节都会变化。"
+        },
+        {
+          "ja": "一回使うごとにポイントがたまるカードです。",
+          "zh": "这张卡每使用一次就能累积积分。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#goto-ni",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "47d18862731da77448969768f6ff259c6e8b3efff37ea867b4d908199b8caef7"
+    }
   },
   {
     "id": "saichuu-ni",
@@ -2053,7 +3569,39 @@
       "time",
       "simultaneity"
     ],
-    "notes": "Stresses the height of an activity, usually when something unexpected interrupts it. Stronger than 〜中に or 〜ている間に. Also 〜最中だ."
+    "notes": "Stresses the height of an activity, usually when something unexpected interrupts it. Stronger than 〜中に or 〜ている間に. Also 〜最中だ.",
+    "zh": {
+      "source_hash": "c7c0a3bc933c73418a8b50396de58a1ebc1b01255769eefc295d5d26365f23bb",
+      "meanings": [
+        "正在……的时候"
+      ],
+      "formation": "动词ている形／名词＋の＋最中に",
+      "explanation": "强调正处于某活动的过程中，常有意外打断。",
+      "notes": "也可用最中だ表示正处其中。",
+      "examples": [
+        {
+          "ja": "大事な会議の最中に、携帯電話が鳴ってしまった。",
+          "zh": "在重要会议进行时，手机响了起来。"
+        },
+        {
+          "ja": "料理をしている最中に、停電になった。",
+          "zh": "正在做饭的时候停电了。"
+        },
+        {
+          "ja": "今、試験の最中だから、廊下では静かにしてください。",
+          "zh": "现在正在考试，请在走廊里保持安静。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#saichuu-ni",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "47886397c384d98fd3571b6a54e3b3c7b90cf32c4fb4e61f992c83db39dac8c7"
+    }
   },
   {
     "id": "tsuide-ni",
@@ -2083,7 +3631,40 @@
       "simultaneity",
       "addition"
     ],
-    "notes": "The main action happens anyway; the second is added because it's convenient. Compare N1 〜がてら."
+    "notes": "The main action happens anyway; the second is added because it's convenient. Compare N1 〜がてら.",
+    "zh": {
+      "source_hash": "962c60c804d1a1a8e1831e8e79953189c9b8d41acfca1fa65e55133458ef6f18",
+      "meanings": [
+        "顺便",
+        "借……之便"
+      ],
+      "formation": "动词辞书形／た形／名词＋の＋ついでに",
+      "explanation": "利用原本要做某事的机会，顺便做另一件事。",
+      "notes": "后项是顺带做的事情。",
+      "examples": [
+        {
+          "ja": "郵便局へ行くついでに、この手紙も出してきてくれる？",
+          "zh": "你去邮局的时候，能顺便帮我把这封信寄了吗？"
+        },
+        {
+          "ja": "京都へ出張したついでに、昔の友達に会ってきた。",
+          "zh": "去京都出差时，我顺便去见了老朋友。"
+        },
+        {
+          "ja": "買い物のついでに、図書館に本を返した。",
+          "zh": "买东西时顺便去图书馆还了书。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#tsuide-ni",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "0103fbb89aaef741efbc1e8aacb8601487f3785cf6db547d56b69746a27f0613"
+    }
   },
   {
     "id": "okage-de",
@@ -2114,7 +3695,40 @@
       "result",
       "emotion"
     ],
-    "notes": "Cause of a good result, with a feeling of gratitude. Sometimes used sarcastically for a bad result (君のおかげで遅刻したよ). Compare 〜せいで (blame)."
+    "notes": "Cause of a good result, with a feeling of gratitude. Sometimes used sarcastically for a bad result (君のおかげで遅刻したよ). Compare 〜せいで (blame).",
+    "zh": {
+      "source_hash": "3f2f77aad28e3f53f5866de2a8f55eee011e2e734166b9554929710b338546db",
+      "meanings": [
+        "多亏",
+        "幸亏"
+      ],
+      "formation": "动词普通形／い形容词／な形容词＋な／名词＋の＋おかげで",
+      "explanation": "表示某原因带来好结果，常含感谢之意。",
+      "notes": "也可反讽地用于坏结果；せいで通常表示归咎。",
+      "examples": [
+        {
+          "ja": "先輩が手伝ってくれたおかげで、仕事が早く終わった。",
+          "zh": "多亏前辈帮忙，工作提前完成了。"
+        },
+        {
+          "ja": "薬が効いたおかげで、熱が下がった。",
+          "zh": "多亏药起了作用，烧退了。"
+        },
+        {
+          "ja": "駅が近いおかげで、雨の日も楽に通勤できる。",
+          "zh": "多亏车站近，下雨天通勤也很方便。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#okage-de",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "7d1e8eb20d0b288da1218788567a81065081baabeb0852541f5c67001fac3a22"
+    }
   },
   {
     "id": "sei-de",
@@ -2145,7 +3759,40 @@
       "result",
       "criticism"
     ],
-    "notes": "Cause of a bad result, placing blame. 〜のせいにする = 'blame something on'. The opposite feeling of 〜おかげで."
+    "notes": "Cause of a bad result, placing blame. 〜のせいにする = 'blame something on'. The opposite feeling of 〜おかげで.",
+    "zh": {
+      "source_hash": "f033c900f88cfc5d6a34879f2f355d3ddc6669c083ad2dd7c5ce15c1c7d2010d",
+      "meanings": [
+        "因为",
+        "都怪"
+      ],
+      "formation": "动词普通形／い形容词／な形容词＋な／名词＋の＋せいで",
+      "explanation": "表示某原因导致不好的结果，带有归咎语气。",
+      "notes": "のせいにする表示把责任归咎于某事。",
+      "examples": [
+        {
+          "ja": "電車が遅れたせいで、面接に遅刻してしまった。",
+          "zh": "因为电车晚点，我面试迟到了。"
+        },
+        {
+          "ja": "夜中に犬がうるさかったせいで、ほとんど眠れなかった。",
+          "zh": "因为半夜狗太吵，我几乎没睡着。"
+        },
+        {
+          "ja": "私が道を間違えたせいで、みんなを待たせてしまった。",
+          "zh": "因为我走错了路，让大家久等了。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#sei-de",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "00be9ae1e7cc97eb4ef2697a4130769e240da213b7c43285aa77d3edb0a62abc"
+    }
   },
   {
     "id": "ta-totan-ta-totan-ni",
@@ -2176,7 +3823,39 @@
       "sequence",
       "surprise"
     ],
-    "notes": "The second event is sudden and outside the speaker's control. Not used for the speaker's own planned actions, requests or intentions."
+    "notes": "The second event is sudden and outside the speaker's control. Not used for the speaker's own planned actions, requests or intentions.",
+    "zh": {
+      "source_hash": "23a953b46ca2e1c086846c996d389cf4e589c3ed3ec973661b6dc90966a4c992",
+      "meanings": [
+        "刚一……就"
+      ],
+      "formation": "动词た形＋とたん／とたんに",
+      "explanation": "前项发生的瞬间，后项突然发生。",
+      "notes": "后项一般不是说话人计划中的动作、请求或意志。",
+      "examples": [
+        {
+          "ja": "立ち上がったとたんに、めまいがした。",
+          "zh": "刚站起来，我就感到头晕。"
+        },
+        {
+          "ja": "家を出たとたん、雨が降り出した。",
+          "zh": "刚出门，雨就下了起来。"
+        },
+        {
+          "ja": "その歌手がステージに現れたとたん、会場から大きな拍手が起こった。",
+          "zh": "那位歌手一出现在舞台上，会场就响起热烈的掌声。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#ta-totan-ta-totan-ni",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "c264d2edce3c969ba845e02617301ad49a5b1cfef8d88fd7e428b706750b6d38"
+    }
   },
   {
     "id": "tara-ta",
@@ -2207,7 +3886,39 @@
       "surprise",
       "sequence"
     ],
-    "notes": "After an action, the speaker notices or discovers something. The second clause is past and outside the speaker's control. 〜と〜た is a more written equivalent."
+    "notes": "After an action, the speaker notices or discovers something. The second clause is past and outside the speaker's control. 〜と〜た is a more written equivalent.",
+    "zh": {
+      "source_hash": "289a1ec54923aa4dfd2611791f5081529f27e08334e1ebdeaf57405cace00bb0",
+      "meanings": [
+        "……之后发现"
+      ],
+      "formation": "动词た形＋ら……动词过去形",
+      "explanation": "表示做了某事之后发现了某种情况。",
+      "notes": "后项一般是说话人无法控制的发现或结果。",
+      "examples": [
+        {
+          "ja": "窓を開けたら、外は一面の雪だった。",
+          "zh": "打开窗户一看，外面白雪皑皑。"
+        },
+        {
+          "ja": "久しぶりに実家に帰ったら、近所に大きなマンションが建っていた。",
+          "zh": "久违地回到老家，发现附近盖起了一栋大型公寓楼。"
+        },
+        {
+          "ja": "かばんの中を探してみたら、なくしたと思っていた鍵が出てきた。",
+          "zh": "在包里找了找，结果找到了以为丢失的钥匙。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#tara-ta",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "8f007d432622032d9022cc2e21c24e4dbc8280f936d9d310e587a2284ffaf19b"
+    }
   },
   {
     "id": "tatte-datte",
@@ -2237,7 +3948,40 @@
       "concession",
       "casual"
     ],
-    "notes": "Colloquial form of 〜ても / 〜でも, often with いくら or question words. だって also means 'because' at the start of a sentence, and 'even' after nouns."
+    "notes": "Colloquial form of 〜ても / 〜でも, often with いくら or question words. だって also means 'because' at the start of a sentence, and 'even' after nouns.",
+    "zh": {
+      "source_hash": "205e1b0657ffd16835385761204d2abf4af52b84a62cb0077bcae6aa3cb11498",
+      "meanings": [
+        "即使",
+        "无论（口语）"
+      ],
+      "formation": "动词た形＋って；い形容词词干＋くたって；な形容词词干／名词＋だって",
+      "explanation": "是ても／でも的口语形式，表示让步。",
+      "notes": "だって在句首还可表示“因为”，接名词也可表示“连”。",
+      "examples": [
+        {
+          "ja": "今から急いだって、もう間に合わないよ。",
+          "zh": "现在再怎么赶也来不及了。"
+        },
+        {
+          "ja": "高くたって、欲しいものは欲しい。",
+          "zh": "即使贵，想要的东西还是想要。"
+        },
+        {
+          "ja": "いくら便利だって、使い方が分からなければ意味がない。",
+          "zh": "无论多方便，不知道怎么用就没有意义。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#tatte-datte",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "79149da838576d80edc3757861556596e2513d8e0d33e6a62c86316973efb25d"
+    }
   },
   {
     "id": "nai-koto-wa-nai",
@@ -2267,7 +4011,40 @@
       "negation",
       "possibility"
     ],
-    "notes": "A double negative giving a hesitant 'yes'. Also 〜ないこともない. Don't confuse with Verb-dict + ことはない ('there's no need to')."
+    "notes": "A double negative giving a hesitant 'yes'. Also 〜ないこともない. Don't confuse with Verb-dict + ことはない ('there's no need to').",
+    "zh": {
+      "source_hash": "5646ea06aa635fee3d2233b36e7da69401c21773d416b8479b923c082f52416f",
+      "meanings": [
+        "并非不",
+        "也不是不能"
+      ],
+      "formation": "动词ない形／い形容词くない形／な形容词でない＋ことはない",
+      "explanation": "通过双重否定表示勉强肯定或保留的判断。",
+      "notes": "也可说ないこともない；不要与辞书形＋ことはない（不必）混淆。",
+      "examples": [
+        {
+          "ja": "辛い料理は食べられないことはないけど、あまり好きじゃない。",
+          "zh": "辣菜也不是不能吃，但我不太喜欢。"
+        },
+        {
+          "ja": "今から急げば、間に合わないことはないと思う。",
+          "zh": "如果现在赶过去，我想也不是赶不上。"
+        },
+        {
+          "ja": "この服、少し派手だけど、似合わないことはないよ。",
+          "zh": "这件衣服有点花哨，但也不是不适合你。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#nai-koto-wa-nai",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "e370af88ea30e260ea9bb51d1d81d71c754089037f3789c0ca739e5d7142fee9"
+    }
   },
   {
     "id": "te-shou-ga-nai-te-shikata-ga-nai",
@@ -2297,7 +4074,40 @@
       "emotion",
       "degree"
     ],
-    "notes": "For feelings and sensations the speaker can't control. しょうがない is more casual. Unlike 〜てたまらない, it also works with spontaneous verbs like 気になる or 涙が出る."
+    "notes": "For feelings and sensations the speaker can't control. しょうがない is more casual. Unlike 〜てたまらない, it also works with spontaneous verbs like 気になる or 涙が出る.",
+    "zh": {
+      "source_hash": "46a09b754e72e99ff3b96d1995f25ea0ed14417b0d938ce5cfbaa81625384056",
+      "meanings": [
+        "……得不得了",
+        "忍不住"
+      ],
+      "formation": "动词て形／い形容词くて形／な形容词词干＋で＋しょうがない／しかたがない",
+      "explanation": "表示无法控制的强烈感情或感觉。",
+      "notes": "しょうがない更口语化，也可接気になる等自发状态。",
+      "examples": [
+        {
+          "ja": "昨日あまり寝ていないので、眠くてしょうがない。",
+          "zh": "昨天没怎么睡，困得不得了。"
+        },
+        {
+          "ja": "来週の旅行が楽しみでしかたがない。",
+          "zh": "我对下周的旅行期待得不得了。"
+        },
+        {
+          "ja": "一人暮らしを始めたばかりのころは、家族のことが気になってしかたがなかった。",
+          "zh": "刚开始独居的时候，我总是忍不住担心家人。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#te-shou-ga-nai-te-shikata-ga-nai",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "4e2e955dbf8d1a944efa2882025440204844880c7e2f43459674702d3c363fa8"
+    }
   },
   {
     "id": "te-tamaranai",
@@ -2327,7 +4137,40 @@
       "emotion",
       "degree"
     ],
-    "notes": "Strong, direct feelings or bodily sensations; very common with desire (〜たくてたまらない). Not used for objective facts. Compare 〜てしかたがない."
+    "notes": "Strong, direct feelings or bodily sensations; very common with desire (〜たくてたまらない). Not used for objective facts. Compare 〜てしかたがない.",
+    "zh": {
+      "source_hash": "8fd691b58cf862a6ea457a15d05be8f18eb264ed270f86a7b7eef1f77e0d0dfd",
+      "meanings": [
+        "……得难以忍受",
+        "非常"
+      ],
+      "formation": "动词て形／い形容词くて形／な形容词词干＋で＋たまらない",
+      "explanation": "表示强烈的感情、欲望或身体感觉。",
+      "notes": "常与たい连用；一般不用来描述客观事实。",
+      "examples": [
+        {
+          "ja": "この部屋はエアコンがなくて、暑くてたまらない。",
+          "zh": "这间屋子没有空调，热得难以忍受。"
+        },
+        {
+          "ja": "三年ぶりに国の家族に会えるので、うれしくてたまらない。",
+          "zh": "时隔三年终于能见到家乡的家人，我高兴极了。"
+        },
+        {
+          "ja": "試合に負けたのが悔しくてたまらなかった。",
+          "zh": "比赛输了，我懊悔得不得了。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#te-tamaranai",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "f8bf351675a486f7bb37b1762aa63dde34793c68af989e9515815bee04d7b44a"
+    }
   },
   {
     "id": "te-hajimete",
@@ -2357,7 +4200,40 @@
       "time",
       "sequence"
     ],
-    "notes": "Something is realized or becomes possible only after an experience; often followed by 分かる, 気づく or 知る. Also written 〜て初めて."
+    "notes": "Something is realized or becomes possible only after an experience; often followed by 分かる, 気づく or 知る. Also written 〜て初めて.",
+    "zh": {
+      "source_hash": "2d1f3c2eb3b954442073aad9fb4426ce322aea662887707086cb2eb15980a0ea",
+      "meanings": [
+        "只有……才",
+        "直到……才"
+      ],
+      "formation": "动词て形＋はじめて",
+      "explanation": "表示经历某事后才认识到或才能做到某事。",
+      "notes": "也写作て初めて，常接分かる、気づく等。",
+      "examples": [
+        {
+          "ja": "病気になってはじめて、健康のありがたさが分かった。",
+          "zh": "生病之后才明白健康的可贵。"
+        },
+        {
+          "ja": "一人で暮らしてはじめて、親の苦労が分かった。",
+          "zh": "独自生活之后才明白父母的辛苦。"
+        },
+        {
+          "ja": "実際に使ってみてはじめて、この機械の便利さに気づいた。",
+          "zh": "实际使用之后才发现这台机器很方便。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#te-hajimete",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "2dc16dce171e8912377ca2e29d7598edb96974d45f169731f76d0cd1acc29efb"
+    }
   },
   {
     "id": "te-bakari-iru",
@@ -2388,7 +4264,40 @@
       "criticism",
       "limitation"
     ],
-    "notes": "A repeated or constant action, usually with criticism or dissatisfaction. Compare N4 Noun + ばかり (甘い物ばかり食べる)."
+    "notes": "A repeated or constant action, usually with criticism or dissatisfaction. Compare N4 Noun + ばかり (甘い物ばかり食べる).",
+    "zh": {
+      "source_hash": "b8b04721ddbdcdf3e58ac2c35a7d9378421e21eef8c685933825e56697480128",
+      "meanings": [
+        "光是……",
+        "老是……"
+      ],
+      "formation": "动词て形＋ばかりいる",
+      "explanation": "表示反复或持续做同一动作，常带不满或批评。",
+      "notes": "否定形式てばかりいないで可用于劝人别一直做某事。",
+      "examples": [
+        {
+          "ja": "弟は休みの日、ゲームをしてばかりいる。",
+          "zh": "弟弟休息日总是在玩游戏。"
+        },
+        {
+          "ja": "泣いてばかりいないで、どうしたのか話してごらん。",
+          "zh": "别光哭，说说发生了什么吧。"
+        },
+        {
+          "ja": "休みの間、寝てばかりいたら、かえって疲れてしまった。",
+          "zh": "假期里光睡觉，反而更累了。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#te-bakari-iru",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "8e1f91b72f636cd0966e5f272932a56f9530f6849f324a2f09e11cca8abdb233"
+    }
   },
   {
     "id": "ba-ii",
@@ -2419,7 +4328,41 @@
       "suggestion",
       "wish"
     ],
-    "notes": "Asks for or gives advice (〜ばいいですか = 'what should I do?'). 〜ばいいのに = 'I wish'. 〜たらいい is a near-synonym; 〜ほうがいい sounds more insistent."
+    "notes": "Asks for or gives advice (〜ばいいですか = 'what should I do?'). 〜ばいいのに = 'I wish'. 〜たらいい is a near-synonym; 〜ほうがいい sounds more insistent.",
+    "zh": {
+      "source_hash": "31f9cf25bc666f2c1440504081a5a8f00e1d169cf30eb02af578c001755253e4",
+      "meanings": [
+        "应该",
+        "只要……就好",
+        "希望"
+      ],
+      "formation": "动词ば形／い形容词词干＋ければ＋いい",
+      "explanation": "可用于征求或提出建议，也可表示愿望。",
+      "notes": "ばいいですか用于询问该怎么做；ばいいのに可表示愿望。",
+      "examples": [
+        {
+          "ja": "「この書類、どこに出せばいいですか。」「二階の受付に出してください。」",
+          "zh": "“这份文件应该交到哪里？”“请交到二楼接待处。”"
+        },
+        {
+          "ja": "分からないことがあったら、遠慮しないで私に聞けばいいよ。",
+          "zh": "有不懂的就别客气，问我就好。"
+        },
+        {
+          "ja": "明日、雨が降らなければいいんだけど。",
+          "zh": "希望明天不要下雨。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#ba-ii",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "9ff81d91a8067cb8249d56a4b562c8e2361832c762ad1a08f728d4dc0733def3"
+    }
   },
   {
     "id": "baai-wa",
@@ -2450,7 +4393,40 @@
       "condition",
       "formal"
     ],
-    "notes": "Typical of instructions, rules and announcements about possible situations. Unlike 〜たら, it is not used to narrate a one-off past event."
+    "notes": "Typical of instructions, rules and announcements about possible situations. Unlike 〜たら, it is not used to narrate a one-off past event.",
+    "zh": {
+      "source_hash": "047b1cc2fd46f0e805b15a3512ca5cd5366396803da0a535f6c6069b354c89dd",
+      "meanings": [
+        "如果",
+        "在……情况下"
+      ],
+      "formation": "动词普通形／い形容词／な形容词＋な／名词＋の＋場合（は）",
+      "explanation": "说明某种可能发生的情况及其对应处理。",
+      "notes": "常用于规则、说明和通知。",
+      "examples": [
+        {
+          "ja": "雨の場合は、試合は中止になります。",
+          "zh": "如果下雨，比赛将取消。"
+        },
+        {
+          "ja": "カードをなくした場合は、すぐに銀行に連絡してください。",
+          "zh": "如果丢失银行卡，请立即联系银行。"
+        },
+        {
+          "ja": "予約の時間に遅れる場合は、お電話でお知らせください。",
+          "zh": "如果预约会迟到，请打电话告知。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#baai-wa",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "568b0effd3fab7ff3cb5780eb40816b1dd81df8702a0ff5cb9f58ac688a8ad6d"
+    }
   },
   {
     "id": "to-sureba-to-shitara",
@@ -2480,7 +4456,40 @@
       "condition",
       "conjecture"
     ],
-    "notes": "Sets up a hypothesis and considers what follows. Often with もし or 仮に. としたら is more conversational; とすれば sounds more like logical reasoning."
+    "notes": "Sets up a hypothesis and considers what follows. Often with もし or 仮に. としたら is more conversational; とすれば sounds more like logical reasoning.",
+    "zh": {
+      "source_hash": "186f73ef05ed14f06118de204cd413600882898af1cdd88a3d50541be0fe813c",
+      "meanings": [
+        "假如",
+        "假设"
+      ],
+      "formation": "动词普通形／い形容词／な形容词或名词＋だ＋とすれば／としたら",
+      "explanation": "设定假设，考虑由此产生的结果。",
+      "notes": "としたら较口语；とすれば较偏向逻辑推论。",
+      "examples": [
+        {
+          "ja": "もし宝くじで一億円当たったとしたら、何に使いますか。",
+          "zh": "假如彩票中了一亿日元，你会用来做什么？"
+        },
+        {
+          "ja": "今から出発するとすれば、向こうに着くのは夜の九時ごろになる。",
+          "zh": "如果现在出发，到那边大概是晚上九点。"
+        },
+        {
+          "ja": "彼の話が本当だとしたら、大変なことになる。",
+          "zh": "假如他说的是真的，事情就严重了。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#to-sureba-to-shitara",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "status": "reviewed",
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "f24a86cc60a531f522ba93cd1683f3c5500403b3085b44cbdae308a9105653ea"
+    }
   },
   {
     "id": "to-shite-mo",
@@ -2510,7 +4519,40 @@
       "concession",
       "condition"
     ],
-    "notes": "Hypothetical concession: even assuming A, B still holds. More hypothetical than 〜ても; compare 〜にしても, which often accepts a fact."
+    "notes": "Hypothetical concession: even assuming A, B still holds. More hypothetical than 〜ても; compare 〜にしても, which often accepts a fact.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "aea1e678a6f1d607be38e1bab4696e5f40a68264cd16f07951a06b652f348754",
+      "meanings": [
+        "即使",
+        "就算"
+      ],
+      "formation": "动词、い形容词简体／な形容词、名词＋だ＋としても",
+      "explanation": "假设前项成立，后项仍然如此。",
+      "notes": "比〜ても更强调假设。",
+      "examples": [
+        {
+          "ja": "親に反対されたとしても、私は留学するつもりだ。",
+          "zh": "即使父母反对，我也打算留学。"
+        },
+        {
+          "ja": "今からタクシーに乗ったとしても、九時の飛行機には間に合わないだろう。",
+          "zh": "即使现在乘出租车，恐怕也赶不上九点的飞机。"
+        },
+        {
+          "ja": "それが本当だとしても、ほかの人に話すべきではない。",
+          "zh": "即使那是真的，也不应该告诉别人。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#to-shite-mo",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "a612eaab13352efea3998d164cd95fb3cfcef31d30307c939a8ef873dc188160"
+    }
   },
   {
     "id": "toka-hearsay",
@@ -2540,7 +4582,40 @@
       "hearsay",
       "casual"
     ],
-    "notes": "Vague hearsay; softer and less certain than 〜そうだ. Often 〜とかいう話だ, 〜とか聞いた, or 〜とかで (giving a reported reason). Different from listing 〜とか〜とか."
+    "notes": "Vague hearsay; softer and less certain than 〜そうだ. Often 〜とかいう話だ, 〜とか聞いた, or 〜とかで (giving a reported reason). Different from listing 〜とか〜とか.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "5b4c89c25318250334cbdd8fb6cfbc08c6367d8a4a400ca8f76eb60e3a995753",
+      "meanings": [
+        "听说",
+        "据说"
+      ],
+      "formation": "句子＋とか",
+      "explanation": "表示不太确定的传闻。",
+      "notes": "常见形式有とかいう話だ、とか聞いた、とかで；不同于列举的とか。",
+      "examples": [
+        {
+          "ja": "駅前の本屋、今月で閉店するとか。寂しくなりますね。",
+          "zh": "听说车站前的书店这个月底要关门了。真让人难过。"
+        },
+        {
+          "ja": "今年の冬は、例年より寒くなるとかいう話だよ。",
+          "zh": "听说今年冬天会比往年冷。"
+        },
+        {
+          "ja": "部長は今日、熱があるとかで休んでいます。",
+          "zh": "部长今天请假了，听说是发烧了。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#toka-hearsay",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "b6c2373aba9c619582dce8b52a70b3c6c25722986d4eb7a3edcaf90de14c8bb2"
+    }
   },
   {
     "id": "tte",
@@ -2571,7 +4646,41 @@
       "hearsay",
       "casual"
     ],
-    "notes": "Casual stand-in for と (quoting), そうだ (hearsay, often 〜んだって) and は (topic, especially 'what is X?'). Common in speech; avoided in formal writing."
+    "notes": "Casual stand-in for と (quoting), そうだ (hearsay, often 〜んだって) and は (topic, especially 'what is X?'). Common in speech; avoided in formal writing.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "a897918c60eaef43ff66e2818a34e553453f47a06b4c0d4313ee8fdc7721ff99",
+      "meanings": [
+        "听说",
+        "说是",
+        "至于"
+      ],
+      "formation": "句子／名词＋って",
+      "explanation": "口语中表示引用、传闻或提示话题。",
+      "notes": "常见于会话；〜んだって可传达听来的消息。",
+      "examples": [
+        {
+          "ja": "彼女、今日は来られないって。",
+          "zh": "她说今天来不了。"
+        },
+        {
+          "ja": "駅前に新しいカフェができたんだって。行ってみない？",
+          "zh": "听说车站前开了一家新咖啡馆。要不要去看看？"
+        },
+        {
+          "ja": "「ふろしき」って何ですか。",
+          "zh": "“ふろしき”是什么？"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#tte",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "c3abafc7ba596b5e32854e8d8d863c641424338855d605cb5beeedbc7d3a8101"
+    }
   },
   {
     "id": "to-iu-koto-da",
@@ -2601,7 +4710,40 @@
       "hearsay",
       "result"
     ],
-    "notes": "Two uses: reporting information (more formal than 〜そうだ) and drawing a conclusion ('so that means ...'). The conclusion use often ends in ということですね."
+    "notes": "Two uses: reporting information (more formal than 〜そうだ) and drawing a conclusion ('so that means ...'). The conclusion use often ends in ということですね.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "58f2f2c019870cf9e1ac0f498a70b153554f16e594dabedcebec7f79a14d35b4",
+      "meanings": [
+        "据说",
+        "也就是说"
+      ],
+      "formation": "句子＋ということだ",
+      "explanation": "表示转述消息或根据前文得出结论。",
+      "notes": "转述时常用于较正式场合；得出结论时常用ということですね。",
+      "examples": [
+        {
+          "ja": "駅員さんの話では、事故のため電車は一時間ほど止まるということです。",
+          "zh": "据车站工作人员说，因事故电车将停运约一小时。"
+        },
+        {
+          "ja": "「申し込みは明日までです。」「じゃあ、今日中に書類を準備しなければならないということですね。」",
+          "zh": "“报名截止到明天。”“那就是说我必须今天准备好材料，对吧？”"
+        },
+        {
+          "ja": "全員が賛成したということは、この計画で進めてもいいということだ。",
+          "zh": "大家都同意了，也就是说可以按这个计划继续推进。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#to-iu-koto-da",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "bbedc03c524af7342f1bc261cf24dd984a662354930eb0f1d079f061d4605be7"
+    }
   },
   {
     "id": "to-iu-no-wa",
@@ -2631,7 +4773,40 @@
       "topic",
       "quotation"
     ],
-    "notes": "Introduces a word to define or a situation to comment on. Casual: 〜って. At the start of a sentence, というのは introduces a reason ending in 〜からだ. Written: 〜とは."
+    "notes": "Introduces a word to define or a situation to comment on. Casual: 〜って. At the start of a sentence, というのは introduces a reason ending in 〜からだ. Written: 〜とは.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "c64fc6229449eb81cef4fdcd3d5764601a03b6f257de8ab54e00247926afd8d3",
+      "meanings": [
+        "所谓……是",
+        "原因是"
+      ],
+      "formation": "名词／句子＋というのは",
+      "explanation": "引出词语的定义或把一件事作为话题评论。",
+      "notes": "句首的というのは可引出原因，常与からだ呼应。",
+      "examples": [
+        {
+          "ja": "「割り勘」というのは、食事代などをみんなで同じ金額ずつ払うことです。",
+          "zh": "所谓AA制，就是大家均摊餐费等费用。"
+        },
+        {
+          "ja": "一人で海外に住むというのは、思ったより大変なことだ。",
+          "zh": "一个人在国外生活比想象中辛苦。"
+        },
+        {
+          "ja": "来週の旅行には行けなくなった。というのは、急に出張が入ったからだ。",
+          "zh": "下周的旅行我去不了了，因为突然有了出差安排。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#to-iu-no-wa",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "bc07ff52fe920d7e5f69085f3e81e72b1c82b378b61d4baceb101b22a831a433"
+    }
   },
   {
     "id": "to-iu-yori",
@@ -2660,7 +4835,39 @@
     "tags": [
       "comparison"
     ],
-    "notes": "Corrects or refines a description: the second one fits better. Often followed by むしろ."
+    "notes": "Corrects or refines a description: the second one fits better. Often followed by むしろ.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "77b521e4f5435aebb1d1ef88e6b3e8ed79949effd6bddf660b054ae69d86eb12",
+      "meanings": [
+        "与其说……不如说……"
+      ],
+      "formation": "动词、形容词简体／名词＋というより",
+      "explanation": "修正前面的说法，指出后面的描述更贴切。",
+      "notes": "后项常与むしろ连用。",
+      "examples": [
+        {
+          "ja": "今日は涼しいというより、寒いくらいだ。",
+          "zh": "今天与其说凉爽，不如说都有点冷了。"
+        },
+        {
+          "ja": "彼女は友達というより、家族のような存在だ。",
+          "zh": "她与其说是朋友，不如说像家人一样。"
+        },
+        {
+          "ja": "それは意見というより、ただの文句だよ。",
+          "zh": "那与其说是意见，不如说只是抱怨。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#to-iu-yori",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "5ffe9eb6b7487c49a579ca18dce855fbda3df206c04a050947e8570ba1b1908e"
+    }
   },
   {
     "id": "wari-ni-wari-ni-wa",
@@ -2690,7 +4897,40 @@
       "contrast",
       "degree"
     ],
-    "notes": "The result doesn't match the degree you'd expect from A (price, age, effort). Can follow adjectives, unlike 〜にしては."
+    "notes": "The result doesn't match the degree you'd expect from A (price, age, effort). Can follow adjectives, unlike 〜にしては.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "7e137ea2249ebbf652f314f089232a40a058ddf7a00e97d9347de18ebf37b454",
+      "meanings": [
+        "相对于",
+        "按……来说"
+      ],
+      "formation": "动词、い形容词简体／な形容词＋な／名词＋の＋わりに（は）",
+      "explanation": "表示结果与根据前项程度所作的预期不符。",
+      "notes": "可接形容词。",
+      "examples": [
+        {
+          "ja": "この店は値段のわりに、量が多くておいしい。",
+          "zh": "这家店按价格来说分量大又好吃。"
+        },
+        {
+          "ja": "兄はよく食べるわりには、全然太らない。",
+          "zh": "哥哥虽然吃得多，却一点也不发胖。"
+        },
+        {
+          "ja": "このホテルは駅から近いわりに、静かでよく眠れた。",
+          "zh": "这家酒店离车站很近，却很安静，让我睡得很好。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#wari-ni-wari-ni-wa",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "22b51cb65de02642b79b9e5a13aa2c60816a5c32b8df4240a16fab4247036e0b"
+    }
   },
   {
     "id": "kuse-ni",
@@ -2720,7 +4960,39 @@
       "concession",
       "criticism"
     ],
-    "notes": "Like 〜のに, but with contempt or reproach toward the subject. Both clauses share the same subject; rarely used about oneself. Casual."
+    "notes": "Like 〜のに, but with contempt or reproach toward the subject. Both clauses share the same subject; rarely used about oneself. Casual.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "1d135fe1a5c3ca0d890907a6152f7b923bb2f8cbea50d51765171bd6214df5f9",
+      "meanings": [
+        "明明……却……"
+      ],
+      "formation": "动词、い形容词简体／な形容词＋な／名词＋の＋くせに",
+      "explanation": "表示与前项不符，并带有责备或轻蔑的语气。",
+      "notes": "语气较强，多用于口语。",
+      "examples": [
+        {
+          "ja": "自分では何もしないくせに、人の仕事には文句ばかり言う。",
+          "zh": "自己什么都不做，却总是挑别人工作的毛病。"
+        },
+        {
+          "ja": "知っているくせに、どうして教えてくれなかったの？",
+          "zh": "你明明知道，为什么不告诉我？"
+        },
+        {
+          "ja": "弟は体が大きいくせに、小さな虫をこわがる。",
+          "zh": "弟弟个子那么大，却害怕小虫子。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#kuse-ni",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "04c64298203cc313b0bf95a46bcb175ca7db9b8acecde9735117964c9f925a18"
+    }
   },
   {
     "id": "kara-ni-kakete",
@@ -2750,7 +5022,40 @@
       "range",
       "time"
     ],
-    "notes": "A rough span of time or space whose edges aren't exact; common in weather reports. Compare 〜から〜まで, which marks clear start and end points."
+    "notes": "A rough span of time or space whose edges aren't exact; common in weather reports. Compare 〜から〜まで, which marks clear start and end points.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "a7d2d0a06b719d81cdfe2e902ec9df6d4def1291de670d2bc78032683cbe72ba",
+      "meanings": [
+        "从……到……",
+        "在……范围内"
+      ],
+      "formation": "名词＋から＋名词＋にかけて",
+      "explanation": "表示时间或空间上的大致范围。",
+      "notes": "常用于天气报道；范围边界不如から〜まで明确。",
+      "examples": [
+        {
+          "ja": "今夜から明日の朝にかけて、強い雨が降るでしょう。",
+          "zh": "预计从今晚到明天早上会下大雨。"
+        },
+        {
+          "ja": "関東から東北にかけての広い地域で、強い揺れが観測された。",
+          "zh": "从关东到东北的广大地区观测到了强烈震动。"
+        },
+        {
+          "ja": "この花は、三月から四月にかけてきれいに咲く。",
+          "zh": "这种花在三月至四月间开得很美。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#kara-ni-kakete",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "80ab0c87d0aaa52c8392d9a7af1c49bce893fceb725387e6b66e5ea8467d65ea"
+    }
   },
   {
     "id": "buri",
@@ -2780,7 +5085,41 @@
       "time",
       "manner"
     ],
-    "notes": "Time span + ぶり: the first time in that long (〜ぶりに / 〜ぶりの). Noun or Verb-stem + ぶり: the way someone does something (仕事ぶり, 話しぶり)."
+    "notes": "Time span + ぶり: the first time in that long (〜ぶりに / 〜ぶりの). Noun or Verb-stem + ぶり: the way someone does something (仕事ぶり, 話しぶり).",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "9e55a8b14aa0a39ef978796425b2c2a1354bb414e5951c6b45eed1a722ce1a57",
+      "meanings": [
+        "时隔……",
+        "样子",
+        "做法"
+      ],
+      "formation": "表示时间的名词／名词／动词ます形去ます＋ぶり",
+      "explanation": "表示时隔一段时间再次发生，或表示动作的样子。",
+      "notes": "时间＋ぶりに表示时隔多久；仕事ぶり表示工作表现。",
+      "examples": [
+        {
+          "ja": "五年ぶりに高校の友達に会って、話が止まらなかった。",
+          "zh": "时隔五年见到高中朋友，聊得停不下来。"
+        },
+        {
+          "ja": "久しぶりですね。お元気でしたか。",
+          "zh": "好久不见，您过得好吗？"
+        },
+        {
+          "ja": "新入社員の仕事ぶりを見て、部長は安心したようだ。",
+          "zh": "看到新员工的工作表现，部长似乎放心了。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#buri",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "c7c8502669de3050abb6eb1c72c1709d0e4a82a69371ee9abd8cdfa6dd958476"
+    }
   },
   {
     "id": "kke",
@@ -2811,7 +5150,40 @@
       "recollection",
       "casual"
     ],
-    "notes": "Checks something you've forgotten, or recalls the past fondly (〜たっけ). Polite forms: 〜でしたっけ, 〜ましたっけ."
+    "notes": "Checks something you've forgotten, or recalls the past fondly (〜たっけ). Polite forms: 〜でしたっけ, 〜ましたっけ.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "45b884609f045edb6d309fa52f52b17465c1f7f74aa641921a8f9c9b2b0a6c52",
+      "meanings": [
+        "来着",
+        "记得……"
+      ],
+      "formation": "动词过去式／名词＋だ・だった＋っけ",
+      "explanation": "用来确认忘记的事情或回忆过去。",
+      "notes": "口语形式；礼貌形式有でしたっけ、ましたっけ。",
+      "examples": [
+        {
+          "ja": "あれ、会議って何時からだっけ？",
+          "zh": "咦，会议是几点开始来着？"
+        },
+        {
+          "ja": "すみません、お名前、何とおっしゃいましたっけ。",
+          "zh": "不好意思，您叫什么名字来着？"
+        },
+        {
+          "ja": "子どものころ、よくこの公園で遊んだっけ。",
+          "zh": "小时候常在这个公园玩来着。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#kke",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "6d9ff1e4012bbc79250baf2eeb597d6796b8a90eb9df72ea11029e29bfd52f0b"
+    }
   },
   {
     "id": "masu-you-ni",
@@ -2840,7 +5212,40 @@
     "tags": [
       "wish"
     ],
-    "notes": "Used for wishes and prayers, e.g. at a shrine or on tanabata strips, and at the end of letters wishing someone well."
+    "notes": "Used for wishes and prayers, e.g. at a shrine or on tanabata strips, and at the end of letters wishing someone well.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "eb419169575d24b4a1b121d2c72f6725088e92e53dcf5abe598c1d1c6101a931",
+      "meanings": [
+        "愿……",
+        "希望……"
+      ],
+      "formation": "动词ます形＋ように／动词ません形＋ように",
+      "explanation": "表示愿望或祈祷。",
+      "notes": "可用于神社祈愿、七夕短笺或信末祝愿。",
+      "examples": [
+        {
+          "ja": "試験に合格できますように。",
+          "zh": "愿我能通过考试。"
+        },
+        {
+          "ja": "明日の遠足、雨が降りませんように。",
+          "zh": "希望明天的郊游不要下雨。"
+        },
+        {
+          "ja": "家族みんなが元気で過ごせますように。",
+          "zh": "愿全家人都健康平安。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#masu-you-ni",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "cfbbf3b2877f703daa63dbf09cf4930c443995c14ef8f2dca32ed6224593346d"
+    }
   },
   {
     "id": "furi-o-suru",
@@ -2870,7 +5275,39 @@
       "appearance",
       "manner"
     ],
-    "notes": "Deliberately giving a false impression. Verb-ta is common: 寝たふり, 死んだふり."
+    "notes": "Deliberately giving a false impression. Verb-ta is common: 寝たふり, 死んだふり.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "7ef41377697e4d0c5cab93d945a991858d1b08d2e832bbdcd86d729ff56b59a0",
+      "meanings": [
+        "假装……"
+      ],
+      "formation": "动词、い形容词简体／な形容词＋な／名词＋の＋ふりをする",
+      "explanation": "故意做出与事实不同的样子。",
+      "notes": "动词过去式常见，如寝たふり。",
+      "examples": [
+        {
+          "ja": "母に呼ばれたが、聞こえないふりをしてゲームを続けた。",
+          "zh": "妈妈叫了我，但我装作没听见，继续玩游戏。"
+        },
+        {
+          "ja": "彼は本当は知っているのに、知らないふりをしている。",
+          "zh": "他其实知道，却装作不知道。"
+        },
+        {
+          "ja": "電車の中で、寝たふりをして席を譲らない人がいる。",
+          "zh": "电车里有人装睡，不肯让座。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#furi-o-suru",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "ee363aeaecb45cf0c52ad404ba5742af7a93185407df80881ec7aecd914eda86"
+    }
   },
   {
     "id": "muki-muke",
@@ -2901,7 +5338,40 @@
       "purpose",
       "relation"
     ],
-    "notes": "向き: happens to suit X well. 向け: made on purpose for X. 向き also means 'facing' (南向きの部屋)."
+    "notes": "向き: happens to suit X well. 向け: made on purpose for X. 向き also means 'facing' (南向きの部屋).",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "7a54b08c363721816643fd624fb80e95e6c428f51eb5c8a2aea159989d3a5e5a",
+      "meanings": [
+        "适合……",
+        "面向……"
+      ],
+      "formation": "名词＋向き／名词＋向け",
+      "explanation": "向き表示适合某对象；向け表示专为某对象设计。",
+      "notes": "向き也可表示朝向，如南向き。",
+      "examples": [
+        {
+          "ja": "この料理は作り方が簡単なので、初心者向きだ。",
+          "zh": "这道菜做法简单，适合初学者。"
+        },
+        {
+          "ja": "この雑誌は、若い女性向けに作られている。",
+          "zh": "这本杂志是面向年轻女性制作的。"
+        },
+        {
+          "ja": "子ども向けの番組だが、大人が見ても十分楽しめる。",
+          "zh": "这是面向孩子的节目，但大人看也很有趣。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#muki-muke",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "55bba1ef89b9ce7b301bdee3ba774ae52d38e3daf20e8d4a4c1c95e3da10a113"
+    }
   },
   {
     "id": "gachi",
@@ -2930,7 +5400,40 @@
     "tags": [
       "tendency"
     ],
-    "notes": "A frequent tendency toward something undesirable. Compare 〜やすい (easily happens, can be neutral) and 〜気味 (a slight sign of a condition now)."
+    "notes": "A frequent tendency toward something undesirable. Compare 〜やすい (easily happens, can be neutral) and 〜気味 (a slight sign of a condition now).",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "c2cb093e53a907bb338619da020040067943b5cd0647800a5016f84602b72d4e",
+      "meanings": [
+        "容易……",
+        "往往……"
+      ],
+      "formation": "动词ます形去ます／名词＋がち",
+      "explanation": "表示经常出现某种倾向，通常是不理想的情况。",
+      "notes": "与表示轻微状态的〜気味不同。",
+      "examples": [
+        {
+          "ja": "冬になると、つい家にこもりがちになる。",
+          "zh": "一到冬天就容易待在家里不出门。"
+        },
+        {
+          "ja": "娘は小さいころ病気がちだったが、今はとても元気だ。",
+          "zh": "女儿小时候常生病，现在很健康。"
+        },
+        {
+          "ja": "一人暮らしだと、野菜が不足しがちです。",
+          "zh": "一个人生活容易摄入蔬菜不足。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#gachi",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "d85c519fe2f0dda0c0d342b3c59d9631f1b9e580a6baddfaf8754e02a61c31e6"
+    }
   },
   {
     "id": "gimi",
@@ -2962,7 +5465,40 @@
       "degree",
       "state"
     ],
-    "notes": "A slight sign of a (usually negative) condition at present. Compare 〜がち, which means something happens often."
+    "notes": "A slight sign of a (usually negative) condition at present. Compare 〜がち, which means something happens often.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "5d08763f125aa653a24729ce5b828f2395ec9c537239d850fd043ee2803685e5",
+      "meanings": [
+        "有点……",
+        "略微……"
+      ],
+      "formation": "名词／动词ます形去ます＋気味",
+      "explanation": "表示略有某种状态或迹象，通常不太理想。",
+      "notes": "〜がち侧重经常发生的倾向。",
+      "examples": [
+        {
+          "ja": "少し風邪気味なので、今日は早めに帰ります。",
+          "zh": "我有点感冒，今天早点回去。"
+        },
+        {
+          "ja": "最近、仕事が忙しくて疲れ気味だ。",
+          "zh": "最近工作忙，有点疲惫。"
+        },
+        {
+          "ja": "人手が足りず、工事は予定より遅れ気味だ。",
+          "zh": "因为人手不足，工程进度比预定的略慢。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#gimi",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "35243934816977367d60d5a40f8d9604dfde667181560003a060516e7a86224d"
+    }
   },
   {
     "id": "darake",
@@ -2992,7 +5528,40 @@
       "quantity",
       "state"
     ],
-    "notes": "An unpleasantly large amount of something covering or filling a place; usually negative. Compare N1 〜まみれ (covered in something sticky or dirty)."
+    "notes": "An unpleasantly large amount of something covering or filling a place; usually negative. Compare N1 〜まみれ (covered in something sticky or dirty).",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "a0e83f2e2a7e9e07fb326147b9bd8b8d6ce20d33f0dd019b586374c20734fb5d",
+      "meanings": [
+        "满是……",
+        "沾满……"
+      ],
+      "formation": "名词＋だらけ",
+      "explanation": "表示某处到处都是某物或被某物覆盖，通常带负面评价。",
+      "notes": "常用于泥、错误等不受欢迎的事物。",
+      "examples": [
+        {
+          "ja": "子どもたちは、泥だらけになって帰ってきた。",
+          "zh": "孩子们浑身是泥地回来了。"
+        },
+        {
+          "ja": "急いで書いたレポートは、間違いだらけだった。",
+          "zh": "匆忙写的报告里满是错误。"
+        },
+        {
+          "ja": "引っ越したばかりで、部屋はまだ段ボールだらけだ。",
+          "zh": "刚搬完家，房间里还到处是纸箱。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#darake",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "30249c94524970f54be55acb4ad9f654c0d832d84f8f9c8abd9a09438e8dad75"
+    }
   },
   {
     "id": "kiru-kirenai",
@@ -3023,7 +5592,40 @@
       "completion",
       "ability"
     ],
-    "notes": "Doing something through to the very end. Also describes a total state: 疲れ切る ('be utterly exhausted'). Often written in kana: 〜きる / 〜きれない."
+    "notes": "Doing something through to the very end. Also describes a total state: 疲れ切る ('be utterly exhausted'). Often written in kana: 〜きる / 〜きれない.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "8d980e737066dbfc615ecb19029b905226deb1ae19ff70ba18d22c91f577b664",
+      "meanings": [
+        "做完",
+        "无法全部做完"
+      ],
+      "formation": "动词ます形去ます＋切る／切れない",
+      "explanation": "表示彻底完成某动作，否定形式表示无法全部完成。",
+      "notes": "也可表示达到极限，如疲れ切る。",
+      "examples": [
+        {
+          "ja": "三時間かけて、長い小説を最後まで読み切った。",
+          "zh": "花了三个小时，把长篇小说读完了。"
+        },
+        {
+          "ja": "注文しすぎて、料理を食べ切れなかった。",
+          "zh": "点得太多，没能把菜吃完。"
+        },
+        {
+          "ja": "山の上では、数え切れないほどの星が見えた。",
+          "zh": "从山顶看到了数不清的星星。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#kiru-kirenai",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "5e6d015193ce64a2fbfabde1800a96a281ed48a34e8b1d03c2f6e6e4074afed5"
+    }
   },
   {
     "id": "kakeru",
@@ -3053,7 +5655,40 @@
       "completion",
       "state"
     ],
-    "notes": "An action has started but isn't finished, or something is on the verge of happening (死にかける). Verb-stem + かけの + noun describes the half-finished thing."
+    "notes": "An action has started but isn't finished, or something is on the verge of happening (死にかける). Verb-stem + かけの + noun describes the half-finished thing.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "50397ef71a9a7eda4b57045aadbababf3082236b8b2e2e0451e8367edaaa1733",
+      "meanings": [
+        "做到一半",
+        "刚要……"
+      ],
+      "formation": "动词ます形去ます＋かける／かけの＋名词",
+      "explanation": "表示动作已开始但未完成，或某事即将发生。",
+      "notes": "〜かけの修饰未完成的事物。",
+      "examples": [
+        {
+          "ja": "読みかけの本が、机の上に置いてある。",
+          "zh": "桌上放着一本读了一半的书。"
+        },
+        {
+          "ja": "彼女は何か言いかけたが、そのまま黙ってしまった。",
+          "zh": "她刚想说什么，却又沉默了。"
+        },
+        {
+          "ja": "この花は枯れかけていたが、水をやったら元気になった。",
+          "zh": "这株花快要枯萎了，浇水后又恢复了精神。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#kakeru",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "f9a0b2bb986c7f76a32dc058f3be49c51a034faf7a2d636ebe092708b1e2878c"
+    }
   },
   {
     "id": "au",
@@ -3084,7 +5719,40 @@
       "manner",
       "relation"
     ],
-    "notes": "Reciprocal or shared action. Many compounds are set words: 話し合う, 知り合う, 付き合う, 助け合う."
+    "notes": "Reciprocal or shared action. Many compounds are set words: 話し合う, 知り合う, 付き合う, 助け合う.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "62a8ffde2bfd74fcb0f93c378e6305357d162daa1573320069eefd2c49356d71",
+      "meanings": [
+        "互相……",
+        "共同……"
+      ],
+      "formation": "动词ます形去ます＋合う",
+      "explanation": "表示彼此或共同进行某动作。",
+      "notes": "常见复合动词有助け合う、話し合う。",
+      "examples": [
+        {
+          "ja": "困ったときは、お互いに助け合いましょう。",
+          "zh": "遇到困难时，让我们互相帮助吧。"
+        },
+        {
+          "ja": "旅行の計画について、家族で話し合った。",
+          "zh": "家人一起商量了旅行计划。"
+        },
+        {
+          "ja": "優勝が決まると、選手たちは抱き合って喜んだ。",
+          "zh": "确定夺冠后，选手们高兴地相拥。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#au",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "1623a745708b5896f2919f9355fe093b13358c10e499769bb46b9243dc332584"
+    }
   },
   {
     "id": "naosu",
@@ -3115,7 +5783,39 @@
       "change",
       "attempt"
     ],
-    "notes": "Doing something again in order to correct or improve it. Plain repetition (もう一度〜する) doesn't carry that sense of fixing."
+    "notes": "Doing something again in order to correct or improve it. Plain repetition (もう一度〜する) doesn't carry that sense of fixing.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "7188b989fb2343d8134ed395769ab6ae961064f833d6283397874b91d46aea75",
+      "meanings": [
+        "重新做……"
+      ],
+      "formation": "动词ます形去ます＋直す",
+      "explanation": "为了修正或改善而重新做某事。",
+      "notes": "比单纯的もう一度〜する更强调重新处理。",
+      "examples": [
+        {
+          "ja": "名前を間違えたので、書類を書き直した。",
+          "zh": "因为名字写错了，我重写了文件。"
+        },
+        {
+          "ja": "すみません、電波が悪いので、あとでかけ直します。",
+          "zh": "不好意思，信号不好，我过会儿再打给您。"
+        },
+        {
+          "ja": "一度はあきらめた夢だが、もう一度考え直してみることにした。",
+          "zh": "这个梦想我曾经放弃，但决定重新考虑一次。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#naosu",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "18fe75efc0f3a4ad7e7a9bc84bc96f74ebb57215bbe629b12432873c4fc2ddc1"
+    }
   },
   {
     "id": "zurai",
@@ -3145,7 +5845,40 @@
       "degree",
       "emotion"
     ],
-    "notes": "Stresses the doer's physical or psychological discomfort. 〜にくい (N4) is more objective, describing a thing's nature. Formal N2: 〜がたい."
+    "notes": "Stresses the doer's physical or psychological discomfort. 〜にくい (N4) is more objective, describing a thing's nature. Formal N2: 〜がたい.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "b5c998d231eeaef076422e8da1794d969f6fe07c3004eab052ba155c41f9c0a8",
+      "meanings": [
+        "难以……",
+        "做起来不舒服"
+      ],
+      "formation": "动词ます形去ます＋づらい",
+      "explanation": "表示做某事在身体或心理上有困难、不舒服。",
+      "notes": "〜にくい也表示难做，常侧重客观困难。",
+      "examples": [
+        {
+          "ja": "この靴は少し小さくて、歩きづらい。",
+          "zh": "这双鞋有点小，走路不舒服。"
+        },
+        {
+          "ja": "先輩にお金を貸してほしいとは、ちょっと言いづらい。",
+          "zh": "向前辈开口借钱有点难为情。"
+        },
+        {
+          "ja": "字が小さくて読みづらいので、もう少し大きくしてもらえますか。",
+          "zh": "字太小，不太容易读，能调大一点吗？"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#zurai",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "8dff86dd377dd89644edfc49e9d1e829f781cf784be4525970f76c50a71fccf6"
+    }
   },
   {
     "id": "beki-da-beki-de-wa-nai",
@@ -3175,7 +5908,40 @@
       "obligation",
       "advice"
     ],
-    "notes": "A strong opinion about what is right or one's duty; too blunt to use toward superiors. する → すべき or するべき. Compare 〜ほうがいい (advice) and 〜ものだ (social norm)."
+    "notes": "A strong opinion about what is right or one's duty; too blunt to use toward superiors. する → すべき or するべき. Compare 〜ほうがいい (advice) and 〜ものだ (social norm).",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "c43296f0c8f57d12f6b883674ba613b52056b4b78ee1ad55c8ade5695d1d89a0",
+      "meanings": [
+        "应该……",
+        "不应该……"
+      ],
+      "formation": "动词辞书形＋べきだ／べきではない",
+      "explanation": "表达对义务或正确做法的强烈判断。",
+      "notes": "する可接すべき或するべき；对上级使用可能过于直接。",
+      "examples": [
+        {
+          "ja": "自分が悪いと思ったら、すぐに謝るべきだ。",
+          "zh": "如果觉得自己做错了，就应该马上道歉。"
+        },
+        {
+          "ja": "環境のために、私たちはもっとエネルギーを大切に使うべきだ。",
+          "zh": "为了环境，我们应该更加节约能源。"
+        },
+        {
+          "ja": "病院の中では、大きな声で話すべきではない。",
+          "zh": "在医院里不应该大声说话。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#beki-da-beki-de-wa-nai",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "2da7522028115a359086a5fcaf640d2629c351f755b88dae5bcec8c13b7ce6d4"
+    }
   },
   {
     "id": "hodo-wa-nai",
@@ -3205,7 +5971,39 @@
       "comparison",
       "emphasis"
     ],
-    "notes": "Says X is the most ... of all, usually from personal experience or feeling. Also 〜くらい〜はない."
+    "notes": "Says X is the most ... of all, usually from personal experience or feeling. Also 〜くらい〜はない.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "3f4f02f9ccc9ca8505a0381e929ab52d126905379fda43aa8a067954ad28042d",
+      "meanings": [
+        "没有比……更……的"
+      ],
+      "formation": "名词＋ほど＋形容词＋名词＋はない",
+      "explanation": "通过否定其他同等程度的事物来强调最高程度。",
+      "notes": "也可用〜くらい〜はない。",
+      "examples": [
+        {
+          "ja": "仕事の後に飲む冷たいビールほどおいしいものはない。",
+          "zh": "没有比下班后喝的冰啤酒更美味的了。"
+        },
+        {
+          "ja": "この町で、あの店ほど安くておいしいラーメン屋はない。",
+          "zh": "这镇上没有哪家拉面店比那家更便宜又好吃。"
+        },
+        {
+          "ja": "健康ほど大切なものはないと、病気になって気づいた。",
+          "zh": "生病后我才意识到，没有什么比健康更重要。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#hodo-wa-nai",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "2fa2185d6e88304be361309b1eae63a377c523c436b62634cae512722f79fda3"
+    }
   },
   {
     "id": "shika-nai-no-choice",
@@ -3235,7 +6033,40 @@
       "necessity",
       "limitation"
     ],
-    "notes": "No other option exists, so the speaker accepts this one. Differs from Noun + しか〜ない ('only'). Formal N2 equivalent: 〜ほかない."
+    "notes": "No other option exists, so the speaker accepts this one. Differs from Noun + しか〜ない ('only'). Formal N2 equivalent: 〜ほかない.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "63a25b45a3ba1112a012131b2b544a81702d3a0a7328bf8238c7624783dbab97",
+      "meanings": [
+        "只好……",
+        "别无选择"
+      ],
+      "formation": "动词辞书形＋しかない",
+      "explanation": "表示没有其他办法，只能选择这一做法。",
+      "notes": "不同于名词＋しか〜ない表示数量上的“只有”。",
+      "examples": [
+        {
+          "ja": "終電に乗り遅れたから、タクシーで帰るしかない。",
+          "zh": "错过末班电车，只好坐出租车回家。"
+        },
+        {
+          "ja": "誰も手伝ってくれないなら、一人でやるしかない。",
+          "zh": "如果没人帮忙，就只能一个人做了。"
+        },
+        {
+          "ja": "ここまで来たら、もう最後まで頑張るしかないね。",
+          "zh": "既然走到这一步，就只能坚持到底了。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#shika-nai-no-choice",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "4769160f1477a7d8271dcdeccc59094c83ffc8b6a30b17f47f0f309aedc409a8"
+    }
   },
   {
     "id": "made-even",
@@ -3265,7 +6096,39 @@
       "emphasis",
       "addition"
     ],
-    "notes": "Adds an extreme item on top of others, often with surprise or dismay. Compare 〜さえ, which picks out one extreme example on its own."
+    "notes": "Adds an extreme item on top of others, often with surprise or dismay. Compare 〜さえ, which picks out one extreme example on its own.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "cff2f5c825d94fcf0f20a3f43823df1248b038bf1cf6bf3950b68d5d2e720cad",
+      "meanings": [
+        "甚至连……"
+      ],
+      "formation": "名词＋まで／名词＋にまで",
+      "explanation": "增加一个出乎意料或程度极端的例子。",
+      "notes": "常带惊讶或失望的语气。",
+      "examples": [
+        {
+          "ja": "最近は、小学生までスマホを持っている。",
+          "zh": "如今连小学生都有智能手机。"
+        },
+        {
+          "ja": "親友にまでうそをつかれて、とてもショックだった。",
+          "zh": "连最好的朋友都骗我，我很震惊。"
+        },
+        {
+          "ja": "雨だけでなく、風まで強くなってきた。",
+          "zh": "不仅雨大了起来，连风也变强了。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#made-even",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "43d886e91e7c356cbaf0f73d3b4a694369a60c9aa4ab47f9110c2350103eed15"
+    }
   },
   {
     "id": "tokoro-datta",
@@ -3295,7 +6158,39 @@
       "result",
       "possibility"
     ],
-    "notes": "Something (usually bad) came very close to happening but didn't. Often with もう少しで, 危うく or a 〜たら clause. Compare 〜そうになった."
+    "notes": "Something (usually bad) came very close to happening but didn't. Often with もう少しで, 危うく or a 〜たら clause. Compare 〜そうになった.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "dac2810e778e863128863e07c8c5610f5d54a3178b5f427bf0e9adbf26e4a61a",
+      "meanings": [
+        "差点就……"
+      ],
+      "formation": "动词辞书形＋ところだった",
+      "explanation": "表示某事险些发生，最终没有发生。",
+      "notes": "常与もう少しで、危うく等连用。",
+      "examples": [
+        {
+          "ja": "考え事をしていて、もう少しで車にひかれるところだった。",
+          "zh": "我正想着事情，差点被车撞了。"
+        },
+        {
+          "ja": "目覚ましが鳴らなくて、危うく飛行機に乗り遅れるところだった。",
+          "zh": "闹钟没响，我差点误了飞机。"
+        },
+        {
+          "ja": "君が教えてくれなかったら、大事な書類を出し忘れるところだったよ。",
+          "zh": "要不是你提醒，我差点忘了交重要文件。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#tokoro-datta",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "649cc6801989f9fdcd4979eb323ca264b6fdd09c45105fd3b1278bc9891d16e7"
+    }
   },
   {
     "id": "kara-to-itte",
@@ -3325,7 +6220,39 @@
       "concession",
       "reason"
     ],
-    "notes": "Denies that a reason automatically leads to a conclusion. Usually followed by a negative such as 〜わけではない or 〜とは限らない. Casual: 〜からって."
+    "notes": "Denies that a reason automatically leads to a conclusion. Usually followed by a negative such as 〜わけではない or 〜とは限らない. Casual: 〜からって.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "cc0aa852de9984d5c0334d12ba3930ffe202d5947e54b6146188f87f20c8af2e",
+      "meanings": [
+        "不能因为……就……"
+      ],
+      "formation": "句子＋からといって",
+      "explanation": "表示前项理由不能自然地推出后项结论或成为充分借口。",
+      "notes": "后面常接否定判断；口语可说からって。",
+      "examples": [
+        {
+          "ja": "日本人だからといって、みんなが敬語を正しく使えるわけではない。",
+          "zh": "不能因为是日本人，就认为人人都能正确使用敬语。"
+        },
+        {
+          "ja": "忙しいからといって、朝ご飯を食べないのは体によくない。",
+          "zh": "因为忙就不吃早饭对身体不好。"
+        },
+        {
+          "ja": "一回負けたからといって、あきらめる必要はない。",
+          "zh": "没有必要因为输了一次就放弃。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#kara-to-itte",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "bdb30ac188c7850aa85b27e8307ff74fa759ec7ce0aa6121d05a6fde0088be2f"
+    }
   },
   {
     "id": "toori-ni-doori-ni",
@@ -3354,7 +6281,40 @@
     "tags": [
       "manner"
     ],
-    "notes": "Doing something exactly like a model, instruction or prediction. Directly after a noun it becomes どおり (予定どおり, 思いどおり). に is often dropped. そのとおりだ = 'exactly'."
+    "notes": "Doing something exactly like a model, instruction or prediction. Directly after a noun it becomes どおり (予定どおり, 思いどおり). に is often dropped. そのとおりだ = 'exactly'.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "1e9945226785520fdbc49b8755eebd5698bdb7af09afef71a0cfa3e03bde96a8",
+      "meanings": [
+        "按照……",
+        "正如……"
+      ],
+      "formation": "动词辞书形・た形／名词＋の＋とおりに；名词＋どおりに",
+      "explanation": "表示按照范例、指示或预想进行。",
+      "notes": "に常省略；そのとおりだ表示“正是如此”。",
+      "examples": [
+        {
+          "ja": "説明書に書いてあるとおりに組み立てたのに、うまく動かない。",
+          "zh": "明明按说明书组装了，却不能正常运转。"
+        },
+        {
+          "ja": "先生が言ったとおり、試験には去年と似た問題が出た。",
+          "zh": "正如老师所说，考试中出现了和去年类似的题目。"
+        },
+        {
+          "ja": "工事は予定どおりに進んでいる。",
+          "zh": "工程正按计划推进。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#toori-ni-doori-ni",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "9b513883533dbec889e9a4ee3571c9575169f9441ed5f862b48b9a321d57f9eb"
+    }
   },
   {
     "id": "nanka-nante",
@@ -3385,6 +6345,39 @@
       "surprise",
       "casual"
     ],
-    "notes": "Casual version of など with a dismissive, humble or surprised tone. なんか also softens suggestions (お茶なんかどう？). Sentence + なんて shows surprise or disbelief."
+    "notes": "Casual version of など with a dismissive, humble or surprised tone. なんか also softens suggestions (お茶なんかどう？). Sentence + なんて shows surprise or disbelief.",
+    "zh": {
+      "status": "reviewed",
+      "source_hash": "c6f65a36bca2e02929d68d6ea756aab82c9d18bf183ffc96bbb6b683661a3153",
+      "meanings": [
+        "……之类",
+        "竟然……"
+      ],
+      "formation": "名词＋なんか／なんて；句子＋なんて",
+      "explanation": "口语中表示举例、自谦、轻视或惊讶。",
+      "notes": "なんか也可缓和提议；句子＋なんて可表达惊讶。",
+      "examples": [
+        {
+          "ja": "私なんか、まだまだ初心者です。",
+          "zh": "像我这样的人，还只是个初学者。"
+        },
+        {
+          "ja": "幽霊なんて、いるわけがないよ。",
+          "zh": "鬼？根本不可能存在。"
+        },
+        {
+          "ja": "あの二人が結婚するなんて、びっくりした。",
+          "zh": "那两个人竟然要结婚，真让我吃惊。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n3.json#nanka-nante",
+        "Original Chinese authored and reviewed by Codex; no independent human review"
+      ],
+      "reviewer": "Codex",
+      "review_method": "ai",
+      "reviewed_at": "2026-10-28",
+      "review_hash": "04253c791f8bc9fe446df1fcee7a7758fece8995250904584bdcd7b56902c8a0"
+    }
   }
 ]
