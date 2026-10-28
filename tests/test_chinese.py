@@ -60,6 +60,6 @@ def test_anki_chinese_and_source_attribution():
     word = next(v for v in json.loads((Path(data_root()) / "json/vocab/n5.json").read_text(encoding="utf-8")) if v["word"] == "せっけん")
     note = exports.vocab_note(word, {})
     assert "肥皂" in note.fields[4]
-    assert "正式稿 · AI 审校" in note.fields[4]
+    assert note.fields[4] == "肥皂 / soap"
     word["zh"]["status"] = "stale"
     assert "肥皂" not in exports.vocab_note(word, {}).fields[4]

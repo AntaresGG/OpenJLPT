@@ -165,10 +165,7 @@ def bilingual(entry: dict, english: str, key: str = "meanings") -> str:
     if not value:
         return english
     text = "；".join(value) if isinstance(value, list) else value
-    label = "中文初稿"
-    if zh.get("status") == "reviewed":
-        label = "正式稿 · AI 审校" if zh.get("review_method") == "ai" else "中文已审核"
-    return f"{text}（{label}） / {english}"
+    return f"{text} / {english}"
 
 
 def example_translation(entry: dict, example: dict) -> str:

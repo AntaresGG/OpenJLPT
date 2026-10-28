@@ -1,6 +1,7 @@
 """Opt-in browser checks for a built site (OPENJLPT_SITE); no external session is used."""
 import functools
 import os
+import re
 import threading
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
@@ -28,17 +29,20 @@ def test_site_chinese_search_downloads_and_mobile():
                 errors = []
                 page.on("pageerror", lambda error: errors.append(str(error)))
                 page.goto("http://127.0.0.1:8765/")
+                hidden_metadata = re.compile("中文试点版|正式稿|审校|已审核|初稿|待复核")
+                sync.expect(page.locator("body")).not_to_contain_text(hidden_metadata)
                 page.locator("#q").fill("肥皂")
                 result = page.locator("#results a").first
                 sync.expect(result).to_contain_text("せっけん")
+                sync.expect(result).not_to_contain_text(hidden_metadata)
                 result.click()
-                sync.expect(page.locator("main")).to_contain_text("正式稿 · AI 审校")
+                sync.expect(page.locator("body")).not_to_contain_text(hidden_metadata)
                 sync.expect(page.locator("main")).to_contain_text("我用肥皂洗了手")
                 page.goto("http://127.0.0.1:8765/grammar/te-oku.html")
                 sync.expect(page.locator("main")).to_contain_text("事先做好")
                 sync.expect(page.locator("main")).to_contain_text("请让空调保持开着")
                 page.goto("http://127.0.0.1:8765/grammar/sou-da-hearsay.html")
-                sync.expect(page.locator("main")).to_contain_text("正式稿 · AI 审校")
+                sync.expect(page.locator("body")).not_to_contain_text(hidden_metadata)
                 sync.expect(page.locator("main")).to_contain_text("天气预报说明天会下雪")
                 page.set_viewport_size({"width": 390, "height": 844})
                 assert page.evaluate("document.documentElement.scrollWidth <= innerWidth + 1")
@@ -53,6 +57,7 @@ def test_site_chinese_search_downloads_and_mobile():
                 page.goto("http://127.0.0.1:8765/flashcards.html")
                 sync.expect(page.locator("#fc-front")).not_to_be_empty()
                 page.locator("#fc-flip").click()
+                sync.expect(page.locator("body")).not_to_contain_text(hidden_metadata)
                 assert not errors, errors
             finally:
                 browser.close()

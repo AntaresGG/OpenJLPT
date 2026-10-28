@@ -6,4 +6,5 @@
 - Keep the Chinese pilot, reference evidence and quality report honest about sampling and review coverage.
 - Run npm run check:data, npm run validate, npm run typecheck, npm test and Python tests for affected data/API changes. Run a static-site build and export checks for rendering changes.
 - The website is statically generated. Avoid introducing a backend for localization or search.
+- Keep review status and provenance in data and maintenance records. Do not display pilot notices, draft/review badges or AI-review labels in learner-facing pages, search, flashcards or Anki exports (owner preference, 2026-10-28).
 - Keep deployment hosts and credentials out of committed documentation. Production SITE_URL is deployment configuration.
