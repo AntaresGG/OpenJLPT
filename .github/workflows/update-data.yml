@@ -39,6 +39,15 @@ jobs:
       - run: npm ci
       # fetch upstream -> snapshot Waller lists -> rebuild JSON/CSV/SQLite -> validate
       - run: npm run build
+      - run: npm run check:data
+      - run: npm test
+      - run: npm run audit:data
+      - name: Preserve rebuilt data even if PR creation fails
+        uses: actions/upload-artifact@v7
+        with:
+          name: data-refresh-${{ github.sha }}
+          path: data
+          retention-days: 14
 
       - name: Keep the upstream downloads for debugging (branch runs only)
         if: env.ON_DEFAULT_BRANCH != 'true'
@@ -71,7 +80,9 @@ jobs:
           title: 'Monthly data refresh'
           body: |
             Automated rebuild from JMdict/KANJIDIC2 (EDRDG), Waller (tanos.co.uk), and Tatoeba.
-            Review the diff under `data/` and `sources/waller/` before merging.
+            Review the diff under data/ and sources/waller/ before merging.
+            Inspect data/quality-report.json and stale Chinese translations.
+            Chinese source records are retained; upstream edits require renewed review.
           branch: data/monthly-refresh
           delete-branch: true
           add-paths: |

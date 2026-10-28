@@ -26,7 +26,7 @@ function build() {
       meanings TEXT NOT NULL, level TEXT NOT NULL,
       pos TEXT NOT NULL DEFAULT '[]', jmdict_id INTEGER,
       other_forms TEXT NOT NULL DEFAULT '[]', other_readings TEXT NOT NULL DEFAULT '[]',
-      examples TEXT NOT NULL DEFAULT '[]'
+      examples TEXT NOT NULL DEFAULT '[]', zh TEXT
     );
     CREATE TABLE kanji (
       character TEXT PRIMARY KEY, level TEXT NOT NULL,
@@ -38,7 +38,7 @@ function build() {
       id TEXT PRIMARY KEY,
       pattern TEXT NOT NULL, reading TEXT, romaji TEXT NOT NULL, level TEXT NOT NULL,
       meaning TEXT NOT NULL, formation TEXT NOT NULL,
-      examples TEXT NOT NULL DEFAULT '[]', tags TEXT NOT NULL DEFAULT '[]', notes TEXT
+      examples TEXT NOT NULL DEFAULT '[]', tags TEXT NOT NULL DEFAULT '[]', notes TEXT, zh TEXT
     );
     CREATE TABLE pos (code TEXT PRIMARY KEY, description TEXT NOT NULL);
     CREATE INDEX idx_vocab_level ON vocab(level);
@@ -52,16 +52,16 @@ function build() {
   `);
 
   const insV = db.prepare(
-    `INSERT INTO vocab (id, word, reading, romaji, meanings, level, pos, jmdict_id, other_forms, other_readings, examples)
-     VALUES (?,?,?,?,?,?,?,?,?,?,?)`,
+    `INSERT INTO vocab (id, word, reading, romaji, meanings, level, pos, jmdict_id, other_forms, other_readings, examples, zh)
+     VALUES (?,?,?,?,?,?,?,?,?,?,?,?)`,
   );
   const insK = db.prepare(
     `INSERT INTO kanji (character, level, strokes, grade, freq, radical, radical_number, onyomi, kunyomi, nanori, meanings, words, supplementary)
      VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)`,
   );
   const insG = db.prepare(
-    `INSERT INTO grammar (id, pattern, reading, romaji, level, meaning, formation, examples, tags, notes)
-     VALUES (?,?,?,?,?,?,?,?,?,?)`,
+    `INSERT INTO grammar (id, pattern, reading, romaji, level, meaning, formation, examples, tags, notes, zh)
+     VALUES (?,?,?,?,?,?,?,?,?,?,?)`,
   );
   const insP = db.prepare('INSERT INTO pos (code, description) VALUES (?, ?)');
 
@@ -73,7 +73,7 @@ function build() {
       const lc = level.toLowerCase();
       for (const v of readJson(join(DATA_DIR, 'json', 'vocab', `${lc}.json`))) {
         insV.run(v.id, v.word, v.reading, v.romaji, json(v.meanings), v.level, json(v.pos), v.jmdict_id ?? null,
-          json(v.other_forms), json(v.other_readings), json(v.examples));
+          json(v.other_forms), json(v.other_readings), json(v.examples), v.zh ? JSON.stringify(v.zh) : null);
         nv++;
       }
       for (const k of readJson(join(DATA_DIR, 'json', 'kanji', `${lc}.json`))) {
@@ -83,7 +83,7 @@ function build() {
       }
       for (const g of readJson(join(DATA_DIR, 'json', 'grammar', `${lc}.json`))) {
         insG.run(g.id, g.pattern, g.reading ?? null, g.romaji, g.level, g.meaning, g.formation,
-          json(g.examples), json(g.tags), g.notes ?? null);
+          json(g.examples), json(g.tags), g.notes ?? null, g.zh ? JSON.stringify(g.zh) : null);
         ng++;
       }
     }

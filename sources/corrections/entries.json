@@ -1,0 +1,184 @@
+[
+  {
+    "id": "b48d0c99d4",
+    "word": "せっけん",
+    "reading": "せっけん",
+    "reason": "The beginner card and both examples refer to soap, not the homophone 節倹 (thrift). Keep its existing ID; the N2 kanji card remains a separate legacy spelling card pending an ID migration.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1382590; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "economy"
+      ],
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ],
+      "jmdict_id": 1386220
+    },
+    "set": {
+      "meanings": [
+        "soap"
+      ],
+      "pos": [
+        "n"
+      ],
+      "jmdict_id": 1382590
+    }
+  },
+  {
+    "id": "1cfccd0cdd",
+    "word": "一日",
+    "reading": "いちにち",
+    "reason": "Scope this beginner card to いちにち duration. JMdict also lists a calendar sense; beginners should learn ついたち separately rather than infer it from this reading.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1576260; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "one day",
+        "first of month"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "one day",
+        "all day"
+      ]
+    }
+  },
+  {
+    "id": "4bdd43130b",
+    "word": "受付",
+    "reading": "うけつけ",
+    "reason": "Select the reception sense illustrated by both example sentences; receipt/acceptance is a different valid sense, not a spelling error.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1588060; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "receipt"
+      ],
+      "pos": [
+        "n",
+        "vs",
+        "vt",
+        "vi"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "reception (desk)",
+        "receptionist"
+      ],
+      "pos": [
+        "n"
+      ]
+    }
+  },
+  {
+    "id": "554ab81272",
+    "word": "そう",
+    "reading": "そう",
+    "reason": "Select demonstrative そう rather than the appearance auxiliary. Replace auxiliary examples with original sentences; do not retain Tatoeba attribution for original examples.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 2137720; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "really"
+      ],
+      "pos": [
+        "aux",
+        "adj-na"
+      ],
+      "jmdict_id": 1006610,
+      "examples": [
+        {
+          "ja": "まもなく雨が降りそうだ。",
+          "furigana": "まもなく{雨|あめ}が{降|ふ}りそうだ。",
+          "en": "It is going to rain soon.",
+          "tatoeba_id": 195298
+        },
+        {
+          "ja": "ひとみはとても楽しそうにみえた。",
+          "furigana": "ひとみはとても{楽|たの}しそうにみえた。",
+          "en": "Hitomi looked very happy.",
+          "tatoeba_id": 197488
+        }
+      ]
+    },
+    "set": {
+      "meanings": [
+        "in that way",
+        "so"
+      ],
+      "pos": [
+        "adv"
+      ],
+      "jmdict_id": 2137720,
+      "examples": [
+        {
+          "ja": "そう思います。",
+          "en": "I think so.",
+          "furigana": "そう{思|おも}います。"
+        },
+        {
+          "ja": "私もそうです。",
+          "en": "The same is true for me.",
+          "furigana": "{私|わたし}もそうです。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "222ae96df7",
+    "word": "四日",
+    "reading": "よっか",
+    "reason": "Correct the English typo fouth; both duration and date senses are valid for よっか.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1307320; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "four days",
+        "fouth day of the month"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "four days",
+        "fourth day of the month"
+      ]
+    }
+  },
+  {
+    "id": "aa663833e4",
+    "word": "相談",
+    "reading": "そうだん",
+    "reason": "Use noun glosses for the suru-noun headword; 相談する supplies the verbal construction.",
+    "references": [
+      "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "JMdict ent_seq 1401210; checked against downloaded JMdict_e.gz on 2026-10-28"
+    ],
+    "before": {
+      "meanings": [
+        "to discuss"
+      ]
+    },
+    "set": {
+      "meanings": [
+        "consultation",
+        "discussion"
+      ]
+    }
+  }
+]

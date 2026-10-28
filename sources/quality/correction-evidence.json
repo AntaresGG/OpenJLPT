@@ -1,0 +1,268 @@
+{
+  "source_url": "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz",
+  "download_date": "2026-10-28",
+  "sha256": "aacc8703771759ad302f01199db13e83043fdf8cabb2357df742e9e758e8aa8d",
+  "license": "CC BY-SA 4.0; see NOTICE.md",
+  "entries": [
+    {
+      "id": 1006610,
+      "spellings": [],
+      "readings": [
+        "そう",
+        "そっ",
+        "そー",
+        "そ〜",
+        "そお",
+        "そーお",
+        "そーう",
+        "そおお",
+        "そぅ"
+      ],
+      "senses": [
+        {
+          "pos": [
+            "auxiliary",
+            "adjectival nouns or quasi-adjectives (keiyodoshi)"
+          ],
+          "reading_restrictions": [],
+          "glosses": [
+            "appearing that",
+            "seeming that",
+            "looking like",
+            "having the appearance of"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1307320,
+      "spellings": [
+        "４日",
+        "四日"
+      ],
+      "readings": [
+        "よっか"
+      ],
+      "senses": [
+        {
+          "pos": [
+            "noun (common) (futsuumeishi)"
+          ],
+          "reading_restrictions": [],
+          "glosses": [
+            "4th day of the month"
+          ]
+        },
+        {
+          "pos": [
+            "noun (common) (futsuumeishi)"
+          ],
+          "reading_restrictions": [],
+          "glosses": [
+            "four days"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1382590,
+      "spellings": [
+        "石鹸",
+        "石けん",
+        "石鹼"
+      ],
+      "readings": [
+        "せっけん"
+      ],
+      "senses": [
+        {
+          "pos": [
+            "noun (common) (futsuumeishi)"
+          ],
+          "reading_restrictions": [],
+          "glosses": [
+            "soap"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1386220,
+      "spellings": [
+        "節倹"
+      ],
+      "readings": [
+        "せっけん"
+      ],
+      "senses": [
+        {
+          "pos": [
+            "noun (common) (futsuumeishi)",
+            "noun or participle which takes the aux. verb suru",
+            "transitive verb",
+            "intransitive verb"
+          ],
+          "reading_restrictions": [],
+          "glosses": [
+            "economy",
+            "thrift"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1401210,
+      "spellings": [
+        "相談"
+      ],
+      "readings": [
+        "そうだん"
+      ],
+      "senses": [
+        {
+          "pos": [
+            "noun (common) (futsuumeishi)",
+            "noun or participle which takes the aux. verb suru",
+            "transitive verb"
+          ],
+          "reading_restrictions": [],
+          "glosses": [
+            "consultation",
+            "discussion",
+            "discussing",
+            "asking (someone) for advice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1576260,
+      "spellings": [
+        "一日",
+        "１日"
+      ],
+      "readings": [
+        "いちにち",
+        "いちじつ"
+      ],
+      "senses": [
+        {
+          "pos": [
+            "noun (common) (futsuumeishi)",
+            "adverb (fukushi)"
+          ],
+          "reading_restrictions": [],
+          "glosses": [
+            "one day"
+          ]
+        },
+        {
+          "pos": [
+            "adverb (fukushi)",
+            "noun (common) (futsuumeishi)"
+          ],
+          "reading_restrictions": [
+            "いちにち"
+          ],
+          "glosses": [
+            "all day (long)",
+            "the whole day",
+            "from morning till night"
+          ]
+        },
+        {
+          "pos": [
+            "noun (common) (futsuumeishi)"
+          ],
+          "reading_restrictions": [],
+          "glosses": [
+            "first day of the month"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1588060,
+      "spellings": [
+        "受付",
+        "受け付け",
+        "受付け",
+        "受けつけ",
+        "受け付",
+        "受附"
+      ],
+      "readings": [
+        "うけつけ"
+      ],
+      "senses": [
+        {
+          "pos": [
+            "noun (common) (futsuumeishi)"
+          ],
+          "reading_restrictions": [],
+          "glosses": [
+            "reception (desk)",
+            "information desk",
+            "receptionist",
+            "information clerk"
+          ]
+        },
+        {
+          "pos": [
+            "noun (common) (futsuumeishi)",
+            "noun or participle which takes the aux. verb suru",
+            "transitive verb",
+            "intransitive verb"
+          ],
+          "reading_restrictions": [],
+          "glosses": [
+            "receipt",
+            "acceptance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2137720,
+      "spellings": [
+        "然う"
+      ],
+      "readings": [
+        "そう"
+      ],
+      "senses": [
+        {
+          "pos": [
+            "adverb (fukushi)"
+          ],
+          "reading_restrictions": [],
+          "glosses": [
+            "in that way",
+            "thus",
+            "such"
+          ]
+        },
+        {
+          "pos": [
+            "interjection (kandoushi)"
+          ],
+          "reading_restrictions": [],
+          "glosses": [
+            "so",
+            "the same",
+            "that's the case"
+          ]
+        },
+        {
+          "pos": [
+            "interjection (kandoushi)"
+          ],
+          "reading_restrictions": [],
+          "glosses": [
+            "so?"
+          ]
+        }
+      ]
+    }
+  ]
+}

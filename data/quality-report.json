@@ -1,0 +1,1142 @@
+{
+  "selection": "Purposeful engineering pilot: 100 N5 and 100 N4 words, mostly reading-order entries plus correction/search cases; not a random sample and not an error-rate estimate.",
+  "pilot": {
+    "vocab": 200,
+    "grammar": 20
+  },
+  "coverage": {
+    "vocab": {
+      "N5": {
+        "total": 674,
+        "draft": 100,
+        "reviewed": 0,
+        "stale": 0,
+        "translated_examples": 8
+      },
+      "N4": {
+        "total": 630,
+        "draft": 100,
+        "reviewed": 0,
+        "stale": 0,
+        "translated_examples": 6
+      },
+      "N3": {
+        "total": 1659,
+        "draft": 0,
+        "reviewed": 0,
+        "stale": 0,
+        "translated_examples": 0
+      },
+      "N2": {
+        "total": 1778,
+        "draft": 0,
+        "reviewed": 0,
+        "stale": 0,
+        "translated_examples": 0
+      },
+      "N1": {
+        "total": 3070,
+        "draft": 0,
+        "reviewed": 0,
+        "stale": 0,
+        "translated_examples": 0
+      }
+    },
+    "grammar": {
+      "N5": {
+        "total": 81,
+        "draft": 10,
+        "reviewed": 0,
+        "stale": 0,
+        "translated_examples": 30
+      },
+      "N4": {
+        "total": 98,
+        "draft": 10,
+        "reviewed": 0,
+        "stale": 0,
+        "translated_examples": 30
+      },
+      "N3": {
+        "total": 101,
+        "draft": 0,
+        "reviewed": 0,
+        "stale": 0,
+        "translated_examples": 0
+      },
+      "N2": {
+        "total": 123,
+        "draft": 0,
+        "reviewed": 0,
+        "stale": 0,
+        "translated_examples": 0
+      },
+      "N1": {
+        "total": 123,
+        "draft": 0,
+        "reviewed": 0,
+        "stale": 0,
+        "translated_examples": 0
+      }
+    }
+  },
+  "applied_corrections": [
+    {
+      "id": "b48d0c99d4",
+      "reason": "The beginner card and both examples refer to soap, not the homophone 節倹 (thrift). Keep its existing ID; the N2 kanji card remains a separate legacy spelling card pending an ID migration.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1382590; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "1cfccd0cdd",
+      "reason": "Scope this beginner card to いちにち duration. JMdict also lists a calendar sense; beginners should learn ついたち separately rather than infer it from this reading.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1576260; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "4bdd43130b",
+      "reason": "Select the reception sense illustrated by both example sentences; receipt/acceptance is a different valid sense, not a spelling error.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1588060; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "554ab81272",
+      "reason": "Select demonstrative そう rather than the appearance auxiliary. Replace auxiliary examples with original sentences; do not retain Tatoeba attribution for original examples.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 2137720; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "222ae96df7",
+      "reason": "Correct the English typo fouth; both duration and date senses are valid for よっか.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1307320; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    },
+    {
+      "id": "aa663833e4",
+      "reason": "Use noun glosses for the suru-noun headword; 相談する supplies the verbal construction.",
+      "references": [
+        "https://www.edrdg.org/jmdict/j_jmdict.html",
+        "JMdict ent_seq 1401210; checked against downloaded JMdict_e.gz on 2026-10-28"
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1198180:あう",
+      "ids": [
+        "ada066edfd",
+        "5b1dbc60e6"
+      ],
+      "words": [
+        "会う",
+        "遭う"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1586270:あく",
+      "ids": [
+        "fc3bc1e6f1",
+        "91f0d5ac9e"
+      ],
+      "words": [
+        "開く",
+        "空く"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1202450:あける",
+      "ids": [
+        "321963ed35",
+        "5b9f9fdc86"
+      ],
+      "words": [
+        "開ける",
+        "明ける"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1481920:うるさい",
+      "ids": [
+        "7ecfe0d248",
+        "cca92e4195"
+      ],
+      "words": [
+        "煩い",
+        "五月蝿い"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "2261500:おばさん",
+      "ids": [
+        "03d7b15720",
+        "ab742a2e6a"
+      ],
+      "words": [
+        "伯母さん",
+        "叔母さん"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1589500:おりる",
+      "ids": [
+        "ae00442122",
+        "4806278f5b"
+      ],
+      "words": [
+        "降りる",
+        "下りる"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1390020:かわ",
+      "ids": [
+        "bcf12e002d",
+        "5c1b91aae6"
+      ],
+      "words": [
+        "川",
+        "河"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1382590:せっけん",
+      "ids": [
+        "b48d0c99d4",
+        "018b71a3e2"
+      ],
+      "words": [
+        "せっけん",
+        "石鹸"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1597890:つくる",
+      "ids": [
+        "6e922a750e",
+        "6686f635d7"
+      ],
+      "words": [
+        "作る",
+        "造る"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1429700:とぶ",
+      "ids": [
+        "397b682fa7",
+        "fd0dc5e667"
+      ],
+      "words": [
+        "飛ぶ",
+        "跳ぶ"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1429750:ながい",
+      "ids": [
+        "fcea29f192",
+        "7137e5312a"
+      ],
+      "words": [
+        "長い",
+        "永い"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1352570:のぼる",
+      "ids": [
+        "7817fc9d64",
+        "9df259e377",
+        "ca7d4e8426"
+      ],
+      "words": [
+        "登る",
+        "昇る",
+        "上る"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1342540:はじめ",
+      "ids": [
+        "e5b36d7b24",
+        "47d9978eab"
+      ],
+      "words": [
+        "初め",
+        "始め"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1404975:はやい",
+      "ids": [
+        "4db42e0181",
+        "406d15f6e9"
+      ],
+      "words": [
+        "早い",
+        "速い"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1427900:はる",
+      "ids": [
+        "f47c4aee42",
+        "c5af695d0b"
+      ],
+      "words": [
+        "貼る",
+        "張る"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1576150:ひとり",
+      "ids": [
+        "3fb1b70809",
+        "5cc54de84b"
+      ],
+      "words": [
+        "一人",
+        "独り"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1603990:まち",
+      "ids": [
+        "4d76d06d84",
+        "f91eb72b15"
+      ],
+      "words": [
+        "町",
+        "街"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1604230:まるい",
+      "ids": [
+        "ab36109960",
+        "1a7c32fbcb"
+      ],
+      "words": [
+        "丸い",
+        "円い"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1257110:かたい",
+      "ids": [
+        "d0e700807a",
+        "cae9ac1779",
+        "8fbe6ab329"
+      ],
+      "words": [
+        "堅い",
+        "硬い",
+        "固い"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1307770:こ",
+      "ids": [
+        "f17fa2d7e1",
+        "013f46c118"
+      ],
+      "words": [
+        "子",
+        "児"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1593670:さがす",
+      "ids": [
+        "0f4440571e",
+        "c3429126c5"
+      ],
+      "words": [
+        "探す",
+        "捜す"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1433680:つける",
+      "ids": [
+        "c206b05b9d",
+        "2d88041a40"
+      ],
+      "words": [
+        "漬ける",
+        "浸ける"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1310670:とめる",
+      "ids": [
+        "3aadcbc234",
+        "4591eb1d00"
+      ],
+      "words": [
+        "止める",
+        "留める"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1212670:なれる",
+      "ids": [
+        "ce2f134cda",
+        "dc2f465cad"
+      ],
+      "words": [
+        "慣れる",
+        "馴れる"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1602440:ふえる",
+      "ids": [
+        "59bc2e87aa",
+        "c3c21a7396"
+      ],
+      "words": [
+        "増える",
+        "殖える"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1602800:ふね",
+      "ids": [
+        "45d920815a",
+        "144ace6a3f"
+      ],
+      "words": [
+        "舟",
+        "船"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1605630:やわらかい",
+      "ids": [
+        "3ccc927e4b",
+        "83501678de"
+      ],
+      "words": [
+        "柔らかい",
+        "軟らかい"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1609010:あき",
+      "ids": [
+        "03e5958da6",
+        "b286c3e278"
+      ],
+      "words": [
+        "空き",
+        "明き"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1263490:あらわす",
+      "ids": [
+        "94e6dfb59c",
+        "474e600ef2"
+      ],
+      "words": [
+        "現す",
+        "表す"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1478010:うつ",
+      "ids": [
+        "215cb207d4",
+        "1abb6e796a"
+      ],
+      "words": [
+        "撃つ",
+        "討つ"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1589090:おさめる",
+      "ids": [
+        "e5d795cde2",
+        "1be15a39e4"
+      ],
+      "words": [
+        "収める",
+        "納める"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1589780:かえる",
+      "ids": [
+        "2f3ce71d72",
+        "33a3172689",
+        "8355396ec5"
+      ],
+      "words": [
+        "換える",
+        "替える",
+        "代える"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1220810:きかい",
+      "ids": [
+        "086990d912",
+        "e0f08f770f"
+      ],
+      "words": [
+        "機械",
+        "器械"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1593070:こえる",
+      "ids": [
+        "5dbb5639ea",
+        "c730681c17"
+      ],
+      "words": [
+        "越える",
+        "超える"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1175300:こす",
+      "ids": [
+        "1a796e4b69",
+        "fa011c8770"
+      ],
+      "words": [
+        "越す",
+        "超す"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1240530:たま",
+      "ids": [
+        "5ac33a4880",
+        "42fbc7ed06"
+      ],
+      "words": [
+        "玉",
+        "弾"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1495770:つける",
+      "ids": [
+        "af699ddbb2",
+        "1122e34144"
+      ],
+      "words": [
+        "付ける",
+        "着ける"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1240810:つとめ",
+      "ids": [
+        "b30b244443",
+        "b30544a54e"
+      ],
+      "words": [
+        "勤め",
+        "務め"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1338400:であい",
+      "ids": [
+        "56092bf6de",
+        "a3aeb9c735"
+      ],
+      "words": [
+        "出会い",
+        "出合い"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1598530:であう",
+      "ids": [
+        "efa915fbef",
+        "21fc5b6373"
+      ],
+      "words": [
+        "出会う",
+        "出合う"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1600270:のせる",
+      "ids": [
+        "31f735aed4",
+        "b495f06d59"
+      ],
+      "words": [
+        "乗せる",
+        "載せる"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1600290:のばす",
+      "ids": [
+        "ad88f57a3e",
+        "f7a5a8fcab"
+      ],
+      "words": [
+        "伸ばす",
+        "延ばす"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1358870:のびる",
+      "ids": [
+        "d5c6b153f1",
+        "3eb9301644"
+      ],
+      "words": [
+        "伸びる",
+        "延びる"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1600650:はかる",
+      "ids": [
+        "6b741662df",
+        "ae280779f0",
+        "854c82b3ff"
+      ],
+      "words": [
+        "計る",
+        "測る",
+        "量る"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1603500:ほしょう",
+      "ids": [
+        "33602d086e",
+        "65fc20eed5"
+      ],
+      "words": [
+        "保証",
+        "保障"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1522060:ほり",
+      "ids": [
+        "1151601f8e",
+        "1a3e85188c"
+      ],
+      "words": [
+        "濠",
+        "堀"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1260670:もと",
+      "ids": [
+        "0f4b2590f6",
+        "f5b7534060",
+        "aa6e296421"
+      ],
+      "words": [
+        "基",
+        "元",
+        "素"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1391500:いる",
+      "ids": [
+        "82a3b17d15",
+        "228ab529ea"
+      ],
+      "words": [
+        "煎る",
+        "炒る"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "2261490:おじさん",
+      "ids": [
+        "ea45ce4bc8",
+        "b6e9e55b54",
+        "997f2be694"
+      ],
+      "words": [
+        "叔父さん",
+        "小父さん",
+        "伯父さん"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1590250:かしょ",
+      "ids": [
+        "79fcbe33ae",
+        "4641b96f3b"
+      ],
+      "words": [
+        "個所",
+        "箇所"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1590420:かたよる",
+      "ids": [
+        "68470c06d5",
+        "09ed6cd566"
+      ],
+      "words": [
+        "片寄る",
+        "偏る"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1591210:きじゅん",
+      "ids": [
+        "ad05abb348",
+        "47b2831015"
+      ],
+      "words": [
+        "基準",
+        "規準"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1373680:すむ",
+      "ids": [
+        "d56c12fa19",
+        "aac375dbab"
+      ],
+      "words": [
+        "澄む",
+        "清む"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1437290:てきかく",
+      "ids": [
+        "04bfe8ab7f",
+        "3ed7b4fc1a"
+      ],
+      "words": [
+        "的確",
+        "適確"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "2657130:とどまる",
+      "ids": [
+        "257afc27f7",
+        "e9f0941d9e"
+      ],
+      "words": [
+        "留まる",
+        "止まる"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1599430:なかみ",
+      "ids": [
+        "9f7b77e398",
+        "4100983d28"
+      ],
+      "words": [
+        "中身",
+        "中味"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1403390:にくい",
+      "ids": [
+        "54d18abf59",
+        "2e8753951c"
+      ],
+      "words": [
+        "憎い",
+        "悪い"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1360040:ねまき",
+      "ids": [
+        "198574a71b",
+        "2d3eb89598"
+      ],
+      "words": [
+        "寝巻",
+        "寝間着"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1307520:はじめに",
+      "ids": [
+        "7e3cceed04",
+        "9b9b6c1212"
+      ],
+      "words": [
+        "始めに",
+        "初めに"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1602700:ふぞく",
+      "ids": [
+        "c377958d2d",
+        "6f8b6b1121"
+      ],
+      "words": [
+        "附属",
+        "付属"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1603920:まざる",
+      "ids": [
+        "948ad087df",
+        "eadadef662"
+      ],
+      "words": [
+        "交ざる",
+        "混ざる"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1603930:まじる",
+      "ids": [
+        "983c20ed4c",
+        "8a0cc52e6c"
+      ],
+      "words": [
+        "交じる",
+        "混じる"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1290310:まぜる",
+      "ids": [
+        "bfe15d1832",
+        "1bef1a1d14"
+      ],
+      "words": [
+        "交ぜる",
+        "混ぜる"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1448820:あて",
+      "ids": [
+        "3862e77007",
+        "23f01f9d4e"
+      ],
+      "words": [
+        "宛",
+        "当て"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1587140:いくさ",
+      "ids": [
+        "cb3d7cda2e",
+        "d5373e6a45"
+      ],
+      "words": [
+        "軍",
+        "戦"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1330490:おさまる",
+      "ids": [
+        "6ebf36ca63",
+        "ade60dd5fd"
+      ],
+      "words": [
+        "収まる",
+        "納まる"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1593190:ここ",
+      "ids": [
+        "f167fd3a76",
+        "1cd105911f"
+      ],
+      "words": [
+        "箇箇",
+        "個々"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1598620:たっとい",
+      "ids": [
+        "effb9aa394",
+        "589a614801"
+      ],
+      "words": [
+        "貴い",
+        "尊い"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1297250:つくり",
+      "ids": [
+        "617364b915",
+        "5b0c727913"
+      ],
+      "words": [
+        "作り",
+        "造り"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1598820:とどめる",
+      "ids": [
+        "7515db0cfd",
+        "d067bdf300"
+      ],
+      "words": [
+        "止める",
+        "留める"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    },
+    {
+      "kind": "shared_dictionary_reading",
+      "key": "1212650:ならす",
+      "ids": [
+        "c4be7bde99",
+        "c35361ecb7"
+      ],
+      "words": [
+        "慣らす",
+        "馴らす"
+      ],
+      "status": "needs_review",
+      "reason": "May be legitimate distinct spellings. Do not merge without an ID migration."
+    }
+  ],
+  "limitation": "Structural audit and original Chinese drafts; no human linguistic review or statistical error-rate estimate."
+}

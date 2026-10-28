@@ -25,6 +25,7 @@
     for (var i = 0; i < exact.length; i++) {
       if (exact[i] && (exact[i].toLowerCase() === q || OpenJLPT.toHiragana(exact[i]) === qh)) return 100;
     }
+    if (r[8] && r[8].indexOf(q) !== -1) return r[8].split('；').indexOf(q) !== -1 ? 90 : 50;
     var glosses = item.gloss.split(/[;,] /);
     for (var j = 0; j < glosses.length; j++) {
       if (glosses[j] === q || glosses[j] === 'to ' + q) return 90;
@@ -57,7 +58,7 @@
       var r = index[h[2]].row;
       var reading = r[0] !== 'k' && r[3] && r[3] !== r[2] ? '<span class="r">' + esc(r[3]) + '</span>' : '';
       return '<li><a href="' + esc(OpenJLPT.root() + r[1]) + '"><span class="w" lang="ja">' + esc(r[2]) + reading +
-        '</span><span class="m"><span class="kind">' + KIND[r[0]] + '</span>' + esc(r[5]) + '</span><span class="lvl ' + r[6] + '">' + r[6] + '</span></a></li>';
+        '</span><span class="m"><span class="kind">' + KIND[r[0]] + '</span>' + esc((r[8] ? r[8] + (r[9] === 'reviewed' ? '（已审核） / ' : '（中文初稿） / ') : '') + r[5]) + '</span><span class="lvl ' + r[6] + '">' + r[6] + '</span></a></li>';
     }).join('');
   }
 

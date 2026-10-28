@@ -85,15 +85,19 @@
   "sideEffects": false,
   "scripts": {
     "fetch": "tsx scripts/fetch-sources.ts",
-    "build:data": "tsx scripts/build-vocab.ts && tsx scripts/build-kanji.ts && tsx scripts/build-grammar.ts && tsx scripts/build-sqlite.ts && tsx scripts/build-meta.ts",
-    "build:grammar": "tsx scripts/build-grammar.ts && tsx scripts/build-sqlite.ts && tsx scripts/build-meta.ts",
+    "build:data": "tsx scripts/build-vocab.ts && tsx scripts/build-kanji.ts && tsx scripts/build-grammar.ts && tsx scripts/prepare-data.ts && tsx scripts/build-sqlite.ts && tsx scripts/build-meta.ts",
+    "build:grammar": "tsx scripts/build-grammar.ts && tsx scripts/prepare-data.ts && tsx scripts/build-sqlite.ts && tsx scripts/build-meta.ts",
     "build": "npm run fetch && npm run build:data && npm run validate",
     "validate": "tsx scripts/validate.ts",
     "build:pkg": "tsc -p tsconfig.build.json",
     "typecheck": "tsc -p tsconfig.json",
     "test": "tsx --test tests/ts/*.test.ts",
     "prepare": "npm run build:pkg",
-    "prepublishOnly": "npm run validate && npm test"
+    "prepublishOnly": "npm run validate && npm test",
+    "prepare:data": "tsx scripts/prepare-data.ts && tsx scripts/build-sqlite.ts",
+    "check:data": "tsx scripts/prepare-data.ts --check",
+    "audit:data": "tsx scripts/audit-data.ts",
+    "build:site": "tsx scripts/build-site.ts"
   },
   "devDependencies": {
     "@types/better-sqlite3": "^9.6.0",

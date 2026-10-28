@@ -14,6 +14,7 @@
 import { join } from 'node:path';
 import { cpSync, mkdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
 import { DATA_DIR, LEVELS, ROOT, type Level } from './lib/util.ts';
+import type { Chinese } from '../src/index.ts';
 import { POS_SHORT } from './lib/pos.ts';
 
 // ---------------------------------------------------------------------------
@@ -21,6 +22,7 @@ import { POS_SHORT } from './lib/pos.ts';
 
 interface Example { ja: string; furigana?: string; en: string; tatoeba_id?: number }
 interface Vocab {
+  zh?: Chinese;
   id: string; word: string; reading: string; romaji: string; meanings: string[]; level: Level;
   pos?: string[]; jmdict_id?: number; other_forms?: string[]; other_readings?: string[]; examples?: Example[];
 }
@@ -30,13 +32,14 @@ interface Kanji {
   nanori?: string[]; meanings: string[]; words?: string[]; supplementary?: true;
 }
 interface Grammar {
+  zh?: Chinese;
   id: string; pattern: string; reading?: string; romaji: string; level: Level; meaning: string;
   formation: string; examples: Example[]; tags: string[]; notes?: string;
 }
 
 const OUT = process.argv[2] ?? join(ROOT, '_site');
-const SITE_URL = (process.env.SITE_URL ?? 'https://evanclan.github.io/OpenJLPT/').replace(/\/?$/, '/');
-const REPO = 'https://github.com/evanclan/OpenJLPT';
+const SITE_URL = (process.env.SITE_URL ?? 'https://AntaresGG.github.io/OpenJLPT/').replace(/\/?$/, '/');
+const REPO = process.env.REPO_URL ?? 'https://github.com/AntaresGG/OpenJLPT';
 const LEVEL_NAMES = LEVELS.map((l) => l.level);
 const readJson = <T>(p: string): T => JSON.parse(readFileSync(p, 'utf8'));
 
@@ -213,6 +216,7 @@ ${p.path === 'index.html' ? '' : `<form class="hsearch" action="${root}index.htm
 <a class="gh-btn" href="${REPO}" rel="noopener">${GITHUB_ICON}<span>Star on GitHub</span></a>
 </div></header>
 <main><div class="wrap">
+<p class="note" lang="zh-CN">中文试点版：部分词条提供中文释义与讲解。标为“初稿”的内容尚未经人工审校，未覆盖的条目保留英文。</p>
 ${p.body}
 </div></main>
 <footer class="site-footer"><div class="wrap">
@@ -269,11 +273,27 @@ const examplesHeading = (examples: Example[] | undefined) =>
       : ''
   }</div>`;
 
-const exampleList = (examples: Example[] | undefined) =>
+const usableChinese = (entry: { zh?: Chinese }) => entry.zh?.status !== 'stale' ? entry.zh : undefined;
+const chineseLabel = (entry: { zh?: Chinese }) => usableChinese(entry)?.status === 'reviewed' ? '中文已审核' : '中文初稿';
+const bilingual = (entry: { zh?: Chinese }, english: string) => {
+  const zh = usableChinese(entry);
+  return zh ? zh.meanings.join('；') + '（' + chineseLabel(entry) + '） / ' + english : english;
+};
+const chinesePanel = (entry: { zh?: Chinese }) => {
+  const zh = usableChinese(entry);
+  if (!zh) return entry.zh ? '<p lang="zh-CN" class="note">中文内容待复核，暂显示原文。</p>' : '';
+  return '<section lang="zh-CN"><h2>' + chineseLabel(entry) + '</h2><p>' + esc(zh.meanings.join('；')) + '</p>'
+    + (zh.formation ? '<h3>接续</h3><p>' + esc(zh.formation) + '</p>' : '')
+    + (zh.explanation ? '<h3>用法</h3><p>' + esc(zh.explanation) + '</p>' : '')
+    + (zh.notes ? '<h3>注意</h3><p>' + esc(zh.notes) + '</p>' : '') + '</section>';
+};
+const chineseExample = (entry: { zh?: Chinese }, ja: string) => usableChinese(entry)?.examples.find(e => e.ja === ja)?.zh;
+
+const exampleList = (examples: Example[] | undefined, entry: { zh?: Chinese } = {}) =>
   examples?.length
     ? `<ul class="examples">${examples
         .map(
-          (e) => `<li><div class="ja" lang="ja">${e.furigana ? rubyHtml(e.furigana) : esc(e.ja)}</div><div class="en">${esc(e.en)}</div>${
+          (e) => `<li><div class="ja" lang="ja">${e.furigana ? rubyHtml(e.furigana) : esc(e.ja)}</div><div class="en">${esc(e.en)}</div>${chineseExample(entry, e.ja) ? `<div lang="zh-CN">${esc(chineseExample(entry, e.ja)!)}</div>` : ''}${
             e.tatoeba_id ? `<div class="src"><a href="https://tatoeba.org/en/sentences/show/${e.tatoeba_id}" rel="noopener">Tatoeba #${e.tatoeba_id}</a></div>` : ''
           }</li>`,
         )
@@ -327,8 +347,9 @@ function vocabPages(): void {
 <ol class="meanings${v.meanings.length === 1 ? ' single' : ''}">${v.meanings.map((m) => `<li>${esc(m)}</li>`).join('')}</ol>
 ${pos ? `<div class="chips">${pos}</div>` : ''}
 ${also}
+${chinesePanel(v)}
 ${examplesHeading(v.examples)}
-${exampleList(v.examples)}
+${exampleList(v.examples, v)}
 </section>
 <aside>
 ${kanjiCards ? `<h2>Kanji</h2><div class="kanji-links">${kanjiCards}</div>` : ''}
@@ -413,8 +434,9 @@ function grammarPages(): void {
 <p style="font-size:21px;margin:14px 0">${esc(g.meaning)}</p>
 <h2>Formation</h2>
 <div class="formation">${esc(g.formation)}</div>
+${chinesePanel(g)}
 ${examplesHeading(g.examples)}
-${exampleList(g.examples)}
+${exampleList(g.examples, g)}
 ${g.notes ? `<h2>Notes</h2><p class="note">${esc(g.notes)}</p>` : ''}
 <div class="chips">${g.tags.map((t) => `<span class="chip">#${esc(t)}</span>`).join('')}</div>
 ${related ? `<h2>Related ${level} grammar</h2><div class="chips">${related}</div>` : ''}
@@ -429,7 +451,7 @@ ${pager(root, list[i - 1] && [grammarPath(list[i - 1]), list[i - 1].pattern], li
 // ---------------------------------------------------------------------------
 // Level pages
 
-const cdnBase = 'https://cdn.jsdelivr.net/gh/evanclan/OpenJLPT@main';
+const cdnBase = SITE_URL.replace(/\/$/, '');
 
 /** Filter box, self-test toggles and download links above a level list. */
 function listTools(lc: string, kind: 'vocab' | 'grammar', target: string, readings: boolean): string {
@@ -437,7 +459,7 @@ function listTools(lc: string, kind: 'vocab' | 'grammar', target: string, readin
 <input class="filter" type="search" placeholder="Filter (kanji, kana, romaji or English)…" data-filter="${target}" aria-label="Filter">
 ${kind === 'vocab' ? `<label><input type="checkbox" data-hide="r" data-target="${target}"> Hide readings</label>` : ''}
 <label><input type="checkbox" data-hide="m" data-target="${target}"> Hide meanings</label>
-<span class="dl">Download: <a href="${cdnBase}/data/csv/${kind}-${lc}.csv">CSV</a> · <a href="${cdnBase}/data/json/${kind}/${lc}.json">JSON</a> · <a href="../downloads/openjlpt-${lc}-${kind}.apkg">Anki</a></span>
+<span class="dl">Download: <a href="${cdnBase}/dataset/csv/${kind}-${lc}.csv">CSV</a> · <a href="${cdnBase}/dataset/json/${kind}/${lc}.json">JSON</a> · <a href="../downloads/openjlpt-${lc}-${kind}.apkg">Anki</a></span>
 </div>`;
 }
 
@@ -482,7 +504,7 @@ function levelPages(): void {
 <h1>JLPT ${level} vocabulary <span class="muted" style="font-size:0.6em">${v.length.toLocaleString('en-US')} words</span></h1>
 ${listTools(lc, 'vocab', '#vlist', true)}
 <table class="list" id="vlist"><thead><tr><th>Word</th><th class="r">Reading</th><th>Meaning</th></tr></thead><tbody>
-${v.map((x) => `<tr data-s="${esc(`${x.word} ${x.reading} ${x.romaji} ${x.meanings.join(' ')}`.toLowerCase())}"><td class="w"><a href="${root}${vocabPath(x)}" lang="ja">${esc(x.word)}</a>${x.word === x.reading ? '' : `<span class="r-m" lang="ja">${esc(x.reading)}</span>`}</td><td class="r" lang="ja"><span>${esc(x.reading)}</span></td><td class="m"><span>${esc(truncate(x.meanings.join('; '), 90))}</span></td></tr>`).join('\n')}
+${v.map((x) => `<tr data-s="${esc(`${x.word} ${x.reading} ${x.romaji} ${x.meanings.join(' ')} ${usableChinese(x)?.meanings.join(' ') ?? ''}`.toLowerCase())}"><td class="w"><a href="${root}${vocabPath(x)}" lang="ja">${esc(x.word)}</a>${x.word === x.reading ? '' : `<span class="r-m" lang="ja">${esc(x.reading)}</span>`}</td><td class="r" lang="ja"><span>${esc(x.reading)}</span></td><td class="m"><span>${esc(truncate(bilingual(x, x.meanings.join('; ')), 130))}</span></td></tr>`).join('\n')}
 </tbody></table>`,
     });
 
@@ -493,7 +515,7 @@ ${v.map((x) => `<tr data-s="${esc(`${x.word} ${x.reading} ${x.romaji} ${x.meanin
       description: `All ${k.length} JLPT ${level} kanji with on'yomi, kun'yomi, English meanings, stroke counts, radicals, stroke order and example words.`,
       body: `${crumbs(root, [[`JLPT ${level}`, `${lc}/index.html`], ['Kanji']])}
 <h1>JLPT ${level} kanji <span class="muted" style="font-size:0.6em">${k.length}</span></h1>
-<p class="muted">Most frequent first. <a href="${cdnBase}/data/csv/kanji-${lc}.csv">CSV</a> · <a href="${cdnBase}/data/json/kanji/${lc}.json">JSON</a> · <a href="${root}downloads/openjlpt-${lc}-kanji.apkg">Anki deck</a></p>
+<p class="muted">Most frequent first. <a href="${cdnBase}/dataset/csv/kanji-${lc}.csv">CSV</a> · <a href="${cdnBase}/dataset/json/kanji/${lc}.json">JSON</a> · <a href="${root}downloads/openjlpt-${lc}-kanji.apkg">Anki deck</a></p>
 <div class="kanji-grid">${k.map((x) => `<a href="${root}${kanjiPath(x.character)}" title="${esc(x.meanings.slice(0, 3).join(', '))}" lang="ja">${esc(x.character)}<small>${esc(x.meanings[0] ?? '')}</small></a>`).join('')}</div>`,
     });
 
@@ -505,7 +527,7 @@ ${v.map((x) => `<tr data-s="${esc(`${x.word} ${x.reading} ${x.romaji} ${x.meanin
       body: `${crumbs(root, [[`JLPT ${level}`, `${lc}/index.html`], ['Grammar']])}
 <h1>JLPT ${level} grammar <span class="muted" style="font-size:0.6em">${g.length} points</span></h1>
 ${listTools(lc, 'grammar', '#glist', false)}
-<ul class="gram-list" id="glist">${g.map((x) => `<li data-s="${esc(`${x.pattern} ${x.reading ?? ''} ${x.romaji} ${x.meaning} ${x.tags.join(' ')}`.toLowerCase())}"><a href="${root}${grammarPath(x)}"><span class="p" lang="ja">${esc(x.pattern)}</span><span class="m"><span>${esc(x.meaning)}</span></span></a></li>`).join('')}</ul>`,
+<ul class="gram-list" id="glist">${g.map((x) => `<li data-s="${esc(`${x.pattern} ${x.reading ?? ''} ${x.romaji} ${x.meaning} ${x.tags.join(' ')}`.toLowerCase())}"><a href="${root}${grammarPath(x)}"><span class="p" lang="ja">${esc(x.pattern)}</span><span class="m"><span>${esc(bilingual(x, x.meaning))}</span></span></a></li>`).join('')}</ul>`,
     });
   }
 }
@@ -530,7 +552,7 @@ function homePage(): void {
 <h1>Every word, kanji and grammar point on the JLPT study lists.<br><span class="accent">Free and open.</span></h1>
 <p class="lead">Search ${c.vocab.total.toLocaleString('en-US')} words, ${c.kanji.total.toLocaleString('en-US')} kanji and ${c.grammar.total} grammar points from N5 to N1 — with readings, meanings and real example sentences with furigana. Or grab the whole dataset for your own app.</p>
 <div class="search" id="search"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
-<input id="q" type="search" placeholder="Try 食べる, taberu, 日, eat or てもいい" autocomplete="off" aria-label="Search words, kanji and grammar"></div>
+<input id="q" type="search" placeholder="试试 肥皂、吃、食べる、taberu 或 てもいい" autocomplete="off" aria-label="Search words, kanji and grammar"></div>
 <ul class="results" id="results" aria-live="polite"></ul>
 <div class="btn-row quick"><a class="btn" href="n5/index.html">📚 Start with N5</a><a class="btn" href="data.html#anki">🃏 Anki decks</a><a class="btn" href="analyzer.html">🔍 What level is this text?</a><a class="btn" href="flashcards.html">🔁 Flashcards</a></div>
 <p class="muted small">Levels follow <a href="https://www.tanos.co.uk/jlpt/" rel="noopener">Jonathan Waller's community lists</a>; the JLPT hasn't published official lists since 2010. Checked against JMdict and rebuilt monthly${updated ? ` · data updated ${updated}` : ''}.</p>
@@ -604,7 +626,7 @@ function toolPages(): void {
 <p class="muted" style="font-size:14px">Levels are also marked by underline: N5 none, N4 dotted, N3 dashed, N2 solid, N1 double. Only kanji are analysed — kana and vocabulary are not.</p>`,
   });
 
-  const cdn = 'https://cdn.jsdelivr.net/gh/evanclan/OpenJLPT@main';
+  const cdn = SITE_URL.replace(/\/$/, '');
   writePage({
     path: 'data.html',
     active: 'data.html',
@@ -616,11 +638,11 @@ function toolPages(): void {
 <table class="list"><thead><tr><th>Level</th><th>Vocabulary</th><th>Kanji</th><th>Grammar</th></tr></thead><tbody>
 ${LEVEL_NAMES.map((l) => {
   const lc = l.toLowerCase();
-  return `<tr><td>${lvl(l)}</td>${(['vocab', 'kanji', 'grammar'] as const).map((k) => `<td><a href="${cdn}/data/json/${k}/${lc}.json">JSON</a> · <a href="${cdn}/data/csv/${k}-${lc}.csv">CSV</a></td>`).join('')}</tr>`;
+  return `<tr><td>${lvl(l)}</td>${(['vocab', 'kanji', 'grammar'] as const).map((k) => `<td><a href="${cdn}/dataset/json/${k}/${lc}.json">JSON</a> · <a href="${cdn}/dataset/csv/${k}-${lc}.csv">CSV</a></td>`).join('')}</tr>`;
 }).join('')}
 </tbody></table>
-<div class="btn-row"><a class="btn primary" href="${REPO}/releases/latest/download/openjlpt-data.zip">⬇ Everything: JSON + CSV + SQLite (zip)</a><a class="btn" href="${REPO}/raw/main/data/openjlpt.sqlite">⬇ SQLite database</a></div>
-<p class="muted small">Spreadsheet or pandas? Every CSV loads straight from the CDN: <code>pd.read_csv("${cdn}/data/csv/vocab-n5.csv")</code></p>
+<div class="btn-row"><a class="btn primary" href="${SITE_URL}downloads/openjlpt-data.zip">⬇ Everything: JSON + CSV + SQLite (zip)</a><a class="btn" href="${SITE_URL}dataset/openjlpt.sqlite">⬇ SQLite database</a></div>
+<p class="muted small">Spreadsheet or pandas? Every CSV loads straight from the CDN: <code>pd.read_csv("${cdn}/dataset/csv/vocab-n5.csv")</code></p>
 <h2 id="anki">Anki decks</h2>
 <p>Ready-made <a href="https://apps.ankiweb.net/">Anki</a> decks with furigana, example sentences and text-to-speech. Re-importing a newer version updates your cards and keeps your review history.</p>
 <table class="list"><thead><tr><th>Level</th><th>Vocabulary</th><th>Kanji</th><th>Grammar</th></tr></thead><tbody>
@@ -631,7 +653,7 @@ ${LEVEL_NAMES.map((l) => `<tr><td>${lvl(l)}</td>${(['vocab', 'kanji', 'grammar']
 <p>See the JLPT level of any word or kanji right in the <a href="https://yomitan.wiki/">Yomitan</a> pop-up: <a href="downloads/openjlpt-yomitan.zip">⬇ openjlpt-yomitan.zip</a>, then import it in Yomitan's settings → Dictionaries. Yomitan can update it for you when the data is refreshed (Dictionaries → Check for updates).</p>
 <h2>CDN (no install)</h2>
 <p>Every file is served by jsDelivr — fetch it straight from a browser app:</p>
-<pre><code>const n5 = await fetch('${cdn}/data/json/vocab/n5.json').then(r =&gt; r.json());</code></pre>
+<pre><code>const n5 = await fetch('${cdn}/dataset/json/vocab/n5.json').then(r =&gt; r.json());</code></pre>
 <h2>JavaScript / TypeScript</h2>
 <pre><code>npm install openjlpt
 
@@ -677,12 +699,12 @@ WHERE vocab_fts MATCH 'weather';</code></pre>
     { '@type': 'Dataset', name: "Jonathan Waller's JLPT lists", url: 'https://www.tanos.co.uk/jlpt/' },
   ],
   distribution: [
-    { '@type': 'DataDownload', encodingFormat: 'application/zip', contentUrl: `${REPO}/releases/latest/download/openjlpt-data.zip` },
+    { '@type': 'DataDownload', encodingFormat: 'application/zip', contentUrl: `${SITE_URL}downloads/openjlpt-data.zip` },
     ...LEVEL_NAMES.flatMap((l) => [
-      { '@type': 'DataDownload', encodingFormat: 'application/json', contentUrl: `${cdnBase}/data/json/vocab/${l.toLowerCase()}.json` },
-      { '@type': 'DataDownload', encodingFormat: 'text/csv', contentUrl: `${cdnBase}/data/csv/vocab-${l.toLowerCase()}.csv` },
+      { '@type': 'DataDownload', encodingFormat: 'application/json', contentUrl: `${cdnBase}/dataset/json/vocab/${l.toLowerCase()}.json` },
+      { '@type': 'DataDownload', encodingFormat: 'text/csv', contentUrl: `${cdnBase}/dataset/csv/vocab-${l.toLowerCase()}.csv` },
     ]),
-    { '@type': 'DataDownload', encodingFormat: 'application/vnd.sqlite3', contentUrl: `${REPO}/raw/main/data/openjlpt.sqlite` },
+    { '@type': 'DataDownload', encodingFormat: 'application/vnd.sqlite3', contentUrl: `${SITE_URL}dataset/openjlpt.sqlite` },
   ],
 })}</script>`,
   });
@@ -706,15 +728,15 @@ function writeData(): void {
   for (const level of LEVEL_NAMES) {
     const lc = level.toLowerCase();
     // Row layout: [progress key, front, …, page path]
-    w(`vocab-${lc}.json`, vocab.get(level)!.map((v) => [v.id, v.word, v.reading, v.romaji, v.meanings.slice(0, 4).join('; '), v.examples?.[0]?.furigana ?? v.examples?.[0]?.ja ?? '', v.examples?.[0]?.en ?? '', vocabPath(v)]));
+    w(`vocab-${lc}.json`, vocab.get(level)!.map((v) => [v.id, v.word, v.reading, v.romaji, bilingual(v, v.meanings.slice(0, 4).join('; ')), v.examples?.[0]?.furigana ?? v.examples?.[0]?.ja ?? '', chineseExample(v, v.examples?.[0]?.ja ?? '') ?? v.examples?.[0]?.en ?? '', vocabPath(v)]));
     w(`kanji-${lc}.json`, kanji.get(level)!.map((k) => [k.character, k.character, k.onyomi.join('、'), k.kunyomi.join('、'), k.meanings.slice(0, 4).join(', '), (k.words ?? []).slice(0, 3).join('、'), kanjiPath(k.character)]));
-    w(`grammar-${lc}.json`, grammar.get(level)!.map((g) => [g.id, g.pattern, g.romaji, g.meaning, g.examples[0]?.ja ?? '', g.examples[0]?.en ?? '', grammarPath(g)]));
+    w(`grammar-${lc}.json`, grammar.get(level)!.map((g) => [g.id, g.pattern, g.romaji, bilingual(g, g.meaning), g.examples[0]?.ja ?? '', chineseExample(g, g.examples[0]?.ja ?? '') ?? g.examples[0]?.en ?? '', grammarPath(g)]));
   }
   // Search index: [kind, page path, text, reading, romaji, gloss, level, extra forms/tags]
   const search = [
-    ...allVocab.map((v) => ['v', vocabPath(v), v.word, v.reading, v.romaji, truncate(v.meanings.slice(0, 3).join('; '), 80), v.level, (v.other_forms ?? []).join(' ')]),
+    ...allVocab.map((v) => ['v', vocabPath(v), v.word, v.reading, v.romaji, truncate(v.meanings.slice(0, 3).join('; '), 80), v.level, (v.other_forms ?? []).join(' '), usableChinese(v)?.meanings.join('；') ?? '', usableChinese(v)?.status ?? '']),
     ...allKanji.map((k) => ['k', kanjiPath(k.character), k.character, [...k.onyomi, ...k.kunyomi].join(' '), '', truncate(k.meanings.slice(0, 3).join(', '), 80), k.level, '']),
-    ...allGrammar.map((g) => ['g', grammarPath(g), g.pattern, g.reading ?? '', g.romaji, truncate(g.meaning, 80), g.level, g.tags.join(' ')]),
+    ...allGrammar.map((g) => ['g', grammarPath(g), g.pattern, g.reading ?? '', g.romaji, truncate(g.meaning, 80), g.level, g.tags.join(' '), usableChinese(g)?.meanings.join('；') ?? '', usableChinese(g)?.status ?? '']),
   ];
   w('search.json', search);
   w('kanji-levels.json', Object.fromEntries(allKanji.map((k) => [k.character, k.level])));
@@ -738,6 +760,7 @@ function writeSeo(): void {
 rmSync(OUT, { recursive: true, force: true });
 mkdirSync(OUT, { recursive: true });
 cpSync(join(ROOT, 'site', 'assets'), join(OUT, 'assets'), { recursive: true });
+cpSync(DATA_DIR, join(OUT, 'dataset'), { recursive: true });
 cpSync(join(ROOT, 'assets', 'og-image.png'), join(OUT, 'assets', 'og-image.png'));
 homePage();
 levelPages();

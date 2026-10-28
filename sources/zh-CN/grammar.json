@@ -1,0 +1,580 @@
+{
+  "wa": {
+    "status": "draft",
+    "source_hash": "3176e50529d6bda7707f7a4b5a7963c699a1d9b8d96440156d6a0a474c9e3958",
+    "meanings": [
+      "至于……",
+      "提示话题"
+    ],
+    "formation": "名词＋は",
+    "explanation": "把某人或某事设为谈论的话题，再说明其情况。也可用于对比。",
+    "notes": "写作は，读作wa。话题不一定是句子的主语。",
+    "examples": [
+      {
+        "ja": "私は学生です。",
+        "zh": "我是学生。"
+      },
+      {
+        "ja": "今日は天気がいいです。",
+        "zh": "今天天气很好。"
+      },
+      {
+        "ja": "この本はおもしろいです。",
+        "zh": "这本书很有意思。"
+      }
+    ],
+    "references": [
+      "sources/grammar/n5.json#wa",
+      "Original Chinese draft by Codex; not human-reviewed"
+    ]
+  },
+  "ga-subject": {
+    "status": "draft",
+    "source_hash": "6fd39578a6caa28da48534dec9128ebf021b902198d26f46d18fcf4d14c5cf1b",
+    "meanings": [
+      "提示主语",
+      "突出新信息"
+    ],
+    "formation": "名词＋が",
+    "explanation": "用于说明谁或什么做某事，或介绍新出现的人、事物。回答“谁去”时，用私が行きます突出“我”。",
+    "notes": "疑问词作主语时通常用が；与は的区别需要结合上下文判断。",
+    "examples": [
+      {
+        "ja": "雨が降っています。",
+        "zh": "正在下雨。"
+      },
+      {
+        "ja": "だれが窓を開けましたか。",
+        "zh": "谁把窗户打开了？"
+      },
+      {
+        "ja": "私が行きます。",
+        "zh": "我去。"
+      }
+    ],
+    "references": [
+      "sources/grammar/n5.json#ga-subject",
+      "Original Chinese draft by Codex; not human-reviewed"
+    ]
+  },
+  "o": {
+    "status": "draft",
+    "source_hash": "bcab0dc2551d165d900894c81347803e39905b3ae3738bcc121fbb50685275d3",
+    "meanings": [
+      "提示动作对象",
+      "提示经过或离开的地点"
+    ],
+    "formation": "名词＋を",
+    "explanation": "常接在动作作用的对象后；与移动动词搭配时，也能表示经过的路线或离开的地点。",
+    "notes": "写作を，通常读作o。公園を散歩する强调在公园里走动。",
+    "examples": [
+      {
+        "ja": "毎朝パンを食べます。",
+        "zh": "我每天早晨吃面包。"
+      },
+      {
+        "ja": "姉は新しいかばんを買いました。",
+        "zh": "姐姐买了一个新包。"
+      },
+      {
+        "ja": "公園を散歩しました。",
+        "zh": "我在公园散步了。"
+      }
+    ],
+    "references": [
+      "sources/grammar/n5.json#o",
+      "Original Chinese draft by Codex; not human-reviewed"
+    ]
+  },
+  "ni-time": {
+    "status": "draft",
+    "source_hash": "22dd5f3fdd4c81678bbdf62540b849d03ef4b05f91333099b9f7341d1f60f4d0",
+    "meanings": [
+      "在……时间"
+    ],
+    "formation": "具体时间名词＋に",
+    "explanation": "表示动作发生的具体时间点，可用于钟点、日期、星期等。",
+    "notes": "今日、明日、毎日等相对时间通常不加に；星期名称后的に有时可省略。",
+    "examples": [
+      {
+        "ja": "毎朝7時に起きます。",
+        "zh": "我每天早上七点起床。"
+      },
+      {
+        "ja": "日曜日に友達と会います。",
+        "zh": "我星期天和朋友见面。"
+      },
+      {
+        "ja": "8月に国へ帰ります。",
+        "zh": "我八月回国。"
+      }
+    ],
+    "references": [
+      "sources/grammar/n5.json#ni-time",
+      "Original Chinese draft by Codex; not human-reviewed"
+    ]
+  },
+  "ni-destination": {
+    "status": "draft",
+    "source_hash": "06b0e934d16e9c9e52e9ffda249d50fbf756858b063f5dd06c36e56de92d65ad",
+    "meanings": [
+      "到……",
+      "去往……"
+    ],
+    "formation": "地点名词＋に＋行く／来る／帰る",
+    "explanation": "标记移动的目的地或到达点，常与去、来、回等动词搭配。",
+    "notes": "に偏重到达点，へ偏重方向；许多移动句中两者都能使用。",
+    "examples": [
+      {
+        "ja": "毎日バスで学校に行きます。",
+        "zh": "我每天坐公交车去学校。"
+      },
+      {
+        "ja": "夜10時に家に帰りました。",
+        "zh": "我晚上十点回到家了。"
+      },
+      {
+        "ja": "来月、姉が日本に来ます。",
+        "zh": "姐姐下个月来日本。"
+      }
+    ],
+    "references": [
+      "sources/grammar/n5.json#ni-destination",
+      "Original Chinese draft by Codex; not human-reviewed"
+    ]
+  },
+  "ni-location": {
+    "status": "draft",
+    "source_hash": "4296c668739177e8285b1bfd77ea3227a9e8f273d80a260662844fb0a80a5266",
+    "meanings": [
+      "在……（存在的地点）"
+    ],
+    "formation": "地点名词＋に＋ある／いる",
+    "explanation": "说明人或事物存在的位置，也可与住む等表示居住的动词搭配。",
+    "notes": "ある通常用于无生命事物，いる用于人或动物；活动发生的场所通常用で。",
+    "examples": [
+      {
+        "ja": "机の上に辞書があります。",
+        "zh": "桌子上有一本词典。"
+      },
+      {
+        "ja": "姉は東京に住んでいます。",
+        "zh": "姐姐住在东京。"
+      },
+      {
+        "ja": "猫は今どこにいますか。",
+        "zh": "猫现在在哪里？"
+      }
+    ],
+    "references": [
+      "sources/grammar/n5.json#ni-location",
+      "Original Chinese draft by Codex; not human-reviewed"
+    ]
+  },
+  "ni-indirect-object": {
+    "status": "draft",
+    "source_hash": "a0723afaedf42490a1df2a08abe29bed55e50cb91023bc575fe1b0a03afbb011",
+    "meanings": [
+      "向……",
+      "给……"
+    ],
+    "formation": "对象名词＋に",
+    "explanation": "标记动作指向的人或接受者，例如给人写信、借东西给人、给人打电话。",
+    "notes": "与もらう、借りる搭配时，に可标记给予者或借出者，需要结合动词判断。",
+    "examples": [
+      {
+        "ja": "母に手紙を書きます。",
+        "zh": "我要给妈妈写信。"
+      },
+      {
+        "ja": "妹に本を貸しました。",
+        "zh": "我把书借给妹妹了。"
+      },
+      {
+        "ja": "友達に電話をかけました。",
+        "zh": "我给朋友打了电话。"
+      }
+    ],
+    "references": [
+      "sources/grammar/n5.json#ni-indirect-object",
+      "Original Chinese draft by Codex; not human-reviewed"
+    ]
+  },
+  "ni-frequency": {
+    "status": "draft",
+    "source_hash": "6805e7472ffc06a0a5b3745e4e4a6be8e3f33717ffef241416ebfb90cba5d212",
+    "meanings": [
+      "每……",
+      "在……期间内"
+    ],
+    "formation": "时间段＋に＋次数或数量",
+    "explanation": "把一个时间段作为单位，说明动作重复的次数。",
+    "notes": "一週間に二回表示每周两次，不表示在某个具体时刻。",
+    "examples": [
+      {
+        "ja": "一週間に二回、プールで泳ぎます。",
+        "zh": "我每周在游泳池游两次泳。"
+      },
+      {
+        "ja": "母は一日に二回、犬の散歩をします。",
+        "zh": "妈妈每天遛狗两次。"
+      },
+      {
+        "ja": "一年に一度、家族で旅行します。",
+        "zh": "我们全家每年旅行一次。"
+      }
+    ],
+    "references": [
+      "sources/grammar/n5.json#ni-frequency",
+      "Original Chinese draft by Codex; not human-reviewed"
+    ]
+  },
+  "e": {
+    "status": "draft",
+    "source_hash": "d6a7e432e198c51f68b930ffe6265fb65cbb0747634145275eed8891fdad59b0",
+    "meanings": [
+      "往……",
+      "朝……"
+    ],
+    "formation": "地点名词＋へ",
+    "explanation": "标记移动的方向，用于去、来、回等动作。",
+    "notes": "写作へ，读作e；与に相比，更突出朝哪个方向移动。",
+    "examples": [
+      {
+        "ja": "夏休みに北海道へ行きます。",
+        "zh": "我暑假去北海道。"
+      },
+      {
+        "ja": "来週、国へ帰ります。",
+        "zh": "我下周回国。"
+      },
+      {
+        "ja": "どこへ行きますか。",
+        "zh": "你要去哪里？"
+      }
+    ],
+    "references": [
+      "sources/grammar/n5.json#e",
+      "Original Chinese draft by Codex; not human-reviewed"
+    ]
+  },
+  "de-place": {
+    "status": "draft",
+    "source_hash": "0a7f0a4c3639fd8d6a46200bc90903d64ea139b13be6fff69fb9c9d2c73c7c9f",
+    "meanings": [
+      "在……（动作发生的场所）"
+    ],
+    "formation": "地点名词＋で",
+    "explanation": "说明读书、买东西、等人等动作发生在哪里。",
+    "notes": "存在的位置通常用に，例如図書館に本がある。",
+    "examples": [
+      {
+        "ja": "図書館で本を読みます。",
+        "zh": "我在图书馆看书。"
+      },
+      {
+        "ja": "きのう、デパートでくつを買いました。",
+        "zh": "昨天我在百货商店买了鞋。"
+      },
+      {
+        "ja": "駅の前で友達を待ちました。",
+        "zh": "我在车站前等朋友了。"
+      }
+    ],
+    "references": [
+      "sources/grammar/n5.json#de-place",
+      "Original Chinese draft by Codex; not human-reviewed"
+    ]
+  },
+  "ageru-kureru-morau": {
+    "status": "draft",
+    "source_hash": "37fc6ae3038a18c36d93616dc845e9bbba1a141063af4a7debab57ee04e3b22a",
+    "meanings": [
+      "给别人",
+      "给我方",
+      "从别人处得到"
+    ],
+    "formation": "接受者＋に＋物品＋を＋あげる／给予者＋が＋物品＋を＋くれる／给予者＋に或から＋物品＋を＋もらう",
+    "explanation": "あげる从给予者角度表示给别人；くれる表示别人给说话人或说话人一方；もらう从接受者角度表示得到。",
+    "notes": "先确定给予者、接受者和说话人的立场，再选动词。",
+    "examples": [
+      {
+        "ja": "私は弟に古いゲームをあげた。",
+        "zh": "我把旧游戏给了弟弟。"
+      },
+      {
+        "ja": "姉が誕生日にかわいいかばんをくれました。",
+        "zh": "姐姐在我生日时送了我一个可爱的包。"
+      },
+      {
+        "ja": "友達から旅行のおみやげをもらった。",
+        "zh": "我收到了朋友旅行带回的礼物。"
+      }
+    ],
+    "references": [
+      "sources/grammar/n4.json#ageru-kureru-morau",
+      "Original Chinese draft by Codex; not human-reviewed"
+    ]
+  },
+  "te-ageru": {
+    "status": "draft",
+    "source_hash": "4a3e646b4bc0e0437258e7da79d12c1ed51cb3dfde65cea35de8e2bddcd48064",
+    "meanings": [
+      "为别人做……"
+    ],
+    "formation": "动词て形＋あげる",
+    "explanation": "从提供帮助者的角度说明替别人做某事，带有让对方受益的意味。",
+    "notes": "直接对长辈说てあげる有时显得居高临下；是否合适取决于关系和语境。",
+    "examples": [
+      {
+        "ja": "妹の宿題を手伝ってあげました。",
+        "zh": "我帮妹妹做作业了。"
+      },
+      {
+        "ja": "道に迷っている人に、駅までの行き方を教えてあげた。",
+        "zh": "我告诉了迷路的人去车站怎么走。"
+      },
+      {
+        "ja": "重そうだね。持ってあげようか。",
+        "zh": "看起来很重呢。要我帮你拿吗？"
+      }
+    ],
+    "references": [
+      "sources/grammar/n4.json#te-ageru",
+      "Original Chinese draft by Codex; not human-reviewed"
+    ]
+  },
+  "te-kureru": {
+    "status": "draft",
+    "source_hash": "8f23f4cf953c6158a3224725d7c105abe528787f7f72e4c65dceb7abba88865e",
+    "meanings": [
+      "别人为我或我方做……"
+    ],
+    "formation": "动词て形＋くれる",
+    "explanation": "从受益的一方描述他人的行动，常表达感谢或对帮助的认可。",
+    "notes": "主语通常是提供帮助的人；主语省略时由上下文补足。",
+    "examples": [
+      {
+        "ja": "友達が引っ越しを手伝ってくれた。",
+        "zh": "朋友帮我搬家了。"
+      },
+      {
+        "ja": "父が駅まで車で送ってくれました。",
+        "zh": "爸爸开车把我送到车站了。"
+      },
+      {
+        "ja": "母が毎朝お弁当を作ってくれます。",
+        "zh": "妈妈每天早上给我做便当。"
+      }
+    ],
+    "references": [
+      "sources/grammar/n4.json#te-kureru",
+      "Original Chinese draft by Codex; not human-reviewed"
+    ]
+  },
+  "te-morau": {
+    "status": "draft",
+    "source_hash": "b479421519422cb48cc3d45a4500c6a20982bd99acf35c87cda671735910f46e",
+    "meanings": [
+      "请别人做……",
+      "得到别人的帮助"
+    ],
+    "formation": "给予帮助的人＋に＋动词て形＋もらう",
+    "explanation": "从接受帮助者的角度描述别人为自己做某事，也可以表示请对方帮忙。",
+    "notes": "句子的主语通常是受益者；与てくれる相比，叙述视角不同。",
+    "examples": [
+      {
+        "ja": "先輩にレポートを見てもらった。",
+        "zh": "我请学长或学姐看了报告。"
+      },
+      {
+        "ja": "友達に写真を撮ってもらった。",
+        "zh": "我请朋友给我拍了照。"
+      },
+      {
+        "ja": "分からないところを先生に説明してもらいました。",
+        "zh": "我请老师解释了不懂的地方。"
+      }
+    ],
+    "references": [
+      "sources/grammar/n4.json#te-morau",
+      "Original Chinese draft by Codex; not human-reviewed"
+    ]
+  },
+  "te-kudasaru-te-itadaku": {
+    "status": "draft",
+    "source_hash": "89d89ca998bb47ae57f16df9541ee2a21d4768bb70b34b9d44f5f3f368a05c9f",
+    "meanings": [
+      "对方为我做……（尊敬）",
+      "承蒙对方做……（自谦）"
+    ],
+    "formation": "动词て形＋くださる／いただく",
+    "explanation": "てくださる尊敬提供帮助者，ていただく谦逊地表达自己得到帮助，常用于正式交流与感谢。",
+    "notes": "くださる一侧通常以帮助者为主语；いただく一侧通常以接受者为主语。",
+    "examples": [
+      {
+        "ja": "先生が私の作文を直してくださいました。",
+        "zh": "老师帮我修改了作文。"
+      },
+      {
+        "ja": "ホテルの方に、おいしい店を教えていただきました。",
+        "zh": "我向酒店工作人员请教了一家好吃的店。"
+      },
+      {
+        "ja": "今日は来ていただいて、ありがとうございました。",
+        "zh": "非常感谢您今天前来。"
+      }
+    ],
+    "references": [
+      "sources/grammar/n4.json#te-kudasaru-te-itadaku",
+      "Original Chinese draft by Codex; not human-reviewed"
+    ]
+  },
+  "te-iku": {
+    "status": "draft",
+    "source_hash": "fe0c03368d6080fe520658f7df7c3a99eab3cfe2a874860fa5b8aa500d64a5cc",
+    "meanings": [
+      "做了再去",
+      "带着去",
+      "今后逐渐……"
+    ],
+    "formation": "动词て形＋いく",
+    "explanation": "既可表示动作伴随离开说话人的方向，也可表示变化从现在向未来发展。",
+    "notes": "飲んでいく可表示喝了再走；具体含义需要根据动作与上下文判断。",
+    "examples": [
+      {
+        "ja": "雨が降りそうだから、傘を持っていきます。",
+        "zh": "看起来要下雨，所以我要带伞去。"
+      },
+      {
+        "ja": "これからもっと寒くなっていくでしょう。",
+        "zh": "今后大概会越来越冷吧。"
+      },
+      {
+        "ja": "時間があるなら、お茶を飲んでいきませんか。",
+        "zh": "如果有时间，要不要喝杯茶再走？"
+      }
+    ],
+    "references": [
+      "sources/grammar/n4.json#te-iku",
+      "Original Chinese draft by Codex; not human-reviewed"
+    ]
+  },
+  "te-kuru": {
+    "status": "draft",
+    "source_hash": "5d74555bfcf1f44d5ffe474ae9282266e467084290c7e979fe82b93d81048611",
+    "meanings": [
+      "做了再回来",
+      "逐渐……起来",
+      "一直……到现在"
+    ],
+    "formation": "动词て形＋くる",
+    "explanation": "既可表示向说话人方向移动，也可表示变化逐渐出现或从过去延续到现在。",
+    "notes": "行ってくる常用于表示出去后还会回来；与ていく的时间和方向视角不同。",
+    "examples": [
+      {
+        "ja": "ちょっとコンビニに行ってきます。",
+        "zh": "我去一下便利店就回来。"
+      },
+      {
+        "ja": "日本語が少しずつ分かってきた。",
+        "zh": "我渐渐开始能听懂或看懂日语了。"
+      },
+      {
+        "ja": "おなかがすいてきた。",
+        "zh": "我开始饿了。"
+      }
+    ],
+    "references": [
+      "sources/grammar/n4.json#te-kuru",
+      "Original Chinese draft by Codex; not human-reviewed"
+    ]
+  },
+  "te-shimau-chau": {
+    "status": "draft",
+    "source_hash": "437f82543fd9db20a39d22276d8d6de11750fcf10874fc2f09e85cb84c0e4884",
+    "meanings": [
+      "做完",
+      "不小心……",
+      "竟然……"
+    ],
+    "formation": "动词て形＋しまう；口语中てしまう→ちゃう、でしまう→じゃう",
+    "explanation": "可强调动作完成，也可表达遗憾、意外等情绪，不能一律翻译成“不小心”。",
+    "notes": "読んでしまう可以只是读完；忘れてしまう常带懊恼或遗憾。",
+    "examples": [
+      {
+        "ja": "電車に傘を忘れてしまいました。",
+        "zh": "我把伞忘在电车上了。"
+      },
+      {
+        "ja": "この本はおもしろくて、一晩で読んでしまった。",
+        "zh": "这本书很有意思，我一晚上就读完了。"
+      },
+      {
+        "ja": "あ、ケーキを全部食べちゃった。",
+        "zh": "啊，我把蛋糕全吃掉了。"
+      }
+    ],
+    "references": [
+      "sources/grammar/n4.json#te-shimau-chau",
+      "Original Chinese draft by Codex; not human-reviewed"
+    ]
+  },
+  "te-oku": {
+    "status": "draft",
+    "source_hash": "9fb49e2ad1e1f01b80a6aca0f0fe897129bc5a0d706e6233f674857852ace10d",
+    "meanings": [
+      "事先做好……",
+      "保持……状态"
+    ],
+    "formation": "动词て形＋おく",
+    "explanation": "为了后续需要而提前做某事，或让某个状态继续保持。",
+    "notes": "口语中ておく常缩约为とく；つけておく可表示保持开着。",
+    "examples": [
+      {
+        "ja": "旅行の前に、ホテルを予約しておきます。",
+        "zh": "我会在旅行前先订好酒店。"
+      },
+      {
+        "ja": "パーティーのために、飲み物を冷やしておいた。",
+        "zh": "我提前为聚会把饮料冰好了。"
+      },
+      {
+        "ja": "エアコンはつけておいてください。",
+        "zh": "请让空调保持开着。"
+      }
+    ],
+    "references": [
+      "sources/grammar/n4.json#te-oku",
+      "Original Chinese draft by Codex; not human-reviewed"
+    ]
+  },
+  "te-miru": {
+    "status": "draft",
+    "source_hash": "649942fec9e65f6d38afc3278953eb914961bbeb31da05bf4a0d5b262cd5f222",
+    "meanings": [
+      "试着做……看看"
+    ],
+    "formation": "动词て形＋みる",
+    "explanation": "实际尝试某个动作，以了解效果或体验结果。",
+    "notes": "这里的みる是辅助动词，通常写假名；与表示打算尝试的ようとする不同。",
+    "examples": [
+      {
+        "ja": "このシャツ、着てみてもいいですか。",
+        "zh": "我可以试穿这件衬衫吗？"
+      },
+      {
+        "ja": "新しくできたラーメン屋に行ってみた。",
+        "zh": "我去新开的拉面店尝试了一下。"
+      },
+      {
+        "ja": "日本の料理を自分で作ってみたいです。",
+        "zh": "我想试着自己做日本料理。"
+      }
+    ],
+    "references": [
+      "sources/grammar/n4.json#te-miru",
+      "Original Chinese draft by Codex; not human-reviewed"
+    ]
+  }
+}

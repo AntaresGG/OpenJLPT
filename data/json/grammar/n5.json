@@ -27,7 +27,36 @@
       "particle",
       "topic"
     ],
-    "notes": "Written は but pronounced 'wa'. It sets up what the sentence is about; the key information comes after it."
+    "notes": "Written は but pronounced 'wa'. It sets up what the sentence is about; the key information comes after it.",
+    "zh": {
+      "status": "draft",
+      "source_hash": "3176e50529d6bda7707f7a4b5a7963c699a1d9b8d96440156d6a0a474c9e3958",
+      "meanings": [
+        "至于……",
+        "提示话题"
+      ],
+      "formation": "名词＋は",
+      "explanation": "把某人或某事设为谈论的话题，再说明其情况。也可用于对比。",
+      "notes": "写作は，读作wa。话题不一定是句子的主语。",
+      "examples": [
+        {
+          "ja": "私は学生です。",
+          "zh": "我是学生。"
+        },
+        {
+          "ja": "今日は天気がいいです。",
+          "zh": "今天天气很好。"
+        },
+        {
+          "ja": "この本はおもしろいです。",
+          "zh": "这本书很有意思。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n5.json#wa",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "ga-subject",
@@ -56,7 +85,36 @@
     "tags": [
       "particle"
     ],
-    "notes": "Question words such as だれ and 何 take が, never は, when they are the subject. が is also used with 好き, ほしい, 上手 and わかる for the thing liked, wanted or understood."
+    "notes": "Question words such as だれ and 何 take が, never は, when they are the subject. が is also used with 好き, ほしい, 上手 and わかる for the thing liked, wanted or understood.",
+    "zh": {
+      "status": "draft",
+      "source_hash": "6fd39578a6caa28da48534dec9128ebf021b902198d26f46d18fcf4d14c5cf1b",
+      "meanings": [
+        "提示主语",
+        "突出新信息"
+      ],
+      "formation": "名词＋が",
+      "explanation": "用于说明谁或什么做某事，或介绍新出现的人、事物。回答“谁去”时，用私が行きます突出“我”。",
+      "notes": "疑问词作主语时通常用が；与は的区别需要结合上下文判断。",
+      "examples": [
+        {
+          "ja": "雨が降っています。",
+          "zh": "正在下雨。"
+        },
+        {
+          "ja": "だれが窓を開けましたか。",
+          "zh": "谁把窗户打开了？"
+        },
+        {
+          "ja": "私が行きます。",
+          "zh": "我去。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n5.json#ga-subject",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "o",
@@ -85,7 +143,36 @@
     "tags": [
       "particle"
     ],
-    "notes": "Written を but pronounced 'o'. With movement verbs such as 歩く, 散歩する and 出る it marks the route or the place being left."
+    "notes": "Written を but pronounced 'o'. With movement verbs such as 歩く, 散歩する and 出る it marks the route or the place being left.",
+    "zh": {
+      "status": "draft",
+      "source_hash": "bcab0dc2551d165d900894c81347803e39905b3ae3738bcc121fbb50685275d3",
+      "meanings": [
+        "提示动作对象",
+        "提示经过或离开的地点"
+      ],
+      "formation": "名词＋を",
+      "explanation": "常接在动作作用的对象后；与移动动词搭配时，也能表示经过的路线或离开的地点。",
+      "notes": "写作を，通常读作o。公園を散歩する强调在公园里走动。",
+      "examples": [
+        {
+          "ja": "毎朝パンを食べます。",
+          "zh": "我每天早晨吃面包。"
+        },
+        {
+          "ja": "姉は新しいかばんを買いました。",
+          "zh": "姐姐买了一个新包。"
+        },
+        {
+          "ja": "公園を散歩しました。",
+          "zh": "我在公园散步了。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n5.json#o",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "ni-time",
@@ -115,7 +202,35 @@
       "particle",
       "time"
     ],
-    "notes": "Used with clock times, dates, days of the week and months. Relative words such as 今日, 明日, 毎日 and 来週 take no に."
+    "notes": "Used with clock times, dates, days of the week and months. Relative words such as 今日, 明日, 毎日 and 来週 take no に.",
+    "zh": {
+      "status": "draft",
+      "source_hash": "22dd5f3fdd4c81678bbdf62540b849d03ef4b05f91333099b9f7341d1f60f4d0",
+      "meanings": [
+        "在……时间"
+      ],
+      "formation": "具体时间名词＋に",
+      "explanation": "表示动作发生的具体时间点，可用于钟点、日期、星期等。",
+      "notes": "今日、明日、毎日等相对时间通常不加に；星期名称后的に有时可省略。",
+      "examples": [
+        {
+          "ja": "毎朝7時に起きます。",
+          "zh": "我每天早上七点起床。"
+        },
+        {
+          "ja": "日曜日に友達と会います。",
+          "zh": "我星期天和朋友见面。"
+        },
+        {
+          "ja": "8月に国へ帰ります。",
+          "zh": "我八月回国。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n5.json#ni-time",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "ni-destination",
@@ -144,7 +259,36 @@
     "tags": [
       "particle"
     ],
-    "notes": "Close in meaning to へ. に puts the focus on the arrival point, へ on the direction."
+    "notes": "Close in meaning to へ. に puts the focus on the arrival point, へ on the direction.",
+    "zh": {
+      "status": "draft",
+      "source_hash": "06b0e934d16e9c9e52e9ffda249d50fbf756858b063f5dd06c36e56de92d65ad",
+      "meanings": [
+        "到……",
+        "去往……"
+      ],
+      "formation": "地点名词＋に＋行く／来る／帰る",
+      "explanation": "标记移动的目的地或到达点，常与去、来、回等动词搭配。",
+      "notes": "に偏重到达点，へ偏重方向；许多移动句中两者都能使用。",
+      "examples": [
+        {
+          "ja": "毎日バスで学校に行きます。",
+          "zh": "我每天坐公交车去学校。"
+        },
+        {
+          "ja": "夜10時に家に帰りました。",
+          "zh": "我晚上十点回到家了。"
+        },
+        {
+          "ja": "来月、姉が日本に来ます。",
+          "zh": "姐姐下个月来日本。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n5.json#ni-destination",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "ni-location",
@@ -173,7 +317,35 @@
     "tags": [
       "particle"
     ],
-    "notes": "Used with ある, いる and 住む. For the place where an action happens (eat, study, play), use で instead."
+    "notes": "Used with ある, いる and 住む. For the place where an action happens (eat, study, play), use で instead.",
+    "zh": {
+      "status": "draft",
+      "source_hash": "4296c668739177e8285b1bfd77ea3227a9e8f273d80a260662844fb0a80a5266",
+      "meanings": [
+        "在……（存在的地点）"
+      ],
+      "formation": "地点名词＋に＋ある／いる",
+      "explanation": "说明人或事物存在的位置，也可与住む等表示居住的动词搭配。",
+      "notes": "ある通常用于无生命事物，いる用于人或动物；活动发生的场所通常用で。",
+      "examples": [
+        {
+          "ja": "机の上に辞書があります。",
+          "zh": "桌子上有一本词典。"
+        },
+        {
+          "ja": "姉は東京に住んでいます。",
+          "zh": "姐姐住在东京。"
+        },
+        {
+          "ja": "猫は今どこにいますか。",
+          "zh": "猫现在在哪里？"
+        }
+      ],
+      "references": [
+        "sources/grammar/n5.json#ni-location",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "ni-indirect-object",
@@ -202,7 +374,36 @@
     "tags": [
       "particle"
     ],
-    "notes": "Common with あげる, 貸す, 教える, 見せる, 電話をかける and 会う. With もらう and 借りる, に marks the person you get something from."
+    "notes": "Common with あげる, 貸す, 教える, 見せる, 電話をかける and 会う. With もらう and 借りる, に marks the person you get something from.",
+    "zh": {
+      "status": "draft",
+      "source_hash": "a0723afaedf42490a1df2a08abe29bed55e50cb91023bc575fe1b0a03afbb011",
+      "meanings": [
+        "向……",
+        "给……"
+      ],
+      "formation": "对象名词＋に",
+      "explanation": "标记动作指向的人或接受者，例如给人写信、借东西给人、给人打电话。",
+      "notes": "与もらう、借りる搭配时，に可标记给予者或借出者，需要结合动词判断。",
+      "examples": [
+        {
+          "ja": "母に手紙を書きます。",
+          "zh": "我要给妈妈写信。"
+        },
+        {
+          "ja": "妹に本を貸しました。",
+          "zh": "我把书借给妹妹了。"
+        },
+        {
+          "ja": "友達に電話をかけました。",
+          "zh": "我给朋友打了电话。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n5.json#ni-indirect-object",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "ni-frequency",
@@ -232,7 +433,36 @@
       "particle",
       "quantity"
     ],
-    "notes": "The period comes first, then に, then the number of times: 月に一回 (once a month)."
+    "notes": "The period comes first, then に, then the number of times: 月に一回 (once a month).",
+    "zh": {
+      "status": "draft",
+      "source_hash": "6805e7472ffc06a0a5b3745e4e4a6be8e3f33717ffef241416ebfb90cba5d212",
+      "meanings": [
+        "每……",
+        "在……期间内"
+      ],
+      "formation": "时间段＋に＋次数或数量",
+      "explanation": "把一个时间段作为单位，说明动作重复的次数。",
+      "notes": "一週間に二回表示每周两次，不表示在某个具体时刻。",
+      "examples": [
+        {
+          "ja": "一週間に二回、プールで泳ぎます。",
+          "zh": "我每周在游泳池游两次泳。"
+        },
+        {
+          "ja": "母は一日に二回、犬の散歩をします。",
+          "zh": "妈妈每天遛狗两次。"
+        },
+        {
+          "ja": "一年に一度、家族で旅行します。",
+          "zh": "我们全家每年旅行一次。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n5.json#ni-frequency",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "e",
@@ -261,7 +491,36 @@
     "tags": [
       "particle"
     ],
-    "notes": "Written へ but pronounced 'e'. Usually interchangeable with に for destinations; へ stresses the direction a little more."
+    "notes": "Written へ but pronounced 'e'. Usually interchangeable with に for destinations; へ stresses the direction a little more.",
+    "zh": {
+      "status": "draft",
+      "source_hash": "d6a7e432e198c51f68b930ffe6265fb65cbb0747634145275eed8891fdad59b0",
+      "meanings": [
+        "往……",
+        "朝……"
+      ],
+      "formation": "地点名词＋へ",
+      "explanation": "标记移动的方向，用于去、来、回等动作。",
+      "notes": "写作へ，读作e；与に相比，更突出朝哪个方向移动。",
+      "examples": [
+        {
+          "ja": "夏休みに北海道へ行きます。",
+          "zh": "我暑假去北海道。"
+        },
+        {
+          "ja": "来週、国へ帰ります。",
+          "zh": "我下周回国。"
+        },
+        {
+          "ja": "どこへ行きますか。",
+          "zh": "你要去哪里？"
+        }
+      ],
+      "references": [
+        "sources/grammar/n5.json#e",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "de-place",
@@ -290,7 +549,35 @@
     "tags": [
       "particle"
     ],
-    "notes": "Compare 教室にいます (being somewhere: に) with 教室で勉強します (doing something there: で)."
+    "notes": "Compare 教室にいます (being somewhere: に) with 教室で勉強します (doing something there: で).",
+    "zh": {
+      "status": "draft",
+      "source_hash": "0a7f0a4c3639fd8d6a46200bc90903d64ea139b13be6fff69fb9c9d2c73c7c9f",
+      "meanings": [
+        "在……（动作发生的场所）"
+      ],
+      "formation": "地点名词＋で",
+      "explanation": "说明读书、买东西、等人等动作发生在哪里。",
+      "notes": "存在的位置通常用に，例如図書館に本がある。",
+      "examples": [
+        {
+          "ja": "図書館で本を読みます。",
+          "zh": "我在图书馆看书。"
+        },
+        {
+          "ja": "きのう、デパートでくつを買いました。",
+          "zh": "昨天我在百货商店买了鞋。"
+        },
+        {
+          "ja": "駅の前で友達を待ちました。",
+          "zh": "我在车站前等朋友了。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n5.json#de-place",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "de-means",

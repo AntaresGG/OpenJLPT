@@ -65,6 +65,7 @@ def _to_vocab(raw: dict) -> Vocab:
         other_forms=raw.get("other_forms", []),
         other_readings=raw.get("other_readings", []),
         examples=_examples(raw),
+        zh=raw.get("zh"),
     )
 
 
@@ -95,6 +96,7 @@ def _to_grammar(raw: dict) -> Grammar:
         meaning=raw["meaning"],
         formation=raw["formation"],
         examples=_examples(raw),
+        zh=raw.get("zh"),
         tags=raw.get("tags", []),
         reading=raw.get("reading"),
         notes=raw.get("notes"),
@@ -242,14 +244,15 @@ def search_vocab(query: str, level: Optional[Level] = None, limit: Optional[int]
         # Romaji matches whole or as a prefix only: "eat" must not hit te-a-te (手当て).
         forms = [normalize(f) for f in (v.word, *v.other_forms, v.reading, *v.other_readings)]
         every = forms + [v.romaji]
+        chinese = v.zh.get("meanings", []) if v.zh and v.zh["status"] != "stale" else []
         glosses = [m.lower() for m in v.meanings]
         if q in every:
             score = 100
-        elif any(m == q or m == f"to {q}" for m in glosses):
+        elif q in chinese or any(m == q or m == f"to {q}" for m in glosses):
             score = 90
         elif any(f.startswith(q) for f in every):
             score = 60
-        elif any(whole_word.search(m) for m in glosses):
+        elif any(q in m for m in chinese) or any(whole_word.search(m) for m in glosses):
             score = 50
         elif any(q in f for f in forms):
             score = 30
@@ -271,7 +274,8 @@ def search_grammar(query: str, level: Optional[Level] = None, limit: Optional[in
     results = [
         g
         for g in get_grammar(level)
-        if any(q in normalize(f) for f in (g.pattern, g.reading or "", g.romaji, g.meaning, g.formation, *g.tags))
+        if any(q in normalize(f) for f in (g.pattern, g.reading or "", g.romaji, g.meaning, g.formation, *g.tags,
+            *(g.zh.get("meanings", []) if g.zh and g.zh["status"] != "stale" else [])))
     ]
     return results[:limit] if limit else results
 

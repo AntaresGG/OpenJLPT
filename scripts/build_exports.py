@@ -25,7 +25,7 @@ import genanki
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data", "json")
 LEVELS = ["N5", "N4", "N3", "N2", "N1"]
-REPO = "https://github.com/evanclan/OpenJLPT"
+REPO = "https://github.com/AntaresGG/OpenJLPT"
 
 # Fixed IDs so every release produces the same note types and decks.
 VOCAB_MODEL_ID = 1_730_100_001
@@ -152,14 +152,36 @@ def anki_furigana(text: str) -> str:
     return re.sub(r"\{([^|{}]+)\|([^|{}]+)\}", r" \1[\2]", esc(text))
 
 
+def chinese(entry: dict) -> dict:
+    zh = entry.get("zh") or {}
+    return zh if zh.get("status") != "stale" else {}
+
+
+def bilingual(entry: dict, english: str, key: str = "meanings") -> str:
+    zh = chinese(entry)
+    value = zh.get(key)
+    if key == "notes":
+        value = "\n".join(filter(None, [zh.get("explanation"), value]))
+    if not value:
+        return english
+    text = "；".join(value) if isinstance(value, list) else value
+    label = "中文已审核" if zh.get("status") == "reviewed" else "中文初稿"
+    return f"{text}（{label}） / {english}"
+
+
+def example_translation(entry: dict, example: dict) -> str:
+    text = next((x["zh"] for x in chinese(entry).get("examples", []) if x["ja"] == example.get("ja")), "")
+    return f"{text} / {example.get('en', '')}" if text else example.get("en", "")
+
+
 def vocab_note(v: dict, pos_labels: dict) -> genanki.Note:
     ex = (v.get("examples") or [{}])[0]
     return Note(
         "v:" + v["id"],
         model=VOCAB_MODEL,
         fields=[esc(v["word"]), esc(v["reading"]), esc(furigana(v["word"], v["reading"])), esc(v["romaji"]),
-                esc("; ".join(v["meanings"])), esc(", ".join(dict.fromkeys(pos_labels.get(p, p) for p in v.get("pos", [])))),
-                esc(ex.get("ja", "")), esc(ex.get("en", "")), v["level"], v["id"], anki_furigana(ex.get("furigana", ""))],
+                esc(bilingual(v, "; ".join(v["meanings"]))), esc(", ".join(dict.fromkeys(pos_labels.get(p, p) for p in v.get("pos", [])))),
+                esc(ex.get("ja", "")), esc(example_translation(v, ex)), v["level"], v["id"], anki_furigana(ex.get("furigana", ""))],
         tags=["OpenJLPT", "JLPT_" + v["level"], "vocab"],
     )
 
@@ -181,9 +203,9 @@ def grammar_note(g: dict) -> genanki.Note:
     return Note(
         "g:" + g["id"],
         model=GRAMMAR_MODEL,
-        fields=[esc(g["pattern"]), esc(g.get("reading", "")), esc(g["romaji"]), esc(g["meaning"]), esc(g["formation"]),
-                esc(e1.get("ja", "")), esc(e1.get("en", "")), esc(e2.get("ja", "")), esc(e2.get("en", "")),
-                esc(g.get("notes", "")), g["level"], g["id"]],
+        fields=[esc(g["pattern"]), esc(g.get("reading", "")), esc(g["romaji"]), esc(bilingual(g, g["meaning"])), esc(bilingual(g, g["formation"], "formation")),
+                esc(e1.get("ja", "")), esc(example_translation(g, e1)), esc(e2.get("ja", "")), esc(example_translation(g, e2)),
+                esc(bilingual(g, g.get("notes", ""), "notes")), g["level"], g["id"]],
         tags=["OpenJLPT", "JLPT_" + g["level"], "grammar"],
     )
 
@@ -239,7 +261,7 @@ def build_yomitan(out: str, version: str) -> str:
         updated = (json.load(f).get("sources", {}).get("jmdict", {}) or {}).get("created", "")
     # Yomitan offers an update when the index at indexUrl has a newer revision, so the
     # revision carries the data date: monthly rebuilds reach users without a new release.
-    site = os.environ.get("SITE_URL", "https://evanclan.github.io/OpenJLPT/").rstrip("/") + "/"
+    site = os.environ.get("SITE_URL", "https://AntaresGG.github.io/OpenJLPT/").rstrip("/") + "/"
     index = {
         "title": "OpenJLPT",
         "revision": f"{version}.{updated.replace('-', '')}" if updated else version,
@@ -271,7 +293,16 @@ def main() -> None:
     os.makedirs(out, exist_ok=True)
     with open(os.path.join(DATA, "meta.json"), encoding="utf-8") as f:
         version = json.load(f)["version"]
-    files = build_anki(out) + [build_yomitan(out, version)]
+    archive = os.path.join(out, "openjlpt-data.zip")
+    with zipfile.ZipFile(archive, "w", zipfile.ZIP_DEFLATED) as z:
+        data_dir = os.path.join(ROOT, "data")
+        for parent, _, names in os.walk(data_dir):
+            for name in names:
+                path = os.path.join(parent, name)
+                z.write(path, os.path.relpath(path, ROOT))
+        for name in ("LICENSE", "NOTICE.md"):
+            z.write(os.path.join(ROOT, name), name)
+    files = build_anki(out) + [build_yomitan(out, version), archive]
     for p in files:
         print(f"{os.path.getsize(p) / 1024:8.0f} KB  {os.path.relpath(p, ROOT)}")
 

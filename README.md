@@ -4,6 +4,8 @@
 
 # OpenJLPT
 
+Chinese fork: see [中文试点说明](README.zh-CN.md) for draft coverage, corrections and deployment.
+
 **The JLPT N5–N1 word, kanji and grammar lists: cleaned, cross-checked against JMdict, and free to use.**
 
 <!-- counts:line -->7,811 words · 2,383 kanji · 526 grammar points · example sentences with furigana for 93% of words<!-- /counts:line -->

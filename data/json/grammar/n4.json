@@ -26,7 +26,37 @@
     "tags": [
       "giving-receiving"
     ],
-    "notes": "くれる is used only when the receiver is the speaker or someone in the speaker's group. With もらう the giver can be marked with に or から."
+    "notes": "くれる is used only when the receiver is the speaker or someone in the speaker's group. With もらう the giver can be marked with に or から.",
+    "zh": {
+      "status": "draft",
+      "source_hash": "37fc6ae3038a18c36d93616dc845e9bbba1a141063af4a7debab57ee04e3b22a",
+      "meanings": [
+        "给别人",
+        "给我方",
+        "从别人处得到"
+      ],
+      "formation": "接受者＋に＋物品＋を＋あげる／给予者＋が＋物品＋を＋くれる／给予者＋に或から＋物品＋を＋もらう",
+      "explanation": "あげる从给予者角度表示给别人；くれる表示别人给说话人或说话人一方；もらう从接受者角度表示得到。",
+      "notes": "先确定给予者、接受者和说话人的立场，再选动词。",
+      "examples": [
+        {
+          "ja": "私は弟に古いゲームをあげた。",
+          "zh": "我把旧游戏给了弟弟。"
+        },
+        {
+          "ja": "姉が誕生日にかわいいかばんをくれました。",
+          "zh": "姐姐在我生日时送了我一个可爱的包。"
+        },
+        {
+          "ja": "友達から旅行のおみやげをもらった。",
+          "zh": "我收到了朋友旅行带回的礼物。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n4.json#ageru-kureru-morau",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "te-ageru",
@@ -55,7 +85,35 @@
     "tags": [
       "giving-receiving"
     ],
-    "notes": "Said directly to a superior it can sound condescending; use the humble お〜しましょうか (お持ちしましょうか) instead."
+    "notes": "Said directly to a superior it can sound condescending; use the humble お〜しましょうか (お持ちしましょうか) instead.",
+    "zh": {
+      "status": "draft",
+      "source_hash": "4a3e646b4bc0e0437258e7da79d12c1ed51cb3dfde65cea35de8e2bddcd48064",
+      "meanings": [
+        "为别人做……"
+      ],
+      "formation": "动词て形＋あげる",
+      "explanation": "从提供帮助者的角度说明替别人做某事，带有让对方受益的意味。",
+      "notes": "直接对长辈说てあげる有时显得居高临下；是否合适取决于关系和语境。",
+      "examples": [
+        {
+          "ja": "妹の宿題を手伝ってあげました。",
+          "zh": "我帮妹妹做作业了。"
+        },
+        {
+          "ja": "道に迷っている人に、駅までの行き方を教えてあげた。",
+          "zh": "我告诉了迷路的人去车站怎么走。"
+        },
+        {
+          "ja": "重そうだね。持ってあげようか。",
+          "zh": "看起来很重呢。要我帮你拿吗？"
+        }
+      ],
+      "references": [
+        "sources/grammar/n4.json#te-ageru",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "te-kureru",
@@ -84,7 +142,35 @@
     "tags": [
       "giving-receiving"
     ],
-    "notes": "The subject is the person doing the favor; the one who benefits is the speaker or someone close to them."
+    "notes": "The subject is the person doing the favor; the one who benefits is the speaker or someone close to them.",
+    "zh": {
+      "status": "draft",
+      "source_hash": "8f23f4cf953c6158a3224725d7c105abe528787f7f72e4c65dceb7abba88865e",
+      "meanings": [
+        "别人为我或我方做……"
+      ],
+      "formation": "动词て形＋くれる",
+      "explanation": "从受益的一方描述他人的行动，常表达感谢或对帮助的认可。",
+      "notes": "主语通常是提供帮助的人；主语省略时由上下文补足。",
+      "examples": [
+        {
+          "ja": "友達が引っ越しを手伝ってくれた。",
+          "zh": "朋友帮我搬家了。"
+        },
+        {
+          "ja": "父が駅まで車で送ってくれました。",
+          "zh": "爸爸开车把我送到车站了。"
+        },
+        {
+          "ja": "母が毎朝お弁当を作ってくれます。",
+          "zh": "妈妈每天早上给我做便当。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n4.json#te-kureru",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "te-morau",
@@ -113,7 +199,36 @@
     "tags": [
       "giving-receiving"
     ],
-    "notes": "The receiver of the favor is the subject, and the person who does the action is marked with に."
+    "notes": "The receiver of the favor is the subject, and the person who does the action is marked with に.",
+    "zh": {
+      "status": "draft",
+      "source_hash": "b479421519422cb48cc3d45a4500c6a20982bd99acf35c87cda671735910f46e",
+      "meanings": [
+        "请别人做……",
+        "得到别人的帮助"
+      ],
+      "formation": "给予帮助的人＋に＋动词て形＋もらう",
+      "explanation": "从接受帮助者的角度描述别人为自己做某事，也可以表示请对方帮忙。",
+      "notes": "句子的主语通常是受益者；与てくれる相比，叙述视角不同。",
+      "examples": [
+        {
+          "ja": "先輩にレポートを見てもらった。",
+          "zh": "我请学长或学姐看了报告。"
+        },
+        {
+          "ja": "友達に写真を撮ってもらった。",
+          "zh": "我请朋友给我拍了照。"
+        },
+        {
+          "ja": "分からないところを先生に説明してもらいました。",
+          "zh": "我请老师解释了不懂的地方。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n4.json#te-morau",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "te-kudasaru-te-itadaku",
@@ -144,7 +259,36 @@
       "honorific",
       "humble"
     ],
-    "notes": "くださる is the honorific version of くれる (ます-form: くださいます); いただく is the humble version of もらう."
+    "notes": "くださる is the honorific version of くれる (ます-form: くださいます); いただく is the humble version of もらう.",
+    "zh": {
+      "status": "draft",
+      "source_hash": "89d89ca998bb47ae57f16df9541ee2a21d4768bb70b34b9d44f5f3f368a05c9f",
+      "meanings": [
+        "对方为我做……（尊敬）",
+        "承蒙对方做……（自谦）"
+      ],
+      "formation": "动词て形＋くださる／いただく",
+      "explanation": "てくださる尊敬提供帮助者，ていただく谦逊地表达自己得到帮助，常用于正式交流与感谢。",
+      "notes": "くださる一侧通常以帮助者为主语；いただく一侧通常以接受者为主语。",
+      "examples": [
+        {
+          "ja": "先生が私の作文を直してくださいました。",
+          "zh": "老师帮我修改了作文。"
+        },
+        {
+          "ja": "ホテルの方に、おいしい店を教えていただきました。",
+          "zh": "我向酒店工作人员请教了一家好吃的店。"
+        },
+        {
+          "ja": "今日は来ていただいて、ありがとうございました。",
+          "zh": "非常感谢您今天前来。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n4.json#te-kudasaru-te-itadaku",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "te-iku",
@@ -174,7 +318,37 @@
       "change",
       "sequence"
     ],
-    "notes": "Movement or change away from the speaker, or from now toward the future. Compare 〜てくる."
+    "notes": "Movement or change away from the speaker, or from now toward the future. Compare 〜てくる.",
+    "zh": {
+      "status": "draft",
+      "source_hash": "fe0c03368d6080fe520658f7df7c3a99eab3cfe2a874860fa5b8aa500d64a5cc",
+      "meanings": [
+        "做了再去",
+        "带着去",
+        "今后逐渐……"
+      ],
+      "formation": "动词て形＋いく",
+      "explanation": "既可表示动作伴随离开说话人的方向，也可表示变化从现在向未来发展。",
+      "notes": "飲んでいく可表示喝了再走；具体含义需要根据动作与上下文判断。",
+      "examples": [
+        {
+          "ja": "雨が降りそうだから、傘を持っていきます。",
+          "zh": "看起来要下雨，所以我要带伞去。"
+        },
+        {
+          "ja": "これからもっと寒くなっていくでしょう。",
+          "zh": "今后大概会越来越冷吧。"
+        },
+        {
+          "ja": "時間があるなら、お茶を飲んでいきませんか。",
+          "zh": "如果有时间，要不要喝杯茶再走？"
+        }
+      ],
+      "references": [
+        "sources/grammar/n4.json#te-iku",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "te-kuru",
@@ -203,7 +377,37 @@
       "change",
       "sequence"
     ],
-    "notes": "Movement or change toward the speaker, or from the past up to now. 行ってきます literally means 'I'll go and come back.'"
+    "notes": "Movement or change toward the speaker, or from the past up to now. 行ってきます literally means 'I'll go and come back.'",
+    "zh": {
+      "status": "draft",
+      "source_hash": "5d74555bfcf1f44d5ffe474ae9282266e467084290c7e979fe82b93d81048611",
+      "meanings": [
+        "做了再回来",
+        "逐渐……起来",
+        "一直……到现在"
+      ],
+      "formation": "动词て形＋くる",
+      "explanation": "既可表示向说话人方向移动，也可表示变化逐渐出现或从过去延续到现在。",
+      "notes": "行ってくる常用于表示出去后还会回来；与ていく的时间和方向视角不同。",
+      "examples": [
+        {
+          "ja": "ちょっとコンビニに行ってきます。",
+          "zh": "我去一下便利店就回来。"
+        },
+        {
+          "ja": "日本語が少しずつ分かってきた。",
+          "zh": "我渐渐开始能听懂或看懂日语了。"
+        },
+        {
+          "ja": "おなかがすいてきた。",
+          "zh": "我开始饿了。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n4.json#te-kuru",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "te-shimau-chau",
@@ -234,7 +438,37 @@
       "regret",
       "casual"
     ],
-    "notes": "In speech 〜てしまう contracts to 〜ちゃう, and 〜でしまう to 〜じゃう (飲んじゃう)."
+    "notes": "In speech 〜てしまう contracts to 〜ちゃう, and 〜でしまう to 〜じゃう (飲んじゃう).",
+    "zh": {
+      "status": "draft",
+      "source_hash": "437f82543fd9db20a39d22276d8d6de11750fcf10874fc2f09e85cb84c0e4884",
+      "meanings": [
+        "做完",
+        "不小心……",
+        "竟然……"
+      ],
+      "formation": "动词て形＋しまう；口语中てしまう→ちゃう、でしまう→じゃう",
+      "explanation": "可强调动作完成，也可表达遗憾、意外等情绪，不能一律翻译成“不小心”。",
+      "notes": "読んでしまう可以只是读完；忘れてしまう常带懊恼或遗憾。",
+      "examples": [
+        {
+          "ja": "電車に傘を忘れてしまいました。",
+          "zh": "我把伞忘在电车上了。"
+        },
+        {
+          "ja": "この本はおもしろくて、一晩で読んでしまった。",
+          "zh": "这本书很有意思，我一晚上就读完了。"
+        },
+        {
+          "ja": "あ、ケーキを全部食べちゃった。",
+          "zh": "啊，我把蛋糕全吃掉了。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n4.json#te-shimau-chau",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "te-oku",
@@ -263,7 +497,36 @@
       "purpose",
       "state"
     ],
-    "notes": "In casual speech 〜ておく often becomes 〜とく (買っとく), and 〜でおく becomes 〜どく (読んどく)."
+    "notes": "In casual speech 〜ておく often becomes 〜とく (買っとく), and 〜でおく becomes 〜どく (読んどく).",
+    "zh": {
+      "status": "draft",
+      "source_hash": "9fb49e2ad1e1f01b80a6aca0f0fe897129bc5a0d706e6233f674857852ace10d",
+      "meanings": [
+        "事先做好……",
+        "保持……状态"
+      ],
+      "formation": "动词て形＋おく",
+      "explanation": "为了后续需要而提前做某事，或让某个状态继续保持。",
+      "notes": "口语中ておく常缩约为とく；つけておく可表示保持开着。",
+      "examples": [
+        {
+          "ja": "旅行の前に、ホテルを予約しておきます。",
+          "zh": "我会在旅行前先订好酒店。"
+        },
+        {
+          "ja": "パーティーのために、飲み物を冷やしておいた。",
+          "zh": "我提前为聚会把饮料冰好了。"
+        },
+        {
+          "ja": "エアコンはつけておいてください。",
+          "zh": "请让空调保持开着。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n4.json#te-oku",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "te-miru",
@@ -292,7 +555,35 @@
     "tags": [
       "attempt"
     ],
-    "notes": "Means trying something out to see the result, not making an effort to do something difficult."
+    "notes": "Means trying something out to see the result, not making an effort to do something difficult.",
+    "zh": {
+      "status": "draft",
+      "source_hash": "649942fec9e65f6d38afc3278953eb914961bbeb31da05bf4a0d5b262cd5f222",
+      "meanings": [
+        "试着做……看看"
+      ],
+      "formation": "动词て形＋みる",
+      "explanation": "实际尝试某个动作，以了解效果或体验结果。",
+      "notes": "这里的みる是辅助动词，通常写假名；与表示打算尝试的ようとする不同。",
+      "examples": [
+        {
+          "ja": "このシャツ、着てみてもいいですか。",
+          "zh": "我可以试穿这件衬衫吗？"
+        },
+        {
+          "ja": "新しくできたラーメン屋に行ってみた。",
+          "zh": "我去新开的拉面店尝试了一下。"
+        },
+        {
+          "ja": "日本の料理を自分で作ってみたいです。",
+          "zh": "我想试着自己做日本料理。"
+        }
+      ],
+      "references": [
+        "sources/grammar/n4.json#te-miru",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "te-aru",

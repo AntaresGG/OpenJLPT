@@ -28,7 +28,20 @@ export interface Example {
   tatoeba_id?: number;
 }
 
+export interface Chinese {
+  status: 'draft' | 'reviewed' | 'stale';
+  source_hash: string;
+  meanings: string[];
+  explanation?: string;
+  formation?: string;
+  notes?: string;
+  examples: { ja: string; zh: string }[];
+  references: string[];
+  reviewer?: string;
+}
+
 export interface Vocab {
+  zh?: Chinese;
   /** Stable ID (10 hex digits), assigned once and kept across data updates. */
   id: string;
   word: string;
@@ -69,6 +82,7 @@ export interface Kanji {
 }
 
 export interface Grammar {
+  zh?: Chinese;
   /** Stable ID, a slug of the romaji (e.g. `te-mo-ii`). */
   id: string;
   pattern: string;
@@ -245,12 +259,13 @@ export function searchVocab(query: string, options: SearchOptions | Level = {}):
     // Romaji matches whole or as a prefix only: "eat" must not hit te-a-te (手当て).
     const forms = [v.word, ...(v.other_forms ?? []), v.reading, ...(v.other_readings ?? [])].map(normalize);
     const all = [...forms, v.romaji];
+    const chinese = v.zh?.status !== 'stale' ? v.zh?.meanings ?? [] : [];
     const glosses = v.meanings.map((m) => m.toLowerCase());
     let score = 0;
     if (all.includes(q)) score = 100;
-    else if (glosses.some((m) => m === q || m === `to ${q}`)) score = 90;
+    else if (chinese.includes(q) || glosses.some((m) => m === q || m === `to ${q}`)) score = 90;
     else if (all.some((f) => f.startsWith(q))) score = 60;
-    else if (glosses.some((m) => wholeWord.test(m))) score = 50;
+    else if (chinese.some((m) => m.includes(q)) || glosses.some((m) => wholeWord.test(m))) score = 50;
     else if (forms.some((f) => f.includes(q))) score = 30;
     else if (glosses.some((m) => wordStart.test(m))) score = 20;
     if (score) scored.push([score, v]);
@@ -266,7 +281,7 @@ export function searchGrammar(query: string, options: SearchOptions | Level = {}
   const q = normalize(stripWave(query));
   if (!q) return [];
   const out = getGrammar(level).filter((g) =>
-    [g.pattern, g.reading ?? '', g.romaji, g.meaning, g.formation, ...g.tags].some((f) => normalize(f).includes(q)),
+    [g.pattern, g.reading ?? '', g.romaji, g.meaning, g.formation, ...g.tags, ...(g.zh?.status !== 'stale' ? g.zh?.meanings ?? [] : [])].some((f) => normalize(f).includes(q)),
   );
   return limit ? out.slice(0, limit) : out;
 }

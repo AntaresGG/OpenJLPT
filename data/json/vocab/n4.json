@@ -25,7 +25,19 @@
         "en": "Uh oh, I saved over it.",
         "tatoeba_id": 234770
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "294abea9e902006dd440d7117c13ee5986b8ad7a4a8a5921c9935d881973916e",
+      "meanings": [
+        "啊（感叹、注意到某事）"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/4fff6d0441",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "6a4011f27f",
@@ -51,7 +63,19 @@
         "en": "Oh, so that's how you do it.",
         "tatoeba_id": 9628722
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "b53e26b5edc220c675d844aeb4c70c6a236cbc13ba0baeae26a853a38293fd15",
+      "meanings": [
+        "那样"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/6a4011f27f",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "c3c3ac9f48",
@@ -81,7 +105,20 @@
         "en": "I've come to say goodbye.",
         "tatoeba_id": 226674
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "71874ba413da750ff05beeeb487eb690ec798d8ce46da933ef2b4f20faa9125b",
+      "meanings": [
+        "打招呼",
+        "问候"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/c3c3ac9f48",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "d1a343e501",
@@ -109,7 +146,20 @@
         "en": "Tennis is very popular among students.",
         "tatoeba_id": 202194
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "77ef118f17eb2cd463808c0e251ccf3477aa901ffdf7ae8539a2cd7488d24190",
+      "meanings": [
+        "之间",
+        "期间"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/d1a343e501",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "54e1f7a772",
@@ -138,7 +188,20 @@
         "en": "This white coat will look very nice on you.",
         "tatoeba_id": 220206
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "335693b9aac5433f88670a5fb6a7e2dd7eaee25319faaf9b670f5f452e023078",
+      "meanings": [
+        "合适",
+        "相配"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/54e1f7a772",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "2a6a55be8d",
@@ -169,7 +232,19 @@
         "en": "Is this baby a he or a she?",
         "tatoeba_id": 220868
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "07bf7f29f5c4815e8160eacd656fbfa36431570f264a05ba7fb1a76287b85986",
+      "meanings": [
+        "婴儿"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/2a6a55be8d",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "4a3152836b",
@@ -198,7 +273,20 @@
         "en": "I hope it will clear up soon.",
         "tatoeba_id": 193129
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "a1ad2bda15ed318cc024b42a175255c5a158a2584c2195d17f12ab7539ffddfe",
+      "meanings": [
+        "上升",
+        "升高"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/4a3152836b",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "e877021bf4",
@@ -228,7 +316,19 @@
         "en": "The baby is not capable of walking yet.",
         "tatoeba_id": 142193
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "5cf50acbee71c5b15b442591a20bf98a91da722c08cd00bdae0c42c4c5581a4c",
+      "meanings": [
+        "婴儿"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/e877021bf4",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "91f0d5ac9e",
@@ -257,7 +357,20 @@
         "en": "What day are you usually free?",
         "tatoeba_id": 74746
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "8db174f670624a9fdbca98bcd88248cc2730247456c7c0f65d1e67dd66f6f74c",
+      "meanings": [
+        "空出来",
+        "变空"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/91f0d5ac9e",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "628b6b8e9d",
@@ -285,7 +398,20 @@
         "en": "She is wearing accessories.",
         "tatoeba_id": 86846
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "20d0f4a5e1bb140126435bd00cdf431ced3f5d68ba31c54c53270b76c4ab4e54",
+      "meanings": [
+        "饰品",
+        "配饰"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/628b6b8e9d",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "f935952fed",
@@ -314,7 +440,20 @@
         "en": "The curriculum of this school is wide and shallow.",
         "tatoeba_id": 222608
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "66dac44fa55ee39e07649d1f2755c8ab1e37d650d41d2e09c991922852786000",
+      "meanings": [
+        "浅的",
+        "肤浅的"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/f935952fed",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "590fa58ca9",
@@ -342,7 +481,19 @@
         "en": "The fish tasted like salmon.",
         "tatoeba_id": 211436
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "c536cfd5167d90d3f2d914d2e554fed229e54d2a080db25950f377889be2d0e1",
+      "meanings": [
+        "味道"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/590fa58ca9",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "97bdb63259",
@@ -370,7 +521,19 @@
         "en": "Asia is much larger than Australia.",
         "tatoeba_id": 234480
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "02ac57eb005c6df0d5b079992ea80af6179bd74fbd284de1deaa18e1647a8334",
+      "meanings": [
+        "亚洲"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/97bdb63259",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "4c3461199c",
@@ -398,7 +561,19 @@
         "en": "I'm afraid it will be rainy tomorrow.",
         "tatoeba_id": 80447
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "86eae5d4b059229c2d2e169475fdc5cd955386ce6d0601a09aff996a719e2172",
+      "meanings": [
+        "明天（あす）"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/4c3461199c",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "7fe5e36942",
@@ -426,7 +601,20 @@
         "en": "Life is not all fun and games.",
         "tatoeba_id": 143985
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "42b7dd5cfda2e191d2281959d7e952dff2fa56985f743c51389a2fa5b231d1c5",
+      "meanings": [
+        "玩耍",
+        "游戏"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/7fe5e36942",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "8c98c01eff",
@@ -455,7 +643,19 @@
         "en": "Dozens of students gathered there.",
         "tatoeba_id": 203798
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "68c75c538d94c754010df05caa9e3014a2fdefdc59a76adf7844081e8a97ecc9",
+      "meanings": [
+        "聚集（自动词）"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/8c98c01eff",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "b00801af22",
@@ -484,7 +684,20 @@
         "en": "Ken collects old coins.",
         "tatoeba_id": 225146
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "5967a620dc9aa6cfd042a13fae31b1289c172db275b584fb07eba451631fa109",
+      "meanings": [
+        "收集",
+        "召集（他动词）"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/b00801af22",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "c1fb180c70",
@@ -512,7 +725,19 @@
         "en": "The mother of that child is an announcer.",
         "tatoeba_id": 230976
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "3226780f3173f616b7c730e0418fcf49d249a2b345be47916ca6dfafa980253c",
+      "meanings": [
+        "播音员"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/c1fb180c70",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "0fa879c73d",
@@ -540,7 +765,19 @@
         "en": "These birds migrate to North Africa in winter.",
         "tatoeba_id": 217817
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "ad966b5685c5dac5a40cf454702222e27835d5ad67371358f9b018629374ccf8",
+      "meanings": [
+        "非洲"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/0fa879c73d",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "b921645383",
@@ -568,7 +805,19 @@
         "en": "I have never gone to America.",
         "tatoeba_id": 161524
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "14eccdc02f73279f56b325f2ac0572a9f80f69e9960b2cf309cc44b17aba23c4",
+      "meanings": [
+        "美国"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/b921645383",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "1056f23586",
@@ -598,7 +847,19 @@
         "en": "Even if you are not to blame, you should apologize.",
         "tatoeba_id": 77695
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "939a3c65f6776655f2e2da16cf46b5644adee58dec7d151cf4a5ebf0b3ee2788",
+      "meanings": [
+        "道歉"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/1056f23586",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "ab0767b2f7",
@@ -626,7 +887,19 @@
         "en": "Do you have any non-alcoholic drinks?",
         "tatoeba_id": 229946
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "0476c553d3f2619db1601ce700b6e07de8333d946d3bd4e3c67dea8ce165d9c1",
+      "meanings": [
+        "酒精"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/ab0767b2f7",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "88d4196563",
@@ -642,7 +915,20 @@
       "vs",
       "vi"
     ],
-    "jmdict_id": 1019420
+    "jmdict_id": 1019420,
+    "zh": {
+      "status": "draft",
+      "source_hash": "7a734e0e7f64b7ec6d39b752a3dae9f4ba997a2f47d24f3b1a95184c6d547b6e",
+      "meanings": [
+        "兼职",
+        "打工"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/88d4196563",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "d06643e4e1",
@@ -673,7 +959,20 @@
         "en": "I feel at ease about it.",
         "tatoeba_id": 160396
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "25167463221d86e61891bec2f5796d93f621ff1dc3693529deda93be3a636152",
+      "meanings": [
+        "安心",
+        "放心"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/d06643e4e1",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "160a8399af",
@@ -702,7 +1001,19 @@
         "en": "Is it safe to swim in this river?",
         "tatoeba_id": 220834
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "aa6e57fef5de10f9c6d5425885bba5377a0c1244edb2e6526c18cdda56ead2fc",
+      "meanings": [
+        "安全"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/160a8399af",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "367da027cb",
@@ -730,7 +1041,19 @@
         "en": "Guys that handsome are few and far between.",
         "tatoeba_id": 75578
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "6e9cff5134680c1867437545201a2daa7f3810108a18c17571d6adc8b92a051d",
+      "meanings": [
+        "那样的（后接名词）"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/367da027cb",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "52a79a5d69",
@@ -760,7 +1083,20 @@
         "en": "May I show you around?",
         "tatoeba_id": 224013
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "e6d1a534191999d116b1fe21bb4567304096be9fa4859ac6ca51cd00f6adfc2f",
+      "meanings": [
+        "引导",
+        "介绍"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/52a79a5d69",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "629362dbfc",
@@ -788,7 +1124,20 @@
         "en": "I would like to place an order for the following.",
         "tatoeba_id": 191220
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "cec8f9a5a173aeaef9135d99619c16438361f07de57db98ca0b3459185d77284",
+      "meanings": [
+        "以下",
+        "不超过（包含界限数）"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/629362dbfc",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "da4198f39c",
@@ -816,7 +1165,20 @@
         "en": "Nothing was to be seen but the blue sky.",
         "tatoeba_id": 142575
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "598281cd67a798c141d06d27481f7819af068712a5315f9e391bbbb4bed646ca",
+      "meanings": [
+        "以外",
+        "除……之外"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/da4198f39c",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "20044dd689",
@@ -844,7 +1206,19 @@
         "en": "I intended to study medicine in America.",
         "tatoeba_id": 161527
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "7c06b5060638540e4734d034e44cd8ecd3bbae3caaf7df93c8576acfda15bc5a",
+      "meanings": [
+        "医学"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/20044dd689",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "db01fd59d7",
@@ -873,7 +1247,20 @@
         "en": "We cannot exist without food.",
         "tatoeba_id": 144268
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "73fad96a7f6b379a27cf9308b1552684383dbb20262c66d1268286b4df480417",
+      "meanings": [
+        "活着",
+        "生存"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/db01fd59d7",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "ba5a03baf1",
@@ -901,7 +1288,20 @@
         "en": "I consider that a good opinion.",
         "tatoeba_id": 159778
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "12c9e004cde8b6b82642f1a7353e7a8248c7c0170204647fbeaa4cf05a9a0e07",
+      "meanings": [
+        "意见",
+        "看法"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/ba5a03baf1",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "372ce69caf",
@@ -929,7 +1329,19 @@
         "en": "I have no strength to lift this stone.",
         "tatoeba_id": 164718
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "e169774ec30d68855ac88b8c3b1a0e307dd04f10ce90d60e165a71874c843fde",
+      "meanings": [
+        "石头"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/372ce69caf",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "770aa71095",
@@ -961,7 +1373,19 @@
         "en": "I felt bad about picking on him.",
         "tatoeba_id": 153660
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "c29eb87bd55acef3135c103b99377995feefe1297fd9d65bacd2dba1ac4f9c5c",
+      "meanings": [
+        "欺负"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/770aa71095",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "13ab63d79a",
@@ -990,7 +1414,20 @@
         "en": "Try not to spend more money than is necessary.",
         "tatoeba_id": 85431
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "cbf34db24a25509cfde4e556921a2074b3140422a4f34a8b420ceb594af5be04",
+      "meanings": [
+        "以上（包含界限数）",
+        "到此为止"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/13ab63d79a",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "05b5de61ab",
@@ -1020,7 +1457,20 @@
         "en": "Bring me some water, and be quick about it.",
         "tatoeba_id": 143705
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "0aa130e96b677b90d13cf367ebf79404994ff932de6d2e4315600d72de868709",
+      "meanings": [
+        "赶快",
+        "赶时间"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/05b5de61ab",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "6dbf756da1",
@@ -1049,7 +1499,19 @@
         "en": "I have enclosed your order form.",
         "tatoeba_id": 83397
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "da06905f3880e1f09d12891f3c09f9598983b1ff96e1a91a35c3c58edb6afe14",
+      "meanings": [
+        "做（する的自谦语）"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/6dbf756da1",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "47cc7185d5",
@@ -1081,7 +1543,20 @@
         "en": "You've been very good to me.",
         "tatoeba_id": 200584
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "bd541e6ec97f14d9b3c57dbc2fa22819c6728e5721684ff1d6f68f179f3c6482",
+      "meanings": [
+        "领受",
+        "吃喝（自谦表达）"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/47cc7185d5",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "bf82bb12d2",
@@ -1110,7 +1585,19 @@
         "en": "Try to exercise at least once a week.",
         "tatoeba_id": 148148
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "e7281b29fa64ce8888ee2ff0f7fb2ec0e350ab89d47426dab3e0d1e55ba19d7f",
+      "meanings": [
+        "一次"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/bf82bb12d2",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "cf69ef2274",
@@ -1140,7 +1627,20 @@
         "en": "Study harder from now on.",
         "tatoeba_id": 172426
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "1df9a7c1580e863f73515984c392cca422c51c7d4c90f420b46e611147c1be05",
+      "meanings": [
+        "拼命",
+        "全力以赴"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/cf69ef2274",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "95f7288e1b",
@@ -1170,7 +1670,20 @@
         "en": "Even if it takes me the whole day, I will do the typing.",
         "tatoeba_id": 77696
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "d008aa7a27cda65421c8f075037afab141ce5a54506084c20025c990b5198bca",
+      "meanings": [
+        "满",
+        "很多"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/95f7288e1b",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "3de1fe452d",
@@ -1199,7 +1712,19 @@
         "en": "This thread tangles easily.",
         "tatoeba_id": 221737
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "78e3dd7865b906c3a467d560d601d57f6334a40510c921a72667c980336aaf17",
+      "meanings": [
+        "线"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/3de1fe452d",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "556e3e0d99",
@@ -1228,7 +1753,19 @@
         "en": "I'll finish the work in a week or less.",
         "tatoeba_id": 190564
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "787b6fc1c7cd87ea5e1af22187e4505e674a582ecc39e0abadd4f96eb6e70685",
+      "meanings": [
+        "以内（包含界限）"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/556e3e0d99",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "11d4a3118b",
@@ -1255,7 +1792,20 @@
         "en": "I would rather live alone in the country.",
         "tatoeba_id": 158823
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "a88b5ab6ecfaf0a2eb2f6d8c6710b5b7fe350a2bc3dc329b07770542d12d438f",
+      "meanings": [
+        "乡下",
+        "故乡"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/11d4a3118b",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "877a39a99f",
@@ -1284,7 +1834,20 @@
         "en": "We had hoped that the rain would stop before noon.",
         "tatoeba_id": 189672
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "3e92157486973df0f0cfc8f5b03e5ce690693085a65deb01dec27ee04731a984",
+      "meanings": [
+        "祈祷",
+        "祝愿"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/877a39a99f",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "bc25dff617",
@@ -1300,7 +1863,21 @@
       "v5aru",
       "vi"
     ],
-    "jmdict_id": 1000940
+    "jmdict_id": 1000940,
+    "zh": {
+      "status": "draft",
+      "source_hash": "a7287b5c2f8e423ede7e08338d5736b6f7544148f656f010505e2922c89d0803",
+      "meanings": [
+        "在",
+        "来",
+        "去（尊敬语）"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/bc25dff617",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "833af5347e",
@@ -1330,7 +1907,19 @@
         "en": "I will grow many trees here.",
         "tatoeba_id": 224479
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "a520866e7d6c1c943bdf00e8905d9d6f656804ce86b7216c60cfad0b3a082ca0",
+      "meanings": [
+        "种植"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/833af5347e",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "bf69a1d9f2",
@@ -1361,7 +1950,19 @@
         "en": "On account of illness, I couldn't call on you today.",
         "tatoeba_id": 85264
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "5b9de7ad17386fd607726a75f6232a7eaf2abc0993f4e2e01d50e48606a560f0",
+      "meanings": [
+        "拜访（此处为自谦用法）"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/bf69a1d9f2",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "4bdd43130b",
@@ -1369,14 +1970,12 @@
     "reading": "うけつけ",
     "romaji": "uketsuke",
     "meanings": [
-      "receipt"
+      "reception (desk)",
+      "receptionist"
     ],
     "level": "N4",
     "pos": [
-      "n",
-      "vs",
-      "vt",
-      "vi"
+      "n"
     ],
     "jmdict_id": 1588060,
     "examples": [
@@ -1392,7 +1991,30 @@
         "en": "Where is the admission's office?",
         "tatoeba_id": 122083
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "2854db78d266cb8981a3a5ddc8bf99adc284d1a879462bb6e183b5d5bcfcdeee",
+      "meanings": [
+        "接待处",
+        "接待人员"
+      ],
+      "examples": [
+        {
+          "ja": "受付で入院の手続きをしてください。",
+          "zh": "请在接待处办理住院手续。"
+        },
+        {
+          "ja": "入院の受付窓口はどこですか。",
+          "zh": "办理住院手续的窗口在哪里？"
+        }
+      ],
+      "references": [
+        "upstream vocab/n4/4bdd43130b",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ],
+      "explanation": "本卡选择接待处或接待人员的义项。受理、接收也是相关用法，但现有两个例句指办理入院手续的窗口。"
+    }
   },
   {
     "id": "20989c0cb5",
@@ -1421,7 +2043,20 @@
         "en": "Are you going to take the entrance examination?",
         "tatoeba_id": 122073
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "3af2051c6f3788f120758521752935666b0259a9079a6c8132fac50e39c287f8",
+      "meanings": [
+        "接受",
+        "参加（考试、课程等）"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/20989c0cb5",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "e54d4fef93",
@@ -1449,7 +2084,20 @@
         "en": "I felt something move in the house.",
         "tatoeba_id": 158029
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "2f328fdae43d7e0e4ed007eb9a82bc4f0f72d9602a4028933f624357e28acae3",
+      "meanings": [
+        "动",
+        "移动"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/e54d4fef93",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "da1a2f9721",
@@ -1481,7 +2129,19 @@
         "en": "He hates falsehood more than anything else.",
         "tatoeba_id": 111477
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "2d668b5b25662ed1066f803b75494f1abadb012de376c828edf9d7736d9c615a",
+      "meanings": [
+        "谎言"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/da1a2f9721",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "76d4bcd098",
@@ -1512,7 +2172,20 @@
         "en": "Won't you come and see me next week?",
         "tatoeba_id": 78640
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "90e567362713d1bf0b73c9e9d2c24bbc2f29eb01432f67872c7012b3f0a02422",
+      "meanings": [
+        "之内",
+        "期间"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/76d4bcd098",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "e6f3a7d91a",
@@ -1541,7 +2214,20 @@
         "en": "I was hitting the slots, and before I knew it, it's this time already.",
         "tatoeba_id": 74669
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "8dfcfada905644b954a8be311c019158bdb47cdb883fe717e9ab0c5cb8695bb8",
+      "meanings": [
+        "打",
+        "敲"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/e6f3a7d91a",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "0dd54894db",
@@ -1569,7 +2255,19 @@
         "en": "The sound of the violin is very sweet.",
         "tatoeba_id": 198358
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "39c6920efbe34a18fb0404916a3f0f2de7dc51816160fa956fcc8b5c1d7cb782",
+      "meanings": [
+        "美丽的"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/0dd54894db",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "69589e0288",
@@ -1598,7 +2296,20 @@
         "en": "Copy this page in your notebook.",
         "tatoeba_id": 223218
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "af4d841ab6f944c81ee8951aad0e93dd688fccef221695239af53bb05294a6fd",
+      "meanings": [
+        "抄写",
+        "拍摄"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/69589e0288",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "c7362b5e02",
@@ -1627,7 +2338,20 @@
         "en": "Would you mind if I changed seats now?",
         "tatoeba_id": 172902
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "1d2e3aab5fe9797f38d3494595759b4dd98868d5a46b25da27e919cb450156e5",
+      "meanings": [
+        "转移",
+        "搬迁"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/c7362b5e02",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "78d94c404b",
@@ -1655,7 +2379,20 @@
         "en": "The little girl clung to her father's arm.",
         "tatoeba_id": 209168
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "3a8b21ec47f9bded81cc3dc80f56b0e2af6fa51cdacd7672f5397a1542761bdf",
+      "meanings": [
+        "胳膊",
+        "手臂"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/78d94c404b",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "6d3b3fe0a4",
@@ -1686,7 +2423,19 @@
         "en": "She's very good at tennis, but she's not much of a swimmer.",
         "tatoeba_id": 92065
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "22af2caca19fcb61d7c07bda11dc943603ebd0477f7ffb6e6a29e02c9b64b5b3",
+      "meanings": [
+        "好吃的"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/6d3b3fe0a4",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "1b5a6286d6",
@@ -1714,7 +2463,20 @@
         "en": "He can pull strings for you.",
         "tatoeba_id": 78346
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "1e0c0a416201465e4b6c5d686b840e9da753364c177ff6c661f66d2cbe950f8f",
+      "meanings": [
+        "背面",
+        "反面"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/1b5a6286d6",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "11222e25b5",
@@ -1742,7 +2504,20 @@
         "en": "Where's the aisle for vitamins?",
         "tatoeba_id": 197587
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "9171bf7f333521f1907fb91a77863c946284276a07a4e54b669c2dccbe7e2874",
+      "meanings": [
+        "售货处",
+        "柜台"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/11222e25b5",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "c67a9658b1",
@@ -1773,7 +2548,19 @@
         "en": "I am glad to hear the news.",
         "tatoeba_id": 159965
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "3b2eade956724aeee2b2b40ed885fbc894d20397fc82ae93b2723e02ea8dbb19",
+      "meanings": [
+        "高兴的"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/c67a9658b1",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "533b248802",
@@ -1801,7 +2588,20 @@
         "en": "Oh, I'll probably just stay home.",
         "tatoeba_id": 228059
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "e05e8882ea1a3d860f1037115b80a8c911282f15753a6a93e9c45919a6c73970",
+      "meanings": [
+        "嗯",
+        "是（随意表达）"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/533b248802",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "44f33984fb",
@@ -1832,7 +2632,20 @@
         "en": "My father drives very well.",
         "tatoeba_id": 84468
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "729df30ad5006159a9188b46bf93990f16f8f5cc8e72ac0606c4e408cc01922a",
+      "meanings": [
+        "驾驶",
+        "运转"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/44f33984fb",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "9f6e25d5e2",
@@ -1860,7 +2673,19 @@
         "en": "The driver turned the wheel to the right.",
         "tatoeba_id": 189442
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "113f0a8a9ab522a55c25710a231b3f7d9bb0f28e98d660eeb2cfbef240a48673",
+      "meanings": [
+        "司机"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/9f6e25d5e2",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "47487b1e85",
@@ -1890,7 +2715,19 @@
         "en": "The exercise took years off me.",
         "tatoeba_id": 212292
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "e6e42241495d46b9057875352edd854edcc802f8d9fbec0f0b3f6793e7d3256c",
+      "meanings": [
+        "运动"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/47487b1e85",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "3139c14254",
@@ -1917,7 +2754,19 @@
         "en": "People who are not in a hurry stand on the right side of the escalator.",
         "tatoeba_id": 182599
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "e84705fd543bc44171bb8dbc2f87eb024b14bd41c0f6608e4d7c8232e809a399",
+      "meanings": [
+        "自动扶梯"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/3139c14254",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "bb01cb559f",
@@ -1946,7 +2795,19 @@
         "en": "The branches were laden with oranges.",
         "tatoeba_id": 168187
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "a72c2109f56bcbabb305dcbee175e6309dce677a7e14a86d421cf2e3d3def413",
+      "meanings": [
+        "树枝"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/bb01cb559f",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "60c9784974",
@@ -1975,7 +2836,19 @@
         "en": "Choose between these two.",
         "tatoeba_id": 220244
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "7d8dc843039c5a9b8b1e368cffc99faeb2b55f8eb27d000261ded1c100904cc3",
+      "meanings": [
+        "选择"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/60c9784974",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "5ceed9165d",
@@ -2007,7 +2880,21 @@
         "en": "Would you mind not smoking?",
         "tatoeba_id": 203408
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "2b2861ff742e6447c41a12f62443ca69422e180e5a359346190cd34fd14b7371",
+      "meanings": [
+        "客气",
+        "顾虑",
+        "克制"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/5ceed9165d",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "53c76e5c6e",
@@ -2039,7 +2926,21 @@
         "en": "Don't bother coming in this rain.",
         "tatoeba_id": 222939
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "c959dc24c7a3e1319da44b4f78d935236eb7822fb57822565408e63c751050de",
+      "meanings": [
+        "在",
+        "来",
+        "去（尊敬表达）"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/53c76e5c6e",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "12e7bd036b",
@@ -2067,7 +2968,20 @@
         "en": "Kate hardly ever celebrates her birthday.",
         "tatoeba_id": 225361
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "3bebe7353db470cc334f0a3b78ec71fc5b67f491db0796e8cee77f6b893472dd",
+      "meanings": [
+        "祝贺",
+        "贺礼"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/12e7bd036b",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "5c63f36f44",
@@ -2095,7 +3009,19 @@
         "en": "I wish I could buy a motorcycle.",
         "tatoeba_id": 227781
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "e64d4fe8350bffadd12c5809ab5dbef5c33082a37ed7c6d562c92b7e36110667",
+      "meanings": [
+        "摩托车"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/5c63f36f44",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "e5e5899ce2",
@@ -2126,7 +3052,20 @@
         "en": "I owe what I am to my father.",
         "tatoeba_id": 168056
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "8ccd5b4cfc9d8100ca9d409f43b31a5a1e4b633dcdf3f79c5a8afcdaa9db6745",
+      "meanings": [
+        "多亏",
+        "托……的福"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/e5e5899ce2",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "4d2128cddd",
@@ -2156,7 +3095,20 @@
         "en": "Something is wrong with the engine of this car.",
         "tatoeba_id": 221431
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "25ef432eaa51d0d0f28f0fc7c75659160487eba8e5d0f9892498da53fd91ac4b",
+      "meanings": [
+        "奇怪的",
+        "可笑的"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/4d2128cddd",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "a58874b751",
@@ -2186,7 +3138,19 @@
         "en": "My aunt is none the happier for her great wealth.",
         "tatoeba_id": 227567
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "56afcf441ffbe2016542c498a50d97fdfd900a1daa1b74505d1802eafe6081bf",
+      "meanings": [
+        "有钱人"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/a58874b751",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "4cfa8f43e2",
@@ -2213,7 +3177,19 @@
         "en": "The earth came into existence about five thousand million years ago.",
         "tatoeba_id": 126975
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "b55bb8aa1e5cf5b91f1ec8401bd08536a4014062b0a4a669a125abe63dfc383e",
+      "meanings": [
+        "亿"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/4cfa8f43e2",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "1065d7145c",
@@ -2240,7 +3216,19 @@
         "en": "I go up to the rooftop when I want to see the blue sky.",
         "tatoeba_id": 142578
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "4052329a3b5279e8bc3ebe2c97572a31ebc8aed9efd46815be8c9b304ade5d86",
+      "meanings": [
+        "屋顶平台"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/1065d7145c",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "ba001e2f36",
@@ -2267,7 +3255,19 @@
         "en": "I was given a nice present by my uncle.",
         "tatoeba_id": 161289
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "815acd13c296479ccfb07dfba25363bae3c5ce5c86999493e4d675da23a23e51",
+      "meanings": [
+        "礼物"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/ba001e2f36",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "af1dae5588",
@@ -2295,7 +3295,20 @@
         "en": "Will you drive me home?",
         "tatoeba_id": 149101
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "e16d7a500de28ca5eba7183ca1be91b520d1797ab6adbc972f05ce65daf4c633",
+      "meanings": [
+        "送",
+        "寄送"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/af1dae5588",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "ae8ce3986c",
@@ -2324,7 +3337,20 @@
         "en": "On Mondays, the buses are late more often than not.",
         "tatoeba_id": 175601
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "f1e49bce60c997fd1d6479b94edb84cf04a3e54396b71d6a95d749acbe50c009",
+      "meanings": [
+        "迟到",
+        "延误"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/ae8ce3986c",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "99de4451f7",
@@ -2354,7 +3380,19 @@
         "en": "Please wake me up at six tomorrow morning.",
         "tatoeba_id": 80506
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "9ba564244a7f75c55693b72701617f8ce0879944b547e2afa8dd684bcd0fec13",
+      "meanings": [
+        "叫醒（通常写作起こす）"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/99de4451f7",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "2139fab218",
@@ -2383,7 +3421,20 @@
         "en": "She reluctantly went by herself.",
         "tatoeba_id": 91333
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "a6084662073323c26e4025828243ba12cb54291d24d471eab4db988b5504e021",
+      "meanings": [
+        "进行",
+        "举行"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/2139fab218",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "2e0f32c097",
@@ -2413,7 +3464,20 @@
         "en": "Father is angry with me.",
         "tatoeba_id": 162826
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "dfbf31dde8c352392bc73f68fa51d7edf3c3bf0c955507f47c16f03b0dd5e8f0",
+      "meanings": [
+        "生气",
+        "发怒"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/2e0f32c097",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "3787755f33",
@@ -2440,7 +3504,19 @@
         "en": "I was afraid of being put into a closet.",
         "tatoeba_id": 158225
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "7979f68ad6015f1ffbd87eb685f6351e8994990e4166e04f9fc6910814be0ab0",
+      "meanings": [
+        "壁橱"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/3787755f33",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "1f5a7d8e07",
@@ -2468,7 +3544,20 @@
         "en": "I ask to see your daughter.",
         "tatoeba_id": 227020
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "d68eca99eda69a4bcf104cead3af55c25af5b6610ed2c5827af0cbdd8716fae1",
+      "meanings": [
+        "小姐",
+        "令爱"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/1f5a7d8e07",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "6693b4e9f7",
@@ -2496,7 +3585,20 @@
         "en": "How late are you open?",
         "tatoeba_id": 226889
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "b7ff32c3a2fbf8c5f26821397309a2bcdc862fa503ee39c9c44cd0171d4b02e8",
+      "meanings": [
+        "您家",
+        "贵府"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/6693b4e9f7",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "981ee66f59",
@@ -2525,7 +3627,20 @@
         "en": "The server was down.",
         "tatoeba_id": 2298216
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "c981a10a69f48e9bf0f64957247f70de8c1127e6abc04e0f7c9f7f6d31e2ba65",
+      "meanings": [
+        "落下",
+        "掉落（自动词）"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/981ee66f59",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "050024e2d9",
@@ -2557,7 +3672,19 @@
         "en": "Everything you said in your mail is just right - except the price.",
         "tatoeba_id": 232385
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "53adf27a46b916f0cab056a1471f1c8b15b9cd07802568c0f5077ff3c78f1401",
+      "meanings": [
+        "说（言う的尊敬语）"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/050024e2d9",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "b8630e0875",
@@ -2585,7 +3712,19 @@
         "en": "My husband is always reading in bed.",
         "tatoeba_id": 84999
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "488513866b8ec303a45bf37a0d1b278b298ff9db3b27d5c3b6d2461afd936cb8",
+      "meanings": [
+        "丈夫"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/b8630e0875",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "f2c38f9517",
@@ -2613,7 +3752,19 @@
         "en": "They short-changed me at that store.",
         "tatoeba_id": 230565
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "46ec1b9a5e3d2dc3063456bfbf5574fef8fd4b95e72d9d2eb281a1e61e65f66b",
+      "meanings": [
+        "找零"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/f2c38f9517",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "c6815e7618",
@@ -2642,7 +3793,19 @@
         "en": "She struck high notes on the piano.",
         "tatoeba_id": 91684
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "cab996ec13356f4bee162f6e15db91b2048f9ab2bc041f032c591c06fce767a4",
+      "meanings": [
+        "声音"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/c6815e7618",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "f786333cf9",
@@ -2672,7 +3835,20 @@
         "en": "Don't drop that cup.",
         "tatoeba_id": 213202
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "20c5ad37dad967a61f444dfcd0fd99f16005dd000d602401ae87ac03bbf4a450",
+      "meanings": [
+        "使掉落",
+        "弄丢（通常写作落とす）"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/f786333cf9",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "8c636a46f4",
@@ -2699,7 +3875,19 @@
         "en": "I think she is a good dancer.",
         "tatoeba_id": 153219
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "187511dcb68dddb774b5a589efbba5caafa24d6a9743120a6614a9fb198415fa",
+      "meanings": [
+        "舞蹈"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/8c636a46f4",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "3280103eb8",
@@ -2728,7 +3916,19 @@
         "en": "We did a lot of singing and dancing at the party.",
         "tatoeba_id": 198423
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "60f7dac6b5e710875b894c5dbc99eb90b8fb1f6370a7c2791f7116696bcf9b6e",
+      "meanings": [
+        "跳舞"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/3280103eb8",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "6d69734463",
@@ -2757,7 +3957,19 @@
         "en": "The man was surprised at the news.",
         "tatoeba_id": 208760
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "15c9e82e984362bd2759d816d0eab9ffe88a11cf689a7e9c54abf7f5f9553311",
+      "meanings": [
+        "吃惊"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/6d69734463",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "68ff489ea4",
@@ -2783,7 +3995,20 @@
         "en": "I would like to see the festival.",
         "tatoeba_id": 160417
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "5fa058b50345af1c260e76b2b5285f568f6f602a8af3d0c6b879f329bc2105b8",
+      "meanings": [
+        "节日",
+        "祭典"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/68ff489ea4",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "eb615955c8",
@@ -2810,7 +4035,20 @@
         "en": "The other day we went to ask after his brother.",
         "tatoeba_id": 141483
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "321dac9006f9c828f8187198cef5a46514a1134527e0101330cd41e513257064",
+      "meanings": [
+        "探病",
+        "慰问"
+      ],
+      "examples": [],
+      "references": [
+        "upstream vocab/n4/eb615955c8",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ]
+    }
   },
   {
     "id": "f586632207",
@@ -9861,28 +11099,49 @@
     "reading": "そう",
     "romaji": "sou",
     "meanings": [
-      "really"
+      "in that way",
+      "so"
     ],
     "level": "N4",
     "pos": [
-      "aux",
-      "adj-na"
+      "adv"
     ],
-    "jmdict_id": 1006610,
+    "jmdict_id": 2137720,
     "examples": [
       {
-        "ja": "まもなく雨が降りそうだ。",
-        "furigana": "まもなく{雨|あめ}が{降|ふ}りそうだ。",
-        "en": "It is going to rain soon.",
-        "tatoeba_id": 195298
+        "ja": "そう思います。",
+        "en": "I think so.",
+        "furigana": "そう{思|おも}います。"
       },
       {
-        "ja": "ひとみはとても楽しそうにみえた。",
-        "furigana": "ひとみはとても{楽|たの}しそうにみえた。",
-        "en": "Hitomi looked very happy.",
-        "tatoeba_id": 197488
+        "ja": "私もそうです。",
+        "en": "The same is true for me.",
+        "furigana": "{私|わたし}もそうです。"
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "57b65166bd62a3696b0ecdafca82fba559f8a160b08ad29de5ef8367bd6db92f",
+      "meanings": [
+        "那样",
+        "如此"
+      ],
+      "examples": [
+        {
+          "ja": "そう思います。",
+          "zh": "我也这样认为。"
+        },
+        {
+          "ja": "私もそうです。",
+          "zh": "我也是这样。"
+        }
+      ],
+      "references": [
+        "upstream vocab/n4/554ab81272",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ],
+      "explanation": "这里表示“那样、如此”，指前文所说的情况。不要与降りそうだ中表示“看起来要……”的辅助词混淆。"
+    }
   },
   {
     "id": "aa663833e4",
@@ -9890,7 +11149,8 @@
     "reading": "そうだん",
     "romaji": "soudan",
     "meanings": [
-      "to discuss"
+      "consultation",
+      "discussion"
     ],
     "level": "N4",
     "pos": [
@@ -9912,7 +11172,30 @@
         "en": "Let's get together and talk about the matter.",
         "tatoeba_id": 148113
       }
-    ]
+    ],
+    "zh": {
+      "status": "draft",
+      "source_hash": "b8d96da16731f7d08162f5c1d98664949e5c3c1cfefe6bd81a117af199d8c027",
+      "meanings": [
+        "商量",
+        "咨询"
+      ],
+      "examples": [
+        {
+          "ja": "あなたに相談したいことがあるの。",
+          "zh": "我有件事想和你商量。"
+        },
+        {
+          "ja": "集まってそのことを相談しよう。",
+          "zh": "我们聚在一起商量那件事吧。"
+        }
+      ],
+      "references": [
+        "upstream vocab/n4/aa663833e4",
+        "Original Chinese draft by Codex; not human-reviewed"
+      ],
+      "explanation": "相談是名词，后接する构成“商量、咨询”。向某人商量可说人に相談する。"
+    }
   },
   {
     "id": "ec43853e0f",
