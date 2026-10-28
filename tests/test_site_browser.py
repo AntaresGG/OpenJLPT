@@ -108,6 +108,38 @@ def test_site_chinese_search_downloads_and_mobile():
                 page.wait_for_timeout(100)
                 sync.expect(page.locator("#fc-front")).not_to_have_text("WRONG")
                 sync.expect(page.locator("#fc-status")).to_contain_text("0 / 674 learned")
+                # Deterministic random draws make ordering assertions non-flaky.
+                page.evaluate("Math.random = () => 0")
+                session_key = 'openjlpt:fc:vocab:N5:session'
+                before_shuffle = page.evaluate("key => JSON.parse(localStorage.getItem(key))", session_key)
+                progress_before = page.evaluate("localStorage.getItem('openjlpt:fc:vocab:N5')")
+                page.locator('#fc-shuffle').check()
+                shuffled = page.evaluate("key => JSON.parse(localStorage.getItem(key))", session_key)
+                assert shuffled['ids'][0] == before_shuffle['ids'][0]
+                assert shuffled['ids'][1:] != before_shuffle['ids'][1:]
+                assert sorted(shuffled['ids']) == sorted(before_shuffle['ids'])
+                assert shuffled['done'] == before_shuffle['done']
+                assert page.evaluate("localStorage.getItem('openjlpt:fc:vocab:N5')") == progress_before
+                page.reload()
+                sync.expect(page.locator('#fc-shuffle')).to_be_checked()
+                sync.expect(page.locator('#fc-status')).to_contain_text('N5 words')
+                assert page.evaluate("key => JSON.parse(localStorage.getItem(key))", session_key) == shuffled
+                page.locator('#fc-kind button[data-v="kanji"]').click()
+                sync.expect(page.locator('#fc-status')).to_contain_text('N5 kanji')
+                page.locator('#fc-kind button[data-v="vocab"]').click()
+                sync.expect(page.locator('#fc-status')).to_contain_text('N5 words')
+                assert page.evaluate("key => JSON.parse(localStorage.getItem(key))", session_key) == shuffled
+                page.locator('#fc-shuffle').uncheck()
+                ordered = page.evaluate("key => JSON.parse(localStorage.getItem(key))", session_key)
+                assert ordered['ids'] == before_shuffle['ids']
+                page.evaluate("Math.random = () => 0")
+                page.locator('#fc-shuffle').check()
+                page.locator('#fc-level button[data-v="N3"]').click()
+                sync.expect(page.locator('#fc-status')).to_contain_text('N3 words')
+                new_session = page.evaluate("JSON.parse(localStorage.getItem('openjlpt:fc:vocab:N3:session'))")
+                source_rows = page.request.get('http://127.0.0.1:8765/data/vocab-n3.json').json()
+                assert len(new_session['ids']) == len(set(new_session['ids'])) == 20
+                assert set(new_session['ids']) != {row[0] for row in source_rows[:20]}
                 assert not errors, errors
             finally:
                 browser.close()

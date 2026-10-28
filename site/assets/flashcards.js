@@ -3,7 +3,7 @@
   'use strict';
   var BOXES = [0, 1, 3, 7, 16, 35]; // days until the next review, per box
   var DAY = 86400000;
-  var state = { level: 'N5', kind: 'vocab', deck: [], queue: [], progress: {}, current: null, flipped: false, done: 0 };
+  var state = { level: 'N5', kind: 'vocab', deck: [], queue: [], progress: {}, current: null, flipped: false, done: 0, shuffle: false };
   var requestId = 0;
 
   function storageKey() { return 'openjlpt:fc:' + state.kind + ':' + state.level; }
@@ -16,7 +16,7 @@
   function saveSession() {
     var ids = (state.current ? [state.current] : []).concat(state.queue).map(function (row) { return row[0]; });
     try {
-      localStorage.setItem(storageKey() + ':session', JSON.stringify({ day: new Date().toDateString(), ids: ids, done: state.done, flipped: state.flipped }));
+      localStorage.setItem(storageKey() + ':session', JSON.stringify({ day: new Date().toDateString(), ids: ids, done: state.done, flipped: state.flipped, shuffle: state.shuffle }));
     } catch (e) { /* private mode */ }
   }
   function restoreSession(rows) {
@@ -60,6 +60,7 @@
         if (saved) {
           next();
           if (saved.flipped) flip();
+          if (!!saved.shuffle !== state.shuffle) orderRemaining();
           return;
         }
         var now = Date.now();
@@ -69,7 +70,7 @@
           if (!p) fresh.push(row);
           else if (p.due <= now) due.push(row);
         });
-        shuffle(due);
+        if (state.shuffle) { shuffle(due); shuffle(fresh); }
         state.queue = due.concat(fresh.slice(0, Math.max(0, 20 - due.length)));
         state.done = 0;
         next();
@@ -80,6 +81,15 @@
 
   function shuffle(a) {
     for (var i = a.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)); var t = a[i]; a[i] = a[j]; a[j] = t; }
+  }
+  function orderRemaining() {
+    if (!state.current) return;
+    if (state.shuffle) shuffle(state.queue);
+    else {
+      var order = new Map(state.deck.map(function (row, i) { return [row[0], i]; }));
+      state.queue.sort(function (a, b) { return order.get(a[0]) - order.get(b[0]); });
+    }
+    saveSession();
   }
 
   function learned() {
@@ -163,6 +173,13 @@
   }
 
   document.addEventListener('DOMContentLoaded', function () {
+    try { state.shuffle = localStorage.getItem('openjlpt:fc:shuffle') === 'true'; } catch (e) { /* default order */ }
+    $('fc-shuffle').checked = state.shuffle;
+    $('fc-shuffle').addEventListener('change', function () {
+      state.shuffle = this.checked;
+      try { localStorage.setItem('openjlpt:fc:shuffle', String(state.shuffle)); } catch (e) { /* private mode */ }
+      orderRemaining();
+    });
     try {
       var selection = JSON.parse(localStorage.getItem('openjlpt:fc:selection') || '{}');
       if (/^N[1-5]$/.test(selection.level)) state.level = selection.level;
